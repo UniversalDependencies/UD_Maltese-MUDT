@@ -3,8 +3,28 @@ MUDT (Maltese Universal Dependencies Treebank) is a manually annotated treebank 
 MUDT was designed as a balanced corpus with four major genres - news, parliamentary debates, fiction and non-fiction - represented equally.
 
 # Introduction
-This treebank is the product of the PhD thesis *Constituent order in {Maltese}: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
+## Origin
+This treebank is the product of the PhD thesis *Constituent order in Maltese: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
 The treebank was originally produced on accordance with UDv1, this version is brought up to the UDv2.3 standard.
+
+## Splitting
+MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) in the following text types:
+| Text type    | Subtype                                 | Sentence count |
+|--------------|-----------------------------------------|---------------:|
+| newspaper    | news                                    | 239            |
+|              | op-eds                                  | 240            |
+|              | Subtotal                                | 479            |
+| quasi-spoken | newspaper interviews                    | 280            |
+|              | parliament: debates and Q&A             | 294            |
+|              | Subtotal                                | 574            |
+| fiction      | short stories                           | 246            |
+|              | novel chapters                          | 251            |
+|              | Subtotal                                | 497            |
+| non-fiction  | humanities                              | 249            |
+|              | science, encyclopedic and instructional | 275            |
+|              | Subtotal                                | 524            |
+|              |                                         |                |
+|              | Total                                   | 2074           |
 
 # Acknowledgments
 
