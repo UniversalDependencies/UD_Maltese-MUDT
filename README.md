@@ -14,18 +14,18 @@ MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) i
 |--------------|-----------------------------------------|---------------:|
 | newspaper    | news                                    | 239            |
 |              | op-eds                                  | 240            |
-|              | *Subtotal*                              | 479            |
+|              | *Subtotal*                              | *479*          |
 | quasi-spoken | newspaper interviews                    | 280            |
 |              | parliament: debates and Q&A             | 294            |
-|              | *Subtotal*                              | 574            |
+|              | *Subtotal*                              | *574*          |
 | fiction      | short stories                           | 246            |
 |              | novel chapters                          | 251            |
-|              | *Subtotal*                              | 497            |
+|              | *Subtotal*                              | *497*          |
 | non-fiction  | humanities                              | 249            |
 |              | science, encyclopedic and instructional | 275            |
-|              | *Subtotal*                              | 524            |
+|              | *Subtotal*                              | *524*          |
 |              |                                         |                |
-|              | **Total**                               | 2074           |
+|              | **Total**                               | **2074**       |
 
 The annotated sentences have been manually split into train, test and dev sets with the 80-10-10 ratio for each subtype.
 
