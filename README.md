@@ -1,26 +1,18 @@
 # Summary
-
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+MUDT (Maltese Universal Dependencies Treebank) is a manually annotated treebank of Maltese, a Semitic language of Malta descended from North African Arabic with a significant amount of Italo-Romance influence.
+MUDT was designed as a balanced corpus with four major genres - news, parliamentary debates, fiction and non-fiction - represented equally.
 
 # Introduction
-
-The file currently present in this repository is a fraction of a tagged corpus provided by Mike Rosner,
-then processed by Dan Zeman (mid 2015):
-
-- converted to CoNLL-U
-- parsed by Malt parser, delexicalized model trained on UD Italian
-- manually fixed obvious problems (based on POS tags and dictionary)
-- conversion to UD v2 by Martin Popel and Udapi (2017)
-
-pending quality assesment by a native speaker. Then a new parser could be trained on this sample and
-used to bootstrap a larger treebank of Maltese (with subsequent hand-correction again).
-
-Note: another Maltese treebank is being prepared by Slavomír Čéplö. When it is ready, it will either
-replace the data here, or the two efforts may be merged.
+This treebank is the product of the PhD thesis *Constituent order in {Maltese}: A quantitative analysis* (Charles University 2018) by Slavomír Čéplö. The text (www.bulbul.sk/phd) contains a detailed description of the annotation decisions and composition of the treebank.
+The treebank was originally produced on accordance with UDv1, this version is brought up to the UDv2.3 standard.
 
 # Acknowledgments
 
 ...
+
+# Changelog
+* 2018-10-04 v1
+	* Removed the old version of the Maltese UD treebank, prepared the repository and updated README
 
 ## References
 
@@ -28,17 +20,17 @@ replace the data here, or the two efforts may be merged.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.2
+Data available since: UD v2.3
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
+Genre: news legal nonfiction fiction wiki
 Lemmas: not available
-UPOS: automatic
-XPOS: automatic
-Features: automatic
-Relations: automatic with corrections
-Contributors: Zeman, Daniel; Popel, Martin; Rosner, Mike; Ravishankar, Vinit
+UPOS: manual
+XPOS: manual
+Features: not availabe
+Relations: manual
+Contributors: Čéplö, Slavomír; Zeman, Daniel
 Contributing: here
-Contact: zeman@ufal.mff.cuni.cz
+Contact: bulbul@bulbul.sk
 ===============================================================================
 </pre>
