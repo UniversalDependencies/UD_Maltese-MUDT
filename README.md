@@ -9,6 +9,7 @@ The treebank was originally produced on accordance with UDv1, this version is br
 
 ## Splitting
 MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) in the following text types:
+
 | Text type    | Subtype                                 | Sentence count |
 |--------------|-----------------------------------------|---------------:|
 | newspaper    | news                                    | 239            |
