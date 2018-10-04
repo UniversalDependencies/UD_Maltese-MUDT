@@ -3,7 +3,7 @@ MUDT (Maltese Universal Dependencies Treebank) is a manually annotated treebank 
 MUDT was designed as a balanced corpus with four major genres - news, parliamentary debates, fiction and non-fiction - represented equally.
 
 # Introduction
-This treebank is the product of the PhD thesis *Constituent order in {Maltese}: A quantitative analysis* (Charles University 2018) by Slavomír Čéplö. The text (www.bulbul.sk/phd) contains a detailed description of the annotation decisions and composition of the treebank.
+This treebank is the product of the PhD thesis *Constituent order in {Maltese}: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
 The treebank was originally produced on accordance with UDv1, this version is brought up to the UDv2.3 standard.
 
 # Acknowledgments
@@ -16,7 +16,8 @@ The treebank was originally produced on accordance with UDv1, this version is br
 
 ## References
 
-* (citation)
+**(Čéplö 2018)** Slavomír Čéplö. (2018) [Constituent order in {Maltese}: A quantitative analysis](http://www.bulbul.sk/phd/Text/Slavomir_Ceplo-text.pdf). Prague: Charles University.
+
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
