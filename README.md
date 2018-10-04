@@ -1,6 +1,6 @@
 # Summary
 MUDT (Maltese Universal Dependencies Treebank) is a manually annotated treebank of Maltese, a Semitic language of Malta descended from North African Arabic with a significant amount of Italo-Romance influence.
-MUDT was designed as a balanced corpus with four major genres - news, parliamentary debates, fiction and non-fiction - represented equally.
+MUDT was designed as a balanced corpus with four major genres (see Splitting below) represented roughly equally.
 
 # Introduction
 ## Origin
@@ -26,6 +26,8 @@ MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) i
 |              | Subtotal                                | 524            |
 |              |                                         |                |
 |              | Total                                   | 2074           |
+
+The annotated sentences have been manually split into train, test and dev sets with the 80-10-10 ratio for each subtype.
 
 # Acknowledgments
 
