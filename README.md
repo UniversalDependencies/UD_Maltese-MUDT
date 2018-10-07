@@ -5,7 +5,7 @@ MUDT was designed as a balanced corpus with four major genres (see Splitting bel
 # Introduction
 ## Origin
 This treebank is the product of the PhD thesis *Constituent order in Maltese: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
-The treebank was originally produced on accordance with UDv1, this version is brought up to the UDv2.3 standard.
+The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.3 standard.
 
 ## Splitting
 MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) in the following text types:
@@ -27,7 +27,14 @@ MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) i
 |              |                                         |                |
 |              | **Total**                               | **2074**       |
 
-The annotated sentences have been manually split into train, test and dev sets with the 80-10-10 ratio for each subtype.
+The annotated sentences have been manually split into train, test and dev sets as follows:
+
+| File                           | Sentence count |
+|--------------------------------|---------------:|
+| mt_mudt-ud-train.conllu        | 1671           |
+| mt_mudt-ud-test.conllu         | 202            |
+| mt_mudt-ud-dev.conllu          | 201            |
+
 
 # Acknowledgments
 
@@ -36,6 +43,9 @@ The annotated sentences have been manually split into train, test and dev sets w
 # Changelog
 * 2018-10-04 v1
 	* Removed the old version of the Maltese UD treebank, prepared the repository and updated README
+* 2018-10-07 
+	* Added the files, updated README
+
 
 ## References
 
@@ -46,7 +56,7 @@ The annotated sentences have been manually split into train, test and dev sets w
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.3
 License: CC BY-SA 4.0
-Includes text: yes
+Includes text: no
 Genre: news legal nonfiction fiction wiki
 Lemmas: not available
 UPOS: manual
