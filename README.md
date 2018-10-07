@@ -59,10 +59,10 @@ License: CC BY-SA 4.0
 Includes text: no
 Genre: news legal nonfiction fiction wiki
 Lemmas: not available
-UPOS: manual
-XPOS: manual
-Features: not availabe
-Relations: manual
+UPOS: converted from manual
+XPOS: manual native
+Features: not available
+Relations: manual native
 Contributors: Čéplö, Slavomír; Zeman, Daniel
 Contributing: here
 Contact: bulbul@bulbul.sk
