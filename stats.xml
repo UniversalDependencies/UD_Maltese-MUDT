@@ -5,94 +5,80 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>100</sentences><tokens>2332</tokens><words>2332</words><fused>0</fused></total>
+    <total><sentences>2074</sentences><tokens>44162</tokens><words>44162</words><fused>0</fused></total>
   </size>
   <lemmas unique="0" /><!--  -->
-  <forms unique="889" /><!-- ,, ., u, l-, li, il-, ta', tal-, ', f', mill-, kura, -, b', fl- -->
+  <forms unique="7813" /><!-- ., li, ,, l-, u, il-, ta', tal-, ", ma, kien, fil-, f', biex, minn -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="16">
-    <tag name="ADJ">171</tag><!-- _ -->
-    <tag name="ADP">355</tag><!-- _ -->
-    <tag name="ADV">74</tag><!-- _ -->
-    <tag name="AUX">16</tag><!-- _ -->
-    <tag name="CCONJ">106</tag><!-- _ -->
-    <tag name="DET">266</tag><!-- _ -->
-    <tag name="INTJ">1</tag><!-- _ -->
-    <tag name="NOUN">549</tag><!-- _ -->
-    <tag name="NUM">42</tag><!-- _ -->
-    <tag name="PART">25</tag><!-- _ -->
-    <tag name="PRON">19</tag><!-- _ -->
-    <tag name="PROPN">103</tag><!-- _ -->
-    <tag name="PUNCT">262</tag><!-- _ -->
-    <tag name="SCONJ">93</tag><!-- _ -->
-    <tag name="VERB">239</tag><!-- _ -->
-    <tag name="X">11</tag><!-- _ -->
+  <tags unique="17">
+    <tag name="ADJ">2313</tag><!-- _ -->
+    <tag name="ADP">5374</tag><!-- _ -->
+    <tag name="ADV">1492</tag><!-- _ -->
+    <tag name="AUX">1397</tag><!-- _ -->
+    <tag name="CCONJ">1513</tag><!-- _ -->
+    <tag name="DET">3631</tag><!-- _ -->
+    <tag name="INTJ">65</tag><!-- _ -->
+    <tag name="NOUN">8530</tag><!-- _ -->
+    <tag name="NUM">596</tag><!-- _ -->
+    <tag name="PART">636</tag><!-- _ -->
+    <tag name="PRON">2602</tag><!-- _ -->
+    <tag name="PROPN">1545</tag><!-- _ -->
+    <tag name="PUNCT">4839</tag><!-- _ -->
+    <tag name="SCONJ">2650</tag><!-- _ -->
+    <tag name="SYM">131</tag><!-- _ -->
+    <tag name="VERB">6507</tag><!-- _ -->
+    <tag name="X">341</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="23">
-    <feat name="Abbr" value="Yes" upos="PROPN">10</feat><!-- UE, Dr, IOC, WHO -->
-    <feat name="AdpType" value="Prep" upos="ADP">352</feat><!-- ta', tal-, f', mill-, b', fl-, fil-, għall-, fuq, għal -->
-    <feat name="AdpType" value="Preppron" upos="ADP">3</feat><!-- magħhom, qattagħha -->
-    <feat name="AdvType" value="Ex" upos="ADV">4</feat><!-- hemm -->
-    <feat name="Aspect" value="Prog" upos="PART">5</feat><!-- qed -->
-    <feat name="Aspect" value="Prosp" upos="PART">10</feat><!-- se -->
-    <feat name="Definite" value="Def" upos="ADP,DET">355</feat><!-- l-, il-, tal-, mill-, fl-, fil-, għall-, is-, it-, lill- -->
-    <feat name="Foreign" value="Yes" upos="NOUN,PROPN,VERB,X">16</feat><!-- disease, motor, neuron, @, Co, Raising, aid, building, fat, frhospice -->
-    <feat name="Number" value="Plur" upos="DET">4</feat><!-- ftit, Għaldaqstant, ħafna -->
-    <feat name="Number" value="Sing" upos="DET">7</feat><!-- kull, Għalhekk, tiddefinixxi, tikkontribwixxi, żviluppatibi -->
-    <feat name="NumForm" value="Digit" upos="NUM">2</feat><!-- 165, 1967 -->
-    <feat name="NumType" value="Card" upos="DET,NUM">40</feat><!-- 25, 12, 2010, ftit, żewġ, 0.50, 1, 11, 13, 14 -->
-    <feat name="NumType" value="Card,Gen" upos="NUM">6</feat><!-- wieħed, waħda -->
-    <feat name="NumValue" value="1" upos="NUM">6</feat><!-- wieħed, waħda -->
-    <feat name="Polarity" value="Neg" upos="PART">10</feat><!-- ma, mhux, dixx, mhuwiex -->
-    <feat name="Poss" value="Yes" upos="DET">23</feat><!-- tagħhom, tagħna, tiegħu -->
-    <feat name="PronType" value="Art" upos="ADP,DET">355</feat><!-- l-, il-, tal-, mill-, fl-, fil-, għall-, is-, it-, lill- -->
-    <feat name="PronType" value="Dem" upos="DET">32</feat><!-- dan, din, dawn, dawk, dak, hekk -->
-    <feat name="PronType" value="Ind" upos="DET">20</feat><!-- kollha, kull, ftit, kollu, Għaldaqstant, Għalhekk, kollox, kontroll, tiddefinixxi, tikkontribwixxi -->
-    <feat name="PronType" value="Int" upos="DET">1</feat><!-- min -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">42</feat><!-- tagħhom, hu, tagħna, tiegħu, huma, hi, aħna, hija, magħkom, ruħhom -->
-    <feat name="Reflex" value="Yes" upos="PRON">2</feat><!-- magħkom, ruħhom -->
-    <feat name="VerbForm" value="Part" upos="VERB">19</feat><!-- qiegħed, bbażata, first, immirata, inkluż, ispirat, maħsubin, mibni, mistiedna, organizzat -->
+  <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="37">
-    <dep name="acl">39</dep>
-    <dep name="acl:relcl">1</dep>
-    <dep name="advcl">48</dep>
-    <dep name="advmod">85</dep>
-    <dep name="amod">125</dep>
-    <dep name="appos">18</dep>
-    <dep name="aux">24</dep>
-    <dep name="aux:pass">2</dep>
-    <dep name="case">342</dep>
-    <dep name="cc">110</dep>
-    <dep name="ccomp">19</dep>
-    <dep name="compound">17</dep>
-    <dep name="conj">128</dep>
-    <dep name="cop">6</dep>
-    <dep name="csubj">1</dep>
-    <dep name="dep">1</dep>
-    <dep name="det">216</dep>
-    <dep name="det:poss">17</dep>
-    <dep name="discourse">1</dep>
-    <dep name="expl">17</dep>
-    <dep name="fixed">13</dep>
-    <dep name="flat">11</dep>
-    <dep name="flat:name">38</dep>
-    <dep name="iobj">3</dep>
-    <dep name="list">2</dep>
-    <dep name="mark">69</dep>
-    <dep name="nmod">247</dep>
-    <dep name="nsubj">118</dep>
-    <dep name="nsubj:pass">5</dep>
-    <dep name="nummod">27</dep>
-    <dep name="obj">87</dep>
-    <dep name="obl">105</dep>
-    <dep name="parataxis">5</dep>
-    <dep name="punc">1</dep>
-    <dep name="punct">260</dep>
-    <dep name="root">98</dep>
-    <dep name="xcomp">26</dep>
+  <deps unique="45">
+    <dep name="acl">1318</dep>
+    <dep name="advcl">843</dep>
+    <dep name="advmod">1398</dep>
+    <dep name="amod">2089</dep>
+    <dep name="appos">169</dep>
+    <dep name="aux">647</dep>
+    <dep name="aux:neg">626</dep>
+    <dep name="aux:part">354</dep>
+    <dep name="aux:pass">86</dep>
+    <dep name="case">3156</dep>
+    <dep name="case:det">2375</dep>
+    <dep name="cc">1528</dep>
+    <dep name="ccomp">684</dep>
+    <dep name="compound">214</dep>
+    <dep name="conj">1699</dep>
+    <dep name="cop">661</dep>
+    <dep name="csubj">23</dep>
+    <dep name="dep">2</dep>
+    <dep name="det">3983</dep>
+    <dep name="discourse">313</dep>
+    <dep name="dislocated">8</dep>
+    <dep name="expl">21</dep>
+    <dep name="fixed">189</dep>
+    <dep name="flat">199</dep>
+    <dep name="flat:name">528</dep>
+    <dep name="goeswith">11</dep>
+    <dep name="iobj">77</dep>
+    <dep name="list">180</dep>
+    <dep name="mark">2669</dep>
+    <dep name="nmod">1015</dep>
+    <dep name="nmod:agent">100</dep>
+    <dep name="nmod:poss">1607</dep>
+    <dep name="nsubj">2214</dep>
+    <dep name="nsubj:pass">215</dep>
+    <dep name="nummod">227</dep>
+    <dep name="obj">1617</dep>
+    <dep name="obl">2349</dep>
+    <dep name="obl:arg">301</dep>
+    <dep name="parataxis">185</dep>
+    <dep name="punct">4790</dep>
+    <dep name="remnant">7</dep>
+    <dep name="reparandum">1</dep>
+    <dep name="root">2074</dep>
+    <dep name="vocative">35</dep>
+    <dep name="xcomp">1375</dep>
   </deps>
 </treebank>

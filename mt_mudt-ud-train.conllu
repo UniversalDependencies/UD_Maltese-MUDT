@@ -3,7 +3,7 @@
 2	waranofsinhar	_	ADV	ADV	_	7	advmod	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	Maġistrat	_	NOUN	NOUN	_	6	compound	_	_
-5	Miriam	_	PROPN	NOUN_PROP	_	6	flat	_	_
+5	Miriam	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 6	Hayman	_	PROPN	NOUN_PROP	_	7	nsubj	_	_
 7	iddikjarat	_	VERB	VERB	_	0	root	_	_
 8	li	_	SCONJ	COMP	_	9	mark	_	_
@@ -16,7 +16,7 @@
 15	aħwa	_	NOUN	NOUN	_	20	nsubj:pass	_	_
 16	tan-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
 17	negozjant	_	NOUN	NOUN	_	19	compound	_	_
-18	George	_	PROPN	NOUN_PROP	_	19	flat	_	_
+18	George	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 19	Farrugia	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	_
 20	jitqiegħdu	_	VERB	VERB	_	9	ccomp	_	_
 21	taħt	_	ADP	PREP	_	22	case	_	_
@@ -65,7 +65,7 @@
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	aħwa	_	NOUN	NOUN	_	5	nsubj	_	_
 3	huma	_	PRON	PRON_PERS	_	5	cop	_	_
-4	Antonio	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Antonio	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Farrugia	_	PROPN	NOUN_PROP	_	0	root	_	_
 6	ta'	_	ADP	GEN	_	8	case	_	_
 7	68	_	NUM	X_DIG	_	8	nummod	_	_
@@ -74,7 +74,7 @@
 10	Santa	_	PROPN	NOUN_PROP	_	11	amod	_	_
 11	Venera	_	PROPN	NOUN_PROP	_	5	nmod	_	_
 12	;	_	PUNCT	X_PUN	_	5	punct	_	_
-13	Gaetano	_	PROPN	NOUN_PROP	_	14	flat	_	_
+13	Gaetano	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
 14	Farrugia	_	PROPN	NOUN_PROP	_	5	conj	_	_
 15	ta'	_	ADP	GEN	_	17	case	_	_
 16	65	_	NUM	X_DIG	_	17	nummod	_	_
@@ -83,7 +83,7 @@
 19	Santa	_	PROPN	NOUN_PROP	_	20	amod	_	_
 20	Venera	_	PROPN	NOUN_PROP	_	14	nmod	_	_
 21	;	_	PUNCT	X_PUN	_	14	punct	_	_
-22	Raymond	_	PROPN	NOUN_PROP	_	23	flat	_	_
+22	Raymond	_	PROPN	NOUN_PROP	_	23	flat:name	_	_
 23	Farrugia	_	PROPN	NOUN_PROP	_	5	conj	_	_
 24	,	_	PUNCT	X_PUN	_	23	punct	_	_
 25	ta'	_	ADP	GEN	_	27	case	_	_
@@ -91,9 +91,9 @@
 27	sena	_	NOUN	NOUN	_	23	nmod:poss	_	_
 28	minn	_	ADP	PREP	_	29	case	_	_
 29	Ħ'	_	PROPN	NOUN_PROP	_	23	nmod	_	_
-30	Attard	_	PROPN	NOUN_PROP	_	29	flat	_	_
+30	Attard	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
 31	;	_	PUNCT	X_PUN	_	23	punct	_	_
-32	Saviour	_	PROPN	NOUN_PROP	_	33	flat	_	_
+32	Saviour	_	PROPN	NOUN_PROP	_	33	flat:name	_	_
 33	Farrugia	_	PROPN	NOUN_PROP	_	5	conj	_	_
 34	ta'	_	ADP	GEN	_	36	case	_	_
 35	60	_	NUM	X_DIG	_	36	nummod	_	_
@@ -103,7 +103,7 @@
 39	Venera	_	PROPN	NOUN_PROP	_	33	nmod	_	_
 40	;	_	PUNCT	X_PUN	_	33	punct	_	_
 41	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
-42	Emanuel	_	PROPN	NOUN_PROP	_	43	flat	_	_
+42	Emanuel	_	PROPN	NOUN_PROP	_	43	flat:name	_	_
 43	Farrugia	_	PROPN	NOUN_PROP	_	5	conj	_	_
 44	,	_	PUNCT	X_PUN	_	43	punct	_	_
 45	ta'	_	ADP	GEN	_	47	case	_	_
@@ -111,7 +111,7 @@
 47	sena	_	NOUN	NOUN	_	43	nmod:poss	_	_
 48	minn	_	ADP	PREP	_	49	case	_	_
 49	Ħaż-	_	PROPN	NOUN_PROP	_	43	nmod	_	_
-50	Żebbuġ	_	PROPN	NOUN_PROP	_	49	flat	_	_
+50	Żebbuġ	_	PROPN	NOUN_PROP	_	49	flat:name	_	_
 51	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 02_02J01:4
@@ -120,7 +120,7 @@
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
 4	lum	_	NOUN	NOUN	_	2	nmod:poss	_	_
 5	xehed	_	VERB	VERB	_	0	root	_	_
-6	George	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	George	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Farrugia	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
 8	nnifsu	_	PRON	PRON_REF	_	7	nmod	_	_
 9	,	_	PUNCT	X_PUN	_	7	punct	_	_
@@ -151,10 +151,10 @@
 6	500,000	_	NUM	X_DIG	_	7	nummod	_	_
 7	dollaru	_	NOUN	NOUN	_	5	obj	_	_
 8	lil	_	ADP	LIL	_	10	case	_	_
-9	Frank	_	PROPN	NOUN_PROP	_	10	flat	_	_
+9	Frank	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
 10	Sammut	_	PROPN	NOUN_PROP	_	7	nmod	_	_
 11	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
-12	Tancred	_	PROPN	NOUN_PROP	_	13	flat	_	_
+12	Tancred	_	PROPN	NOUN_PROP	_	13	flat:name	_	_
 13	Tabone	_	PROPN	NOUN_PROP	_	10	conj	_	_
 14	kif	_	PRON	PRON_INT	_	17	cc	_	_
 15	ukoll	_	ADV	FOC	_	14	fixed	_	_
@@ -162,10 +162,10 @@
 17	liri	_	NOUN	NOUN	_	7	conj	_	_
 18	Maltin	_	ADJ	ADJ	_	17	amod	_	_
 19	lil	_	ADP	LIL	_	21	case	_	_
-20	Alfred	_	PROPN	NOUN_PROP	_	21	flat	_	_
+20	Alfred	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
 21	Mallia	_	PROPN	NOUN_PROP	_	17	nmod	_	_
 22	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
-23	Tarcisio	_	PROPN	NOUN_PROP	_	24	flat	_	_
+23	Tarcisio	_	PROPN	NOUN_PROP	_	24	flat:name	_	_
 24	Mifsud	_	PROPN	NOUN_PROP	_	21	conj	_	_
 25	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
@@ -186,11 +186,11 @@
 4	tal-	_	ADP	GEN_DEF	_	5	case:det	_	SpaceAfter=No
 5	avukati	_	NOUN	NOUN	_	9	compound	_	_
 6	tiegħu	_	PRON	GEN_PRON	_	5	case	_	_
-7	Sigfried	_	PROPN	NOUN_PROP	_	9	flat	_	_
-8	Borg	_	PROPN	NOUN_PROP	_	9	flat	_	_
+7	Sigfried	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
+8	Borg	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Cole	_	PROPN	NOUN_PROP	_	3	nmod:poss	_	_
 10	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
-11	Franco	_	PROPN	NOUN_PROP	_	12	flat	_	_
+11	Franco	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
 12	Debono	_	PROPN	NOUN_PROP	_	9	conj	_	_
 13	,	_	PUNCT	X_PUN	_	3	punct	_	_
 14	Farrugia	_	PROPN	NOUN_PROP	_	15	nsubj	_	_
@@ -208,13 +208,13 @@
 26	jinkludu	_	VERB	VERB	_	21	acl	_	_
 27	l-	_	DET	DEF	_	28	det	_	SpaceAfter=No
 28	John's	_	PROPN	NOUN_PROP	_	26	obj	_	_
-29	Garage	_	PROPN	NOUN_PROP	_	28	flat	_	_
+29	Garage	_	PROPN	NOUN_PROP	_	28	flat:name	_	_
 30	,	_	PUNCT	X_PUN	_	28	punct	_	_
 31	Sunrays	_	PROPN	NOUN_PROP	_	28	conj	_	_
-32	Travel	_	PROPN	NOUN_PROP	_	31	flat	_	_
+32	Travel	_	PROPN	NOUN_PROP	_	31	flat:name	_	_
 33	,	_	PUNCT	X_PUN	_	31	punct	_	_
 34	JF	_	NOUN	X_ABV	_	28	conj	_	_
-35	Motors	_	PROPN	NOUN_PROP	_	34	flat	_	_
+35	Motors	_	PROPN	NOUN_PROP	_	34	flat:name	_	_
 36	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
 37	l-	_	DET	DEF	_	39	det	_	SpaceAfter=No
 38	Power	_	ADJ	ADJ	_	39	amod	_	_
@@ -337,7 +337,7 @@
 4	huwa	_	PRON	PRON_PERS	_	5	nsubj	_	_
 5	tkellem	_	VERB	VERB	_	2	ccomp	_	_
 6	ma'	_	ADP	PREP	_	8	case	_	_
-7	Alfred	_	PROPN	NOUN_PROP	_	8	flat	_	_
+7	Alfred	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 8	Mallia	_	PROPN	NOUN_PROP	_	5	obl:arg	_	_
 9	li	_	SCONJ	COMP	_	12	mark	_	_
 10	kien	_	AUX	KIEN	_	12	cop	_	_
@@ -374,7 +374,7 @@
 4	żmien	_	NOUN	NOUN	_	5	obl	_	_
 5	tkellimt	_	VERB	VERB	_	0	root	_	_
 6	ma'	_	ADP	PREP	_	8	case	_	_
-7	Alfred	_	PROPN	NOUN_PROP	_	8	flat	_	_
+7	Alfred	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 8	Mallia	_	PROPN	NOUN_PROP	_	5	obl:arg	_	_
 9	li	_	SCONJ	COMP	_	11	mark	_	_
 10	kien	_	AUX	KIEN	_	11	cop	_	_
@@ -482,7 +482,7 @@
 5	tkellem	_	VERB	VERB	_	2	ccomp	_	_
 6	ukoll	_	ADV	FOC	_	5	discourse	_	_
 7	ma'	_	ADP	PREP	_	9	case	_	_
-8	Frank	_	PROPN	NOUN_PROP	_	9	flat	_	_
+8	Frank	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Sammut	_	PROPN	NOUN_PROP	_	5	obl:arg	_	_
 10	fejn	_	PRON	PRON_INT	_	19	advmod	_	_
 11	wara	_	ADP	PREP	_	13	mark	_	_
@@ -572,7 +572,7 @@
 18	tat-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
 19	tip	_	NOUN	NOUN	_	20	compound	_	_
 20	Ssangyon	_	PROPN	NOUN_PROP	_	17	nmod:poss	_	_
-21	Korando	_	PROPN	NOUN_PROP	_	20	flat	_	_
+21	Korando	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 22	li	_	SCONJ	COMP	_	25	mark	_	_
 23	kienet	_	AUX	KIEN	_	25	aux	_	_
 24	tiġi	_	VERB	VERB	_	25	aux:pass	_	_
@@ -581,7 +581,7 @@
 27	kumpanija	_	NOUN	NOUN	_	29	compound	_	_
 28	tagħhom	_	PRON	GEN_PRON	_	27	case	_	_
 29	JF	_	NOUN	X_ABV	_	25	nmod:agent	_	_
-30	Motors	_	PROPN	NOUN_PROP	_	29	flat	_	_
+30	Motors	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
 31	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 02_02J01:20
@@ -642,7 +642,7 @@
 18	biex	_	SCONJ	CONJ_SUB	_	19	mark	_	_
 19	ikellem	_	VERB	VERB	_	17	xcomp	_	_
 20	lil	_	ADP	LIL	_	22	case	_	_
-21	Tarcisio	_	PROPN	NOUN_PROP	_	22	flat	_	_
+21	Tarcisio	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
 22	Mifsud	_	PROPN	NOUN_PROP	_	19	obj	_	_
 23	li	_	SCONJ	COMP	_	26	mark	_	_
 24	kien	_	AUX	KIEN	_	26	cop	_	_
@@ -798,7 +798,7 @@
 19	$	_	PUNCT	X_PUN	_	18	obj	_	_
 20	20,000	_	NUM	X_DIG	_	19	nummod	_	_
 21	lil	_	ADP	LIL	_	23	case	_	_
-22	Tancred	_	PROPN	NOUN_PROP	_	23	flat	_	_
+22	Tancred	_	PROPN	NOUN_PROP	_	23	flat:name	_	_
 23	Tabone	_	PROPN	NOUN_PROP	_	18	iobj	_	_
 24	,	_	PUNCT	X_PUN	_	23	punct	_	_
 25	eks-	_	ADJ	ADJ	_	26	amod	_	_
@@ -832,7 +832,7 @@
 13	xi	_	DET	QUAN	_	14	det	_	_
 14	ħaġa	_	NOUN	NOUN	_	12	obj	_	_
 15	lil	_	ADP	LIL	_	17	case	_	_
-16	Tarcisio	_	PROPN	NOUN_PROP	_	17	flat	_	_
+16	Tarcisio	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
 17	Mifsud	_	PROPN	NOUN_PROP	_	12	iobj	_	_
 18	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 19	ried	_	VERB	VERB	_	4	conj	_	_
@@ -844,7 +844,7 @@
 25	qed	_	AUX	PROG	_	26	aux:part	_	_
 26	jingħata	_	VERB	VERB	_	22	acl	_	_
 27	lil	_	ADP	LIL	_	29	case	_	_
-28	Frank	_	PROPN	NOUN_PROP	_	29	flat	_	_
+28	Frank	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
 29	Sammut	_	PROPN	NOUN_PROP	_	26	iobj	_	_
 30	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -965,7 +965,7 @@
 18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	każ	_	NOUN	NOUN	_	15	nmod	_	_
 20	,	_	PUNCT	X_PUN	_	5	punct	_	_
-21	Raymond	_	PROPN	NOUN_PROP	_	22	flat	_	_
+21	Raymond	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
 22	Ferris	_	PROPN	NOUN_PROP	_	5	appos	_	_
 23	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
@@ -1068,7 +1068,7 @@
 6	semma	_	VERB	VERB	_	0	root	_	_
 7	anke	_	ADV	FOC	_	10	discourse	_	_
 8	lil	_	ADP	LIL	_	10	case	_	_
-9	Tony	_	PROPN	NOUN_PROP	_	10	flat	_	_
+9	Tony	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
 10	Debono	_	PROPN	NOUN_PROP	_	6	obj	_	_
 11	fejn	_	PRON	PRON_INT	_	12	advmod	_	_
 12	qal	_	VERB	VERB	_	6	advcl	_	_
@@ -1140,7 +1140,7 @@
 5	huwa	_	PRON	PRON_PERS	_	6	nsubj	_	_
 6	ltaqa'	_	VERB	VERB	_	2	ccomp	_	_
 7	ma'	_	ADP	PREP	_	9	case	_	_
-8	Ronnie	_	PROPN	NOUN_PROP	_	9	flat	_	_
+8	Ronnie	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Agius	_	PROPN	NOUN_PROP	_	6	obl:arg	_	_
 10	,	_	PUNCT	X_PUN	_	11	punct	_	_
 11	ħabib	_	NOUN	NOUN	_	9	appos	_	_
@@ -1194,8 +1194,8 @@
 15	lill-	_	ADP	LIL_DEF	_	16	case:det	_	SpaceAfter=No
 16	avukat	_	NOUN	NOUN	_	20	compound	_	_
 17	tiegħu	_	PRON	GEN_PRON	_	16	case	_	_
-18	Sigfried	_	PROPN	NOUN_PROP	_	20	flat	_	_
-19	Borg	_	PROPN	NOUN_PROP	_	20	flat	_	_
+18	Sigfried	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
+19	Borg	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Cole	_	PROPN	NOUN_PROP	_	14	obj	_	_
 21	,	_	PUNCT	X_PUN	_	3	punct	_	_
 22	Farrugia	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
@@ -1216,7 +1216,7 @@
 37	bl-	_	ADP	PREP_DEF	_	38	case:det	_	SpaceAfter=No
 38	għajnuna	_	NOUN	NOUN	_	33	obl	_	_
 39	ta'	_	ADP	GEN	_	41	case	_	_
-40	Chris	_	PROPN	NOUN_PROP	_	41	flat	_	_
+40	Chris	_	PROPN	NOUN_PROP	_	41	flat:name	_	_
 41	Farrugia	_	PROPN	NOUN_PROP	_	38	nmod:poss	_	_
 42	,	_	PUNCT	X_PUN	_	44	punct	_	_
 43	li	_	SCONJ	COMP	_	44	mark	_	_
@@ -1252,20 +1252,20 @@
 15	semma	_	VERB	VERB	_	0	root	_	_
 16	li	_	SCONJ	COMP	_	23	mark	_	_
 17	bejniethom	_	PRON	PREP_PRON	_	23	obl	_	_
-18	Frank	_	PROPN	NOUN_PROP	_	19	flat	_	_
+18	Frank	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 19	Sammut	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
 20	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
-21	Tancred	_	PROPN	NOUN_PROP	_	22	flat	_	_
+21	Tancred	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
 22	Tabone	_	PROPN	NOUN_PROP	_	19	conj	_	_
 23	ħadu	_	VERB	VERB	_	15	ccomp	_	_
 24	$	_	PUNCT	X_PUN	_	23	obj	_	_
 25	500,000	_	NUM	X_DIG	_	24	nummod	_	_
 26	waqt	_	ADP	PREP	_	33	mark	_	_
 27	li	_	SCONJ	COMP	_	26	fixed	_	_
-28	Alfred	_	PROPN	NOUN_PROP	_	29	flat	_	_
+28	Alfred	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
 29	Mallia	_	PROPN	NOUN_PROP	_	33	nsubj	_	_
 30	u	_	CCONJ	CONJ_CORD	_	29	cc	_	_
-31	Tarcisio	_	PROPN	NOUN_PROP	_	32	flat	_	_
+31	Tarcisio	_	PROPN	NOUN_PROP	_	32	flat:name	_	_
 32	Mifsud	_	PROPN	NOUN_PROP	_	29	conj	_	_
 33	ħadu	_	VERB	VERB	_	23	advcl	_	_
 34	bejniethom	_	PRON	PREP_PRON	_	33	obl	_	_
@@ -1336,7 +1336,7 @@
 8	titmexxa	_	VERB	VERB	_	0	root	_	_
 9	mill-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
 10	Ispettur	_	NOUN	NOUN	_	12	compound	_	_
-11	Jonathan	_	PROPN	NOUN_PROP	_	12	flat	_	_
+11	Jonathan	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
 12	Ferris	_	PROPN	NOUN_PROP	_	8	nmod:agent	_	_
 13	waqt	_	ADP	PREP	_	19	mark	_	_
 14	li	_	SCONJ	COMP	_	13	fixed	_	_
@@ -1348,8 +1348,8 @@
 20	jiddefendihom	_	VERB	VERB	_	25	acl	_	_
 21	lill-	_	ADP	LIL_DEF	_	22	case:det	_	SpaceAfter=No
 22	Avukat	_	NOUN	NOUN	_	25	compound	_	_
-23	David	_	PROPN	NOUN_PROP	_	25	flat	_	_
-24	Farrugia	_	PROPN	NOUN_PROP	_	25	flat	_	_
+23	David	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
+24	Farrugia	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
 25	Sacco	_	PROPN	NOUN_PROP	_	19	obj	_	_
 26	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
@@ -1378,7 +1378,7 @@
 22	fin-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
 23	Naxxar	_	PROPN	NOUN_PROP	_	20	nmod	_	_
 24	,	_	PUNCT	X_PUN	_	12	punct	_	_
-25	Jason	_	PROPN	NOUN_PROP	_	26	flat	_	_
+25	Jason	_	PROPN	NOUN_PROP	_	26	flat:name	_	_
 26	Micallef	_	PROPN	NOUN_PROP	_	27	nsubj:pass	_	_
 27	tpoġġa	_	VERB	VERB	_	6	advcl	_	_
 28	fuq	_	ADP	PREP	_	29	case	_	_
@@ -1406,7 +1406,7 @@
 6	core	_	ADJ	ADJ	_	7	amod	_	_
 7	group	_	NOUN	NOUN	_	4	nmod	_	_
 8	ta'	_	ADP	GEN	_	10	case	_	_
-9	Joseph	_	PROPN	NOUN_PROP	_	10	flat	_	_
+9	Joseph	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
 10	Muscat	_	PROPN	NOUN_PROP	_	7	nmod:poss	_	_
 11	li	_	SCONJ	COMP	_	12	mark	_	_
 12	jiltaqa'	_	VERB	VERB	_	7	acl	_	_
@@ -1446,7 +1446,7 @@
 46	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 03_03J01:3
-1	Jason	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Jason	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Micallef	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
 3	fil-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
 4	fatt	_	NOUN	NOUN	_	6	obl	_	_
@@ -1526,7 +1526,7 @@
 46	għall-	_	ADP	PREP_DEF	_	47	case:det	_	SpaceAfter=No
 47	pressjoni	_	NOUN	NOUN	_	45	obl	_	_
 48	ta'	_	ADP	GEN	_	50	case	_	_
-49	Jason	_	PROPN	NOUN_PROP	_	50	flat	_	_
+49	Jason	_	PROPN	NOUN_PROP	_	50	flat:name	_	_
 50	Micallef	_	PROPN	NOUN_PROP	_	47	nmod:poss	_	_
 51	.	_	PUNCT	X_PUN	_	28	punct	_	_
 
@@ -1537,7 +1537,7 @@
 4	d-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	determinazzjoni	_	NOUN	NOUN	_	26	nsubj	_	_
 6	ta'	_	ADP	GEN	_	8	case	_	_
-7	Jason	_	PROPN	NOUN_PROP	_	8	flat	_	_
+7	Jason	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 8	Micallef	_	PROPN	NOUN_PROP	_	5	nmod:poss	_	_
 9	li	_	SCONJ	COMP	_	16	mark	_	_
 10	,	_	PUNCT	X_PUN	_	12	punct	_	_
@@ -1588,10 +1588,10 @@
 13	Mosta	_	PROPN	NOUN_PROP	_	10	obj	_	_
 14	,	_	PUNCT	X_PUN	_	13	punct	_	_
 15	Ħ'	_	PROPN	NOUN_PROP	_	13	conj	_	_
-16	Attard	_	PROPN	NOUN_PROP	_	15	flat	_	_
+16	Attard	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
 17	,	_	PUNCT	X_PUN	_	15	punct	_	_
 18	Ħal	_	PROPN	NOUN_PROP	_	13	conj	_	_
-19	Balzan	_	PROPN	NOUN_PROP	_	18	flat	_	_
+19	Balzan	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
 20	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
 22	Imdina	_	PROPN	NOUN_PROP	_	13	conj	_	_
@@ -1603,7 +1603,7 @@
 28	candidate	_	NOUN	NOUN	_	29	obl	_	_
 29	joħorġu	_	VERB	VERB	_	24	ccomp	_	_
 30	lil	_	ADP	LIL	_	32	case	_	_
-31	Alex	_	PROPN	NOUN_PROP	_	32	flat	_	_
+31	Alex	_	PROPN	NOUN_PROP	_	32	flat:name	_	_
 32	Muscat	_	PROPN	NOUN_PROP	_	29	obj	_	_
 33	,	_	PUNCT	X_PUN	_	32	punct	_	_
 34	żagħżugħ	_	NOUN	NOUN	_	32	appos	_	_
@@ -1629,7 +1629,7 @@
 54	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 03_03J01:7
-1	Alex	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Alex	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Muscat	_	PROPN	NOUN_PROP	_	4	nsubj:pass	_	_
 3	kien	_	AUX	KIEN	_	4	cop	_	_
 4	ippumpjat	_	VERB	PART_PASS	_	0	root	_	_
@@ -1670,7 +1670,7 @@
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	kampanja	_	NOUN	NOUN	_	8	nsubj	_	_
 4	favur	_	ADP	PREP	_	6	case	_	_
-5	Alex	_	PROPN	NOUN_PROP	_	6	flat	_	_
+5	Alex	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 6	Muscat	_	PROPN	NOUN_PROP	_	3	nmod	_	_
 7	kienet	_	AUX	KIEN	_	8	aux	_	_
 8	dgħajfet	_	VERB	VERB	_	0	root	_	_
@@ -1679,8 +1679,8 @@
 11	lid-	_	ADP	LIL_DEF	_	12	case:det	_	SpaceAfter=No
 12	Deputat	_	NOUN	NOUN	_	16	compound	_	_
 13	Laburista	_	ADJ	ADJ	_	12	amod	_	_
-14	Anthony	_	PROPN	NOUN_PROP	_	16	flat	_	_
-15	Agius	_	PROPN	NOUN_PROP	_	16	flat	_	_
+14	Anthony	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
+15	Agius	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
 16	Decelis	_	PROPN	NOUN_PROP	_	8	obj	_	_
 17	li	_	SCONJ	COMP	_	19	mark	_	_
 18	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
@@ -1710,7 +1710,7 @@
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	pożizzjoni	_	NOUN	NOUN	_	2	nsubj	_	_
 5	ta'	_	ADP	GEN	_	7	case	_	_
-6	Agius	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Agius	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Decelis	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
 8	fil-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
 9	Mosta	_	PROPN	NOUN_PROP	_	4	nmod	_	_
@@ -1738,7 +1738,7 @@
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	oħra	_	ADJ	ADJ	_	2	amod	_	_
 5	,	_	PUNCT	X_PUN	_	2	punct	_	_
-6	Anġlu	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Anġlu	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Farrugia	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
 8	,	_	PUNCT	X_PUN	_	10	punct	_	_
 9	Deputat	_	ADJ	ADJ	_	10	amod	_	_
@@ -1765,7 +1765,7 @@
 1	Bid-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	determinazzjon	_	NOUN	NOUN	_	12	obl	_	_
 3	ta'	_	ADP	GEN	_	5	case	_	_
-4	Jason	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Jason	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Micallef	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
 6	li	_	SCONJ	COMP	_	7	mark	_	_
 7	jikkontesta	_	VERB	VERB	_	5	acl	_	_
@@ -1801,7 +1801,7 @@
 11	li	_	SCONJ	COMP	_	16	mark	_	_
 12	favur	_	ADP	PREP	_	16	obl	_	_
 13	tiegħu	_	PRON	GEN_PRON	_	12	fixed	_	_
-14	Jason	_	PROPN	NOUN_PROP	_	15	flat	_	_
+14	Jason	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
 15	Micallef	_	PROPN	NOUN_PROP	_	16	nsubj	_	_
 16	għandu	_	VERB	VERB_PSEU	_	10	ccomp	_	_
 17	wkoll	_	ADV	FOC	_	20	discourse	_	_
@@ -1811,7 +1811,7 @@
 21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
 22	ieħor	_	ADJ	ADJ	_	20	amod	_	_
 23	,	_	PUNCT	X_PUN	_	25	punct	_	_
-24	Toni	_	PROPN	NOUN_PROP	_	25	flat	_	_
+24	Toni	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
 25	Abela	_	PROPN	NOUN_PROP	_	20	appos	_	_
 26	,	_	PUNCT	X_PUN	_	25	punct	_	_
 27	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
@@ -1845,7 +1845,7 @@
 16	jċedi	_	VERB	VERB	_	15	xcomp	_	_
 17	daqstant	_	ADV	ADV	_	16	advmod	_	_
 18	lil	_	ADP	LIL	_	20	case	_	_
-19	Jason	_	PROPN	NOUN_PROP	_	20	flat	_	_
+19	Jason	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Micallef	_	PROPN	NOUN_PROP	_	16	iobj	_	_
 21	?	_	PUNCT	X_PUN	_	9	punct	_	_
 
@@ -1974,7 +1974,7 @@
 2	każ	_	NOUN	NOUN	_	3	nsubj	_	_
 3	jikkonċerna	_	VERB	VERB	_	0	root	_	_
 4	lil	_	ADP	LIL	_	6	case	_	_
-5	Sharon	_	PROPN	NOUN_PROP	_	6	flat	_	_
+5	Sharon	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 6	Rodenas	_	PROPN	NOUN_PROP	_	3	obj	_	_
 7	,	_	PUNCT	X_PUN	_	6	punct	_	_
 8	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
@@ -2078,7 +2078,7 @@
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	Isptar	_	NOUN	NOUN	_	6	compound	_	_
 6	Mater	_	PROPN	NOUN_PROP	_	3	obl	_	_
-7	Dei	_	PROPN	NOUN_PROP	_	6	flat	_	_
+7	Dei	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 8	fejn	_	PRON	PRON_INT	_	13	advmod	_	_
 9	wara	_	ADP	PREP	_	11	case	_	_
 10	sitt	_	NUM	NUM_CRD	_	11	nummod	_	_
@@ -2471,7 +2471,7 @@
 20	tal-	_	ADP	GEN_DEF	_	21	case:det	_	SpaceAfter=No
 21	Isptar	_	NOUN	NOUN	_	19	nmod:poss	_	_
 22	Mater	_	PROPN	NOUN_PROP	_	21	compound	_	_
-23	Dei	_	PROPN	NOUN_PROP	_	22	flat	_	_
+23	Dei	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
 24	biex	_	SCONJ	CONJ_SUB	_	25	mark	_	_
 25	tinfetaħ	_	VERB	VERB	_	14	ccomp	_	_
 26	inkjesta	_	NOUN	NOUN	_	25	nsubj:pass	_	_
@@ -2742,7 +2742,7 @@
 3	din	_	PRON	PRON_DEM	_	5	det	_	_
 4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	gazzetta	_	NOUN	NOUN	_	1	nmod:agent	_	_
-6	Jimmy	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Jimmy	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Magro	_	PROPN	NOUN_PROP	_	17	nsubj	_	_
 8	,	_	PUNCT	X_PUN	_	9	punct	_	_
 9	Segretarju	_	NOUN	NOUN	_	7	appos	_	_
@@ -2866,7 +2866,7 @@
 31	eks	_	ADJ	ADJ	_	32	amod	_	_
 32	sindku	_	NOUN	NOUN	_	35	compound	_	_
 33	Nazzjonalista	_	ADJ	ADJ	_	32	amod	_	_
-34	Chris	_	PROPN	NOUN_PROP	_	35	flat	_	_
+34	Chris	_	PROPN	NOUN_PROP	_	35	flat:name	_	_
 35	Said	_	PROPN	NOUN_PROP	_	29	nsubj	_	_
 36	li	_	SCONJ	COMP	_	40	mark	_	_
 37	issa	_	ADV	ADV	_	40	advmod	_	_
@@ -2884,7 +2884,7 @@
 2	Konna	_	AUX	KIEN	_	3	aux	_	_
 3	nippretendu	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	9	mark	_	_
-5	Chris	_	PROPN	NOUN_PROP	_	6	flat	_	_
+5	Chris	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 6	Said	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
 7	,	_	PUNCT	X_PUN	_	6	punct	_	_
 8	għad	_	VERB	VERB_PSEU	_	9	aux	_	_
@@ -2940,8 +2940,8 @@
 13	fehma	_	NOUN	NOUN	_	0	root	_	_
 14	"	_	PUNCT	X_PUN	_	13	punct	_	_
 15	qalet	_	VERB	VERB	_	13	parataxis	_	_
-16	Claudette	_	PROPN	NOUN_PROP	_	18	flat	_	_
-17	Abela	_	PROPN	NOUN_PROP	_	18	flat	_	_
+16	Claudette	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
+17	Abela	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
 18	Baldacchino	_	PROPN	NOUN_PROP	_	15	nsubj	_	_
 19	Viċi	_	ADJ	ADJ	_	20	amod	_	_
 20	President	_	NOUN	NOUN	_	18	appos	_	_
@@ -2980,7 +2980,7 @@
 25	,	_	PUNCT	X_PUN	_	4	punct	_	_
 26	"	_	PUNCT	X_PUN	_	4	punct	_	_
 27	sostniet	_	VERB	VERB	_	4	parataxis	_	_
-28	Abela	_	PROPN	NOUN_PROP	_	29	flat	_	_
+28	Abela	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
 29	Baldacchino	_	PROPN	NOUN_PROP	_	27	nsubj	_	_
 30	li	_	SCONJ	COMP	_	36	mark	_	_
 31	fi	_	ADP	PREP	_	32	case	_	_
@@ -3288,8 +3288,8 @@
 31	tal-	_	ADP	GEN_DEF	_	32	case:det	_	SpaceAfter=No
 32	kumpanija	_	NOUN	NOUN	_	30	nmod:poss	_	_
 33	Gozo	_	PROPN	NOUN_PROP	_	32	compound	_	_
-34	Channel	_	NOUN	NOUN	_	33	flat	_	_
-35	Joe	_	PROPN	NOUN_PROP	_	36	flat	_	_
+34	Channel	_	NOUN	NOUN	_	33	flat:name	_	_
+35	Joe	_	PROPN	NOUN_PROP	_	36	flat:name	_	_
 36	Borg	_	PROPN	NOUN_PROP	_	27	nsubj	_	_
 37	waqt	_	ADP	PREP	_	38	case	_	_
 38	żjara	_	NOUN	NOUN	_	27	obl	_	_
@@ -3297,8 +3297,8 @@
 40	l-	_	DET	DEF	_	42	det	_	SpaceAfter=No
 41	Prim	_	ADJ	ADJ	_	42	amod	_	_
 42	Ministru	_	NOUN	NOUN	_	45	compound	_	_
-43	Dr	_	NOUN	X_ABV	_	45	flat	_	_
-44	Lawrence	_	PROPN	NOUN_PROP	_	45	flat	_	_
+43	Dr	_	NOUN	X_ABV	_	45	flat:name	_	_
+44	Lawrence	_	PROPN	NOUN_PROP	_	45	flat:name	_	_
 45	Gonzi	_	PROPN	NOUN_PROP	_	46	nsubj	_	_
 46	għamel	_	VERB	VERB	_	38	acl	_	_
 47	fil-	_	ADP	PREP_DEF	_	48	case:det	_	SpaceAfter=No
@@ -3326,15 +3326,15 @@
 4	s-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	Segretarju	_	NOUN	NOUN	_	9	compound	_	_
 6	Parlamentari	_	ADJ	ADJ	_	5	amod	_	_
-7	Dr	_	NOUN	X_ABV	_	9	flat	_	_
-8	Chris	_	PROPN	NOUN_PROP	_	9	flat	_	_
+7	Dr	_	NOUN	X_ABV	_	9	flat:name	_	_
+8	Chris	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Said	_	PROPN	NOUN_PROP	_	11	nsubj	_	_
 10	pubblikament	_	ADV	ADV	_	11	advmod	_	_
 11	sostna	_	VERB	VERB	_	0	root	_	_
 12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
 13	argument	_	NOUN	NOUN	_	11	obj	_	_
 14	tas-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
-15	Sur	_	NOUN	NOUN	_	16	flat	_	_
+15	Sur	_	NOUN	NOUN	_	16	flat:name	_	_
 16	Borg	_	PROPN	NOUN_PROP	_	13	nmod:poss	_	_
 17	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
 18	qal	_	VERB	VERB	_	11	conj	_	_
@@ -3385,8 +3385,8 @@
 26	Segretarjat	_	NOUN	NOUN	_	24	nmod	_	_
 27	qal	_	VERB	VERB	_	0	root	_	_
 28	li	_	SCONJ	COMP	_	33	mark	_	_
-29	Dr	_	NOUN	X_ABV	_	31	flat	_	_
-30	Chris	_	PROPN	NOUN_PROP	_	31	flat	_	_
+29	Dr	_	NOUN	X_ABV	_	31	flat:name	_	_
+30	Chris	_	PROPN	NOUN_PROP	_	31	flat:name	_	_
 31	Said	_	PROPN	NOUN_PROP	_	33	nsubj	_	_
 32	kien	_	AUX	KIEN	_	33	aux	_	_
 33	ilu	_	VERB	VERB_PSEU	_	27	ccomp	_	_
@@ -3406,8 +3406,8 @@
 47	membri	_	NOUN	NOUN	_	44	appos	_	_
 48	tal-	_	ADP	GEN_DEF	_	49	case:det	_	SpaceAfter=No
 49	Gozo	_	PROPN	NOUN_PROP	_	47	nmod:poss	_	_
-50	Business	_	X	X_ENG	_	49	flat	_	_
-51	Chamber	_	X	X_ENG	_	49	flat	_	_
+50	Business	_	X	X_ENG	_	49	flat:name	_	_
+51	Chamber	_	X	X_ENG	_	49	flat:name	_	_
 52	.	_	PUNCT	X_PUN	_	27	punct	_	_
 
 # sent_id = 10_10J01:11
@@ -3416,7 +3416,7 @@
 3	li	_	SCONJ	COMP	_	8	mark	_	_
 4	bħalissa	_	ADV	ADV	_	8	advmod	_	_
 5	Transport	_	NOUN	NOUN	_	8	nsubj	_	_
-6	Malta	_	PROPN	NOUN_PROP	_	5	flat	_	_
+6	Malta	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 7	qed	_	AUX	PROG	_	8	aux:part	_	_
 8	tħejji	_	VERB	VERB	_	1	ccomp	_	_
 9	studju	_	NOUN	NOUN	_	8	obj	_	_
@@ -3441,7 +3441,7 @@
 2	li	_	SCONJ	COMP	_	7	mark	_	_
 3	bħalissa	_	ADV	ADV	_	7	advmod	_	_
 4	Transport	_	NOUN	NOUN	_	7	nsubj	_	_
-5	Malta	_	PROPN	NOUN_PROP	_	4	flat	_	_
+5	Malta	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 6	qed	_	AUX	PROG	_	7	aux:part	_	_
 7	tiġbor	_	VERB	VERB	_	1	ccomp	_	_
 8	id-	_	DET	DEF	_	9	det	_	SpaceAfter=No
@@ -3460,8 +3460,8 @@
 
 # sent_id = 10_10J01:13
 1	"	_	PUNCT	X_PUN	_	7	punct	_	_
-2	Dr	_	NOUN	X_ABV	_	4	flat	_	_
-3	Chris	_	PROPN	NOUN_PROP	_	4	flat	_	_
+2	Dr	_	NOUN	X_ABV	_	4	flat:name	_	_
+3	Chris	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	Said	_	PROPN	NOUN_PROP	_	7	nsubj	_	_
 5	hu	_	PRON	PRON_PERS	_	7	cop	_	_
 6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
@@ -3561,7 +3561,7 @@
 14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 15	kumpanija	_	NOUN	NOUN	_	16	compound	_	_
 16	Gozo	_	PROPN	NOUN_PROP	_	12	obl	_	_
-17	Channel	_	NOUN	NOUN	_	16	flat	_	_
+17	Channel	_	NOUN	NOUN	_	16	flat:name	_	_
 18	?	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 10_10J01:16
@@ -3584,7 +3584,7 @@
 17	kif	_	PRON	PRON_INT	_	21	advmod	_	_
 18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	Gozo	_	PROPN	NOUN_PROP	_	21	nsubj	_	_
-20	Channel	_	NOUN	NOUN	_	19	flat	_	_
+20	Channel	_	NOUN	NOUN	_	19	flat:name	_	_
 21	tista'	_	VERB	VERB	_	16	acl	_	_
 22	tiddiversifika	_	VERB	VERB	_	21	xcomp	_	_
 23	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
@@ -3609,7 +3609,7 @@
 12	servizz	_	NOUN	NOUN	_	9	nmod	_	_
 13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
 14	Gozo	_	PROPN	NOUN_PROP	_	12	nmod:poss	_	_
-15	Channel	_	NOUN	NOUN	_	14	flat	_	_
+15	Channel	_	NOUN	NOUN	_	14	flat:name	_	_
 16	,	_	PUNCT	X_PUN	_	6	punct	_	_
 17	iżda	_	CCONJ	CONJ_CORD	_	6	cc	_	_
 18	skont	_	ADP	PREP	_	19	case	_	_
@@ -3848,7 +3848,7 @@
 28	magħżula	_	VERB	PART_PASS	_	25	ccomp	_	_
 29	s-	_	DET	DEF	_	30	det	_	SpaceAfter=No
 30	Sinjura	_	NOUN	NOUN	_	32	compound	_	_
-31	Carmen	_	PROPN	NOUN_PROP	_	32	flat	_	_
+31	Carmen	_	PROPN	NOUN_PROP	_	32	flat:name	_	_
 32	Żammit	_	PROPN	NOUN_PROP	_	28	nsubj:pass	_	_
 33	bħala	_	ADP	PREP	_	35	case	_	_
 34	l-	_	DET	DEF	_	35	det	_	SpaceAfter=No
@@ -3877,7 +3877,7 @@
 15	mwettqa	_	VERB	PART_PASS	_	14	acl	_	_
 16	mis-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
 17	Sinjura	_	NOUN	NOUN	_	19	compound	_	_
-18	Sonia	_	PROPN	NOUN_PROP	_	19	flat	_	_
+18	Sonia	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 19	Camilleri	_	PROPN	NOUN_PROP	_	15	nmod:agent	_	_
 20	f'	_	ADP	PREP	_	25	case	_	_
 21	dawn	_	PRON	PRON_DEM	_	25	det	_	_
@@ -3930,7 +3930,7 @@
 40	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 11_11J01:4
-1	Sonia	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Sonia	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Camilleri	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
 3	kienet	_	AUX	KIEN	_	4	aux	_	_
 4	qalet	_	VERB	VERB	_	0	root	_	_
@@ -3967,7 +3967,7 @@
 3	'l	_	ADP	PREP	_	4	case	_	_
 4	hawn	_	ADV	ADV	_	9	advmod	_	_
 5	,	_	PUNCT	X_PUN	_	4	punct	_	_
-6	Sonia	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Sonia	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Camilleri	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
 8	xorta	_	NOUN	NOUN	_	9	obl	_	_
 9	baqgħet	_	VERB	VERB	_	0	root	_	_
@@ -4022,7 +4022,7 @@
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	ħatra	_	NOUN	NOUN	_	7	nsubj:pass	_	_
 3	ta'	_	ADP	GEN	_	5	case	_	_
-4	Carmen	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Carmen	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Żammit	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
 6	se	_	AUX	FUT	_	7	aux:part	_	_
 7	tingħata	_	VERB	VERB	_	0	root	_	_
@@ -4116,8 +4116,8 @@
 7	Programm	_	NOUN	NOUN	_	8	compound	_	_
 8	Fejda	_	ADJ	ADJ	_	5	nmod:poss	_	_
 9	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
-10	Jeanne	_	PROPN	NOUN_PROP	_	12	flat	_	_
-11	Antide	_	PROPN	NOUN_PROP	_	12	flat	_	_
+10	Jeanne	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
+11	Antide	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
 12	Home	_	PROPN	NOUN_PROP	_	8	conj	_	_
 13	,	_	PUNCT	X_PUN	_	15	punct	_	_
 14	żewġ	_	NUM	NUM_CRD	_	15	nummod	_	_
@@ -4179,7 +4179,7 @@
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	karigi	_	NOUN	NOUN	_	10	obl	_	_
 5	,	_	PUNCT	X_PUN	_	4	punct	_	_
-6	Carmen	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Carmen	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Żammit	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
 8	kienet	_	AUX	KIEN	_	10	cop	_	_
 9	id-	_	DET	DEF	_	10	det	_	SpaceAfter=No
@@ -4293,7 +4293,7 @@
 9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
 10	Affarijiet	_	NOUN	NOUN	_	8	nmod:poss	_	_
 11	Barranin	_	ADJ	ADJ	_	10	amod	_	_
-12	Tonio	_	PROPN	NOUN_PROP	_	13	flat	_	_
+12	Tonio	_	PROPN	NOUN_PROP	_	13	flat:name	_	_
 13	Borg	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
 14	meta	_	SCONJ	CONJ_SUB	_	15	mark	_	_
 15	fetaħ	_	VERB	VERB	_	2	advcl	_	_
@@ -4355,12 +4355,12 @@
 17	"	_	PUNCT	X_PUN	_	10	punct	_	_
 18	,	_	PUNCT	X_PUN	_	10	punct	_	_
 19	tenna	_	VERB	VERB	_	10	parataxis	_	_
-20	Tonio	_	PROPN	NOUN_PROP	_	21	flat	_	_
+20	Tonio	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
 21	Borg	_	PROPN	NOUN_PROP	_	19	nsubj	_	_
 22	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 13_13J01:6
-1	Tonio	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Tonio	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Borg	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	qal	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	8	mark	_	_
@@ -4454,7 +4454,7 @@
 24	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 13_13J01:9
-1	Tonio	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Tonio	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Borg	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	sostna	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	6	mark	_	_
@@ -4503,7 +4503,7 @@
 6	prudenti	_	ADJ	ADJ	_	2	acl	_	_
 7	,	_	PUNCT	X_PUN	_	2	punct	_	_
 8	kompla	_	VERB	VERB	_	2	parataxis	_	_
-9	Tonio	_	PROPN	NOUN_PROP	_	10	flat	_	_
+9	Tonio	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
 10	Borg	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
 11	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
@@ -4535,7 +4535,7 @@
 4	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
 5	Prim	_	ADJ	ADJ	_	6	amod	_	_
 6	Ministru	_	NOUN	NOUN	_	8	compound	_	_
-7	Lawrence	_	PROPN	NOUN_PROP	_	8	flat	_	_
+7	Lawrence	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 8	Gonzi	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
 9	,	_	PUNCT	X_PUN	_	2	punct	_	_
 10	Malta	_	PROPN	NOUN_PROP	_	16	nsubj	_	_
@@ -4588,7 +4588,7 @@
 24	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 13_13J01:14
-1	Tonio	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Tonio	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Borg	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	qal	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	11	mark	_	_
@@ -4653,7 +4653,7 @@
 15	sanzjonijiet	_	NOUN	NOUN	_	13	obj	_	_
 16	kollha	_	DET	QUAN	_	15	det	_	_
 17	iżda	_	CCONJ	CONJ_CORD	_	10	cc	_	_
-18	Tonio	_	PROPN	NOUN_PROP	_	19	flat	_	_
+18	Tonio	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 19	Borg	_	PROPN	NOUN_PROP	_	20	nsubj	_	_
 20	iddikjara	_	VERB	VERB	_	10	conj	_	_
 21	li	_	SCONJ	COMP	_	26	mark	_	_
@@ -4697,7 +4697,7 @@
 
 # sent_id = 14_01J02:1
 1	minn	_	ADP	PREP	_	3	case	_	_
-2	Anton	_	PROPN	NOUN_PROP	_	3	flat	_	_
+2	Anton	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
 3	Refalo	_	PROPN	NOUN_PROP	_	0	root	_	_
 
 # sent_id = 14_01J02:2
@@ -4706,7 +4706,7 @@
 3	grundnorm	_	X	X_FOR	_	0	root	_	_
 4	'	_	PUNCT	X_PUN	_	3	punct	_	_
 5	ta'	_	ADP	GEN	_	7	case	_	_
-6	Lawrence	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Lawrence	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Gonzi	_	PROPN	NOUN_PROP	_	3	nmod:poss	_	_
 
 # sent_id = 14_01J02:3
@@ -4728,7 +4728,7 @@
 16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 17	Gvern	_	NOUN	NOUN	_	15	nsubj	_	_
 18	ta'	_	ADP	GEN	_	20	case	_	_
-19	Alfred	_	PROPN	NOUN_PROP	_	20	flat	_	_
+19	Alfred	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Sant	_	PROPN	NOUN_PROP	_	17	nmod:poss	_	_
 21	billi	_	SCONJ	CONJ_SUB	_	22	mark	_	_
 22	mar	_	VERB	VERB	_	5	advcl	_	_
@@ -4798,11 +4798,11 @@
 12	,	_	PUNCT	X_PUN	_	4	punct	_	_
 13	ma	_	PART	NEG	_	16	aux:neg	_	_
 14	kienx	_	AUX	KIEN	_	16	cop	_	_
-15	Lawrence	_	PROPN	NOUN_PROP	_	16	flat	_	_
+15	Lawrence	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
 16	Gonzi	_	PROPN	NOUN_PROP	_	0	root	_	_
 17	,	_	PUNCT	X_PUN	_	16	punct	_	_
 18	imma	_	CCONJ	CONJ_CORD	_	16	cc	_	_
-19	Alfred	_	PROPN	NOUN_PROP	_	20	flat	_	_
+19	Alfred	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Sant	_	PROPN	NOUN_PROP	_	16	conj	_	_
 21	.	_	PUNCT	X_PUN	_	16	punct	_	_
 
@@ -4948,7 +4948,7 @@
 # sent_id = 14_01J02:10
 1	F'	_	ADP	PREP	_	2	case	_	_
 2	għajnejn	_	NOUN	NOUN	_	15	obl	_	_
-3	Ċikku	_	PROPN	NOUN_PROP	_	5	flat	_	_
+3	Ċikku	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	Poplu	_	NOUN	NOUN	_	2	nmod:poss	_	_
 6	,	_	PUNCT	X_PUN	_	2	punct	_	_
@@ -4982,7 +4982,7 @@
 34	.	_	PUNCT	X_PUN	_	15	punct	_	_
 
 # sent_id = 14_01J02:11
-1	Dom	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Dom	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Mintoff	_	PROPN	NOUN_PROP	_	12	nsubj	_	_
 3	ukoll	_	ADV	FOC	_	2	discourse	_	_
 4	,	_	PUNCT	X_PUN	_	6	punct	_	_
@@ -5487,7 +5487,7 @@
 3	r-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	Reġina	_	NOUN	NOUN	_	8	nsubj	_	_
 5	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
-6	Gran	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Gran	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Brittanja	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
 8	naqset	_	VERB	VERB	_	0	root	_	_
 9	in-	_	DET	DEF	_	10	det	_	SpaceAfter=No
@@ -5694,7 +5694,7 @@
 
 # sent_id = 17_04J02:2
 1	Minn	_	ADP	PREP	_	3	case	_	_
-2	Edwin	_	PROPN	NOUN_PROP	_	3	flat	_	_
+2	Edwin	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
 3	Vassallo	_	PROPN	NOUN_PROP	_	0	root	_	_
 4	Koordinatur	_	NOUN	NOUN	_	3	appos	_	_
 5	tas-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
@@ -5750,7 +5750,7 @@
 5	li	_	SCONJ	COMP	_	6	mark	_	_
 6	għaddiet	_	VERB	VERB	_	3	acl	_	_
 7	,	_	PUNCT	X_PUN	_	9	punct	_	_
-8	Alfred	_	PROPN	NOUN_PROP	_	9	flat	_	_
+8	Alfred	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Sant	_	PROPN	NOUN_PROP	_	17	nsubj	_	_
 10	dakinhar	_	ADV	ADV	_	11	advmod	_	_
 11	Kap	_	NOUN	NOUN	_	9	appos	_	_
@@ -6241,7 +6241,7 @@
 36	hu	_	PRON	PRON_PERS	_	23	ccomp	_	_
 37	s-	_	DET	DEF	_	38	det	_	SpaceAfter=No
 38	Sur	_	NOUN	NOUN	_	40	compound	_	_
-39	Vince	_	PROPN	NOUN_PROP	_	40	flat	_	_
+39	Vince	_	PROPN	NOUN_PROP	_	40	flat:name	_	_
 40	Farrugia	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
 41	,	_	PUNCT	X_PUN	_	1	punct	_	_
 42	nawgura	_	VERB	VERB	_	1	parataxis	_	_
@@ -6276,7 +6276,7 @@
 4	awgurju	_	NOUN	NOUN	_	9	obj	_	_
 5	lis-	_	ADP	LIL_DEF	_	6	case:det	_	SpaceAfter=No
 6	Sur	_	NOUN	NOUN	_	8	compound	_	_
-7	Vince	_	PROPN	NOUN_PROP	_	8	flat	_	_
+7	Vince	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 8	Farrugia	_	PROPN	NOUN_PROP	_	4	nmod	_	_
 9	nawgurah	_	VERB	VERB	_	0	root	_	_
 10	lili	_	PRON	LIL_PRON	_	9	iobj	_	_
@@ -7051,7 +7051,7 @@
 4	tpaċpiċ	_	NOUN	NOUN	_	2	obj	_	_
 5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
 6	Ministru	_	NOUN	NOUN	_	8	compound	_	_
-7	Żammit	_	PROPN	NOUN_PROP	_	8	flat	_	_
+7	Żammit	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 8	Dimech	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
 9	,	_	PUNCT	X_PUN	_	4	punct	_	_
 10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
@@ -7703,12 +7703,12 @@
 8	74	_	NUM	X_DIG	_	7	nummod	_	_
 
 # sent_id = 22_02J03:2
-1	Julia	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Julia	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Farrugia	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	tintervista	_	VERB	VERB	_	0	root	_	_
 4	lill-	_	ADP	LIL_DEF	_	5	case:det	_	SpaceAfter=No
 5	Professur	_	NOUN	NOUN	_	7	compound	_	_
-6	Anthony	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Anthony	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Zammit	_	PROPN	NOUN_PROP	_	3	obj	_	_
 
 # sent_id = 22_02J03:3
@@ -7723,7 +7723,7 @@
 9	Kartanzjan	_	PROPN	NOUN_PROP	_	7	nmod	_	_
 10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
 11	Professor	_	NOUN	NOUN	_	13	compound	_	_
-12	Anthony	_	PROPN	NOUN_PROP	_	13	flat	_	_
+12	Anthony	_	PROPN	NOUN_PROP	_	13	flat:name	_	_
 13	Zammit	_	PROPN	NOUN_PROP	_	14	nsubj	_	_
 14	irnexxielu	_	VERB	VERB	_	0	root	_	_
 15	jitla'	_	VERB	VERB	_	14	xcomp	_	_
@@ -7782,8 +7782,8 @@
 4	mmur	_	VERB	VERB	_	3	xcomp	_	_
 5	nara	_	VERB	VERB	_	4	xcomp	_	_
 6	lil	_	ADP	LIL	_	7	case	_	_
-7	Mrs	_	NOUN	X_ABV	_	9	flat	_	_
-8	Borg	_	PROPN	NOUN_PROP	_	9	flat	_	_
+7	Mrs	_	NOUN	X_ABV	_	9	flat:name	_	_
+8	Borg	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Olivier	_	PROPN	NOUN_PROP	_	5	obj	_	_
 10	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
@@ -7902,7 +7902,7 @@
 10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
 11	PN	_	NOUN	X_ABV	_	9	nmod:poss	_	_
 12	,	_	PUNCT	X_PUN	_	1	punct	_	_
-13	Anthony	_	PROPN	NOUN_PROP	_	14	flat	_	_
+13	Anthony	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
 14	Zammit	_	PROPN	NOUN_PROP	_	15	nsubj	_	_
 15	jiċħad	_	VERB	VERB	_	0	root	_	_
 16	.	_	PUNCT	X_PUN	_	15	punct	_	_
@@ -8127,7 +8127,7 @@
 1	Kif	_	PRON	PRON_INT	_	2	advmod	_	_
 2	jiddeskrivi	_	VERB	VERB	_	0	root	_	_
 3	lil	_	ADP	LIL	_	5	case	_	_
-4	Alfred	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Alfred	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Sant	_	PROPN	NOUN_PROP	_	2	obj	_	_
 6	?	_	PUNCT	X_PUN	_	2	punct	_	_
 
@@ -8135,7 +8135,7 @@
 1	"	_	PUNCT	X_PUN	_	6	punct	_	_
 2	Issa	_	ADV	ADV	_	6	advmod	_	_
 3	lil	_	ADP	LIL	_	5	case	_	_
-4	Alfred	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Alfred	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Sant	_	PROPN	NOUN_PROP	_	6	obj	_	_
 6	nafu	_	VERB	VERB	_	0	root	_	_
 7	minn	_	ADP	PREP	_	8	case	_	_
@@ -8165,7 +8165,7 @@
 
 # sent_id = 22_02J03:31
 1	"	_	PUNCT	X_PUN	_	5	punct	_	_
-2	Alfred	_	PROPN	NOUN_PROP	_	3	flat	_	_
+2	Alfred	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
 3	Sant	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
 4	hu	_	PRON	PRON_PERS	_	5	cop	_	_
 5	bniedem	_	NOUN	NOUN	_	0	root	_	_
@@ -8491,7 +8491,7 @@
 5	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 22_02J03:54
-1	Gavin	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Gavin	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Gulia	_	PROPN	NOUN_PROP	_	19	nsubj	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	veteran	_	NOUN	NOUN	_	2	appos	_	_
@@ -8541,7 +8541,7 @@
 7	kont	_	AUX	KIEN	_	8	cop	_	_
 8	sorpriż	_	ADJ	ADJ	_	1	ccomp	_	_
 9	li	_	SCONJ	COMP	_	13	mark	_	_
-10	Gavin	_	PROPN	NOUN_PROP	_	11	flat	_	_
+10	Gavin	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
 11	Gulia	_	PROPN	NOUN_PROP	_	13	nsubj	_	_
 12	ma	_	PART	NEG	_	13	aux:neg	_	_
 13	ħariġx	_	VERB	VERB	_	8	ccomp	_	_
@@ -8781,7 +8781,7 @@
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	lista	_	NOUN	NOUN	_	6	nsubj	_	_
 3	ta'	_	ADP	GEN	_	5	case	_	_
-4	Anthony	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Anthony	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Zammit	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
 6	tkompli	_	VERB	VERB	_	0	root	_	_
 7	.	_	PUNCT	X_PUN	_	6	punct	_	_
@@ -8832,7 +8832,7 @@
 1	Infakkru	_	VERB	VERB	_	0	root	_	_
 2	li	_	SCONJ	COMP	_	25	mark	_	_
 3	skond	_	ADP	PREP	_	5	case	_	_
-4	Joe	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Joe	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Saliba	_	PROPN	NOUN_PROP	_	25	obl	_	_
 6	,	_	PUNCT	X_PUN	_	8	punct	_	_
 7	is-	_	DET	DEF	_	8	det	_	SpaceAfter=No
@@ -9347,7 +9347,7 @@
 24	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 22_02J03:108
-1	Anthony	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Anthony	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Zammit	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	jaħseb	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	5	mark	_	_
@@ -10016,7 +10016,7 @@
 11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	Isptar	_	NOUN	NOUN	_	13	compound	_	_
 13	Mater	_	PROPN	NOUN_PROP	_	9	nmod:poss	_	_
-14	Dei	_	PROPN	NOUN_PROP	_	13	flat	_	_
+14	Dei	_	PROPN	NOUN_PROP	_	13	flat:name	_	_
 15	nipprova	_	VERB	VERB	_	0	root	_	_
 16	nifhem	_	VERB	VERB	_	15	xcomp	_	_
 17	din	_	PRON	PRON_DEM	_	16	obj	_	_
@@ -10085,10 +10085,10 @@
 2	,	_	PUNCT	X_PUN	_	1	punct	_	_
 3	Isabelle	_	PROPN	NOUN_PROP	_	1	conj	_	_
 4	,	_	PUNCT	X_PUN	_	1	punct	_	_
-5	Konrad	_	PROPN	NOUN_PROP	_	6	flat	_	_
+5	Konrad	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 6	Pulè	_	PROPN	NOUN_PROP	_	1	conj	_	_
 7	,	_	PUNCT	X_PUN	_	1	punct	_	_
-8	Daniela	_	PROPN	NOUN_PROP	_	9	flat	_	_
+8	Daniela	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Delicata	_	PROPN	NOUN_PROP	_	1	conj	_	_
 10	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
@@ -10180,10 +10180,10 @@
 10	bħala	_	ADP	PREP	_	11	case	_	_
 11	finalisti	_	NOUN	NOUN	_	9	obl	_	_
 12	huma	_	PRON	PRON_PERS	_	14	cop	_	_
-13	Olivia	_	PROPN	NOUN_PROP	_	14	flat	_	_
+13	Olivia	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
 14	Lewis	_	PROPN	NOUN_PROP	_	0	root	_	_
 15	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
-16	William	_	PROPN	NOUN_PROP	_	17	flat	_	_
+16	William	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
 17	Mangion	_	PROPN	NOUN_PROP	_	14	conj	_	_
 18	.	_	PUNCT	X_PUN	_	14	punct	_	_
 
@@ -10261,7 +10261,7 @@
 18	Do	_	X	X_ENG	_	17	flat	_	_
 19	"	_	PUNCT	X_PUN	_	17	punct	_	_
 20	ta'	_	ADP	GEN	_	22	case	_	_
-21	Fabrizio	_	PROPN	NOUN_PROP	_	22	flat	_	_
+21	Fabrizio	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
 22	Faniello	_	PROPN	NOUN_PROP	_	17	nmod:poss	_	_
 23	tikseb	_	VERB	VERB	_	17	acl	_	_
 24	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
@@ -10368,7 +10368,7 @@
 20	Chairman	_	NOUN	NOUN	_	24	compound	_	_
 21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
 22	Maltasong	_	PROPN	NOUN_PROP	_	20	nmod:poss	_	_
-23	Robert	_	PROPN	NOUN_PROP	_	24	flat	_	_
+23	Robert	_	PROPN	NOUN_PROP	_	24	flat:name	_	_
 24	Abela	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
 25	f'	_	ADP	PREP	_	26	case	_	_
 26	intervista	_	NOUN	NOUN	_	18	obl	_	_
@@ -10414,7 +10414,7 @@
 19	,	_	PUNCT	X_PUN	_	6	punct	_	_
 20	"	_	PUNCT	X_PUN	_	6	punct	_	_
 21	spjega	_	VERB	VERB	_	6	parataxis	_	_
-22	Robert	_	PROPN	NOUN_PROP	_	23	flat	_	_
+22	Robert	_	PROPN	NOUN_PROP	_	23	flat:name	_	_
 23	Abela	_	PROPN	NOUN_PROP	_	21	nsubj	_	_
 24	li	_	SCONJ	COMP	_	25	mark	_	_
 25	żied	_	VERB	VERB	_	23	acl	_	_
@@ -10481,7 +10481,7 @@
 16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
 17	MaltaSong	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	_
 18	,	_	PUNCT	X_PUN	_	2	punct	_	_
-19	Robert	_	PROPN	NOUN_PROP	_	20	flat	_	_
+19	Robert	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Abela	_	PROPN	NOUN_PROP	_	22	nsubj	_	_
 21	qed	_	AUX	PROG	_	22	aux:part	_	_
 22	jappella	_	VERB	VERB	_	0	root	_	_
@@ -10577,7 +10577,7 @@
 
 # sent_id = 23b_04J03:19
 1	Għal	_	ADP	PREP	_	3	case	_	_
-2	Robbie	_	PROPN	NOUN_PROP	_	3	flat	_	_
+2	Robbie	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
 3	Abela	_	PROPN	NOUN_PROP	_	6	obl	_	_
 4	"	_	PUNCT	X_PUN	_	6	punct	_	_
 5	ma	_	PART	NEG	_	6	aux:neg	_	_
@@ -10636,7 +10636,7 @@
 23	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 # sent_id = 23b_04J03:22
-1	Robert	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Robert	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Abela	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
 3	hu	_	PRON	PRON_PERS	_	4	cop	_	_
 4	ċar	_	ADJ	ADJ	_	0	root	_	_
@@ -10801,7 +10801,7 @@
 16	,	_	PUNCT	X_PUN	_	3	punct	_	_
 17	"	_	PUNCT	X_PUN	_	3	punct	_	_
 18	saħaq	_	VERB	VERB	_	3	parataxis	_	_
-19	Robert	_	PROPN	NOUN_PROP	_	20	flat	_	_
+19	Robert	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Abela	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
 21	li	_	SCONJ	COMP	_	22	mark	_	_
 22	żied	_	VERB	VERB	_	20	acl	_	_
@@ -10860,7 +10860,7 @@
 3	intervista	_	NOUN	NOUN	_	4	obl	_	_
 4	fakkart	_	VERB	VERB	_	0	root	_	_
 5	lil	_	ADP	LIL	_	7	case	_	_
-6	Robert	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Robert	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Abela	_	PROPN	NOUN_PROP	_	4	obj	_	_
 8	fir-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
 9	riżultat	_	NOUN	NOUN	_	4	obl:arg	_	_
@@ -10922,7 +10922,7 @@
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	kanzunetta	_	NOUN	NOUN	_	6	nsubj:pass	_	_
 3	ta'	_	ADP	GEN	_	5	case	_	_
-4	Fabrizio	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Fabrizio	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Faniello	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
 6	ntgħażlet	_	VERB	VERB	_	0	root	_	_
 7	mill-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
@@ -10953,7 +10953,7 @@
 12	Do	_	X	X_ENG	_	11	flat	_	_
 13	"	_	PUNCT	X_PUN	_	11	punct	_	_
 14	ta'	_	ADP	GEN	_	16	case	_	_
-15	Fabrizio	_	PROPN	NOUN_PROP	_	16	flat	_	_
+15	Fabrizio	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
 16	Faniello	_	PROPN	NOUN_PROP	_	11	nmod:poss	_	_
 17	għamlet	_	VERB	VERB	_	0	root	_	_
 18	suċċess	_	NOUN	NOUN	_	17	obj	_	_
@@ -11025,12 +11025,12 @@
 38	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 23b_04J03:36
-1	Robert	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Robert	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Abela	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	jibqa'	_	VERB	VERB	_	0	root	_	_
 4	sod	_	ADJ	ADJ	_	3	xcomp	_	_
 5	wara	_	ADP	PREP	_	7	case	_	_
-6	Fabrizio	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Fabrizio	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Faniello	_	PROPN	NOUN_PROP	_	3	obl	_	_
 8	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
@@ -11110,10 +11110,10 @@
 13	ħadhiex	_	VERB	VERB	_	6	acl	_	_
 14	lanqas	_	ADV	FOC	_	17	discourse	_	_
 15	kontra	_	ADP	PREP	_	17	case	_	_
-16	Fabrizio	_	PROPN	NOUN_PROP	_	17	flat	_	_
+16	Fabrizio	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
 17	Faniello	_	PROPN	NOUN_PROP	_	13	obl	_	_
 18	,	_	PUNCT	X_PUN	_	3	punct	_	_
-19	Robert	_	PROPN	NOUN_PROP	_	20	flat	_	_
+19	Robert	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Abela	_	PROPN	NOUN_PROP	_	21	nsubj	_	_
 21	sellem	_	VERB	VERB	_	0	root	_	_
 22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
@@ -11174,7 +11174,7 @@
 14	,	_	PUNCT	X_PUN	_	1	punct	_	_
 15	jien	_	PRON	PRON_PERS	_	19	nsubj	_	_
 16	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
-17	Robert	_	PROPN	NOUN_PROP	_	18	flat	_	_
+17	Robert	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
 18	Abela	_	PROPN	NOUN_PROP	_	15	conj	_	_
 19	nibdew	_	VERB	VERB	_	0	root	_	_
 20	nitkellmu	_	VERB	VERB	_	19	xcomp	_	_
@@ -11284,7 +11284,7 @@
 10	,	_	PUNCT	X_PUN	_	3	punct	_	_
 11	"	_	PUNCT	X_PUN	_	3	punct	_	_
 12	weġibna	_	VERB	VERB	_	3	parataxis	_	_
-13	Robert	_	PROPN	NOUN_PROP	_	14	flat	_	_
+13	Robert	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
 14	Abela	_	PROPN	NOUN_PROP	_	12	nsubj	_	_
 15	li	_	SCONJ	COMP	_	16	mark	_	_
 16	għażel	_	VERB	VERB	_	14	acl	_	_
@@ -11540,7 +11540,7 @@
 5	,	_	PUNCT	X_PUN	_	2	punct	_	_
 6	waqt	_	ADP	PREP	_	12	mark	_	_
 7	li	_	SCONJ	COMP	_	6	fixed	_	_
-8	Robert	_	PROPN	NOUN_PROP	_	9	flat	_	_
+8	Robert	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Abela	_	PROPN	NOUN_PROP	_	12	nsubj	_	_
 10	kien	_	AUX	KIEN	_	12	aux	_	_
 11	qed	_	AUX	PROG	_	12	aux:part	_	_
@@ -11625,7 +11625,7 @@
 
 # sent_id = 23b_04J03:61
 1	Allura	_	ADV	ADV	_	4	advmod	_	_
-2	Robert	_	PROPN	NOUN_PROP	_	3	flat	_	_
+2	Robert	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
 3	Abela	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
 4	jixtieq	_	VERB	VERB	_	0	root	_	_
 5	li	_	SCONJ	COMP	_	7	mark	_	_
@@ -11824,9 +11824,9 @@
 1	THE	_	X	X_ENG	_	2	flat	_	_
 2	CHAIRMAN	_	X	X_ENG	_	0	root	_	_
 3	(	_	PUNCT	X_PUN	_	7	punct	_	_
-4	Onor	_	NOUN	X_ABV	_	7	flat	_	_
+4	Onor	_	NOUN	X_ABV	_	7	flat:name	_	_
 5	.	_	PUNCT	X_PUN	_	4	punct	_	_
-6	Tonio	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Tonio	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Fenech	_	PROPN	NOUN_PROP	_	2	appos	_	_
 8	)	_	PUNCT	X_PUN	_	7	punct	_	_
 9	:	_	PUNCT	X_PUN	_	2	punct	_	_
@@ -12203,9 +12203,9 @@
 22	"	_	PUNCT	X_PUN	_	7	punct	_	_
 23	imħejji	_	VERB	PART_PASS	_	3	acl	_	_
 24	mill-	_	ADP	PREP_DEF	_	28	case:det	_	SpaceAfter=No
-25	Onor	_	NOUN	X_ABV	_	28	flat	_	_
+25	Onor	_	NOUN	X_ABV	_	28	flat:name	_	_
 26	.	_	PUNCT	X_PUN	_	25	punct	_	_
-27	Tonio	_	PROPN	NOUN_PROP	_	28	flat	_	_
+27	Tonio	_	PROPN	NOUN_PROP	_	28	flat:name	_	_
 28	Fenech	_	PROPN	NOUN_PROP	_	23	nmod:agent	_	_
 29	fil-	_	ADP	PREP_DEF	_	30	case:det	_	SpaceAfter=No
 30	kapaċità	_	NOUN	NOUN	_	23	obl	_	_
@@ -12285,9 +12285,9 @@
 8	jiena	_	PRON	PRON_PERS	_	6	nsubj	_	_
 9	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
 10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
-11	Onor	_	NOUN	X_ABV	_	14	flat	_	_
+11	Onor	_	NOUN	X_ABV	_	14	flat:name	_	_
 12	.	_	PUNCT	X_PUN	_	11	punct	_	_
-13	Deo	_	PROPN	NOUN_PROP	_	14	flat	_	_
+13	Deo	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
 14	Debattista	_	PROPN	NOUN_PROP	_	8	conj	_	_
 15	f'	_	ADP	PREP	_	16	case	_	_
 16	Londra	_	PROPN	NOUN_PROP	_	6	obl	_	_
@@ -12338,8 +12338,8 @@
 14	parlamentari	_	ADJ	ADJ	_	13	amod	_	_
 15	minn	_	ADP	PREP	_	16	case	_	_
 16	Trinidad	_	PROPN	NOUN_PROP	_	13	nmod	_	_
-17	and	_	PROPN	NOUN_PROP	_	16	flat	_	_
-18	Tobago	_	PROPN	NOUN_PROP	_	16	flat	_	_
+17	and	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
+18	Tobago	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
 19	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 20	ltqajna	_	VERB	VERB	_	4	conj	_	_
 21	fid-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
@@ -12815,7 +12815,7 @@
 14	uffiċjali	_	NOUN	NOUN	_	12	nsubj	_	_
 15	mis-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
 16	CPA	_	NOUN	X_ABV	_	14	nmod	_	_
-17	UK	_	NOUN	X_ABV	_	16	flat	_	_
+17	UK	_	NOUN	X_ABV	_	16	flat:name	_	_
 18	proprju	_	ADV	ADV	_	20	advmod	_	_
 19	sabiex	_	SCONJ	CONJ_SUB	_	20	mark	_	_
 20	isiru	_	VERB	VERB	_	12	advcl	_	_
@@ -12841,16 +12841,16 @@
 
 # sent_id = 30_01P05:47
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	Onor	_	NOUN	X_ABV	_	5	flat	_	_
+2	Onor	_	NOUN	X_ABV	_	5	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
-4	Charles	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Charles	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Mangion	_	PROPN	NOUN_PROP	_	0	root	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 30_01P05:48
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	CHARLES	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	CHARLES	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	MANGION	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -13258,15 +13258,15 @@
 8	mibgħuta	_	VERB	PART_PASS	_	0	root	_	_
 9	lili	_	PRON	LIL_PRON	_	8	obj	_	_
 10	mill-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
-11	Onor	_	NOUN	X_ABV	_	14	flat	_	_
+11	Onor	_	NOUN	X_ABV	_	14	flat:name	_	_
 12	.	_	PUNCT	X_PUN	_	11	punct	_	_
-13	Jason	_	PROPN	NOUN_PROP	_	14	flat	_	_
+13	Jason	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
 14	Azzopardi	_	PROPN	NOUN_PROP	_	8	nmod:agent	_	_
 15	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 16	mill-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
-17	Onor	_	NOUN	X_ABV	_	20	flat	_	_
+17	Onor	_	NOUN	X_ABV	_	20	flat:name	_	_
 18	.	_	PUNCT	X_PUN	_	17	punct	_	_
-19	Ryan	_	PROPN	NOUN_PROP	_	20	flat	_	_
+19	Ryan	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Callus	_	PROPN	NOUN_PROP	_	14	conj	_	_
 21	,	_	PUNCT	X_PUN	_	8	punct	_	_
 22	hija	_	PRON	PRON_PERS	_	23	cop	_	_
@@ -13456,7 +13456,7 @@
 37	,	_	PUNCT	X_PUN	_	13	punct	_	_
 38	lil	_	ADP	LIL	_	39	case	_	_
 39	ARMS	_	PROPN	NOUN_PROP	_	13	iobj	_	_
-40	Ltd	_	NOUN	X_ABV	_	39	flat	_	_
+40	Ltd	_	NOUN	X_ABV	_	39	flat:name	_	_
 41	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 30_01P05:68
@@ -13470,7 +13470,7 @@
 8	azzjonisti	_	NOUN	NOUN	_	16	nsubj	_	_
 9	ta'	_	ADP	GEN	_	10	case	_	_
 10	ARMS	_	PROPN	NOUN_PROP	_	8	nmod:poss	_	_
-11	Ltd	_	NOUN	X_ABV	_	10	flat	_	_
+11	Ltd	_	NOUN	X_ABV	_	10	flat:name	_	_
 12	huma	_	PRON	PRON_PERS	_	16	cop	_	_
 13	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
 14	Water	_	ADJ	ADJ	_	16	amod	_	_
@@ -13479,7 +13479,7 @@
 17	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 18	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	Enemalta	_	PROPN	NOUN_PROP	_	16	conj	_	_
-20	plc	_	NOUN	X_ABV	_	19	flat	_	_
+20	plc	_	NOUN	X_ABV	_	19	flat:name	_	_
 21	(	_	PUNCT	X_PUN	_	22	punct	_	_
 22	vide	_	X	X_FOR	_	16	parataxis	_	_
 23	it-	_	DET	DEF	_	24	det	_	SpaceAfter=No
@@ -13509,7 +13509,7 @@
 47	azzjonista	_	NOUN	NOUN	_	16	conj	_	_
 48	tal-	_	ADP	GEN_DEF	_	49	case:det	_	SpaceAfter=No
 49	ARMS	_	PROPN	NOUN_PROP	_	47	nmod:poss	_	_
-50	Ltd	_	NOUN	X_ABV	_	49	flat	_	_
+50	Ltd	_	NOUN	X_ABV	_	49	flat:name	_	_
 51	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 30_01P05:69
@@ -13524,7 +13524,7 @@
 9	GWU	_	NOUN	X_ABV	_	7	nmod:poss	_	_
 10	lil	_	ADP	LIL	_	11	case	_	_
 11	ARMS	_	PROPN	NOUN_PROP	_	7	nmod	_	_
-12	Ltd	_	NOUN	X_ABV	_	11	flat	_	_
+12	Ltd	_	NOUN	X_ABV	_	11	flat:name	_	_
 13	.	_	PUNCT	X_PUN	_	12	punct	_	_
 14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
 15	bini	_	NOUN	NOUN	_	7	nmod:poss	_	_
@@ -13831,15 +13831,15 @@
 
 # sent_id = 30_01P05:77
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	Onor	_	NOUN	X_ABV	_	4	flat	_	_
+2	Onor	_	NOUN	X_ABV	_	4	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
 4	Bonnici	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 30_01P05:78
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	(	_	PUNCT	X_PUN	_	6	punct	_	_
 6	Ministru	_	NOUN	NOUN	_	4	appos	_	_
@@ -13971,9 +13971,9 @@
 30	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 30_01P05:84
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -14032,8 +14032,8 @@
 6	SAR	_	VERB	VERB	_	4	acl	_	_
 7	MA'	_	ADP	PREP	_	8	case	_	_
 8	HENLEY	_	PROPN	NOUN_PROP	_	6	obl	_	_
-9	AND	_	PROPN	NOUN_PROP	_	8	flat	_	_
-10	PARTNERS	_	PROPN	NOUN_PROP	_	8	flat	_	_
+9	AND	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
+10	PARTNERS	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 11	DWAR	_	ADP	PREP	_	15	case	_	_
 12	L-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 13	INDIVIDUAL	_	ADJ	ADJ	_	15	amod	_	_
@@ -14099,15 +14099,15 @@
 
 # sent_id = 30_01P05:93
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	Onor	_	NOUN	X_ABV	_	4	flat	_	_
+2	Onor	_	NOUN	X_ABV	_	4	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
 4	Bonnici	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 30_01P05:94
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -14140,9 +14140,9 @@
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 30_01P05:98
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -14163,7 +14163,7 @@
 14	ta'	_	ADP	GEN	_	15	case	_	_
 15	Henley	_	PROPN	NOUN_PROP	_	13	nmod:poss	_	_
 16	&amp;	_	PUNCT	X_PUN	_	15	punct	_	_
-17	Partners	_	PROPN	NOUN_PROP	_	15	flat	_	_
+17	Partners	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
 18	,	_	PUNCT	X_PUN	_	9	punct	_	_
 19	irrid	_	VERB	VERB	_	5	xcomp	_	_
 20	ngħid	_	VERB	VERB	_	19	xcomp	_	_
@@ -14197,7 +14197,7 @@
 48	soċjetà	_	NOUN	NOUN	_	49	compound	_	_
 49	Henley	_	PROPN	NOUN_PROP	_	46	nmod:poss	_	_
 50	&amp;	_	PUNCT	X_PUN	_	49	punct	_	_
-51	Partners	_	PROPN	NOUN_PROP	_	49	flat	_	_
+51	Partners	_	PROPN	NOUN_PROP	_	49	flat:name	_	_
 52	fejn	_	PRON	PRON_INT	_	54	advmod	_	_
 53	magħhom	_	PRON	PREP_PRON	_	54	obl	_	_
 54	iddiskutejt	_	VERB	VERB	_	41	advcl	_	_
@@ -14278,7 +14278,7 @@
 30	minn	_	ADP	PREP	_	31	case	_	_
 31	Henley	_	PROPN	NOUN_PROP	_	26	nmod:agent	_	_
 32	&amp;	_	PUNCT	X_PUN	_	31	punct	_	_
-33	Partners	_	PROPN	NOUN_PROP	_	31	flat	_	_
+33	Partners	_	PROPN	NOUN_PROP	_	31	flat:name	_	_
 34	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 30_01P05:102
@@ -14290,7 +14290,7 @@
 6	ma	_	SCONJ	COMP	_	5	fixed	_	_
 7	Henley	_	PROPN	NOUN_PROP	_	11	nsubj:pass	_	_
 8	&amp;	_	PUNCT	X_PUN	_	7	punct	_	_
-9	Partners	_	PROPN	NOUN_PROP	_	7	flat	_	_
+9	Partners	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 10	ġew	_	VERB	VERB	_	11	aux:pass	_	_
 11	magħżula	_	VERB	PART_PASS	_	23	advcl	_	_
 12	bħala	_	ADP	PREP	_	13	case	_	_
@@ -14309,7 +14309,7 @@
 25	soċjetà	_	NOUN	NOUN	_	26	compound	_	_
 26	Henley	_	PROPN	NOUN_PROP	_	23	nmod:poss	_	_
 27	&amp;	_	PUNCT	X_PUN	_	26	punct	_	_
-28	Partners	_	PROPN	NOUN_PROP	_	26	flat	_	_
+28	Partners	_	PROPN	NOUN_PROP	_	26	flat:name	_	_
 29	jew	_	CCONJ	CONJ_CORD	_	32	cc	_	_
 30	ta'	_	ADP	GEN	_	32	case	_	_
 31	xi	_	DET	QUAN	_	32	det	_	_
@@ -14326,7 +14326,7 @@
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 30_01P05:104
-1	Onor	_	NOUN	X_ABV	_	3	flat	_	_
+1	Onor	_	NOUN	X_ABV	_	3	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
 3	Bonnici	_	PROPN	NOUN_PROP	_	8	vocative	_	_
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
@@ -14397,9 +14397,9 @@
 24	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 30_01P05:106
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -14523,7 +14523,7 @@
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 30_01P05:111
-1	Onor	_	NOUN	X_ABV	_	3	flat	_	_
+1	Onor	_	NOUN	X_ABV	_	3	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
 3	Bonnici	_	PROPN	NOUN_PROP	_	9	vocative	_	_
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
@@ -14574,9 +14574,9 @@
 49	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 30_01P05:112
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -14597,16 +14597,16 @@
 
 # sent_id = 30_01P05:115
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	Onor	_	NOUN	X_ABV	_	5	flat	_	_
+2	Onor	_	NOUN	X_ABV	_	5	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
-4	Charles	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Charles	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Mangion	_	PROPN	NOUN_PROP	_	0	root	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 30_01P05:116
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	CHARLES	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	CHARLES	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	MANGION	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -14690,16 +14690,16 @@
 
 # sent_id = 30_01P05:120
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	Onor	_	NOUN	X_ABV	_	5	flat	_	_
+2	Onor	_	NOUN	X_ABV	_	5	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
-4	Owen	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	Owen	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	Bonnici	_	PROPN	NOUN_PROP	_	0	root	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 30_01P05:121
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -14776,9 +14776,9 @@
 15	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 30_01P05:127
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	CHARLES	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	CHARLES	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	MANGION	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -15132,7 +15132,7 @@
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 30_01P05:135
-1	Onor	_	NOUN	X_ABV	_	3	flat	_	_
+1	Onor	_	NOUN	X_ABV	_	3	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
 3	Mangion	_	PROPN	NOUN_PROP	_	5	vocative	_	_
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
@@ -15153,7 +15153,7 @@
 19	ndur	_	VERB	VERB	_	18	xcomp	_	_
 20	fuq	_	ADP	PREP	_	24	case	_	_
 21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
-22	Onor	_	NOUN	X_ABV	_	24	flat	_	_
+22	Onor	_	NOUN	X_ABV	_	24	flat:name	_	_
 23	.	_	PUNCT	X_PUN	_	22	punct	_	_
 24	Grech	_	PROPN	NOUN_PROP	_	19	obl	_	_
 25	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
@@ -15213,9 +15213,9 @@
 79	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 30_01P05:136
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -15504,15 +15504,15 @@
 
 # sent_id = 30_01P05:147
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	Onor	_	NOUN	X_ABV	_	4	flat	_	_
+2	Onor	_	NOUN	X_ABV	_	4	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
 4	Bonnici	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 30_01P05:148
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -15575,7 +15575,7 @@
 25	ta'	_	ADP	GEN	_	26	case	_	_
 26	Henley	_	PROPN	NOUN_PROP	_	24	nmod:poss	_	_
 27	&amp;	_	PUNCT	X_PUN	_	26	punct	_	_
-28	Partners	_	PROPN	NOUN_PROP	_	26	flat	_	_
+28	Partners	_	PROPN	NOUN_PROP	_	26	flat:name	_	_
 29	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 30_01P05:151
@@ -15737,7 +15737,7 @@
 11	kuntratt	_	NOUN	NOUN	_	7	nmod:poss	_	_
 12	,	_	PUNCT	X_PUN	_	6	punct	_	_
 13	lill-	_	ADP	LIL_DEF	_	16	case:det	_	SpaceAfter=No
-14	Onor	_	NOUN	X_ABV	_	16	flat	_	_
+14	Onor	_	NOUN	X_ABV	_	16	flat:name	_	_
 15	.	_	PUNCT	X_PUN	_	14	punct	_	_
 16	Fenech	_	PROPN	NOUN_PROP	_	6	iobj	_	_
 17	.	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -15794,7 +15794,7 @@
 18	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 19	allura	_	ADV	ADV	_	24	advmod	_	_
 20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
-21	Onor	_	NOUN	X_ABV	_	23	flat	_	_
+21	Onor	_	NOUN	X_ABV	_	23	flat:name	_	_
 22	.	_	PUNCT	X_PUN	_	21	punct	_	_
 23	Fenech	_	PROPN	NOUN_PROP	_	24	nsubj:pass	_	_
 24	ingħata	_	VERB	VERB	_	14	conj	_	_
@@ -15898,7 +15898,7 @@
 26	tajjeb	_	ADV	ADV	_	25	advmod	_	_
 27	inti	_	PRON	PRON_PERS	_	25	nsubj	_	_
 28	,	_	PUNCT	X_PUN	_	27	punct	_	_
-29	Onor	_	NOUN	X_ABV	_	31	flat	_	_
+29	Onor	_	NOUN	X_ABV	_	31	flat:name	_	_
 30	.	_	PUNCT	X_PUN	_	29	punct	_	_
 31	Bonnici	_	PROPN	NOUN_PROP	_	27	appos	_	_
 32	,	_	PUNCT	X_PUN	_	31	punct	_	_
@@ -16085,7 +16085,7 @@
 10	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 30_01P05:170
-1	Onor	_	NOUN	X_ABV	_	3	flat	_	_
+1	Onor	_	NOUN	X_ABV	_	3	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
 3	Bonnici	_	PROPN	NOUN_PROP	_	6	vocative	_	_
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
@@ -16107,9 +16107,9 @@
 20	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 30_01P05:171
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -16236,7 +16236,7 @@
 20	rappreżentant	_	NOUN	NOUN	_	18	conj	_	_
 21	ta'	_	ADP	GEN	_	22	case	_	_
 22	Identity	_	PROPN	NOUN_PROP	_	20	nmod:poss	_	_
-23	Malta	_	PROPN	NOUN_PROP	_	22	flat	_	_
+23	Malta	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
 24	jiġi	_	VERB	VERB	_	10	ccomp	_	_
 25	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 26	jagħti	_	VERB	VERB	_	24	conj	_	_
@@ -16361,9 +16361,9 @@
 18	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 30_01P05:180
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -16410,7 +16410,7 @@
 7	tieħu	_	VERB	VERB	_	1	conj	_	_
 8	nota	_	NOUN	NOUN	_	7	obj	_	_
 9	,	_	PUNCT	X_PUN	_	12	punct	_	_
-10	Onor	_	NOUN	X_ABV	_	12	flat	_	_
+10	Onor	_	NOUN	X_ABV	_	12	flat:name	_	_
 11	.	_	PUNCT	X_PUN	_	12	punct	_	_
 12	Bonnici	_	PROPN	NOUN_PROP	_	7	vocative	_	_
 13	,	_	PUNCT	X_PUN	_	12	punct	_	_
@@ -16499,14 +16499,14 @@
 22	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 30_01P05:186
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	4	punct	_	_
-3	CLAUDIO	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	CLAUDIO	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	GRECH	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 30_01P05:187
-1	Onor	_	NOUN	X_ABV	_	3	flat	_	_
+1	Onor	_	NOUN	X_ABV	_	3	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
 3	Bonnici	_	PROPN	NOUN_PROP	_	6	vocative	_	_
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
@@ -16534,9 +16534,9 @@
 8	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 30_01P05:189
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -16554,9 +16554,9 @@
 11	?	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 30_01P05:191
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	CLAUDIO	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	CLAUDIO	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	GRECH	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -16573,9 +16573,9 @@
 10	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 30_01P05:193
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -16667,9 +16667,9 @@
 8	?	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 30_01P05:200
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -16794,9 +16794,9 @@
 31	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 30_01P05:208
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -16846,9 +16846,9 @@
 11	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 30_01P05:212
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	OWEN	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	OWEN	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	BONNICI	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 
@@ -16861,7 +16861,7 @@
 6	ħadd	_	PRON	PRON_INDEF	_	2	conj	_	SpaceAfter=No
 7	minn	_	ADP	PREP	_	8	case	_	_
 8	Identity	_	PROPN	NOUN_PROP	_	6	nmod	_	_
-9	Malta	_	PROPN	NOUN_PROP	_	8	flat	_	_
+9	Malta	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 10	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 30_01P05:214
@@ -16983,9 +16983,9 @@
 
 # sent_id = 38_02P06:4
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	ONOR	_	NOUN	X_ABV	_	5	flat	_	_
+2	ONOR	_	NOUN	X_ABV	_	5	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
-4	NOEL	_	PROPN	NOUN_PROP	_	5	flat	_	_
+4	NOEL	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 5	FARRUGIA	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
 6	staqsa	_	VERB	VERB	_	0	root	_	_
 7	lill-	_	ADP	LIL_DEF	_	8	case:det	_	SpaceAfter=No
@@ -17011,9 +17011,9 @@
 27	?	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 38_02P06:5
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NINU	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	ZAMMIT	_	PROPN	NOUN_PROP	_	27	list	_	_
 5	(	_	PUNCT	X_PUN	_	6	punct	_	_
 6	Ministru	_	NOUN	NOUN	_	4	appos	_	_
@@ -17051,11 +17051,11 @@
 38	.	_	PUNCT	X_PUN	_	27	punct	_	_
 
 # sent_id = 38_02P06:6
-1	MR	_	NOUN	X_ABV	_	2	flat	_	_
+1	MR	_	NOUN	X_ABV	_	2	flat:name	_	_
 2	SPEAKER	_	X	X_ENG	_	9	list	_	_
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
-5	Onor	_	NOUN	X_ABV	_	7	flat	_	_
+5	Onor	_	NOUN	X_ABV	_	7	flat:name	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 7	Farrugia	_	PROPN	NOUN_PROP	_	9	vocative	_	_
 8	,	_	PUNCT	X_PUN	_	7	punct	_	_
@@ -17064,9 +17064,9 @@
 11	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 38_02P06:7
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NOEL	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NOEL	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	FARRUGIA	_	PROPN	NOUN_PROP	_	17	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Ladarba	_	SCONJ	CONJ_SUB	_	10	mark	_	_
@@ -17121,7 +17121,7 @@
 55	.	_	PUNCT	X_PUN	_	17	punct	_	_
 
 # sent_id = 38_02P06:8
-1	MR	_	NOUN	X_ABV	_	2	flat	_	_
+1	MR	_	NOUN	X_ABV	_	2	flat:name	_	_
 2	SPEAKER	_	X	X_ENG	_	5	list	_	_
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 4	Il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
@@ -17129,9 +17129,9 @@
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 38_02P06:9
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NINU	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	ZAMMIT	_	PROPN	NOUN_PROP	_	9	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Mr	_	X	X_ENG	_	7	flat	_	_
@@ -17142,9 +17142,9 @@
 11	Kamra	_	NOUN	NOUN	_	9	obj	_	_
 12	li	_	SCONJ	COMP	_	20	mark	_	_
 13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
-14	Onor	_	NOUN	X_ABV	_	17	flat	_	_
+14	Onor	_	NOUN	X_ABV	_	17	flat:name	_	_
 15	.	_	PUNCT	X_PUN	_	14	punct	_	_
-16	Josef	_	PROPN	NOUN_PROP	_	17	flat	_	_
+16	Josef	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
 17	Bonnici	_	PROPN	NOUN_PROP	_	20	nsubj	_	_
 18	qiegħed	_	VERB	PART_ACT	_	20	cop	_	_
 19	fuq	_	ADP	PREP	_	20	case	_	_
@@ -17201,15 +17201,15 @@
 2	SPEAKER	_	X	X_ENG	_	7	list	_	_
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
-5	Onor	_	NOUN	X_ABV	_	7	flat	_	_
+5	Onor	_	NOUN	X_ABV	_	7	flat:name	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 7	Farrugia	_	PROPN	NOUN_PROP	_	0	root	_	_
 8	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 38_02P06:12
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NOEL	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NOEL	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	FARRUGIA	_	PROPN	NOUN_PROP	_	7	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Jiena	_	PRON	PRON_PERS	_	7	nsubj	_	_
@@ -17306,9 +17306,9 @@
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 38_02P06:15
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NINU	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	ZAMMIT	_	PROPN	NOUN_PROP	_	7	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Huwa	_	PRON	PRON_PERS	_	7	expl	_	_
@@ -17371,9 +17371,9 @@
 37	hawn	_	ADV	ADV	_	38	advmod	_	_
 38	preżenti	_	ADJ	ADJ	_	34	ccomp	_	_
 39	l-	_	DET	DEF	_	40	det	_	SpaceAfter=No
-40	Onor	_	NOUN	X_ABV	_	43	flat	_	_
+40	Onor	_	NOUN	X_ABV	_	43	flat:name	_	_
 41	.	_	PUNCT	X_PUN	_	40	punct	_	_
-42	Josef	_	PROPN	NOUN_PROP	_	43	flat	_	_
+42	Josef	_	PROPN	NOUN_PROP	_	43	flat:name	_	_
 43	Bonnici	_	PROPN	NOUN_PROP	_	38	nsubj	_	_
 44	biex	_	SCONJ	CONJ_SUB	_	45	mark	_	_
 45	jingħata	_	VERB	VERB	_	38	advcl	_	_
@@ -17389,14 +17389,14 @@
 2	SPEAKER	_	X	X_ENG	_	7	list	_	_
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
-5	Onor	_	NOUN	X_ABV	_	7	flat	_	_
+5	Onor	_	NOUN	X_ABV	_	7	flat:name	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 7	Farrugia	_	PROPN	NOUN_PROP	_	0	root	_	_
 
 # sent_id = 38_02P06:18
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NOEL	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NOEL	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	FARRUGIA	_	PROPN	NOUN_PROP	_	11	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Sur	_	NOUN	NOUN	_	7	compound	_	_
@@ -17467,9 +17467,9 @@
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 38_02P06:21
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NINU	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	ZAMMIT	_	PROPN	NOUN_PROP	_	12	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Sur	_	NOUN	NOUN	_	7	compound	_	_
@@ -17483,7 +17483,7 @@
 14	mod	_	NOUN	NOUN	_	12	obl	_	_
 15	formali	_	ADJ	ADJ	_	14	amod	_	_
 16	għall-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
-17	Onor	_	NOUN	X_ABV	_	19	flat	_	_
+17	Onor	_	NOUN	X_ABV	_	19	flat:name	_	_
 18	.	_	PUNCT	X_PUN	_	17	punct	_	_
 19	Bonnici	_	PROPN	NOUN_PROP	_	12	obl	_	_
 20	.	_	PUNCT	X_PUN	_	19	punct	_	_
@@ -17579,7 +17579,7 @@
 18	jinsisti	_	VERB	VERB	_	17	xcomp	_	_
 19	fuqha	_	PRON	PREP_PRON	_	18	obl:arg	_	_
 20	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
-21	Onor	_	NOUN	X_ABV	_	23	flat	_	_
+21	Onor	_	NOUN	X_ABV	_	23	flat:name	_	_
 22	.	_	PUNCT	X_PUN	_	21	punct	_	_
 23	Farrugia	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
 24	,	_	PUNCT	X_PUN	_	13	punct	_	_
@@ -17608,7 +17608,7 @@
 # sent_id = 38_02P06:27
 1	Jekk	_	SCONJ	CONJ_SUB	_	6	mark	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
-3	Onor	_	NOUN	X_ABV	_	5	flat	_	_
+3	Onor	_	NOUN	X_ABV	_	5	flat:name	_	_
 4	.	_	PUNCT	X_PUN	_	3	punct	_	_
 5	Farrugia	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
 6	jrid	_	VERB	VERB	_	14	advcl	_	_
@@ -17722,15 +17722,15 @@
 2	SPEAKER	_	X	X_ENG	_	7	list	_	_
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
-5	Onor	_	NOUN	X_ABV	_	7	flat	_	_
+5	Onor	_	NOUN	X_ABV	_	7	flat:name	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 7	Mizzi	_	PROPN	NOUN_PROP	_	0	root	_	_
 8	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 38_02P06:33
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	JOE	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	JOE	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	MIZZI	_	PROPN	NOUN_PROP	_	9	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
@@ -17807,7 +17807,7 @@
 13	hawn	_	ADV	ADV	_	8	advcl	_	_
 14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 15	Ministru	_	NOUN	NOUN	_	17	compound	_	_
-16	Josef	_	PROPN	NOUN_PROP	_	17	flat	_	_
+16	Josef	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
 17	Bonnici	_	PROPN	NOUN_PROP	_	13	nsubj	_	_
 18	?	_	PUNCT	X_PUN	_	7	punct	_	_
 
@@ -17837,9 +17837,9 @@
 5	Ministru	_	NOUN	NOUN	_	0	root	_	_
 
 # sent_id = 38_02P06:38
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NINU	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	ZAMMIT	_	PROPN	NOUN_PROP	_	7	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Jiena	_	PRON	PRON_PERS	_	7	nsubj	_	_
@@ -17874,7 +17874,7 @@
 4	jien	_	PRON	PRON_PERS	_	5	nsubj	_	_
 5	infakkar	_	VERB	VERB	_	0	root	_	_
 6	lill-	_	ADP	LIL_DEF	_	9	case:det	_	SpaceAfter=No
-7	Onor	_	NOUN	X_ABV	_	9	flat	_	_
+7	Onor	_	NOUN	X_ABV	_	9	flat:name	_	_
 8	.	_	PUNCT	X_PUN	_	7	punct	_	_
 9	Mizzi	_	PROPN	NOUN_PROP	_	5	obj	_	_
 10	li	_	SCONJ	COMP	_	21	mark	_	_
@@ -17926,15 +17926,15 @@
 2	SPEAKER	_	X	X_ENG	_	7	list	_	_
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
-5	Onor	_	NOUN	X_ABV	_	7	flat	_	_
+5	Onor	_	NOUN	X_ABV	_	7	flat:name	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 7	Mizzi	_	PROPN	NOUN_PROP	_	0	root	_	_
 8	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 38_02P06:43
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	JOE	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	JOE	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	MIZZI	_	PROPN	NOUN_PROP	_	15	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Meta	_	SCONJ	CONJ_SUB	_	9	mark	_	_
@@ -17975,9 +17975,9 @@
 6	xogħol	_	NOUN	NOUN	_	3	ccomp	_	_
 7	qiegħed	_	VERB	PART_ACT	_	6	cop	_	_
 8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
-9	Onor	_	NOUN	X_ABV	_	12	flat	_	_
+9	Onor	_	NOUN	X_ABV	_	12	flat:name	_	_
 10	.	_	PUNCT	X_PUN	_	9	punct	_	_
-11	Josef	_	PROPN	NOUN_PROP	_	12	flat	_	_
+11	Josef	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
 12	Bonnici	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
 13	?	_	PUNCT	X_PUN	_	2	punct	_	_
 
@@ -18007,9 +18007,9 @@
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 38_02P06:47
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NINU	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	ZAMMIT	_	PROPN	NOUN_PROP	_	6	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Nerġa'	_	VERB	VERB	_	0	root	_	_
@@ -18018,13 +18018,13 @@
 9	attenzjoni	_	NOUN	NOUN	_	7	obj	_	_
 10	ta'	_	ADP	GEN	_	14	case	_	_
 11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
-12	Onor	_	NOUN	X_ABV	_	14	flat	_	_
+12	Onor	_	NOUN	X_ABV	_	14	flat:name	_	_
 13	.	_	PUNCT	X_PUN	_	12	punct	_	_
 14	Mizzi	_	PROPN	NOUN_PROP	_	9	nmod:poss	_	_
 15	li	_	SCONJ	COMP	_	24	mark	_	_
 16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 17	Ministru	_	NOUN	NOUN	_	19	compound	_	_
-18	Josef	_	PROPN	NOUN_PROP	_	19	flat	_	_
+18	Josef	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 19	Bonnici	_	PROPN	NOUN_PROP	_	24	nsubj	_	_
 20	llum	_	ADV	ADV	_	24	advmod	_	_
 21	m'	_	PART	NEG	_	24	aux:neg	_	_
@@ -18064,9 +18064,9 @@
 10	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 38_02P06:50
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NINU	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	ZAMMIT	_	PROPN	NOUN_PROP	_	6	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Nerġa'	_	VERB	VERB	_	0	root	_	_
@@ -18092,9 +18092,9 @@
 26	interpellanzi	_	NOUN	NOUN	_	24	obl:arg	_	_
 27	kien	_	AUX	KIEN	_	32	cop	_	_
 28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
-29	Onor	_	NOUN	X_ABV	_	32	flat	_	_
+29	Onor	_	NOUN	X_ABV	_	32	flat:name	_	_
 30	.	_	PUNCT	X_PUN	_	29	punct	_	_
-31	Joe	_	PROPN	NOUN_PROP	_	32	flat	_	_
+31	Joe	_	PROPN	NOUN_PROP	_	32	flat:name	_	_
 32	Mizzi	_	PROPN	NOUN_PROP	_	7	ccomp	_	_
 33	,	_	PUNCT	X_PUN	_	32	punct	_	_
 34	ministru	_	NOUN	NOUN	_	32	appos	_	_
@@ -18120,7 +18120,7 @@
 5	x'	_	PRON	PRON_INT	_	6	obj	_	_
 6	jidħaq	_	VERB	VERB	_	4	ccomp	_	_
 7	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
-8	Onor	_	NOUN	X_ABV	_	10	flat	_	_
+8	Onor	_	NOUN	X_ABV	_	10	flat:name	_	_
 9	.	_	PUNCT	X_PUN	_	8	punct	_	_
 10	Farrugia	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
 11	!	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -18130,15 +18130,15 @@
 2	SPEAKER	_	X	X_ENG	_	7	list	_	_
 3	:	_	PUNCT	X_PUN	_	2	punct	_	_
 4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
-5	Onor	_	NOUN	X_ABV	_	7	flat	_	_
+5	Onor	_	NOUN	X_ABV	_	7	flat:name	_	_
 6	.	_	PUNCT	X_PUN	_	5	punct	_	_
 7	Farrugia	_	PROPN	NOUN_PROP	_	0	root	_	_
 8	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 38_02P06:54
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	NOEL	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	NOEL	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	FARRUGIA	_	PROPN	NOUN_PROP	_	7	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Qed	_	AUX	PROG	_	7	aux:part	_	_
@@ -18153,9 +18153,9 @@
 15	kien	_	AUX	KIEN	_	16	aux	_	_
 16	jirrispondi	_	VERB	VERB	_	12	xcomp	_	_
 17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
-18	Onor	_	NOUN	X_ABV	_	21	flat	_	_
+18	Onor	_	NOUN	X_ABV	_	21	flat:name	_	_
 19	.	_	PUNCT	X_PUN	_	18	punct	_	_
-20	Joe	_	PROPN	NOUN_PROP	_	21	flat	_	_
+20	Joe	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
 21	Mizzi	_	PROPN	NOUN_PROP	_	16	obj	_	_
 22	!	_	PUNCT	X_PUN	_	7	punct	_	_
 
@@ -18310,9 +18310,9 @@
 8	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 38_02P06:61
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	LAWRENCE	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	LAWRENCE	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	GONZI	_	PROPN	NOUN_PROP	_	24	list	_	_
 5	(	_	PUNCT	X_PUN	_	8	punct	_	_
 6	Viċi	_	ADJ	ADJ	_	8	amod	_	_
@@ -18357,34 +18357,34 @@
 45	hawn	_	ADV	ADV	_	37	acl	_	_
 46	,	_	PUNCT	X_PUN	_	37	punct	_	_
 47	l-	_	DET	DEF	_	48	det	_	SpaceAfter=No
-48	Onor	_	NOUN	X_ABV	_	51	flat	_	_
+48	Onor	_	NOUN	X_ABV	_	51	flat:name	_	_
 49	.	_	PUNCT	X_PUN	_	48	punct	_	_
-50	Charles	_	PROPN	NOUN_PROP	_	51	flat	_	_
+50	Charles	_	PROPN	NOUN_PROP	_	51	flat:name	_	_
 51	Buhagiar	_	PROPN	NOUN_PROP	_	37	conj	_	_
 52	,	_	PUNCT	X_PUN	_	37	punct	_	_
 53	l-	_	DET	DEF	_	54	det	_	SpaceAfter=No
-54	Onor	_	NOUN	X_ABV	_	58	flat	_	_
+54	Onor	_	NOUN	X_ABV	_	58	flat:name	_	_
 55	.	_	PUNCT	X_PUN	_	54	punct	_	_
-56	John	_	PROPN	NOUN_PROP	_	58	flat	_	_
-57	Attard	_	PROPN	NOUN_PROP	_	58	flat	_	_
+56	John	_	PROPN	NOUN_PROP	_	58	flat:name	_	_
+57	Attard	_	PROPN	NOUN_PROP	_	58	flat:name	_	_
 58	Montalto	_	PROPN	NOUN_PROP	_	37	conj	_	_
 59	,	_	PUNCT	X_PUN	_	37	punct	_	_
 60	l-	_	DET	DEF	_	61	det	_	SpaceAfter=No
-61	Onor	_	NOUN	X_ABV	_	64	flat	_	_
+61	Onor	_	NOUN	X_ABV	_	64	flat:name	_	_
 62	.	_	PUNCT	X_PUN	_	61	punct	_	_
-63	Joe	_	PROPN	NOUN_PROP	_	64	flat	_	_
+63	Joe	_	PROPN	NOUN_PROP	_	64	flat:name	_	_
 64	Cuschieri	_	PROPN	NOUN_PROP	_	37	conj	_	_
 65	,	_	PUNCT	X_PUN	_	37	punct	_	_
 66	l-	_	DET	DEF	_	67	det	_	SpaceAfter=No
-67	Onor	_	NOUN	X_ABV	_	70	flat	_	_
+67	Onor	_	NOUN	X_ABV	_	70	flat:name	_	_
 68	.	_	PUNCT	X_PUN	_	67	punct	_	_
-69	Helena	_	PROPN	NOUN_PROP	_	70	flat	_	_
+69	Helena	_	PROPN	NOUN_PROP	_	70	flat:name	_	_
 70	Dall	_	PROPN	NOUN_PROP	_	37	conj	_	_
 71	u	_	CCONJ	CONJ_CORD	_	37	cc	_	_
 72	l-	_	DET	DEF	_	73	det	_	SpaceAfter=No
-73	Onor	_	NOUN	X_ABV	_	76	flat	_	_
+73	Onor	_	NOUN	X_ABV	_	76	flat:name	_	_
 74	.	_	PUNCT	X_PUN	_	73	punct	_	_
-75	Carmelo	_	PROPN	NOUN_PROP	_	76	flat	_	_
+75	Carmelo	_	PROPN	NOUN_PROP	_	76	flat:name	_	_
 76	Vella	_	PROPN	NOUN_PROP	_	37	conj	_	_
 77	.	_	PUNCT	X_PUN	_	24	punct	_	_
 
@@ -18400,15 +18400,15 @@
 9	hawn	_	ADV	ADV	_	0	root	_	_
 10	ħlief	_	ADP	PREP	_	15	case	_	_
 11	għall-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
-12	Onor	_	NOUN	X_ABV	_	15	flat	_	_
+12	Onor	_	NOUN	X_ABV	_	15	flat:name	_	_
 13	.	_	PUNCT	X_PUN	_	12	punct	_	_
-14	Noel	_	PROPN	NOUN_PROP	_	15	flat	_	_
+14	Noel	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
 15	Farrugia	_	PROPN	NOUN_PROP	_	9	obl	_	_
 16	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
 17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
-18	Onor	_	NOUN	X_ABV	_	21	flat	_	_
+18	Onor	_	NOUN	X_ABV	_	21	flat:name	_	_
 19	.	_	PUNCT	X_PUN	_	18	punct	_	_
-20	Joe	_	PROPN	NOUN_PROP	_	21	flat	_	_
+20	Joe	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
 21	Mizzi	_	PROPN	NOUN_PROP	_	15	conj	_	_
 22	!	_	PUNCT	X_PUN	_	9	punct	_	_
 
@@ -18423,15 +18423,15 @@
 8	order	_	X	X_ENG	_	6	flat	_	_
 9	,	_	PUNCT	X_PUN	_	6	punct	_	_
 10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
-11	Onor	_	NOUN	X_ABV	_	13	flat	_	_
+11	Onor	_	NOUN	X_ABV	_	13	flat:name	_	_
 12	.	_	PUNCT	X_PUN	_	11	punct	_	_
 13	Mizzi	_	PROPN	NOUN_PROP	_	0	root	_	_
 14	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 38_02P06:64
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	JOE	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	JOE	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	MIZZI	_	PROPN	NOUN_PROP	_	28	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Filwaqt	_	SCONJ	CONJ_SUB	_	10	mark	_	_
@@ -18567,15 +18567,15 @@
 
 # sent_id = 38_02P06:70
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	Onor	_	NOUN	X_ABV	_	4	flat	_	_
+2	Onor	_	NOUN	X_ABV	_	4	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
 4	Mizzi	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 38_02P06:71
-1	ONOR	_	NOUN	X_ABV	_	4	flat	_	_
+1	ONOR	_	NOUN	X_ABV	_	4	flat:name	_	_
 2	.	_	PUNCT	X_PUN	_	1	punct	_	_
-3	JOE	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	JOE	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	MIZZI	_	PROPN	NOUN_PROP	_	6	list	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
 6	Ninsisti	_	VERB	VERB	_	0	root	_	_
@@ -18609,36 +18609,36 @@
 1	Preżenti	_	ADJ	ADJ	_	0	root	_	_
 2	kienu	_	AUX	KIEN	_	1	cop	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
-4	Onor	_	NOUN	X_ABV	_	7	flat	_	_
+4	Onor	_	NOUN	X_ABV	_	7	flat:name	_	_
 5	:	_	PUNCT	X_PUN	_	4	punct	_	_
-6	Francis	_	PROPN	NOUN_PROP	_	7	flat	_	_
+6	Francis	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Agius	_	PROPN	NOUN_PROP	_	1	nsubj	_	_
-8	Frederick	_	PROPN	NOUN_PROP	_	9	flat	_	_
+8	Frederick	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Azzopardi	_	PROPN	NOUN_PROP	_	7	conj	_	_
-10	Michael	_	PROPN	NOUN_PROP	_	11	flat	_	_
+10	Michael	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
 11	Bonnici	_	PROPN	NOUN_PROP	_	7	conj	_	_
-12	Joe	_	PROPN	NOUN_PROP	_	13	flat	_	_
+12	Joe	_	PROPN	NOUN_PROP	_	13	flat:name	_	_
 13	Borg	_	PROPN	NOUN_PROP	_	7	conj	_	_
-14	Tonio	_	PROPN	NOUN_PROP	_	15	flat	_	_
+14	Tonio	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
 15	Borg	_	PROPN	NOUN_PROP	_	7	conj	_	_
-16	John	_	PROPN	NOUN_PROP	_	17	flat	_	_
+16	John	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
 17	Dalli	_	PROPN	NOUN_PROP	_	7	conj	_	_
-18	Louis	_	PROPN	NOUN_PROP	_	19	flat	_	_
+18	Louis	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 19	Deguara	_	PROPN	NOUN_PROP	_	7	conj	_	_
-20	Eddie	_	PROPN	NOUN_PROP	_	22	flat	_	_
-21	Fenech	_	PROPN	NOUN_PROP	_	22	flat	_	_
+20	Eddie	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
+21	Fenech	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
 22	Adami	_	PROPN	NOUN_PROP	_	7	conj	_	_
-23	Censu	_	PROPN	NOUN_PROP	_	24	flat	_	_
+23	Censu	_	PROPN	NOUN_PROP	_	24	flat:name	_	_
 24	Galea	_	PROPN	NOUN_PROP	_	7	conj	_	_
-25	Mario	_	PROPN	NOUN_PROP	_	26	flat	_	_
+25	Mario	_	PROPN	NOUN_PROP	_	26	flat:name	_	_
 26	Galea	_	PROPN	NOUN_PROP	_	7	conj	_	_
-27	Lawrence	_	PROPN	NOUN_PROP	_	28	flat	_	_
+27	Lawrence	_	PROPN	NOUN_PROP	_	28	flat:name	_	_
 28	Gonzi	_	PROPN	NOUN_PROP	_	7	conj	_	_
-29	Joe	_	PROPN	NOUN_PROP	_	30	flat	_	_
+29	Joe	_	PROPN	NOUN_PROP	_	30	flat:name	_	_
 30	Mizzi	_	PROPN	NOUN_PROP	_	7	conj	_	_
-31	Michael	_	PROPN	NOUN_PROP	_	32	flat	_	_
+31	Michael	_	PROPN	NOUN_PROP	_	32	flat:name	_	_
 32	Refalo	_	PROPN	NOUN_PROP	_	7	conj	_	_
-33	Ninu	_	PROPN	NOUN_PROP	_	34	flat	_	_
+33	Ninu	_	PROPN	NOUN_PROP	_	34	flat:name	_	_
 34	Zammit	_	PROPN	NOUN_PROP	_	7	conj	_	_
 
 # sent_id = 38_02P06:74
@@ -19991,13 +19991,13 @@
 20	...	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 45_07F09:1
-1	ALTAF	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	ALTAF	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	NAIFEH	_	PROPN	NOUN_PROP	_	0	root	_	_
 
 # sent_id = 45_07F09:2
 1	Isem	_	NOUN	NOUN	_	0	root	_	_
 2	:	_	PUNCT	X_PUN	_	1	punct	_	_
-3	Altaf	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	Altaf	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	Naifeh	_	PROPN	NOUN_PROP	_	1	appos	_	_
 5	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
@@ -20234,7 +20234,7 @@
 27	l-	_	DET	DEF	_	28	det	_	SpaceAfter=No
 28	quddiesa	_	NOUN	NOUN	_	26	obj	_	_
 29	ta'	_	ADP	GEN	_	31	case	_	_
-30	Fr.	_	PROPN	NOUN_PROP	_	31	flat	_	_
+30	Fr.	_	PROPN	NOUN_PROP	_	31	flat:name	_	_
 31	Tonio	_	PROPN	NOUN_PROP	_	28	nmod:poss	_	_
 32	.	_	PUNCT	X_PUN	_	16	punct	_	_
 
@@ -23022,7 +23022,7 @@
 17	skiet	_	NOUN	NOUN	_	15	obl	_	_
 18	lejn	_	ADP	PREP	_	19	case	_	_
 19	Ħaġar	_	PROPN	NOUN_PROP	_	15	obl	_	_
-20	Qim	_	PROPN	NOUN_PROP	_	19	flat	_	_
+20	Qim	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 21	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 47_01F09:68
@@ -25221,10 +25221,10 @@
 14	ż-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 15	Żejtun	_	PROPN	NOUN_PROP	_	11	obl	_	_
 16	:	_	PUNCT	X_PUN	_	11	punct	_	_
-17	Frans	_	PROPN	NOUN_PROP	_	18	flat	_	_
+17	Frans	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
 18	Mercieca	_	PROPN	NOUN_PROP	_	12	appos	_	_
 19	,	_	PUNCT	X_PUN	_	18	punct	_	_
-20	Michael	_	PROPN	NOUN_PROP	_	21	flat	_	_
+20	Michael	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
 21	Psaila	_	PROPN	NOUN_PROP	_	18	conj	_	_
 22	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
 23	jien	_	PRON	PRON_PERS	_	18	conj	_	_
@@ -25803,7 +25803,7 @@
 65	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 49_03F09:38
-1	Reno	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Reno	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Caruana	_	PROPN	NOUN_PROP	_	0	root	_	_
 
 # sent_id = 49_03F09:39
@@ -25840,7 +25840,7 @@
 4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	ħbiberija	_	NOUN	NOUN	_	0	root	_	_
 6	ma'	_	ADP	PREP	_	8	case	_	_
-7	Reno	_	PROPN	NOUN_PROP	_	8	flat	_	_
+7	Reno	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 8	Caruana	_	PROPN	NOUN_PROP	_	5	nmod	_	_
 9	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
@@ -25876,9 +25876,9 @@
 19	dar	_	NOUN	NOUN	_	17	obl	_	_
 20	ta'	_	ADP	GEN	_	21	case	_	_
 21	Triq	_	NOUN	NOUN	_	19	nmod:poss	_	_
-22	San	_	PROPN	NOUN_PROP	_	23	flat	_	_
+22	San	_	PROPN	NOUN_PROP	_	23	flat:name	_	_
 23	Piju	_	PROPN	NOUN_PROP	_	21	nmod:poss	_	_
-24	X	_	SYM	X_BOR	_	23	flat	_	_
+24	X	_	SYM	X_BOR	_	23	flat:name	_	_
 25	,	_	PUNCT	X_PUN	_	17	punct	_	_
 26	ġieli	_	ADV	ADV	_	28	advmod	_	_
 27	anki	_	ADV	FOC	_	28	discourse	_	_
@@ -26115,10 +26115,10 @@
 5	grupp	_	NOUN	NOUN	_	0	root	_	_
 6	ġmielu	_	NOUN	NOUN	_	5	nmod	_	_
 7	:	_	PUNCT	X_PUN	_	5	punct	_	_
-8	Frans	_	PROPN	NOUN_PROP	_	9	flat	_	_
+8	Frans	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Mercieca	_	PROPN	NOUN_PROP	_	5	ccomp	_	_
 10	,	_	PUNCT	X_PUN	_	9	punct	_	_
-11	Joe	_	PROPN	NOUN_PROP	_	12	flat	_	_
+11	Joe	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
 12	Huber	_	PROPN	NOUN_PROP	_	9	conj	_	_
 13	(	_	PUNCT	X_PUN	_	16	punct	_	_
 14	li	_	SCONJ	COMP	_	16	mark	_	_
@@ -26146,11 +26146,11 @@
 36	Żejtun	_	PROPN	NOUN_PROP	_	32	obl	_	_
 37	)	_	PUNCT	X_PUN	_	12	punct	_	_
 38	,	_	PUNCT	X_PUN	_	9	punct	_	_
-39	Charles	_	PROPN	NOUN_PROP	_	41	flat	_	_
-40	Vella	_	PROPN	NOUN_PROP	_	41	flat	_	_
+39	Charles	_	PROPN	NOUN_PROP	_	41	flat:name	_	_
+40	Vella	_	PROPN	NOUN_PROP	_	41	flat:name	_	_
 41	Haber	_	PROPN	NOUN_PROP	_	9	conj	_	_
 42	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
-43	Vince	_	PROPN	NOUN_PROP	_	44	flat	_	_
+43	Vince	_	PROPN	NOUN_PROP	_	44	flat:name	_	_
 44	Piccinino	_	PROPN	NOUN_PROP	_	9	conj	_	_
 45	,	_	PUNCT	X_PUN	_	9	punct	_	_
 46	ilkoll	_	PRON	PRON_INDEF	_	9	nmod	_	SpaceAfter=No
@@ -26996,7 +26996,7 @@
 4	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 50_01N10:1
-1	Walter	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Walter	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Pater	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
 3	kien	_	AUX	KIEN	_	4	aux	_	_
 4	iddefinixxa	_	VERB	VERB	_	0	root	_	_
@@ -27019,7 +27019,7 @@
 5	Western	_	X	X_ENG	_	6	flat	_	_
 6	Canon	_	X	X_ENG	_	10	obl	_	_
 7	"	_	PUNCT	X_PUN	_	6	punct	_	_
-8	Harold	_	PROPN	NOUN_PROP	_	9	flat	_	_
+8	Harold	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 9	Bloom	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
 10	jgħid	_	VERB	VERB	_	0	root	_	_
 11	li	_	SCONJ	COMP	_	17	mark	_	_
@@ -27427,7 +27427,7 @@
 22	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 50_01N10:19
-1	San	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	San	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Valentinu	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	taqbad	_	VERB	VERB	_	0	root	_	_
 4	nofs	_	NUM	NUM_FRC	_	6	nummod	_	_
@@ -27686,7 +27686,7 @@
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	istejjer	_	NOUN	NOUN	_	7	nsubj	_	_
 4	ta'	_	ADP	GEN	_	6	case	_	_
-5	San	_	PROPN	NOUN_PROP	_	6	flat	_	_
+5	San	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 6	Valentinu	_	PROPN	NOUN_PROP	_	3	nmod:poss	_	_
 7	jibqgħu	_	VERB	VERB	_	0	root	_	_
 8	sospiżi	_	ADJ	ADJ	_	7	xcomp	_	_
@@ -27814,8 +27814,8 @@
 48	mimlijin	_	VERB	PART_PASS	_	47	acl	_	_
 49	ċellolite	_	NOUN	NOUN	_	48	obl:arg	_	_
 50	ta'	_	ADP	GEN	_	53	case	_	_
-51	Pietru	_	PROPN	NOUN_PROP	_	53	flat	_	_
-52	Pawl	_	PROPN	NOUN_PROP	_	53	flat	_	_
+51	Pietru	_	PROPN	NOUN_PROP	_	53	flat:name	_	_
+52	Pawl	_	PROPN	NOUN_PROP	_	53	flat:name	_	_
 53	Rubens	_	PROPN	NOUN_PROP	_	47	nmod:poss	_	_
 54	.	_	PUNCT	X_PUN	_	18	punct	_	_
 
@@ -27884,7 +27884,7 @@
 18	film	_	NOUN	NOUN	_	16	nmod	_	_
 19	ta'	_	ADP	GEN	_	20	case	_	_
 20	Snow	_	PROPN	NOUN_PROP	_	18	nmod:poss	_	_
-21	White	_	PROPN	NOUN_PROP	_	20	flat	_	_
+21	White	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 22	.	_	PUNCT	X_PUN	_	6	punct	_	_
 23	"	_	PUNCT	X_PUN	_	6	punct	_	_
 24	(	_	PUNCT	X_PUN	_	25	punct	_	_
@@ -28244,8 +28244,8 @@
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	Miklem	_	NOUN	NOUN	_	8	nsubj	_	_
 4	ta'	_	ADP	GEN	_	7	case	_	_
-5	Erin	_	PROPN	NOUN_PROP	_	7	flat	_	_
-6	Serracino	_	PROPN	NOUN_PROP	_	7	flat	_	_
+5	Erin	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
+6	Serracino	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 7	Inglott	_	PROPN	NOUN_PROP	_	3	nmod:poss	_	_
 8	jgħidilna	_	VERB	VERB	_	0	root	_	_
 9	wkoll	_	ADV	FOC	_	8	discourse	_	_
@@ -28549,7 +28549,7 @@
 7	,	_	PUNCT	X_PUN	_	3	punct	_	_
 8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	pittur	_	NOUN	NOUN	_	11	compound	_	_
-10	Nicolo	_	PROPN	NOUN_PROP	_	11	flat	_	_
+10	Nicolo	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
 11	Armani	_	PROPN	NOUN_PROP	_	14	nsubj	_	_
 12	kemm-il	_	PRON	PRON_INT	_	13	nmod	_	_
 13	darba	_	NOUN	NOUN	_	14	obl	_	_
@@ -28733,9 +28733,9 @@
 15	xi	_	DET	QUAN	_	16	advmod	_	_
 16	kultant	_	ADV	ADV	_	14	advmod	_	_
 17	f'	_	ADP	PREP	_	22	case	_	_
-18	D	_	NOUN	NOUN	_	22	flat	_	_
+18	D	_	NOUN	NOUN	_	22	flat:name	_	_
 19	.	_	PUNCT	X_PUN	_	18	punct	_	_
-20	H	_	SYM	X_BOR	_	22	flat	_	_
+20	H	_	SYM	X_BOR	_	22	flat:name	_	_
 21	.	_	PUNCT	X_PUN	_	20	punct	_	_
 22	Lawrence	_	PROPN	NOUN_PROP	_	14	obl:arg	_	_
 23	:	_	PUNCT	X_PUN	_	5	punct	_	_
@@ -28853,7 +28853,7 @@
 26	.	_	PUNCT	X_PUN	_	5	punct	_	_
 27	"	_	PUNCT	X_PUN	_	5	punct	_	_
 28	(	_	PUNCT	X_PUN	_	30	punct	_	_
-29	San	_	PROPN	NOUN_PROP	_	30	flat	_	_
+29	San	_	PROPN	NOUN_PROP	_	30	flat:name	_	_
 30	Valentinu	_	PROPN	NOUN_PROP	_	5	list	_	_
 31	)	_	PUNCT	X_PUN	_	30	punct	_	_
 32	.	_	PUNCT	X_PUN	_	30	punct	_	_
@@ -28886,7 +28886,7 @@
 16	hekk	_	ADV	ADV	_	18	mark	_	_
 17	kif	_	PRON	PRON_INT	_	16	fixed	_	_
 18	jitfaċċa	_	VERB	VERB	_	10	advcl	_	_
-19	Karmnu	_	PROPN	NOUN_PROP	_	20	flat	_	_
+19	Karmnu	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
 20	Bagolli	_	PROPN	NOUN_PROP	_	18	obj	_	_
 21	bil-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
 22	lasta	_	NOUN	NOUN	_	18	obl	_	_
@@ -29934,7 +29934,7 @@
 12	antik	_	ADJ	ADJ	_	11	amod	_	_
 13	taz-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
 14	zija	_	NOUN	NOUN	_	16	compound	_	_
-15	Sor	_	NOUN	NOUN	_	16	flat	_	_
+15	Sor	_	NOUN	NOUN	_	16	flat:name	_	_
 16	Mansweta	_	PROPN	NOUN_PROP	_	11	nmod:poss	_	_
 17	li	_	SCONJ	COMP	_	24	mark	_	_
 18	ta'	_	ADP	GEN	_	19	case	_	_
@@ -30149,7 +30149,7 @@
 # sent_id = 50_01N10:120
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	mużiċist	_	NOUN	NOUN	_	4	compound	_	_
-3	Lino	_	PROPN	NOUN_PROP	_	4	flat	_	_
+3	Lino	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 4	Darmanin	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
 5	isib	_	VERB	VERB	_	0	root	_	_
 6	rumanzett	_	NOUN	NOUN	_	5	obj	_	_
@@ -31374,7 +31374,7 @@
 
 # sent_id = 53_04N10:30
 1	(	_	PUNCT	X_PUN	_	3	punct	_	_
-2	Karmenu	_	PROPN	NOUN_PROP	_	3	flat	_	_
+2	Karmenu	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
 3	Spiteri	_	PROPN	NOUN_PROP	_	0	root	_	_
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
 5	iż-	_	DET	DEF	_	6	det	_	SpaceAfter=No
@@ -33615,7 +33615,7 @@
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	pjanta	_	NOUN	NOUN	_	25	nsubj	_	_
 4	capsicum	_	X	X_FOR	_	3	appos	_	_
-5	annuum	_	X	X_FOR	_	4	flat	_	_
+5	annuum	_	X	X_FOR	_	4	flat:name	_	_
 6	,	_	PUNCT	X_PUN	_	9	punct	_	_
 7	li	_	SCONJ	COMP	_	9	mark	_	_
 8	aħna	_	PRON	PRON_PERS	_	9	nsubj	_	_
@@ -33808,7 +33808,7 @@
 8	mnissla	_	VERB	PART_PASS	_	4	acl	_	_
 9	mill-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
 10	capsicum	_	X	X_FOR	_	8	obl	_	_
-11	annuum	_	X	X_FOR	_	10	flat	_	_
+11	annuum	_	X	X_FOR	_	10	flat:name	_	_
 12	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 56_03N11:10
@@ -33917,7 +33917,7 @@
 13	isem	_	NOUN	NOUN	_	11	obj	_	_
 14	ta'	_	ADP	GEN	_	15	case	_	_
 15	solanum	_	X	X_FOR	_	13	nmod:poss	_	_
-16	pseudocapsicastrum	_	X	X_FOR	_	15	flat	_	_
+16	pseudocapsicastrum	_	X	X_FOR	_	15	flat:name	_	_
 17	li	_	SCONJ	COMP	_	22	mark	_	_
 18	kontra	_	ADP	PREP	_	20	case	_	_
 19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
@@ -33964,7 +33964,7 @@
 27	dak	_	PRON	PRON_DEM	_	32	nsubj	_	_
 28	tas-	_	ADP	GEN_DEF	_	29	case:det	_	SpaceAfter=No
 29	solanum	_	X	X_FOR	_	27	nmod:poss	_	_
-30	pseudocapsicastrum	_	X	X_FOR	_	29	flat	_	_
+30	pseudocapsicastrum	_	X	X_FOR	_	29	flat:name	_	_
 31	huwa	_	PRON	PRON_PERS	_	32	cop	_	_
 32	velenuż	_	ADJ	ADJ	_	1	advcl	_	_
 33	ħafna	_	ADV	ADV	_	32	advmod	_	_
@@ -34985,7 +34985,7 @@
 # sent_id = 56_03N11:64
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	capsicum	_	X	X_FOR	_	6	nsubj	_	_
-3	annuum	_	X	X_FOR	_	2	flat	_	_
+3	annuum	_	X	X_FOR	_	2	flat:name	_	_
 4	bosta	_	DET	QUAN	_	5	det	_	_
 5	drabi	_	NOUN	NOUN	_	6	obl	_	_
 6	juru	_	VERB	VERB	_	0	root	_	_
@@ -35500,11 +35500,11 @@
 33	fl-	_	ADP	PREP_DEF	_	34	case:det	_	SpaceAfter=No
 34	2001	_	NUM	X_DIG	_	32	obl	_	_
 35	lin-	_	ADP	LIL_DEF	_	38	case:det	_	SpaceAfter=No
-36	New	_	PROPN	NOUN_PROP	_	38	flat	_	_
-37	York	_	PROPN	NOUN_PROP	_	38	flat	_	_
+36	New	_	PROPN	NOUN_PROP	_	38	flat:name	_	_
+37	York	_	PROPN	NOUN_PROP	_	38	flat:name	_	_
 38	Times	_	PROPN	NOUN_PROP	_	32	iobj	_	_
-39	Bruce	_	PROPN	NOUN_PROP	_	42	flat	_	_
-40	H	_	PROPN	NOUN_PROP	_	42	flat	_	_
+39	Bruce	_	PROPN	NOUN_PROP	_	42	flat:name	_	_
+40	H	_	PROPN	NOUN_PROP	_	42	flat:name	_	_
 41	.	_	PUNCT	X_PUN	_	40	punct	_	_
 42	Margon	_	PROPN	NOUN_PROP	_	32	nsubj	_	_
 43	,	_	PUNCT	X_PUN	_	42	punct	_	_
@@ -35829,7 +35829,7 @@
 2	1933	_	NUM	X_DIG	_	9	obl	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	astronomu	_	NOUN	NOUN	_	6	compound	_	_
-5	Fritz	_	PROPN	NOUN_PROP	_	6	flat	_	_
+5	Fritz	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 6	Zwicky	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
 7	kien	_	AUX	KIEN	_	9	aux	_	_
 8	qiegħed	_	AUX	PROG	_	9	aux:part	_	_
@@ -36051,9 +36051,9 @@
 4	użu	_	NOUN	NOUN	_	27	obl	_	_
 5	tat-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
 6	teleskopju	_	NOUN	NOUN	_	10	compound	_	_
-7	Canada-	_	PROPN	NOUN_PROP	_	10	flat	_	_
-8	France-	_	PROPN	NOUN_PROP	_	10	flat	_	_
-9	Hawaii	_	PROPN	NOUN_PROP	_	10	flat	_	_
+7	Canada-	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
+8	France-	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
+9	Hawaii	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
 10	Telescope	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
 11	(	_	PUNCT	X_PUN	_	12	punct	_	_
 12	Cfht	_	NOUN	X_ABV	_	10	appos	_	_
@@ -36064,7 +36064,7 @@
 17	fuq	_	ADP	PREP	_	19	case	_	_
 18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	muntanja	_	NOUN	NOUN	_	21	compound	_	_
-20	Mauna	_	PROPN	NOUN_PROP	_	21	flat	_	_
+20	Mauna	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
 21	Kea	_	PROPN	NOUN_PROP	_	16	obl	_	_
 22	fil-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
 23	Ħawaii	_	PROPN	NOUN_PROP	_	21	nmod	_	_
@@ -37196,7 +37196,7 @@
 2	:	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 58_05N11:62
-1	Arrigo	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Arrigo	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Finzi	_	PROPN	NOUN_PROP	_	0	root	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	gravitazzjoni	_	NOUN	NOUN	_	2	list	_	_
@@ -37206,7 +37206,7 @@
 8	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 58_05N11:63
-1	Robert	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Robert	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Sanders	_	PROPN	NOUN_PROP	_	0	root	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	gravitazzjoni	_	NOUN	NOUN	_	2	list	_	_
@@ -37216,8 +37216,8 @@
 8	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 58_05N11:64
-1	John	_	PROPN	NOUN_PROP	_	4	flat	_	_
-2	W	_	NOUN	X_ABV	_	4	flat	_	_
+1	John	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
+2	W	_	NOUN	X_ABV	_	4	flat:name	_	_
 3	.	_	PUNCT	X_PUN	_	2	punct	_	_
 4	Moffatt	_	PROPN	NOUN_PROP	_	0	root	_	_
 5	,	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -37235,14 +37235,14 @@
 17	1994	_	NUM	X_DIG	_	4	list	_	_
 
 # sent_id = 58_05N11:65
-1	Alexander	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Alexander	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Mayer	_	PROPN	NOUN_PROP	_	0	root	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	2005	_	NUM	X_DIG	_	2	list	_	_
 5	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 58_05N11:66
-1	Mordehai	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Mordehai	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Milgrom	_	PROPN	NOUN_PROP	_	0	root	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	it-	_	DET	DEF	_	5	det	_	SpaceAfter=No
@@ -37324,13 +37324,13 @@
 14	ħofor	_	NOUN	NOUN	_	12	nmod:poss	_	_
 15	suwed	_	ADJ	ADJ	_	14	amod	_	_
 16	,	_	PUNCT	X_PUN	_	19	punct	_	_
-17	Jacob	_	PROPN	NOUN_PROP	_	19	flat	_	_
-18	David	_	PROPN	NOUN_PROP	_	19	flat	_	_
+17	Jacob	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
+18	David	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 19	Bekenstein	_	PROPN	NOUN_PROP	_	10	appos	_	_
 20	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 58_05N11:69
-1	Jacob	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Jacob	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Bekenstein	_	PROPN	NOUN_PROP	_	0	root	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	tensor-	_	X	X_ENG	_	2	list	_	_
@@ -37345,7 +37345,7 @@
 13	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 58_05N11:70
-1	Johan	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Johan	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Masreliez	_	PROPN	NOUN_PROP	_	0	root	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	Scale	_	X	X_ENG	_	2	list	_	_
@@ -37402,7 +37402,7 @@
 25	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 58_05N11:73
-1	Maurizio	_	PROPN	NOUN_PROP	_	2	flat	_	_
+1	Maurizio	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 2	Michelini	_	PROPN	NOUN_PROP	_	0	root	_	_
 
 # sent_id = 58_05N11:74
@@ -37601,8 +37601,8 @@
 48	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 # sent_id = 58_05N11:80
-1	Dragan	_	PROPN	NOUN_PROP	_	3	flat	_	_
-2	Slavkov	_	PROPN	NOUN_PROP	_	3	flat	_	_
+1	Dragan	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
+2	Slavkov	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
 3	Hajdukovic	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
 5	fiżiku	_	NOUN	NOUN	_	3	appos	_	_
