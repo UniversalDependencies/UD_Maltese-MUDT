@@ -1,14 +1,15 @@
 # sent_id = 04_04J01:1
+# text = IL-PARTIT NAZZJONALISTA ddeċieda li l-Professur Guido de Marco għandu jinħatar President tar-Repubblika meta nhar Ħadd il-Għid , Dr Ugo Mifsud Bonnici jispiċċa mill-ħatra .
 1	IL-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	PARTIT	_	NOUN	NOUN	_	4	nsubj	_	_
 3	NAZZJONALISTA	_	ADJ	ADJ	_	2	amod	_	_
 4	ddeċieda	_	VERB	VERB	_	0	root	_	_
 5	li	_	SCONJ	COMP	_	11	mark	_	_
 6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
-7	Professur	_	NOUN	NOUN	_	10	compound	_	_
-8	Guido	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
-9	de	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
-10	Marco	_	PROPN	NOUN_PROP	_	11	nsubj	_	_
+7	Professur	_	NOUN	NOUN	_	8	compound	_	_
+8	Guido	_	PROPN	NOUN_PROP	_	11	nsubj	_	_
+9	de	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
+10	Marco	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 11	għandu	_	VERB	VERB_PSEU	_	4	ccomp	_	_
 12	jinħatar	_	VERB	VERB	_	11	xcomp	_	_
 13	President	_	NOUN	NOUN	_	12	obl:arg	_	_
@@ -20,16 +21,17 @@
 19	il-	_	DET	DEF	_	20	det	_	SpaceAfter=No
 20	Għid	_	NOUN	NOUN	_	18	nmod:poss	_	_
 21	,	_	PUNCT	X_PUN	_	17	punct	_	_
-22	Dr	_	NOUN	X_ABV	_	25	compound	_	_
-23	Ugo	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
-24	Mifsud	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
-25	Bonnici	_	PROPN	NOUN_PROP	_	26	nsubj	_	_
+22	Dr	_	NOUN	X_ABV	_	23	compound	_	_
+23	Ugo	_	PROPN	NOUN_PROP	_	26	nsubj	_	_
+24	Mifsud	_	PROPN	NOUN_PROP	_	23	flat:name	_	_
+25	Bonnici	_	PROPN	NOUN_PROP	_	23	flat:name	_	_
 26	jispiċċa	_	VERB	VERB	_	12	advcl	_	_
 27	mill-	_	ADP	PREP_DEF	_	28	case:det	_	SpaceAfter=No
 28	ħatra	_	NOUN	NOUN	_	26	obl	_	_
 29	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 04_04J01:2
+# text = Il-PN kien lest iħabbar id-deċiżjoni tiegħu iżda issa l-affarijiet tħabblu ftit minħabba l-operazzjoni tal-qalb li se jagħmel illum il-Prim Ministru Eddie Fenech Adami .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	PN	_	NOUN	X_ABV	_	4	nsubj	_	_
 3	kien	_	AUX	KIEN	_	4	cop	_	_
@@ -38,7 +40,7 @@
 6	id-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	deċiżjoni	_	NOUN	NOUN	_	5	obj	_	_
 8	tiegħu	_	PRON	GEN_PRON	_	7	case	_	_
-9	iżda	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+9	iżda	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 10	issa	_	ADV	ADV	_	13	advmod	_	_
 11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	affarijiet	_	NOUN	NOUN	_	13	nsubj	_	_
@@ -55,20 +57,21 @@
 23	illum	_	ADV	ADV	_	22	advmod	_	_
 24	il-	_	DET	DEF	_	26	det	_	SpaceAfter=No
 25	Prim	_	ADJ	ADJ	_	26	amod	_	_
-26	Ministru	_	NOUN	NOUN	_	29	compound	_	_
-27	Eddie	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
-28	Fenech	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
-29	Adami	_	PROPN	NOUN_PROP	_	22	nsubj	_	_
+26	Ministru	_	NOUN	NOUN	_	27	compound	_	_
+27	Eddie	_	PROPN	NOUN_PROP	_	22	nsubj	_	_
+28	Fenech	_	PROPN	NOUN_PROP	_	27	flat:name	_	_
+29	Adami	_	PROPN	NOUN_PROP	_	27	flat:name	_	_
 30	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 04_04J01:3
+# text = Sakemm l-avukat Fenech Adami jirkupra u jerġa' lura għall-ħatra tiegħu ta' Prim Ministru u Kap tal-PN , se jkun hemm bżonn persuna li sservi ta' aġent prim ministru u aġent kap tal-PN .
 1	Sakemm	_	SCONJ	CONJ_SUB	_	6	mark	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
-3	avukat	_	NOUN	NOUN	_	5	compound	_	_
-4	Fenech	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
-5	Adami	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+3	avukat	_	NOUN	NOUN	_	4	compound	_	_
+4	Fenech	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+5	Adami	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 6	jirkupra	_	VERB	VERB	_	23	advcl	_	_
-7	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
 8	jerġa'	_	VERB	VERB	_	6	conj	_	_
 9	lura	_	ADV	ADV	_	8	advmod	_	_
 10	għall-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
@@ -77,7 +80,7 @@
 13	ta'	_	ADP	GEN	_	15	case	_	_
 14	Prim	_	ADJ	ADJ	_	15	amod	_	_
 15	Ministru	_	NOUN	NOUN	_	11	nmod:poss	_	_
-16	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+16	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
 17	Kap	_	NOUN	NOUN	_	15	conj	_	_
 18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
 19	PN	_	NOUN	X_ABV	_	17	nmod:poss	_	_
@@ -93,7 +96,7 @@
 29	aġent	_	ADJ	ADJ	_	31	amod	_	_
 30	prim	_	ADJ	ADJ	_	31	amod	_	_
 31	ministru	_	NOUN	NOUN	_	27	obl	_	_
-32	u	_	CCONJ	CONJ_CORD	_	31	cc	_	_
+32	u	_	CCONJ	CONJ_CORD	_	34	cc	_	_
 33	aġent	_	ADJ	ADJ	_	34	amod	_	_
 34	kap	_	NOUN	NOUN	_	31	conj	_	_
 35	tal-	_	ADP	GEN_DEF	_	36	case:det	_	SpaceAfter=No
@@ -101,12 +104,13 @@
 37	.	_	PUNCT	X_PUN	_	23	punct	_	_
 
 # sent_id = 04_04J01:4
+# text = Nies qrib il-professur de Marco jgħidu li għandu jkun hu li jimla l-ħatra ta' Fenech Adami u jekk ikun hemm bżonn persuna oħra għandu jinħatar aġent president tar-repubblika biex jimla l-ħatra ta' Dr . Mifsud Bonnici .
 1	Nies	_	NOUN	NOUN	_	7	nsubj	_	_
-2	qrib	_	ADP	PREP	_	6	case	_	_
+2	qrib	_	ADP	PREP	_	5	case	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
-4	professur	_	NOUN	NOUN	_	6	compound	_	_
-5	de	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
-6	Marco	_	PROPN	NOUN_PROP	_	1	nmod	_	_
+4	professur	_	NOUN	NOUN	_	5	compound	_	_
+5	de	_	PROPN	NOUN_PROP	_	1	nmod	_	_
+6	Marco	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 7	jgħidu	_	VERB	VERB	_	0	root	_	_
 8	li	_	SCONJ	COMP	_	9	mark	_	_
 9	għandu	_	VERB	VERB_PSEU	_	7	xcomp	_	_
@@ -116,10 +120,10 @@
 13	jimla	_	VERB	VERB	_	11	acl	_	_
 14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 15	ħatra	_	NOUN	NOUN	_	13	obj	_	_
-16	ta'	_	ADP	GEN	_	18	case	_	_
-17	Fenech	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
-18	Adami	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	_
-19	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	Fenech	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	_
+18	Adami	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
+19	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 20	jekk	_	SCONJ	CONJ_SUB	_	22	mark	_	_
 21	ikun	_	AUX	KIEN	_	22	aux	_	_
 22	hemm	_	VERB	HEMM	_	26	advcl	_	_
@@ -136,14 +140,15 @@
 33	jimla	_	VERB	VERB	_	27	advcl	_	_
 34	l-	_	DET	DEF	_	35	det	_	SpaceAfter=No
 35	ħatra	_	NOUN	NOUN	_	33	obj	_	_
-36	ta'	_	ADP	GEN	_	40	case	_	_
-37	Dr	_	NOUN	X_ABV	_	40	compound	_	_
+36	ta'	_	ADP	GEN	_	39	case	_	_
+37	Dr	_	NOUN	X_ABV	_	39	compound	_	_
 38	.	_	PUNCT	X_PUN	_	37	punct	_	_
-39	Mifsud	_	PROPN	NOUN_PROP	_	40	flat:name	_	_
-40	Bonnici	_	PROPN	NOUN_PROP	_	35	nmod:poss	_	_
+39	Mifsud	_	PROPN	NOUN_PROP	_	35	nmod:poss	_	_
+40	Bonnici	_	PROPN	NOUN_PROP	_	39	flat:name	_	_
 41	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 04_04J01:5
+# text = Iżda grupp fi ħdan il-PN qiegħed jgħid li għandu jkun il-Ministru Lawrence Gonzi li jingħata l-ħatra ta' aġent prim ministru u aġent kap tal-PN minn issa , u mhux wara li l-professur Guido de Marco jsir il-President tar-Repubblika .
 1	Iżda	_	CCONJ	CONJ_CORD	_	8	cc	_	_
 2	grupp	_	NOUN	NOUN	_	8	nsubj	_	_
 3	fi	_	ADP	PREP	_	4	case	_	_
@@ -156,35 +161,35 @@
 10	għandu	_	VERB	VERB_PSEU	_	8	ccomp	_	_
 11	jkun	_	AUX	KIEN	_	10	xcomp	_	_
 12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
-13	Ministru	_	NOUN	NOUN	_	15	compound	_	_
-14	Lawrence	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
-15	Gonzi	_	PROPN	NOUN_PROP	_	11	nsubj	_	_
+13	Ministru	_	NOUN	NOUN	_	14	compound	_	_
+14	Lawrence	_	PROPN	NOUN_PROP	_	11	nsubj	_	_
+15	Gonzi	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
 16	li	_	SCONJ	COMP	_	17	mark	_	_
-17	jingħata	_	VERB	VERB	_	15	acl	_	_
+17	jingħata	_	VERB	VERB	_	14	acl	_	_
 18	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	ħatra	_	NOUN	NOUN	_	17	obj	_	_
 20	ta'	_	ADP	GEN	_	23	case	_	_
 21	aġent	_	ADJ	ADJ	_	23	amod	_	_
 22	prim	_	ADJ	ADJ	_	23	amod	_	_
 23	ministru	_	NOUN	NOUN	_	19	nmod:poss	_	_
-24	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+24	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 25	aġent	_	ADJ	ADJ	_	26	amod	_	_
 26	kap	_	NOUN	NOUN	_	23	conj	_	_
 27	tal-	_	ADP	GEN_DEF	_	28	case:det	_	SpaceAfter=No
 28	PN	_	NOUN	X_ABV	_	26	nmod:poss	_	_
 29	minn	_	ADP	PREP	_	30	case	_	_
 30	issa	_	ADV	ADV	_	17	advmod	_	_
-31	,	_	PUNCT	X_PUN	_	15	punct	_	_
-32	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+31	,	_	PUNCT	X_PUN	_	14	punct	_	_
+32	u	_	CCONJ	CONJ_CORD	_	14	cc	_	ToDo=cc-without-conj
 33	mhux	_	PART	PRON_PERS_NEG	_	41	aux:neg	_	_
 34	wara	_	ADP	PREP	_	41	mark	_	_
 35	li	_	SCONJ	COMP	_	34	fixed	_	_
 36	l-	_	DET	DEF	_	37	det	_	SpaceAfter=No
-37	professur	_	NOUN	NOUN	_	40	compound	_	_
-38	Guido	_	PROPN	NOUN_PROP	_	40	flat:name	_	_
-39	de	_	PROPN	NOUN_PROP	_	40	flat:name	_	_
-40	Marco	_	PROPN	NOUN_PROP	_	41	nsubj	_	_
-41	jsir	_	VERB	VERB	_	15	advcl	_	_
+37	professur	_	NOUN	NOUN	_	38	compound	_	_
+38	Guido	_	PROPN	NOUN_PROP	_	41	nsubj	_	_
+39	de	_	PROPN	NOUN_PROP	_	38	flat:name	_	_
+40	Marco	_	PROPN	NOUN_PROP	_	38	flat:name	_	_
+41	jsir	_	VERB	VERB	_	14	advcl	_	_
 42	il-	_	DET	DEF	_	43	det	_	SpaceAfter=No
 43	President	_	NOUN	NOUN	_	41	xcomp	_	_
 44	tar-	_	ADP	GEN_DEF	_	45	case:det	_	SpaceAfter=No
@@ -192,6 +197,7 @@
 46	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 04_04J01:6
+# text = Hemm min qiegħed jittama li t-tluq ta' de Marco minn viċi - prim ministru u Ministru ta' l-Affarijiet Barranin iġib miegħu tibdil fil-kabinett Nazzjonalista .
 1	Hemm	_	VERB	HEMM	_	0	root	_	_
 2	min	_	PRON	PRON_INT	_	1	nsubj	_	_
 3	qiegħed	_	AUX	PROG	_	4	aux:part	_	_
@@ -199,15 +205,15 @@
 5	li	_	SCONJ	COMP	_	22	mark	_	_
 6	t-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	tluq	_	NOUN	NOUN	_	22	nsubj	_	_
-8	ta'	_	ADP	GEN	_	10	case	_	_
-9	de	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
-10	Marco	_	PROPN	NOUN_PROP	_	7	nmod:poss	_	_
+8	ta'	_	ADP	GEN	_	9	case	_	_
+9	de	_	PROPN	NOUN_PROP	_	7	nmod:poss	_	_
+10	Marco	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 11	minn	_	ADP	PREP	_	15	case	_	_
 12	viċi	_	ADJ	ADJ	_	15	amod	_	_
 13	-	_	PUNCT	X_PUN	_	12	punct	_	_
 14	prim	_	ADJ	ADJ	_	15	amod	_	_
 15	ministru	_	NOUN	NOUN	_	7	obl	_	_
-16	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+16	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
 17	Ministru	_	NOUN	NOUN	_	15	conj	_	_
 18	ta'	_	ADP	GEN	_	20	case	_	_
 19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
@@ -222,6 +228,7 @@
 28	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 04_04J01:7
+# text = Iżda hemm min irid li t-tibdil ikun mill-inqas u li r-responsabbiltajiet ta' de Marco jinqasmu fuq uħud minn dawk li huma diġà ministri u segretarji parlamentari .
 1	Iżda	_	CCONJ	CONJ_CORD	_	2	cc	_	_
 2	hemm	_	VERB	HEMM	_	0	root	_	_
 3	min	_	PRON	PRON_INT	_	2	nsubj	_	_
@@ -232,13 +239,13 @@
 8	ikun	_	AUX	KIEN	_	10	cop	_	_
 9	mill-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
 10	inqas	_	ADJ	ADJ	_	4	ccomp	_	_
-11	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+11	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
 12	li	_	SCONJ	COMP	_	18	mark	_	_
 13	r-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	responsabbiltajiet	_	NOUN	NOUN	_	18	nsubj:pass	_	_
-15	ta'	_	ADP	GEN	_	17	case	_	_
-16	de	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
-17	Marco	_	PROPN	NOUN_PROP	_	14	nmod:poss	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	de	_	PROPN	NOUN_PROP	_	14	nmod:poss	_	_
+17	Marco	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
 18	jinqasmu	_	VERB	VERB	_	10	conj	_	_
 19	fuq	_	ADP	PREP	_	20	case	_	_
 20	uħud	_	NUM	NUM_WHD	_	18	obl	_	_
@@ -248,19 +255,20 @@
 24	huma	_	PRON	PRON_PERS	_	26	cop	_	_
 25	diġà	_	ADV	ADV	_	26	advmod	_	_
 26	ministri	_	NOUN	NOUN	_	22	acl	_	_
-27	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
+27	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
 28	segretarji	_	NOUN	NOUN	_	26	conj	_	_
 29	parlamentari	_	ADJ	ADJ	_	28	amod	_	_
 30	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 04_04J01:8
+# text = Il-kanvassers tas-Segretarju Parlamentari Joe Borġ qegħdin jistennew li jsir ministru .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	kanvassers	_	NOUN	NOUN	_	9	nsubj	_	_
 3	tas-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
-4	Segretarju	_	NOUN	NOUN	_	7	compound	_	_
+4	Segretarju	_	NOUN	NOUN	_	6	compound	_	_
 5	Parlamentari	_	ADJ	ADJ	_	4	amod	_	_
-6	Joe	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
-7	Borġ	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+6	Joe	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+7	Borġ	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 8	qegħdin	_	AUX	PROG	_	9	aux:part	_	_
 9	jistennew	_	VERB	VERB	_	0	root	_	_
 10	li	_	SCONJ	COMP	_	11	mark	_	_
@@ -269,22 +277,23 @@
 13	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 04_04J01:9
+# text = Sadanittant , il-kanvassers ta' l-avukat Michael Frendo qegħdin jaraw it-tluq ta' de Marco bħala ċans ġdid biex Frendo jidħol fil-Parlament bl-elezzjoni każwali fuq l-għaxar distrett .
 1	Sadanittant	_	ADV	ADV	_	11	advmod	_	_
 2	,	_	PUNCT	X_PUN	_	1	punct	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	kanvassers	_	NOUN	NOUN	_	11	nsubj	_	_
 5	ta'	_	ADP	GEN	_	7	case	_	_
 6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
-7	avukat	_	NOUN	NOUN	_	9	compound	_	_
-8	Michael	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
-9	Frendo	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
+7	avukat	_	NOUN	NOUN	_	8	compound	_	_
+8	Michael	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
+9	Frendo	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 10	qegħdin	_	AUX	PROG	_	11	aux:part	_	_
 11	jaraw	_	VERB	VERB	_	0	root	_	_
 12	it-	_	DET	DEF	_	13	det	_	SpaceAfter=No
 13	tluq	_	NOUN	NOUN	_	11	obj	_	_
-14	ta'	_	ADP	GEN	_	16	case	_	_
-15	de	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
-16	Marco	_	PROPN	NOUN_PROP	_	13	nmod:poss	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	de	_	PROPN	NOUN_PROP	_	13	nmod:poss	_	_
+16	Marco	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
 17	bħala	_	ADP	PREP	_	18	case	_	_
 18	ċans	_	NOUN	NOUN	_	11	obl	_	_
 19	ġdid	_	ADJ	ADJ	_	18	amod	_	_
@@ -303,6 +312,7 @@
 32	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 # sent_id = 04_04J01:10
+# text = Imma fil-PN hemm dawk li jixtiequ li Frendo jinżamm barra għax jirraġunaw li Frendo diġà ngħata ċans u tilfu meta minfloku daħlet Dolores Cristina bl-elezzjoni każwali għall-post ċedut minn Francis Zammit Dimech .
 1	Imma	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 2	fil-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 3	PN	_	NOUN	X_ABV	_	4	obl	_	_
@@ -321,26 +331,27 @@
 16	diġà	_	ADV	ADV	_	17	advmod	_	_
 17	ngħata	_	VERB	VERB	_	13	ccomp	_	_
 18	ċans	_	NOUN	NOUN	_	17	obj	_	_
-19	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
+19	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
 20	tilfu	_	VERB	VERB	_	17	conj	_	_
 21	meta	_	SCONJ	CONJ_SUB	_	23	mark	_	_
 22	minfloku	_	PRON	PREP_PRON	_	23	obl	_	_
 23	daħlet	_	VERB	VERB	_	20	advcl	_	_
-24	Dolores	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
-25	Cristina	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+24	Dolores	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+25	Cristina	_	PROPN	NOUN_PROP	_	24	flat:name	_	_
 26	bl-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
 27	elezzjoni	_	NOUN	NOUN	_	23	obl	_	_
 28	każwali	_	ADJ	ADJ	_	27	amod	_	_
 29	għall-	_	ADP	PREP_DEF	_	30	case:det	_	SpaceAfter=No
 30	post	_	NOUN	NOUN	_	27	nmod	_	_
 31	ċedut	_	VERB	PART_PASS	_	30	acl	_	_
-32	minn	_	ADP	PREP	_	35	case	_	_
-33	Francis	_	PROPN	NOUN_PROP	_	35	flat:name	_	_
-34	Zammit	_	PROPN	NOUN_PROP	_	35	flat:name	_	_
-35	Dimech	_	PROPN	NOUN_PROP	_	31	nmod:agent	_	_
+32	minn	_	ADP	PREP	_	33	case	_	_
+33	Francis	_	PROPN	NOUN_PROP	_	31	obl:agent	_	_
+34	Zammit	_	PROPN	NOUN_PROP	_	33	flat:name	_	_
+35	Dimech	_	PROPN	NOUN_PROP	_	33	flat:name	_	_
 36	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 04_04J01:11
+# text = Jingħad li hemm min għamel proposti biex jittieħdu passi biex Dr. Frendo ma jingħatax ċans ieħor .
 1	Jingħad	_	VERB	VERB	_	0	root	_	_
 2	li	_	SCONJ	COMP	_	3	mark	_	_
 3	hemm	_	VERB	HEMM	_	1	ccomp	_	_
@@ -360,6 +371,7 @@
 17	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 06_06J01:1
+# text = Fid-daħla tiegħu l-Belt , ir-Re tal-Karnival ilbieraħ kellu warajh folla ta' protesta .
 1	Fid-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	daħla	_	NOUN	NOUN	_	12	obl	_	_
 3	tiegħu	_	PRON	GEN_PRON	_	2	case	_	_
@@ -379,9 +391,10 @@
 17	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 06_06J01:2
-1	B'	_	ADP	PREP	_	2	case	_	_
+# text = B'kartelluni b'messaġġi ta' għadab ħaddiema li jarmaw il-karrijiet tal-Karnival ipprotestaw kontra l-fatt li l-Gvern baqa' ma provdilhomx post alternattiv fejn jibnu l-karrijiet .
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
 2	kartelluni	_	NOUN	NOUN	_	14	obl	_	_
-3	b'	_	ADP	PREP	_	4	case	_	_
+3	b'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
 4	messaġġi	_	NOUN	NOUN	_	2	nmod	_	_
 5	ta'	_	ADP	GEN	_	6	case	_	_
 6	għadab	_	NOUN	NOUN	_	4	nmod:poss	_	_
@@ -411,6 +424,7 @@
 30	.	_	PUNCT	X_PUN	_	14	punct	_	_
 
 # sent_id = 06_06J01:3
+# text = Il-mijiet ta' nies li telgħu l-Belt biex igawdu l-Karnival laqgħu b'applaws din il-protesta mill-ħaddiema tal-karrijiet .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	mijiet	_	NOUN	NOUN	_	13	nsubj	_	_
 3	ta'	_	ADP	GEN	_	4	case	_	_
@@ -424,7 +438,7 @@
 11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	Karnival	_	NOUN	NOUN	_	10	obj	_	_
 13	laqgħu	_	VERB	VERB	_	0	root	_	_
-14	b'	_	ADP	PREP	_	15	case	_	_
+14	b'	_	ADP	PREP	_	15	case	_	SpaceAfter=No
 15	applaws	_	NOUN	NOUN	_	13	obl	_	_
 16	din	_	PRON	PRON_DEM	_	18	det	_	_
 17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
@@ -436,6 +450,7 @@
 23	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 06_06J01:4
+# text = Kartelluni minnhom saħansitra staqsew jekk dan hux se jkun l-aħħar Karnival .
 1	Kartelluni	_	NOUN	NOUN	_	4	nsubj	_	_
 2	minnhom	_	PRON	PREP_PRON	_	1	nmod	_	_
 3	saħansitra	_	ADV	FOC	_	4	discourse	_	_
@@ -451,6 +466,7 @@
 13	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 06_06J01:5
+# text = Oħrajn staqsew kif il-Gvern irid jeqred attrazzjoni turistika bħal Karnival .
 1	Oħrajn	_	NOUN	NOUN	_	2	nsubj	_	_
 2	staqsew	_	VERB	VERB	_	0	root	_	_
 3	kif	_	PRON	PRON_INT	_	6	advmod	_	_
@@ -465,6 +481,7 @@
 12	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 06_06J01:6
+# text = Din is-saga ilha għaddejja s-snin imma laħqet il-qofol tagħha f'dawn l-aħħar ġimgħat hekk kif il-Gvern ħareġ ordni ta' evakwazzjoni ta' dawn il-bennejja minn Sant Iermu u minn Ħal Luqa .
 1	Din	_	PRON	PRON_DEM	_	3	det	_	_
 2	is-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	saga	_	NOUN	NOUN	_	4	nsubj	_	_
@@ -472,12 +489,12 @@
 5	għaddejja	_	VERB	PART_ACT	_	4	xcomp	_	_
 6	s-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	snin	_	NOUN	NOUN	_	5	obl	_	_
-8	imma	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+8	imma	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 9	laħqet	_	VERB	VERB	_	5	conj	_	_
 10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
 11	qofol	_	NOUN	NOUN	_	9	obj	_	_
 12	tagħha	_	PRON	GEN_PRON	_	11	case	_	_
-13	f'	_	ADP	PREP	_	17	case	_	_
+13	f'	_	ADP	PREP	_	17	case	_	SpaceAfter=No
 14	dawn	_	PRON	PRON_DEM	_	17	det	_	_
 15	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 16	aħħar	_	ADJ	ADJ	_	17	amod	_	_
@@ -497,13 +514,14 @@
 30	minn	_	ADP	PREP	_	32	case	_	_
 31	Sant	_	PROPN	NOUN_PROP	_	32	amod	_	_
 32	Iermu	_	PROPN	NOUN_PROP	_	25	nmod	_	_
-33	u	_	CCONJ	CONJ_CORD	_	32	cc	_	_
+33	u	_	CCONJ	CONJ_CORD	_	35	cc	_	_
 34	minn	_	ADP	PREP	_	35	case	_	_
 35	Ħal	_	PROPN	NOUN_PROP	_	32	conj	_	_
 36	Luqa	_	PROPN	NOUN_PROP	_	35	flat:name	_	_
 37	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 06_06J01:7
+# text = Fl-elezzjoni ġenerali li għaddiet il-Partit Nazzjonalista b'wegħda elettorali numru 296 qal li " se jinbena l-Villaġġ tal-Karnival , inkluż mużew permanenti li jservi biex jimplimentaw programm ġenerali għat-tisħiħ tal-arti u s-snajja etniċi . "
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	elezzjoni	_	NOUN	NOUN	_	14	obl	_	_
 3	ġenerali	_	ADJ	ADJ	_	2	amod	_	_
@@ -512,7 +530,7 @@
 6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	Partit	_	NOUN	NOUN	_	14	nsubj	_	_
 8	Nazzjonalista	_	ADJ	ADJ	_	7	amod	_	_
-9	b'	_	ADP	PREP	_	10	case	_	_
+9	b'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
 10	wegħda	_	NOUN	NOUN	_	14	obl	_	_
 11	elettorali	_	ADJ	ADJ	_	10	amod	_	_
 12	numru	_	NOUN	NOUN	_	10	compound	_	_
@@ -540,7 +558,7 @@
 34	tisħiħ	_	NOUN	NOUN	_	31	nmod	_	_
 35	tal-	_	ADP	GEN_DEF	_	36	case:det	_	SpaceAfter=No
 36	arti	_	NOUN	NOUN	_	34	nmod:poss	_	_
-37	u	_	CCONJ	CONJ_CORD	_	36	cc	_	_
+37	u	_	CCONJ	CONJ_CORD	_	39	cc	_	_
 38	s-	_	DET	DEF	_	39	det	_	SpaceAfter=No
 39	snajja	_	NOUN	NOUN	_	36	conj	_	_
 40	etniċi	_	ADJ	ADJ	_	39	amod	_	_
@@ -548,6 +566,7 @@
 42	"	_	PUNCT	X_PUN	_	41	punct	_	_
 
 # sent_id = 06_06J01:8
+# text = Dan l-aħħar il-Gvern kien ippropona li l-organizzaturi jiċċaqalqu għal Ta' Qali imma l-ħaddiema sostnew li dan hu wisq 'l bogħod għalihom .
 1	Dan	_	PRON	PRON_DEM	_	3	det	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	aħħar	_	NOUN	NOUN	_	7	obl	_	_
@@ -562,7 +581,7 @@
 12	għal	_	ADP	PREP	_	14	case	_	_
 13	Ta'	_	ADP	GEN	_	14	case	_	_
 14	Qali	_	PROPN	NOUN_PROP	_	11	obl	_	_
-15	imma	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+15	imma	_	CCONJ	CONJ_CORD	_	18	cc	_	_
 16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 17	ħaddiema	_	NOUN	NOUN	_	18	nsubj	_	_
 18	sostnew	_	VERB	VERB	_	7	conj	_	_
@@ -572,10 +591,11 @@
 22	wisq	_	ADV	ADV	_	24	advmod	_	_
 23	'l	_	ADP	PREP	_	24	case	_	_
 24	bogħod	_	NOUN	NOUN	_	18	ccomp	_	_
-25	għalihom	_	PRON	PREP_PRON	_	24	nmod	_	_
+25	għalihom	_	PRON	PREP_PRON	_	24	nmod	_	ToDo=nmod
 26	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 06_06J01:9
+# text = Talba li għamlu s-sidien tal-karrijiet biex jibdew jużaw fabbrika mitluq fil-Marsa ma ntlaqgħetx mill-Malta Enterprise .
 1	Talba	_	NOUN	NOUN	_	16	nsubj:pass	_	_
 2	li	_	SCONJ	COMP	_	3	mark	_	_
 3	għamlu	_	VERB	VERB	_	1	acl	_	_
@@ -593,12 +613,13 @@
 15	ma	_	PART	NEG	_	16	aux:neg	_	_
 16	ntlaqgħetx	_	VERB	VERB	_	0	root	_	_
 17	mill-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
-18	Malta	_	PROPN	NOUN_PROP	_	16	nmod:agent	_	_
+18	Malta	_	PROPN	NOUN_PROP	_	16	obl:agent	_	_
 19	Enterprise	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
 20	.	_	PUNCT	X_PUN	_	16	punct	_	_
 
 # sent_id = 08_08J01:1
-1	F'	_	ADP	PREP	_	2	case	_	_
+# text = F'Haiti , eluf ta' nies għaddew it-tieni lejl tagħhom barra wara t-terremot qerriedi li ħalla għexieren ta' eluf mejtin .
+1	F'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
 2	Haiti	_	NOUN	NOUN	_	7	obl	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	eluf	_	NUM	NUM_CRD	_	7	nsubj	_	_
@@ -623,6 +644,7 @@
 23	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 08_08J01:2
+# text = Aġenzija li qed tagħti għajnuna medika fil-pajjiż irrappurtat influss massiv ta' persuni midrubin li qed jingħataw l-għajnuna fi kliniċi li twaqqfu apposta .
 1	Aġenzija	_	NOUN	NOUN	_	9	nsubj	_	_
 2	li	_	SCONJ	COMP	_	4	mark	_	_
 3	qed	_	AUX	PROG	_	4	aux:part	_	_
@@ -650,6 +672,7 @@
 25	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 08_08J01:3
+# text = It-tfittxija għal dawk li baqgħu ħajjin u li jinsabu taħt it-tifrik baqgħet għaddejja anki wara li dalam .
 1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	tfittxija	_	NOUN	NOUN	_	14	nsubj	_	_
 3	għal	_	ADP	PREP	_	4	case	_	_
@@ -657,7 +680,7 @@
 5	li	_	SCONJ	COMP	_	6	mark	_	_
 6	baqgħu	_	VERB	VERB	_	4	acl	_	_
 7	ħajjin	_	ADJ	ADJ	_	6	xcomp	_	_
-8	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+8	u	_	CCONJ	CONJ_CORD	_	4	cc	_	ToDo=cc-without-conj
 9	li	_	SCONJ	COMP	_	10	mark	_	_
 10	jinsabu	_	VERB	VERB	_	4	acl	_	_
 11	taħt	_	ADP	PREP	_	13	case	_	_
@@ -672,6 +695,7 @@
 20	.	_	PUNCT	X_PUN	_	14	punct	_	_
 
 # sent_id = 08_08J01:4
+# text = Fi ftit sigħat oħra għandha tibda tasal għajnuna sostanzjali minn pajjiżi barranin għat-tliet miljun persuna li hu mifhum li għandhom bżonn l-għajnuna .
 1	Fi	_	ADP	PREP	_	3	case	_	_
 2	ftit	_	DET	QUAN	_	3	det	_	_
 3	sigħat	_	NOUN	NOUN	_	5	obl	_	_
@@ -699,6 +723,7 @@
 25	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 08_08J01:5
+# text = L-ewwel ajruplani Amerikani bl-għajnuna diġà waslu fl-ajruport tal-post .
 1	L-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 2	ewwel	_	NUM	NUM_ORD	_	3	amod	_	_
 3	ajruplani	_	NOUN	NOUN	_	8	nsubj	_	_
@@ -714,13 +739,14 @@
 13	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 08_08J01:6
+# text = Pajjiżi tal-UE , ir-Russja u ċ-Ċina huma fost dawk li se jibagħtu timijiet ta' salvataġġ u mediċi biex jagħtu l-għajnuna .
 1	Pajjiżi	_	NOUN	NOUN	_	12	nsubj	_	_
 2	tal-	_	ADP	GEN_DEF	_	3	case:det	_	SpaceAfter=No
 3	UE	_	NOUN	X_ABV	_	1	nmod:poss	_	_
 4	,	_	PUNCT	X_PUN	_	1	punct	_	_
 5	ir-	_	DET	DEF	_	6	det	_	SpaceAfter=No
 6	Russja	_	PROPN	NOUN_PROP	_	1	conj	_	_
-7	u	_	CCONJ	CONJ_CORD	_	1	cc	_	_
+7	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 8	ċ-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	Ċina	_	PROPN	NOUN_PROP	_	1	conj	_	_
 10	huma	_	PRON	PRON_PERS	_	12	cop	_	_
@@ -732,7 +758,7 @@
 16	timijiet	_	NOUN	NOUN	_	15	obj	_	_
 17	ta'	_	ADP	GEN	_	18	case	_	_
 18	salvataġġ	_	NOUN	NOUN	_	16	nmod:poss	_	_
-19	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+19	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
 20	mediċi	_	NOUN	NOUN	_	16	conj	_	_
 21	biex	_	SCONJ	CONJ_SUB	_	22	mark	_	_
 22	jagħtu	_	VERB	VERB	_	15	advcl	_	_
@@ -741,7 +767,8 @@
 25	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 08_08J01:7
-1	F'	_	ADP	PREP	_	2	case	_	_
+# text = F'Malta , l-organizzazzjoni SOS Malta ħeġġet lill-pubbliku Malti sabiex jagħti d-donazzjonijiet tiegħu permezz ta' kontijiet bankarji ħalli jgħinu lil dawk li ntlaqtu mit-terremot .
+1	F'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
 2	Malta	_	PROPN	NOUN_PROP	_	8	obl	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
@@ -768,10 +795,11 @@
 25	li	_	SCONJ	COMP	_	26	mark	_	_
 26	ntlaqtu	_	VERB	VERB	_	24	acl	_	_
 27	mit-	_	ADP	PREP_DEF	_	28	case:det	_	SpaceAfter=No
-28	terremot	_	NOUN	NOUN	_	26	nmod:agent	_	_
+28	terremot	_	NOUN	NOUN	_	26	obl:agent	_	_
 29	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 08_08J01:8
+# text = Id-Dipartiment tal-Protezzjoni Ċivili wkoll qed jagħmel tħejjijiet biex jorganizza ġabra ta' bżonnijiet bażiċi għall-vittmi .
 1	Id-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	Dipartiment	_	NOUN	NOUN	_	8	nsubj	_	_
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
@@ -792,6 +820,7 @@
 18	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 08_08J01:9
+# text = Għal dan il-għan , id-Dipartiment se jorganizza ġabra fis-Sezzjoni tal-Għajnuna Umanitarja fil-Marsa nhar is-Sibt u l-Ħadd li ġej .
 1	Għal	_	ADP	PREP	_	4	case	_	_
 2	dan	_	PRON	PRON_DEM	_	4	det	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -812,7 +841,7 @@
 18	nhar	_	NOUN	NOUN	_	9	obl	_	_
 19	is-	_	DET	DEF	_	20	det	_	SpaceAfter=No
 20	Sibt	_	PROPN	NOUN_PROP	_	18	nmod:poss	_	_
-21	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+21	u	_	CCONJ	CONJ_CORD	_	20	cc	_	ToDo=cc-without-conj
 22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
 23	Ħadd	_	PROPN	NOUN_PROP	_	20	nmod:poss	_	_
 24	li	_	SCONJ	COMP	_	25	mark	_	_
@@ -820,6 +849,7 @@
 26	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 08_08J01:10
+# text = Dettalji dwar liema tip ta' oġġetti se jinġabru se jiġu komunikati aktar tard .
 1	Dettalji	_	NOUN	NOUN	_	11	nsubj:pass	_	_
 2	dwar	_	ADP	PREP	_	8	mark	_	_
 3	liema	_	PRON	PRON_INT	_	4	det	_	_
@@ -836,6 +866,7 @@
 14	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 # sent_id = 08_08J01:11
+# text = Anke l-Caritas Malta bdiet kampanja ta' ġbir ta' fondi għal dawn il-vittmi .
 1	Anke	_	ADV	FOC	_	3	discourse	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	Caritas	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
@@ -853,17 +884,18 @@
 15	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 08_08J01:12
+# text = L-Arċisqof Pawlu Cremona u l-Isqof t'Għawdex Mario Grech taw l-approvazzjoni tagħhom għal din il-kampanja u appellaw għall-ġenerożità tal-poplu biex jgħinu lil dawk li qed ibatu .
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	Arċisqof	_	NOUN	NOUN	_	4	compound	_	_
-3	Pawlu	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
-4	Cremona	_	PROPN	NOUN_PROP	_	12	nsubj	_	_
-5	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+2	Arċisqof	_	NOUN	NOUN	_	3	compound	_	_
+3	Pawlu	_	PROPN	NOUN_PROP	_	12	nsubj	_	_
+4	Cremona	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
+5	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
 6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
-7	Isqof	_	NOUN	NOUN	_	11	compound	_	_
-8	t'	_	ADP	GEN	_	9	case	_	_
+7	Isqof	_	NOUN	NOUN	_	10	compound	_	_
+8	t'	_	ADP	GEN	_	9	case	_	SpaceAfter=No
 9	Għawdex	_	PROPN	NOUN_PROP	_	7	nmod:poss	_	_
-10	Mario	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
-11	Grech	_	PROPN	NOUN_PROP	_	4	conj	_	_
+10	Mario	_	PROPN	NOUN_PROP	_	3	conj	_	_
+11	Grech	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
 12	taw	_	VERB	VERB	_	0	root	_	_
 13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	approvazzjoni	_	NOUN	NOUN	_	12	obj	_	_
@@ -872,7 +904,7 @@
 17	din	_	PRON	PRON_DEM	_	19	det	_	_
 18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	kampanja	_	NOUN	NOUN	_	14	nmod	_	_
-20	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+20	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
 21	appellaw	_	VERB	VERB	_	12	conj	_	_
 22	għall-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
 23	ġenerożità	_	NOUN	NOUN	_	21	obl:arg	_	_
@@ -888,6 +920,7 @@
 33	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 08_08J01:13
+# text = Id-donazzjonijiet jistgħu jingħataw lill-kappillani tal-parroċċi tal-Gżejjer Maltin jew jintbagħtu direttament lill-Caritas jew f'kontijiet bankarji apposta .
 1	Id-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	donazzjonijiet	_	NOUN	NOUN	_	3	nsubj:pass	_	_
 3	jistgħu	_	VERB	VERB	_	0	root	_	_
@@ -899,28 +932,29 @@
 9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
 10	Gżejjer	_	NOUN	NOUN	_	8	nmod:poss	_	_
 11	Maltin	_	ADJ	ADJ	_	10	amod	_	_
-12	jew	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+12	jew	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 13	jintbagħtu	_	VERB	VERB	_	4	conj	_	_
 14	direttament	_	ADV	ADV	_	13	advmod	_	_
 15	lill-	_	ADP	LIL_DEF	_	16	case:det	_	SpaceAfter=No
 16	Caritas	_	PROPN	NOUN_PROP	_	13	iobj	_	_
-17	jew	_	CCONJ	CONJ_CORD	_	16	cc	_	_
-18	f'	_	ADP	PREP	_	19	case	_	_
+17	jew	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+18	f'	_	ADP	PREP	_	19	case	_	SpaceAfter=No
 19	kontijiet	_	NOUN	NOUN	_	16	conj	_	_
 20	bankarji	_	ADJ	ADJ	_	19	amod	_	_
 21	apposta	_	ADV	ADV	_	19	advmod	_	_
 22	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 12_12J01:1
+# text = Il-Prim Ministru Ingliż David Cameron biddel fehmtu u mhux se jintervjeni dwar il-prezz dejjem jogħla tal-petrol fir-Renju Unit .
 1	Il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 2	Prim	_	ADJ	ADJ	_	3	amod	_	_
-3	Ministru	_	NOUN	NOUN	_	6	compound	_	_
+3	Ministru	_	NOUN	NOUN	_	5	compound	_	_
 4	Ingliż	_	ADJ	ADJ	_	3	amod	_	_
-5	David	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
-6	Cameron	_	PROPN	NOUN_PROP	_	7	nsubj	_	_
+5	David	_	PROPN	NOUN_PROP	_	7	nsubj	_	_
+6	Cameron	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 7	biddel	_	VERB	VERB	_	0	root	_	_
 8	fehmtu	_	NOUN	NOUN	_	7	obj	_	_
-9	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+9	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
 10	mhux	_	PART	PRON_PERS_NEG	_	12	aux:neg	_	_
 11	se	_	AUX	FUT	_	12	aux:part	_	_
 12	jintervjeni	_	VERB	VERB	_	7	conj	_	_
@@ -937,6 +971,7 @@
 23	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 12_12J01:2
+# text = Hekk kif il-prezz tal-fuel fil-pajjiż din il-ġimgħa laħaq livelli rekord .
 1	Hekk	_	ADV	ADV	_	12	mark	_	_
 2	kif	_	PRON	PRON_INT	_	1	fixed	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -954,6 +989,7 @@
 15	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 12_12J01:3
+# text = Cameron mar pass lura fuq wegħda elettorali li kien għamel li jintervjeni biex inaqqas il-prezz tal-petrol jekk dan jogħla ħafna .
 1	Cameron	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
 2	mar	_	VERB	VERB	_	0	root	_	_
 3	pass	_	NOUN	NOUN	_	2	obj	_	_
@@ -979,6 +1015,7 @@
 23	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 12_12J01:4
+# text = Dikjarazzjoni li kien irrepetiha l-ġimgha li għaddiet .
 1	Dikjarazzjoni	_	NOUN	NOUN	_	0	root	_	_
 2	li	_	SCONJ	COMP	_	4	mark	_	_
 3	kien	_	AUX	KIEN	_	4	aux	_	_
@@ -990,6 +1027,7 @@
 9	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 12_12J01:5
+# text = Dakinhar il-PM Ingliż kien qal li l-Gvern tiegħu qed jikkunsidra li jdaħħal sistema li tistabilizza ż-żidiet fil-prezz tal-fuel , bil-Gvern inaqqas it-taxxa fuq il-fuel meta l-prezz tiegħu jiżdied , biex il-familji Ingliżi jħossu inqas il-qarsa fuq il-bwiet .
 1	Dakinhar	_	ADV	ADV	_	6	advmod	_	_
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	PM	_	NOUN	X_ABV	_	6	nsubj	_	_
@@ -1042,6 +1080,7 @@
 50	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 12_12J01:6
+# text = Madankollu , ż-żidiet tal-aħħar sigħat , jidher li wasslu lil Cameron biex jerġa' lura minn dak li qal ftit jiem ilu u issa qed iwissi lis-sewwieqa biex ma jittamawx wisq .
 1	Madankollu	_	ADV	ADV	_	9	advmod	_	_
 2	,	_	PUNCT	X_PUN	_	4	punct	_	_
 3	ż-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -1065,7 +1104,7 @@
 21	ftit	_	DET	QUAN	_	22	det	_	_
 22	jiem	_	NOUN	NOUN	_	20	obl	_	_
 23	ilu	_	VERB	VERB_PSEU	_	22	case	_	_
-24	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+24	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
 25	issa	_	ADV	ADV	_	27	advmod	_	_
 26	qed	_	AUX	PROG	_	27	aux:part	_	_
 27	iwissi	_	VERB	VERB	_	15	conj	_	_
@@ -1078,6 +1117,7 @@
 34	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 12_12J01:7
+# text = Hu qal li xorta staqsa lit-Teżor biex jistudja mezz kif titwettaq dik li kienet wegħda elettorali tat-Tories , madanakollu kompla li din hi xi ħaġa ferm diffiċli .
 1	Hu	_	PRON	PRON_PERS	_	2	nsubj	_	_
 2	qal	_	VERB	VERB	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	5	mark	_	_
@@ -1110,6 +1150,7 @@
 30	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 12_12J01:8
+# text = Fir-rapport dwar dak li qal Cameron pubblikat fil-gazzetta Ingliża The Telegraph , jingħad li l-prezz tal-petrol fir-Renju Unit kompla jilħaq livell rekord minħabba ż-żieda imposta mill-Gvern Ingliż fid-dazju u anke fil-VAT fuq il-fuels - żidiet li daħlu fis-seħħ mill-bidu tas-sena .
 1	Fir-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	rapport	_	NOUN	NOUN	_	15	obl	_	_
 3	dwar	_	ADP	PREP	_	4	case	_	_
@@ -1119,10 +1160,10 @@
 7	Cameron	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
 8	pubblikat	_	VERB	PART_PASS	_	2	acl	_	_
 9	fil-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
-10	gazzetta	_	NOUN	NOUN	_	13	compound	_	_
+10	gazzetta	_	NOUN	NOUN	_	12	compound	_	_
 11	Ingliża	_	ADJ	ADJ	_	10	amod	_	_
-12	The	_	X	X_ENG	_	13	flat:name	_	_
-13	Telegraph	_	X	X_ENG	_	8	obl	_	_
+12	The	_	X	X_ENG	_	8	obl	_	_
+13	Telegraph	_	X	X_ENG	_	12	flat:name	_	_
 14	,	_	PUNCT	X_PUN	_	2	punct	_	_
 15	jingħad	_	VERB	VERB	_	0	root	_	_
 16	li	_	SCONJ	COMP	_	24	mark	_	_
@@ -1142,11 +1183,11 @@
 30	żieda	_	NOUN	NOUN	_	25	obl	_	_
 31	imposta	_	VERB	PART_PASS	_	30	acl	_	_
 32	mill-	_	ADP	PREP_DEF	_	33	case:det	_	SpaceAfter=No
-33	Gvern	_	NOUN	NOUN	_	31	nmod:agent	_	_
+33	Gvern	_	NOUN	NOUN	_	31	obl:agent	_	_
 34	Ingliż	_	ADJ	ADJ	_	33	amod	_	_
 35	fid-	_	ADP	PREP_DEF	_	36	case:det	_	SpaceAfter=No
 36	dazju	_	NOUN	NOUN	_	31	obl	_	_
-37	u	_	CCONJ	CONJ_CORD	_	36	cc	_	_
+37	u	_	CCONJ	CONJ_CORD	_	40	cc	_	_
 38	anke	_	ADV	FOC	_	40	discourse	_	_
 39	fil-	_	ADP	PREP_DEF	_	40	case:det	_	SpaceAfter=No
 40	VAT	_	NOUN	X_ABV	_	36	conj	_	_
@@ -1166,7 +1207,8 @@
 54	.	_	PUNCT	X_PUN	_	15	punct	_	_
 
 # sent_id = 12_12J01:9
-1	B'	_	ADP	PREP	_	2	case	_	_
+# text = B'żieda oħra simili mistennija għal April li ġej .
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
 2	żieda	_	NOUN	NOUN	_	0	root	_	_
 3	oħra	_	ADJ	ADJ	_	2	amod	_	_
 4	simili	_	ADJ	ADJ	_	2	amod	_	_
@@ -1178,6 +1220,7 @@
 10	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 12_12J01:10
+# text = Dan kollu wassal biex litru petrol irreġistra l-akbar żieda f'ġurnata waħda , li qatt kienet irreġistrata f'perjodu ta' sena .
 1	Dan	_	PRON	PRON_DEM	_	3	nsubj	_	_
 2	kollu	_	DET	QUAN	_	1	det	_	_
 3	wassal	_	VERB	VERB	_	0	root	_	_
@@ -1188,7 +1231,7 @@
 8	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
 9	akbar	_	ADJ	ADJ	_	10	amod	_	_
 10	żieda	_	NOUN	NOUN	_	7	obj	_	_
-11	f'	_	ADP	PREP	_	12	case	_	_
+11	f'	_	ADP	PREP	_	12	case	_	SpaceAfter=No
 12	ġurnata	_	NOUN	NOUN	_	10	nmod	_	_
 13	waħda	_	NUM	NUM_WHD	_	12	det	_	_
 14	,	_	PUNCT	X_PUN	_	10	punct	_	_
@@ -1196,13 +1239,14 @@
 16	qatt	_	ADV	ADV	_	18	advmod	_	_
 17	kienet	_	AUX	KIEN	_	18	cop	_	_
 18	irreġistrata	_	VERB	PART_PASS	_	10	acl	_	_
-19	f'	_	ADP	PREP	_	20	case	_	_
+19	f'	_	ADP	PREP	_	20	case	_	SpaceAfter=No
 20	perjodu	_	NOUN	NOUN	_	18	obl	_	_
 21	ta'	_	ADP	GEN	_	22	case	_	_
 22	sena	_	NOUN	NOUN	_	20	nmod:poss	_	_
 23	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 12_12J01:11
+# text = Fl-Ingilterra hu stmat li s-sewwieqa qed jonfqu mal-10 miljun lira sterlina iktar kuljum fuq petrol milli kienu jonfqu sena ilu .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	Ingilterra	_	PROPN	NOUN_PROP	_	4	obl	_	_
 3	hu	_	PRON	PRON_PERS	_	4	expl	_	_
@@ -1215,7 +1259,7 @@
 10	mal-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
 11	10	_	NUM	X_DIG	_	12	compound	_	_
 12	miljun	_	NOUN	NOUN	_	13	nummod	_	_
-13	lira	_	NOUN	NOUN	_	15	nmod	_	_
+13	lira	_	NOUN	NOUN	_	15	obl	_	_
 14	sterlina	_	NOUN	NOUN	_	13	compound	_	_
 15	iktar	_	ADV	ADV	_	9	obj	_	_
 16	kuljum	_	ADV	ADV	_	9	advmod	_	_
@@ -1229,6 +1273,7 @@
 24	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 12_12J01:12
+# text = Il-Prim Ministru Ingliż fl-aħħar sigħat esprima wkoll thassib dwar ir-rata dejjem tiżdied tal-għoli tal-ħajja , li qal li tiela' 'l fuq minħabba ż-żieda fil-prezz taż-żejt u ta' oġġetti oħra .
 1	Il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 2	Prim	_	ADJ	ADJ	_	3	amod	_	_
 3	Ministru	_	NOUN	NOUN	_	8	nsubj	_	_
@@ -1262,18 +1307,19 @@
 31	prezz	_	NOUN	NOUN	_	29	nmod	_	_
 32	taż-	_	ADP	GEN_DEF	_	33	case:det	_	SpaceAfter=No
 33	żejt	_	NOUN	NOUN	_	31	nmod:poss	_	_
-34	u	_	CCONJ	CONJ_CORD	_	33	cc	_	_
+34	u	_	CCONJ	CONJ_CORD	_	36	cc	_	_
 35	ta'	_	ADP	GEN	_	36	case	_	_
 36	oġġetti	_	NOUN	NOUN	_	33	conj	_	_
 37	oħra	_	ADJ	ADJ	_	36	amod	_	_
 38	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 12_12J01:13
+# text = Ir-rapport f'The Telegraph dwar dak li qal Cameron isegwi rapport ieħor ppubblikat mill-istess gazzetta 24 siegħa qabel , din id-darba dwar dak li qalet l-Aġenzija Internazzjonali tal-Energija - li wissiet li l-prezz internazzjonali taż-żejt qed joqrob lejn punt kritiku fejn jista' jhedded l-irkupru ekonomiku globali .
 1	Ir-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	rapport	_	NOUN	NOUN	_	11	nsubj	_	_
-3	f'	_	ADP	PREP	_	5	case	_	_
-4	The	_	X	X_ENG	_	5	flat:name	_	_
-5	Telegraph	_	X	X_ENG	_	2	nmod	_	_
+3	f'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
+4	The	_	X	X_ENG	_	2	nmod	_	_
+5	Telegraph	_	X	X_ENG	_	4	flat:name	_	_
 6	dwar	_	ADP	PREP	_	7	case	_	_
 7	dak	_	PRON	PRON_DEM	_	2	nmod	_	_
 8	li	_	SCONJ	COMP	_	9	mark	_	_
@@ -1285,7 +1331,7 @@
 14	ppubblikat	_	VERB	PART_PASS	_	12	acl	_	_
 15	mill-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
 16	istess	_	ADJ	ADJ	_	17	amod	_	_
-17	gazzetta	_	NOUN	NOUN	_	14	nmod:agent	_	_
+17	gazzetta	_	NOUN	NOUN	_	14	obl:agent	_	_
 18	24	_	NUM	X_DIG	_	19	nummod	_	_
 19	siegħa	_	NOUN	NOUN	_	14	obl	_	_
 20	qabel	_	ADP	PREP	_	19	case	_	_
@@ -1326,6 +1372,7 @@
 55	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 # sent_id = 12_12J01:14
+# text = Dan hekk kif iż-żejt qabeż id-90 dollaru l-barmil biex illum jinsab fl-ogħla livelli minn Ottubru 2008 'l hawn .
 1	Dan	_	PRON	PRON_DEM	_	0	root	_	_
 2	hekk	_	ADV	ADV	_	6	mark	_	_
 3	kif	_	PRON	PRON_INT	_	2	fixed	_	_
@@ -1351,6 +1398,7 @@
 23	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 12_12J01:15
+# text = Fl-Ingilterra stess kumpaniji kbar bhall-BP qed jantiċipaw li fil-ġimgħat li ġejjin jista' saħanistra jaqbeż il-mitt dollaru .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	Ingilterra	_	PROPN	NOUN_PROP	_	9	obl	_	_
 3	stess	_	PRON	PRON_REF	_	2	nmod	_	_
@@ -1374,6 +1422,7 @@
 21	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 18_05J02:1
+# text = Editorjal | 18 ta' Ottubru 2009 Nr 156
 1	Editorjal	_	NOUN	NOUN	_	0	root	_	_
 2	|	_	PUNCT	X_PUN	_	1	punct	_	_
 3	18	_	NUM	X_DIG	_	1	list	_	_
@@ -1384,18 +1433,19 @@
 8	156	_	NUM	X_DIG	_	7	nummod	_	_
 
 # sent_id = 18_05J02:2
+# text = Fost il-politiċi Maltin , Tonio Fenech jispikka billi laħaq żgħażuġh f'kariga tal-akbar importanza mingħajr ma ċċappas bl-iskandli tas-soltu .
 1	Fost	_	ADP	PREP	_	3	case	_	_
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	politiċi	_	NOUN	NOUN	_	8	obl	_	_
 4	Maltin	_	ADJ	ADJ	_	3	amod	_	_
 5	,	_	PUNCT	X_PUN	_	3	punct	_	_
-6	Tonio	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
-7	Fenech	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+6	Tonio	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+7	Fenech	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 8	jispikka	_	VERB	VERB	_	0	root	_	_
 9	billi	_	SCONJ	CONJ_SUB	_	10	mark	_	_
 10	laħaq	_	VERB	VERB	_	8	advcl	_	_
 11	żgħażuġh	_	NOUN	NOUN	_	10	xcomp	_	_
-12	f'	_	ADP	PREP	_	13	case	_	_
+12	f'	_	ADP	PREP	_	13	case	_	SpaceAfter=No
 13	kariga	_	NOUN	NOUN	_	11	nmod	_	_
 14	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
 15	akbar	_	ADJ	ADJ	_	16	amod	_	_
@@ -1410,12 +1460,13 @@
 24	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 18_05J02:3
+# text = Sa ftit jiem ieħor tħobbu u tobogħdu ftit kien hemm xi tgħid fuqu .
 1	Sa	_	ADP	PREP	_	3	case	_	_
 2	ftit	_	DET	QUAN	_	3	det	_	_
 3	jiem	_	NOUN	NOUN	_	10	obl	_	_
 4	ieħor	_	ADJ	ADJ	_	3	amod	_	_
 5	tħobbu	_	VERB	VERB	_	3	acl	_	_
-6	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 7	tobogħdu	_	VERB	VERB	_	5	conj	_	_
 8	ftit	_	DET	QUAN	_	10	nsubj	_	_
 9	kien	_	AUX	KIEN	_	10	aux	_	_
@@ -1426,6 +1477,7 @@
 14	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 18_05J02:4
+# text = Għandu dik ix-xeħta ta' abbati perfett , li għaliex ma jiżbaljax bilkemm tintebaħ li qiegħed iservi fuq l-artal fejn jarah kulħadd.
 1	Għandu	_	VERB	VERB_PSEU	_	0	root	_	_
 2	dik	_	PRON	PRON_DEM	_	4	det	_	_
 3	ix-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -1452,6 +1504,7 @@
 24	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 18_05J02:5
+# text = Meta ħarġet l-aħbar fil-gazzetta Malta Today li Fenech kien siefer biex jara partita futbol ma' George Fenech u Joe Gasan ixxellfet il-fama perfetta tiegħu .
 1	Meta	_	SCONJ	CONJ_SUB	_	2	mark	_	_
 2	ħarġet	_	VERB	VERB	_	23	advcl	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -1468,12 +1521,12 @@
 14	jara	_	VERB	VERB	_	12	advcl	_	_
 15	partita	_	NOUN	NOUN	_	14	obj	_	_
 16	futbol	_	NOUN	NOUN	_	15	nmod:poss	_	_
-17	ma'	_	ADP	PREP	_	19	case	_	_
-18	George	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
-19	Fenech	_	PROPN	NOUN_PROP	_	14	obl	_	_
-20	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
-21	Joe	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
-22	Gasan	_	PROPN	NOUN_PROP	_	19	conj	_	_
+17	ma'	_	ADP	PREP	_	18	case	_	_
+18	George	_	PROPN	NOUN_PROP	_	14	obl	_	_
+19	Fenech	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
+20	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+21	Joe	_	PROPN	NOUN_PROP	_	18	conj	_	_
+22	Gasan	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
 23	ixxellfet	_	VERB	VERB	_	0	root	_	_
 24	il-	_	DET	DEF	_	25	det	_	SpaceAfter=No
 25	fama	_	NOUN	NOUN	_	23	nsubj	_	_
@@ -1482,10 +1535,11 @@
 28	.	_	PUNCT	X_PUN	_	23	punct	_	_
 
 # sent_id = 18_05J02:6
+# text = Bħall-ewwel barxa f'karozza ġdida fjamanta n-nuqqas ta' Fenech jinħass daqs ġerħa .
 1	Bħall-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 2	ewwel	_	NUM	NUM_ORD	_	3	amod	_	_
 3	barxa	_	NOUN	NOUN	_	9	nmod	_	_
-4	f'	_	ADP	PREP	_	5	case	_	_
+4	f'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
 5	karozza	_	NOUN	NOUN	_	3	nmod	_	_
 6	ġdida	_	ADJ	ADJ	_	5	amod	_	_
 7	fjamanta	_	ADJ	ADJ	_	5	amod	_	_
@@ -1499,6 +1553,7 @@
 15	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 18_05J02:7
+# text = Ukoll min ma jsegwix il-politika mill-qrib , jaqbdu l-qtigħ il-qalb : anki Tonio Fenech mar iċċappas ?
 1	Ukoll	_	ADV	FOC	_	2	discourse	_	_
 2	min	_	PRON	PRON_INT	_	10	obj	_	_
 3	ma	_	PART	NEG	_	4	aux:neg	_	_
@@ -1514,14 +1569,15 @@
 13	il-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	qalb	_	NOUN	NOUN	_	12	nmod:poss	_	_
 15	:	_	PUNCT	X_PUN	_	10	punct	_	_
-16	anki	_	ADV	FOC	_	18	discourse	_	_
-17	Tonio	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
-18	Fenech	_	PROPN	NOUN_PROP	_	19	nsubj	_	_
+16	anki	_	ADV	FOC	_	17	discourse	_	_
+17	Tonio	_	PROPN	NOUN_PROP	_	19	nsubj	_	_
+18	Fenech	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
 19	mar	_	VERB	VERB	_	10	parataxis	_	_
 20	iċċappas	_	VERB	VERB	_	19	xcomp	_	_
 21	?	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 18_05J02:8
+# text = Fl-aħħar mill-aħħar allaħares Ministru jinxtara b'daqshekk biss .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	aħħar	_	NOUN	NOUN	_	7	obl	_	_
 3	mill-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
@@ -1529,12 +1585,13 @@
 5	allaħares	_	INTJ	INT	_	7	discourse	_	_
 6	Ministru	_	NOUN	NOUN	_	7	nsubj:pass	_	_
 7	jinxtara	_	VERB	VERB	_	0	root	_	_
-8	b'	_	ADP	PREP	_	9	case	_	_
+8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
 9	daqshekk	_	ADV	ADV	_	7	advmod	_	_
 10	biss	_	ADV	FOC	_	9	discourse	_	_
 11	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 18_05J02:9
+# text = Jista' jkun l-akbar sostenitur tal-Arsenal , jista' jkun li għamlulu l-ilma jiżfen fil-jet privat , setgħu sabulu l-aħjar post fl-istadium , żgur li b'daqshekk biss ma kienx se jiġi influwenzat .
 1	Jista'	_	VERB	VERB	_	28	advcl	_	_
 2	jkun	_	AUX	KIEN	_	1	xcomp	_	_
 3	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
@@ -1564,7 +1621,7 @@
 27	,	_	PUNCT	X_PUN	_	1	punct	_	_
 28	żgur	_	ADJ	ADJ	_	0	root	_	_
 29	li	_	SCONJ	COMP	_	37	mark	_	_
-30	b'	_	ADP	PREP	_	31	case	_	_
+30	b'	_	ADP	PREP	_	31	case	_	SpaceAfter=No
 31	daqshekk	_	ADV	ADV	_	37	advmod	_	_
 32	biss	_	ADV	FOC	_	31	discourse	_	_
 33	ma	_	PART	NEG	_	34	aux:neg	_	_
@@ -1575,18 +1632,20 @@
 38	.	_	PUNCT	X_PUN	_	28	punct	_	_
 
 # sent_id = 18_05J02:10
+# text = Mhix kwistjoni li aċċetta vjaġġ b'xejnb'rigal .
 1	Mhix	_	PART	PRON_PERS_NEG	_	2	aux:neg	_	_
 2	kwistjoni	_	NOUN	NOUN	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	4	mark	_	_
 4	aċċetta	_	VERB	VERB	_	2	ccomp	_	_
 5	vjaġġ	_	NOUN	NOUN	_	4	obj	_	_
-6	b'	_	ADP	PREP	_	7	case	_	_
+6	b'	_	ADP	PREP	_	7	case	_	SpaceAfter=No
 7	xejn	_	PRON	PRON_INDEF	_	5	nmod	_	SpaceAfter=No
-8	b'	_	ADP	PREP	_	9	case	_	_
+8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
 9	rigal	_	NOUN	NOUN	_	5	nmod	_	_
 10	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 18_05J02:11
+# text = Il-problema hi li ma ħax ħsieb li jżomm 'il bogħod minn nies li bis-setgħa mogħtija lilu mil-Liġi jista' jfawrilhom il-but jew ifaqqarhom .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	problema	_	NOUN	NOUN	_	3	nsubj	_	_
 3	hi	_	PRON	PRON_PERS	_	0	root	_	_
@@ -1606,16 +1665,17 @@
 17	mogħtija	_	VERB	PART_PASS	_	16	acl	_	_
 18	lilu	_	PRON	LIL_PRON	_	17	iobj	_	_
 19	mil-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
-20	Liġi	_	NOUN	NOUN	_	17	nmod:agent	_	_
+20	Liġi	_	NOUN	NOUN	_	17	obl:agent	_	_
 21	jista'	_	VERB	VERB	_	13	acl	_	_
 22	jfawrilhom	_	VERB	VERB	_	21	xcomp	_	_
 23	il-	_	DET	DEF	_	24	det	_	SpaceAfter=No
 24	but	_	NOUN	NOUN	_	22	obj	_	_
-25	jew	_	CCONJ	CONJ_CORD	_	22	cc	_	_
+25	jew	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 26	ifaqqarhom	_	VERB	VERB	_	22	conj	_	_
 27	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 18_05J02:12
+# text = Il-fatt jew le ġiex influwenzat mhemmx għalfejn nidħlu fih .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	fatt	_	NOUN	NOUN	_	9	dislocated	_	_
 3	jew	_	CCONJ	CONJ_CORD	_	6	cc	_	_
@@ -1629,6 +1689,7 @@
 11	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 18_05J02:13
+# text = Ma qagħadx attent biex iħares il-fama tiegħu .
 1	Ma	_	PART	NEG	_	2	aux:neg	_	_
 2	qagħadx	_	VERB	VERB	_	0	root	_	_
 3	attent	_	ADJ	ADJ	_	2	xcomp	_	_
@@ -1640,6 +1701,7 @@
 9	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 18_05J02:14
+# text = Wara li kienet ħarġet l-aħbar sirna nafu minn stqarrija li għamel Fenech li kien ħa ħsieb li javża lill-Prim Ministru bil-vjaġġ u kien ħa l-barka tiegħu .
 1	Wara	_	ADP	PREP	_	4	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	kienet	_	AUX	KIEN	_	4	aux	_	_
@@ -1664,7 +1726,7 @@
 22	Ministru	_	NOUN	NOUN	_	19	obj	_	_
 23	bil-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
 24	vjaġġ	_	NOUN	NOUN	_	19	obl:arg	_	_
-25	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+25	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
 26	kien	_	AUX	KIEN	_	27	aux	_	_
 27	ħa	_	VERB	VERB	_	16	conj	_	_
 28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
@@ -1673,7 +1735,8 @@
 31	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 18_05J02:15
-1	B'	_	ADP	PREP	_	2	case	_	_
+# text = B'daqshekk xorta waħda ma jissewwiex kollox.
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
 2	daqshekk	_	ADV	ADV	_	6	advmod	_	_
 3	xorta	_	NOUN	NOUN	_	6	obl	_	_
 4	waħda	_	NUM	NUM_WHD	_	3	det	_	_
@@ -1683,6 +1746,7 @@
 8	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 18_05J02:16
+# text = Kieku l-istorja ma ħarġitx qatt konna se nkunu nafu li Fenech talab permess mingħand Gonzi biex imur jara partita ?
 1	Kieku	_	SCONJ	CONJ_SUB	_	5	mark	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	istorja	_	NOUN	NOUN	_	5	nsubj	_	_
@@ -1706,11 +1770,12 @@
 21	?	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 18_05J02:17
+# text = Veru li talab permess jew din tal-permess saret wara l-fatt biex tissabbar is-selħa ?
 1	Veru	_	ADJ	ADJ	_	0	root	_	_
 2	li	_	SCONJ	COMP	_	3	mark	_	_
 3	talab	_	VERB	VERB	_	1	ccomp	_	_
 4	permess	_	NOUN	NOUN	_	3	obj	_	_
-5	jew	_	CCONJ	CONJ_CORD	_	1	cc	_	_
+5	jew	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 6	din	_	PRON	PRON_DEM	_	9	nsubj	_	_
 7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
 8	permess	_	NOUN	NOUN	_	6	nmod:poss	_	_
@@ -1725,6 +1790,7 @@
 17	?	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 18_05J02:18
+# text = Kemm qed nagħtuha piż ?
 1	Kemm	_	PRON	PRON_INT	_	3	advmod	_	_
 2	qed	_	AUX	PROG	_	3	aux:part	_	_
 3	nagħtuha	_	VERB	VERB	_	0	root	_	_
@@ -1732,6 +1798,7 @@
 5	?	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 18_05J02:19
+# text = Fuq kolloxil-Prim Ministru Gonzi kien dak li fl-2004 fassal ir-regoli tal-etika għall-Ministri tal-Kabinett tiegħu .
 1	Fuq	_	ADP	PREP	_	2	case	_	_
 2	kollox	_	PRON	PRON_INDEF	_	8	obl	_	SpaceAfter=No
 3	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
@@ -1756,6 +1823,7 @@
 22	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 18_05J02:20
+# text = Fosthom insibu li l-Ministri m' għandhomx jirċievu rigali .
 1	Fosthom	_	PRON	PREP_PRON	_	2	obl	_	_
 2	insibu	_	VERB	VERB	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	7	mark	_	_
@@ -1768,6 +1836,7 @@
 10	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 18_05J02:21
+# text = Jekk fil-fatt ġara hekk , Fenech talab id-dispensa papali mingħand Gonzi għaliex kien jaf li se jkun qed jikser regola kardinali tal-etika .
 1	Jekk	_	SCONJ	CONJ_SUB	_	4	mark	_	_
 2	fil-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 3	fatt	_	NOUN	NOUN	_	4	obl	_	_
@@ -1796,6 +1865,7 @@
 26	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 18_05J02:22
+# text = Id-dispensa papali kienet biżżejjed ?
 1	Id-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	dispensa	_	NOUN	NOUN	_	5	nsubj	_	_
 3	papali	_	ADJ	ADJ	_	2	amod	_	_
@@ -1804,6 +1874,7 @@
 6	?	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 18_05J02:23
+# text = It-tfassil ta' regoli tal-etika minn Gonzi ma taħx xi seta' fuqhom .
 1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	tfassil	_	NOUN	NOUN	_	10	nsubj	_	_
 3	ta'	_	ADP	GEN	_	4	case	_	_
@@ -1820,6 +1891,7 @@
 14	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 18_05J02:24
+# text = Fl-aħħar mill-aħħar qabel ma nkitbu dawn ir-regoli kienu regoli mhux miktuba .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	aħħar	_	NOUN	NOUN	_	12	obl	_	_
 3	mill-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
@@ -1837,6 +1909,7 @@
 15	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 18_05J02:25
+# text = Mhuwiex il-Prim Ministru li għandu setgħa fuqhom biex iħassarhom jew jibdilhom jew meta jfettillu jagħti permess biex jinkisru .
 1	Mhuwiex	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
 2	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 3	Prim	_	ADJ	ADJ	_	4	amod	_	_
@@ -1847,9 +1920,9 @@
 8	fuqhom	_	PRON	PREP_PRON	_	7	nmod	_	_
 9	biex	_	SCONJ	CONJ_SUB	_	10	mark	_	_
 10	iħassarhom	_	VERB	VERB	_	7	acl	_	_
-11	jew	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+11	jew	_	CCONJ	CONJ_CORD	_	12	cc	_	_
 12	jibdilhom	_	VERB	VERB	_	10	conj	_	_
-13	jew	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+13	jew	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 14	meta	_	SCONJ	CONJ_SUB	_	15	mark	_	_
 15	jfettillu	_	VERB	VERB	_	16	advcl	_	_
 16	jagħti	_	VERB	VERB	_	10	conj	_	_
@@ -1859,12 +1932,13 @@
 20	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 18_05J02:26
+# text = Regoli bħal dawn , miktuba u mhumiex , huma fil-fatt xhieda tal-valuri tal-elettorat f'kull demokrazija .
 1	Regoli	_	NOUN	NOUN	_	12	nsubj	_	_
 2	bħal	_	ADP	PREP	_	3	case	_	_
 3	dawn	_	PRON	PRON_DEM	_	1	nmod	_	_
 4	,	_	PUNCT	X_PUN	_	5	punct	_	_
 5	miktuba	_	VERB	PART_PASS	_	1	amod	_	_
-6	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+6	u	_	CCONJ	CONJ_CORD	_	5	cc	_	ToDo=cc-without-conj
 7	mhumiex	_	PART	PRON_PERS_NEG	_	5	aux:neg	_	_
 8	,	_	PUNCT	X_PUN	_	5	punct	_	_
 9	huma	_	PRON	PRON_PERS	_	12	cop	_	_
@@ -1875,12 +1949,13 @@
 14	valuri	_	NOUN	NOUN	_	12	nmod:poss	_	_
 15	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
 16	elettorat	_	NOUN	NOUN	_	14	nmod:poss	_	_
-17	f'	_	ADP	PREP	_	19	case	_	_
+17	f'	_	ADP	PREP	_	19	case	_	SpaceAfter=No
 18	kull	_	DET	QUAN	_	19	det	_	_
 19	demokrazija	_	NOUN	NOUN	_	12	obl	_	_
 20	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 18_05J02:27
+# text = Kieku l-Prim Ministru meta fassal il-Kodiċi tal-etika kien qal li l-Ministri jistgħu jaċcettaw rigali meta jfettlilhom konna naċċettawha ?
 1	Kieku	_	SCONJ	CONJ_SUB	_	12	mark	_	_
 2	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 3	Prim	_	ADJ	ADJ	_	4	amod	_	_
@@ -1906,6 +1981,7 @@
 23	?	_	PUNCT	X_PUN	_	22	punct	_	_
 
 # sent_id = 18_05J02:28
+# text = Bl-istess mod ma nistgħux naċċettaw li Lawrence Gonzi jitkellem f'isimna u jagħti l-assoluzzjoni qabel ma jsir id-dnub Ministerjali .
 1	Bl-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 2	istess	_	ADJ	ADJ	_	3	amod	_	_
 3	mod	_	NOUN	NOUN	_	5	obl	_	_
@@ -1913,12 +1989,12 @@
 5	nistgħux	_	VERB	VERB	_	0	root	_	_
 6	naċċettaw	_	VERB	VERB	_	5	xcomp	_	_
 7	li	_	SCONJ	COMP	_	10	mark	_	_
-8	Lawrence	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
-9	Gonzi	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
+8	Lawrence	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
+9	Gonzi	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 10	jitkellem	_	VERB	VERB	_	6	ccomp	_	_
-11	f'	_	ADP	PREP	_	12	case	_	_
+11	f'	_	ADP	PREP	_	12	case	_	SpaceAfter=No
 12	isimna	_	NOUN	NOUN	_	10	obl	_	_
-13	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+13	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 14	jagħti	_	VERB	VERB	_	10	conj	_	_
 15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
 16	assoluzzjoni	_	NOUN	NOUN	_	14	obj	_	_
@@ -1931,9 +2007,10 @@
 23	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 18_05J02:29
+# text = Bid-dispensa jew mingħajrha xorta waħda Fenech ipprovdielna l-ispettaklu skandaluż ta' Ministru li jsiefer ma' imprenditur f'kuntest li juri livell ta' ħbiberija jew kunfidenza li żgur mhix aċcettabbli meta dak l-imprenditur għandu interessi kummerċjali mill-ikbar proprju fis-settur li jaqa' taħt is-setgħat tal-Ministru .
 1	Bid-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	dispensa	_	NOUN	NOUN	_	8	obl	_	_
-3	jew	_	CCONJ	CONJ_CORD	_	2	cc	_	_
+3	jew	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 4	mingħajrha	_	PRON	PREP_PRON	_	2	conj	_	_
 5	xorta	_	NOUN	NOUN	_	8	obl	_	_
 6	waħda	_	NUM	NUM_WHD	_	5	det	_	_
@@ -1948,14 +2025,14 @@
 15	jsiefer	_	VERB	VERB	_	13	acl	_	_
 16	ma'	_	ADP	PREP	_	17	case	_	_
 17	imprenditur	_	NOUN	NOUN	_	15	obl	_	_
-18	f'	_	ADP	PREP	_	19	case	_	_
+18	f'	_	ADP	PREP	_	19	case	_	SpaceAfter=No
 19	kuntest	_	NOUN	NOUN	_	15	obl	_	_
 20	li	_	SCONJ	COMP	_	21	mark	_	_
 21	juri	_	VERB	VERB	_	19	acl	_	_
 22	livell	_	NOUN	NOUN	_	21	obj	_	_
 23	ta'	_	ADP	GEN	_	24	case	_	_
 24	ħbiberija	_	NOUN	NOUN	_	22	nmod:poss	_	_
-25	jew	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+25	jew	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 26	kunfidenza	_	NOUN	NOUN	_	24	conj	_	_
 27	li	_	SCONJ	COMP	_	30	mark	_	_
 28	żgur	_	ADV	ADV	_	30	advmod	_	_
@@ -1983,33 +2060,35 @@
 50	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 18_05J02:30
-1	Tonio	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
-2	Fenech	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
+# text = Tonio Fenech hu l-Ministru responsabbli għas-settur tal-logħob tal-azzard fost oħrajn u Gorġ Fenech għandu interessi kbar f'dak is-settur .
+1	Tonio	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
+2	Fenech	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 3	hu	_	PRON	PRON_PERS	_	5	cop	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	Ministru	_	NOUN	NOUN	_	0	root	_	_
 6	responsabbli	_	ADJ	ADJ	_	5	amod	_	_
 7	għas-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
-8	settur	_	NOUN	NOUN	_	6	nmod	_	_
+8	settur	_	NOUN	NOUN	_	6	nmod	_	ToDo=nmod
 9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
 10	logħob	_	NOUN	NOUN	_	8	nmod:poss	_	_
 11	tal-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
 12	azzard	_	NOUN	NOUN	_	10	nmod:poss	_	_
 13	fost	_	ADP	PREP	_	14	case	_	_
 14	oħrajn	_	NOUN	NOUN	_	10	nmod	_	_
-15	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
-16	Gorġ	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
-17	Fenech	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
+15	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+16	Gorġ	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
+17	Fenech	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
 18	għandu	_	VERB	VERB_PSEU	_	5	conj	_	_
 19	interessi	_	NOUN	NOUN	_	18	obj	_	_
 20	kbar	_	ADJ	ADJ	_	19	amod	_	_
-21	f'	_	ADP	PREP	_	24	case	_	_
+21	f'	_	ADP	PREP	_	24	case	_	SpaceAfter=No
 22	dak	_	PRON	PRON_DEM	_	24	det	_	_
 23	is-	_	DET	DEF	_	24	det	_	SpaceAfter=No
 24	settur	_	NOUN	NOUN	_	18	obl	_	_
 25	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 18_05J02:31
+# text = Minkejja kull diskors kuntrarju , ħaddma jista' jgħid li għall-ħabta tas-safra misħuta , il-Ministru ma kienx qed jikkontempla xi bidliet importanti fis-settur tal-logħob tal-azzard .
 1	Minkejja	_	ADP	PREP	_	3	case	_	_
 2	kull	_	DET	QUAN	_	3	det	_	_
 3	diskors	_	NOUN	NOUN	_	8	obl	_	_
@@ -2044,6 +2123,7 @@
 32	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 18_05J02:32
+# text = Jekk is-safra seħħet għall-ħabta ta' Marzu / April tal-2009 , il-liċenzja għall casinò tad-Dragonara kienet għalqet f'Diċembru u kien appik li jinfetaħ tender biex jiġġedded jew jittieħed minn operator ieħor .
 1	Jekk	_	SCONJ	CONJ_SUB	_	4	mark	_	_
 2	is-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	safra	_	NOUN	NOUN	_	4	nsubj	_	_
@@ -2065,9 +2145,9 @@
 19	Dragonara	_	PROPN	NOUN_PROP	_	17	nmod:poss	_	_
 20	kienet	_	AUX	KIEN	_	21	aux	_	_
 21	għalqet	_	VERB	VERB	_	0	root	_	_
-22	f'	_	ADP	PREP	_	23	case	_	_
+22	f'	_	ADP	PREP	_	23	case	_	SpaceAfter=No
 23	Diċembru	_	PROPN	NOUN_PROP	_	21	obl	_	_
-24	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+24	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 25	kien	_	AUX	KIEN	_	26	cop	_	_
 26	appik	_	ADV	ADV	_	21	conj	_	_
 27	li	_	SCONJ	COMP	_	28	mark	_	_
@@ -2075,20 +2155,22 @@
 29	tender	_	NOUN	NOUN	_	28	nsubj:pass	_	_
 30	biex	_	SCONJ	CONJ_SUB	_	31	mark	_	_
 31	jiġġedded	_	VERB	VERB	_	28	advcl	_	_
-32	jew	_	CCONJ	CONJ_CORD	_	31	cc	_	_
+32	jew	_	CCONJ	CONJ_CORD	_	33	cc	_	_
 33	jittieħed	_	VERB	VERB	_	31	conj	_	_
 34	minn	_	ADP	PREP	_	35	case	_	_
-35	operator	_	NOUN	NOUN	_	33	nmod:agent	_	_
+35	operator	_	NOUN	NOUN	_	33	obl:agent	_	_
 36	ieħor	_	ADJ	ADJ	_	35	amod	_	_
 37	.	_	PUNCT	X_PUN	_	21	punct	_	_
 
 # sent_id = 18_05J02:33
+# text = Jista' jkun kollox.
 1	Jista'	_	VERB	VERB	_	0	root	_	_
 2	jkun	_	AUX	KIEN	_	1	xcomp	_	_
 3	kollox	_	PRON	PRON_INDEF	_	2	nsubj	_	SpaceAfter=No
 4	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 18_05J02:34
+# text = Jista' jkun li waqt is-safra qatt ma sar diskors dwar dawn l-affarijiet iżda nistgħu nkunu żguri , żguri biss , li ma sarx diskors ma' nies interessati f'dan is-settur li ma jistgħux ikunu daqshekk midħla tal-Ministru li jsiefru miegħu u jgawdu d-delizzju tal-futbol flimkien .
 1	Jista'	_	VERB	VERB	_	0	root	_	_
 2	jkun	_	AUX	KIEN	_	1	xcomp	_	_
 3	li	_	SCONJ	COMP	_	9	mark	_	_
@@ -2103,7 +2185,7 @@
 12	dawn	_	PRON	PRON_DEM	_	14	det	_	_
 13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	affarijiet	_	NOUN	NOUN	_	10	nmod	_	_
-15	iżda	_	CCONJ	CONJ_CORD	_	1	cc	_	_
+15	iżda	_	CCONJ	CONJ_CORD	_	1	cc	_	ToDo=cc-without-conj
 16	nistgħu	_	VERB	VERB	_	1	xcomp	_	_
 17	nkunu	_	AUX	KIEN	_	16	xcomp	_	_
 18	żguri	_	ADJ	ADJ	_	17	xcomp	_	_
@@ -2118,7 +2200,7 @@
 27	ma'	_	ADP	PREP	_	28	case	_	_
 28	nies	_	NOUN	NOUN	_	26	nmod	_	_
 29	interessati	_	VERB	PART_PASS	_	28	acl	_	_
-30	f'	_	ADP	PREP	_	33	case	_	_
+30	f'	_	ADP	PREP	_	33	case	_	SpaceAfter=No
 31	dan	_	PRON	PRON_DEM	_	33	det	_	_
 32	is-	_	DET	DEF	_	33	det	_	SpaceAfter=No
 33	settur	_	NOUN	NOUN	_	29	obl:arg	_	_
@@ -2133,7 +2215,7 @@
 42	li	_	SCONJ	COMP	_	43	mark	_	_
 43	jsiefru	_	VERB	VERB	_	39	acl	_	_
 44	miegħu	_	PRON	PREP_PRON	_	43	obl	_	_
-45	u	_	CCONJ	CONJ_CORD	_	43	cc	_	_
+45	u	_	CCONJ	CONJ_CORD	_	46	cc	_	_
 46	jgawdu	_	VERB	VERB	_	43	conj	_	_
 47	d-	_	DET	DEF	_	48	det	_	SpaceAfter=No
 48	delizzju	_	NOUN	NOUN	_	46	obj	_	_
@@ -2143,6 +2225,7 @@
 52	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 18_05J02:35
+# text = Dan diġà jidher li hu żvantaġġ żleali .
 1	Dan	_	PRON	PRON_DEM	_	3	nsubj	_	_
 2	diġà	_	ADV	ADV	_	3	advmod	_	_
 3	jidher	_	VERB	VERB	_	0	root	_	_
@@ -2153,6 +2236,7 @@
 8	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 18_05J02:36
+# text = Bħalma Ministru ma jweġibx lill-Prim Ministru dwar il-kondotta etika tiegħu iżda lejn il-votanti , l-istess Ministru ma jweġibx biss lejn l-operaturi l-oħra fis-settur meta jonqos fil-kondotta tiegħu .
 1	Bħalma	_	SCONJ	CONJ_SUB	_	4	mark	_	_
 2	Ministru	_	NOUN	NOUN	_	4	nsubj	_	_
 3	ma	_	PART	NEG	_	4	aux:neg	_	_
@@ -2191,6 +2275,7 @@
 36	.	_	PUNCT	X_PUN	_	22	punct	_	_
 
 # sent_id = 18_05J02:37
+# text = Apparti l-vantaġġi żleali li l-operaturi l-oħra jistgħu jilmentaw minnhom jistgħu jilmentaw il-votanti li x-xogħol tal-amministrazzjoni pubblika mhux qed isir bit-trasparenza u d-distakk li jippretendu u bi dritt .
 1	Apparti	_	ADP	PREP	_	3	case	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	vantaġġi	_	NOUN	NOUN	_	13	obl	_	_
@@ -2218,17 +2303,18 @@
 25	isir	_	VERB	VERB	_	16	ccomp	_	_
 26	bit-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
 27	trasparenza	_	NOUN	NOUN	_	25	obl	_	_
-28	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+28	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
 29	d-	_	DET	DEF	_	30	det	_	SpaceAfter=No
 30	distakk	_	NOUN	NOUN	_	27	conj	_	_
 31	li	_	SCONJ	COMP	_	32	mark	_	_
 32	jippretendu	_	VERB	VERB	_	30	acl	_	_
-33	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+33	u	_	CCONJ	CONJ_CORD	_	27	cc	_	ToDo=cc-after-conj
 34	bi	_	ADP	PREP	_	35	case	_	_
 35	dritt	_	ADV	ADV	_	27	advmod	_	_
 36	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 21_01J03:1
+# text = Wara waqfa ta' kważi 14-il xahar milli jxandar leħnu fuq ir-radju jew jidher fuq it-televiżjoni , Carlo Borg Bonaci hu lest biex ikompli minn fejn waqaf .
 1	Wara	_	ADP	PREP	_	2	case	_	_
 2	waqfa	_	NOUN	NOUN	_	23	obl	_	_
 3	ta'	_	ADP	GEN	_	6	case	_	_
@@ -2241,15 +2327,15 @@
 10	fuq	_	ADP	PREP	_	12	case	_	_
 11	ir-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	radju	_	NOUN	NOUN	_	8	obl	_	_
-13	jew	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+13	jew	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 14	jidher	_	VERB	VERB	_	8	conj	_	_
 15	fuq	_	ADP	PREP	_	17	case	_	_
 16	it-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 17	televiżjoni	_	NOUN	NOUN	_	14	obl	_	_
 18	,	_	PUNCT	X_PUN	_	2	punct	_	_
-19	Carlo	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
-20	Borg	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
-21	Bonaci	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+19	Carlo	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+20	Borg	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
+21	Bonaci	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 22	hu	_	PRON	PRON_PERS	_	23	cop	_	_
 23	lest	_	ADJ	ADJ	_	0	root	_	_
 24	biex	_	SCONJ	CONJ_SUB	_	25	mark	_	_
@@ -2260,6 +2346,7 @@
 29	.	_	PUNCT	X_PUN	_	23	punct	_	_
 
 # sent_id = 21_01J03:2
+# text = Mill-ġimgħa d-dieħla se jirritorna fuq l-iskrin permezz tal-kwiżż ' Kontra l-Ħin ' fuq Net Television u r-rekordings diġà bdew .
 1	Mill-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	ġimgħa	_	NOUN	NOUN	_	6	obl	_	_
 3	d-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -2277,10 +2364,10 @@
 15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
 16	Ħin	_	NOUN	NOUN	_	6	obl	_	_
 17	'	_	PUNCT	X_PUN	_	16	punct	_	_
-18	fuq	_	ADP	PREP	_	20	case	_	_
-19	Net	_	NOUN	NOUN	_	20	flat:name	_	_
-20	Television	_	NOUN	NOUN	_	16	nmod	_	_
-21	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+18	fuq	_	ADP	PREP	_	19	case	_	_
+19	Net	_	NOUN	NOUN	_	16	nmod	_	_
+20	Television	_	NOUN	NOUN	_	19	flat:name	_	_
+21	u	_	CCONJ	CONJ_CORD	_	25	cc	_	_
 22	r-	_	DET	DEF	_	23	det	_	SpaceAfter=No
 23	rekordings	_	NOUN	NOUN	_	25	nsubj	_	_
 24	diġà	_	ADV	ADV	_	25	advmod	_	_
@@ -2288,6 +2375,7 @@
 26	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 21_01J03:3
+# text = Il-waqfa madankollu ma kenitx dovuta għal kapriċċ .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	waqfa	_	NOUN	NOUN	_	6	nsubj:pass	_	_
 3	madankollu	_	ADV	ADV	_	6	advmod	_	_
@@ -2299,15 +2387,16 @@
 9	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 21_01J03:4
-1	Carlo	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
-2	Borg	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
-3	Bonaci	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
-4	,	_	PUNCT	X_PUN	_	3	punct	_	_
+# text = Carlo Borg Bonaci , li għandu 44 sena , ħabbat wiċċu mad-dilemma tal-ħajja , fejn ftit aktar minn sena ilu kien mogħti l-aħbar li kien jeħtieġ il-kura bil-kimoterapija minħabba djanjosi mhux mistennija għal lymphoma .
+1	Carlo	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
+2	Borg	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	Bonaci	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	,	_	PUNCT	X_PUN	_	1	punct	_	_
 5	li	_	SCONJ	COMP	_	6	mark	_	_
-6	għandu	_	VERB	VERB_PSEU	_	3	acl	_	_
+6	għandu	_	VERB	VERB_PSEU	_	1	acl	_	_
 7	44	_	NUM	X_DIG	_	8	nummod	_	_
 8	sena	_	NOUN	NOUN	_	6	obj	_	_
-9	,	_	PUNCT	X_PUN	_	3	punct	_	_
+9	,	_	PUNCT	X_PUN	_	1	punct	_	_
 10	ħabbat	_	VERB	VERB	_	0	root	_	_
 11	wiċċu	_	NOUN	NOUN	_	10	obj	_	_
 12	mad-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
@@ -2341,6 +2430,7 @@
 40	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 21_01J03:5
+# text = " Ġara li meta kont l-isptar għal operazzjoni minuri ġie fuqi t-tabib li kien qed jieħu ħsieb il-kura tiegħi u qalli li kien hemm bżonn intervent immedjat għaliex mit-testijiet tad-demm irriżulta li kelli l-problemi , " spjega Borg Bonaci li żied jgħid kif l-aħbar ħasditu sal-punt li kien donnu rrassenja ruħu .
 1	"	_	PUNCT	X_PUN	_	2	punct	_	_
 2	Ġara	_	VERB	VERB	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	11	mark	_	_
@@ -2363,7 +2453,7 @@
 20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
 21	kura	_	NOUN	NOUN	_	18	obj	_	_
 22	tiegħi	_	PRON	GEN_PRON	_	21	case	_	_
-23	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+23	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 24	qalli	_	VERB	VERB	_	11	conj	_	_
 25	li	_	SCONJ	COMP	_	27	mark	_	_
 26	kien	_	AUX	KIEN	_	27	aux	_	_
@@ -2384,10 +2474,10 @@
 41	,	_	PUNCT	X_PUN	_	2	punct	_	_
 42	"	_	PUNCT	X_PUN	_	2	punct	_	_
 43	spjega	_	VERB	VERB	_	2	parataxis	_	_
-44	Borg	_	PROPN	NOUN_PROP	_	45	flat:name	_	_
-45	Bonaci	_	PROPN	NOUN_PROP	_	43	nsubj	_	_
+44	Borg	_	PROPN	NOUN_PROP	_	43	nsubj	_	_
+45	Bonaci	_	PROPN	NOUN_PROP	_	44	flat:name	_	_
 46	li	_	SCONJ	COMP	_	47	mark	_	_
-47	żied	_	VERB	VERB	_	45	acl	_	_
+47	żied	_	VERB	VERB	_	44	acl	_	_
 48	jgħid	_	VERB	VERB	_	47	xcomp	_	_
 49	kif	_	PRON	PRON_INT	_	52	advmod	_	_
 50	l-	_	DET	DEF	_	51	det	_	SpaceAfter=No
@@ -2403,6 +2493,7 @@
 60	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 21_01J03:6
+# text = " Li ma kenitx għall-kuraġg kbir li tħaddan marti Natalie ma nafx kif psikoloġikament stajt naffronta l-ġimgħat ta' kura li kelli bżonn . "
 1	"	_	PUNCT	X_PUN	_	13	punct	_	_
 2	Li	_	SCONJ	COMP	_	6	mark	_	_
 3	ma	_	PART	NEG	_	6	aux:neg	_	_
@@ -2431,8 +2522,9 @@
 26	"	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 21_01J03:7
-1	Borg	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
-2	Bonaci	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+# text = Borg Bonaci jispjega kif għex ir-realtà tal-qawl Malti li l-appoġġ hu nofs il-fejqan , fejn bis-saħħa tal-familja u l-ħbieb , ikkronfronta din ir-realtà l-ġdida f'ħajtu .
+1	Borg	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Bonaci	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 3	jispjega	_	VERB	VERB	_	0	root	_	_
 4	kif	_	PRON	PRON_INT	_	5	advmod	_	_
 5	għex	_	VERB	VERB	_	3	xcomp	_	_
@@ -2454,7 +2546,7 @@
 21	saħħa	_	NOUN	NOUN	_	28	obl	_	_
 22	tal-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No
 23	familja	_	NOUN	NOUN	_	21	nmod:poss	_	_
-24	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+24	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 25	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
 26	ħbieb	_	NOUN	NOUN	_	23	conj	_	_
 27	,	_	PUNCT	X_PUN	_	21	punct	_	_
@@ -2464,11 +2556,12 @@
 31	realtà	_	NOUN	NOUN	_	28	obj	_	_
 32	l-	_	DET	DEF	_	33	det	_	SpaceAfter=No
 33	ġdida	_	ADJ	ADJ	_	31	amod	_	_
-34	f'	_	ADP	PREP	_	35	case	_	_
+34	f'	_	ADP	PREP	_	35	case	_	SpaceAfter=No
 35	ħajtu	_	NOUN	NOUN	_	31	nmod	_	_
 36	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:8
+# text = Filwaqt li jispjega l-biża' tiegħu li jikkonfronta r-realtà tal-Isptar Boffa , Borg Bonaci jgħid li l-aktar ħaġa li serrħitu kienet l-attitudni pożittiva u dedikata tal-istaff , in-nurses u t-tobba .
 1	Filwaqt	_	SCONJ	CONJ_SUB	_	3	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	jispjega	_	VERB	VERB	_	17	advcl	_	_
@@ -2483,8 +2576,8 @@
 12	Isptar	_	NOUN	NOUN	_	13	compound	_	_
 13	Boffa	_	PROPN	NOUN_PROP	_	10	nmod:poss	_	_
 14	,	_	PUNCT	X_PUN	_	3	punct	_	_
-15	Borg	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
-16	Bonaci	_	PROPN	NOUN_PROP	_	17	nsubj	_	_
+15	Borg	_	PROPN	NOUN_PROP	_	17	nsubj	_	_
+16	Bonaci	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
 17	jgħid	_	VERB	VERB	_	0	root	_	_
 18	li	_	SCONJ	COMP	_	26	mark	_	_
 19	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
@@ -2496,19 +2589,20 @@
 25	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
 26	attitudni	_	NOUN	NOUN	_	17	ccomp	_	_
 27	pożittiva	_	ADJ	ADJ	_	26	amod	_	_
-28	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+28	u	_	CCONJ	CONJ_CORD	_	29	cc	_	_
 29	dedikata	_	VERB	PART_PASS	_	27	conj	_	_
 30	tal-	_	ADP	GEN_DEF	_	31	case:det	_	SpaceAfter=No
 31	istaff	_	NOUN	NOUN	_	26	nmod:poss	_	_
 32	,	_	PUNCT	X_PUN	_	31	punct	_	_
 33	in-	_	DET	DEF	_	34	det	_	SpaceAfter=No
 34	nurses	_	NOUN	NOUN	_	31	conj	_	_
-35	u	_	CCONJ	CONJ_CORD	_	31	cc	_	_
+35	u	_	CCONJ	CONJ_CORD	_	37	cc	_	_
 36	t-	_	DET	DEF	_	37	det	_	SpaceAfter=No
 37	tobba	_	NOUN	NOUN	_	31	conj	_	_
 38	.	_	PUNCT	X_PUN	_	17	punct	_	_
 
 # sent_id = 21_01J03:9
+# text = " Min ikun rikoverat fl-Isptar Boffa jkun hemm għal ħaġa ovvja , iżda lil hinn mill-awra li jista' jkollu dan l-isptar , il-verità hi li min jirċievi l-kura hemmhekk ikun f'idejn tajbin u dedikati . "
 1	"	_	PUNCT	X_PUN	_	9	punct	_	_
 2	Min	_	PRON	PRON_INT	_	9	nsubj	_	_
 3	ikun	_	AUX	KIEN	_	4	cop	_	_
@@ -2522,11 +2616,11 @@
 11	ħaġa	_	NOUN	NOUN	_	9	obl	_	_
 12	ovvja	_	ADJ	ADJ	_	11	amod	_	_
 13	,	_	PUNCT	X_PUN	_	9	punct	_	_
-14	iżda	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+14	iżda	_	CCONJ	CONJ_CORD	_	28	cc	_	_
 15	lil	_	ADP	LIL	_	16	case	_	_
 16	hinn	_	ADV	ADV	_	28	advmod	_	_
 17	mill-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
-18	awra	_	NOUN	NOUN	_	16	nmod	_	_
+18	awra	_	NOUN	NOUN	_	16	obl	_	_
 19	li	_	SCONJ	COMP	_	20	mark	_	_
 20	jista'	_	VERB	VERB	_	18	acl	_	_
 21	jkollu	_	VERB	VERB_PSEU	_	20	xcomp	_	_
@@ -2544,15 +2638,16 @@
 33	kura	_	NOUN	NOUN	_	31	obj	_	_
 34	hemmhekk	_	ADV	ADV	_	31	advmod	_	_
 35	ikun	_	AUX	KIEN	_	37	cop	_	_
-36	f'	_	ADP	PREP	_	37	case	_	_
+36	f'	_	ADP	PREP	_	37	case	_	SpaceAfter=No
 37	idejn	_	NOUN	NOUN	_	28	ccomp	_	_
 38	tajbin	_	ADJ	ADJ	_	37	amod	_	_
-39	u	_	CCONJ	CONJ_CORD	_	38	cc	_	_
+39	u	_	CCONJ	CONJ_CORD	_	40	cc	_	_
 40	dedikati	_	VERB	PART_PASS	_	38	conj	_	_
 41	.	_	PUNCT	X_PUN	_	9	punct	_	_
 42	"	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 21_01J03:10
+# text = Il-kimoterapija twassal għall-għejja fiżika , tant li tneħħi l-aptit għal kolloxinkluż li toħroġ barra għar-raġuni li tolqot fil-vanità hekk kif jaqa' x-xagħar .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	kimoterapija	_	NOUN	NOUN	_	3	nsubj	_	_
 3	twassal	_	VERB	VERB	_	0	root	_	_
@@ -2585,12 +2680,13 @@
 30	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:11
+# text = " Kont ħadtha bi kbira u kont nilbes beritta biex ngħatti .
 1	"	_	PUNCT	X_PUN	_	3	punct	_	_
 2	Kont	_	AUX	KIEN	_	3	aux	_	_
 3	ħadtha	_	VERB	VERB	_	0	root	_	_
 4	bi	_	ADP	PREP	_	5	case	_	_
 5	kbira	_	ADJ	ADJ	_	3	obl	_	_
-6	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+6	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
 7	kont	_	AUX	KIEN	_	8	aux	_	_
 8	nilbes	_	VERB	VERB	_	3	conj	_	_
 9	beritta	_	NOUN	NOUN	_	8	obj	_	_
@@ -2599,14 +2695,15 @@
 12	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:12
+# text = Madankollu bdejt nidra f'din ir-realtà u bis-saħha tal-kuntatt li żammew miegħi l-ħbieb irnexxieli naffronta dan il-mument ukoll . "
 1	Madankollu	_	ADV	ADV	_	2	advmod	_	_
 2	bdejt	_	VERB	VERB	_	0	root	_	_
 3	nidra	_	VERB	VERB	_	2	xcomp	_	_
-4	f'	_	ADP	PREP	_	7	case	_	_
+4	f'	_	ADP	PREP	_	7	case	_	SpaceAfter=No
 5	din	_	PRON	PRON_DEM	_	7	det	_	_
 6	ir-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	realtà	_	NOUN	NOUN	_	3	obl	_	_
-8	u	_	CCONJ	CONJ_CORD	_	2	cc	_	_
+8	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
 9	bis-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
 10	saħha	_	NOUN	NOUN	_	18	obl	_	_
 11	tal-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
@@ -2626,9 +2723,10 @@
 25	"	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 21_01J03:13
-1	Carlo	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
-2	Borg	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
-3	Bonaci	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+# text = Carlo Borg Bonaci jkompli jispjega kif minbarra sħabu tas-soltu , feġġew ukoll il-ħbieb l-antiki li kien ilu ma jisma' b'aħbarhom għal snin twal , inklużi dawk ta' żmien l-iskola .
+1	Carlo	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+2	Borg	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	Bonaci	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 4	jkompli	_	VERB	VERB	_	0	root	_	_
 5	jispjega	_	VERB	VERB	_	4	xcomp	_	_
 6	kif	_	PRON	PRON_INT	_	12	advmod	_	_
@@ -2648,7 +2746,7 @@
 20	ilu	_	VERB	VERB_PSEU	_	15	acl	_	_
 21	ma	_	PART	NEG	_	22	aux:neg	_	_
 22	jisma'	_	VERB	VERB	_	20	xcomp	_	_
-23	b'	_	ADP	PREP	_	24	case	_	_
+23	b'	_	ADP	PREP	_	24	case	_	SpaceAfter=No
 24	aħbarhom	_	NOUN	NOUN	_	22	obl:arg	_	_
 25	għal	_	ADP	PREP	_	26	case	_	_
 26	snin	_	NOUN	NOUN	_	22	obl	_	_
@@ -2663,10 +2761,11 @@
 35	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 21_01J03:14
+# text = " Permezz tal-Facebook bdejt nirċievi messaġġi ta' kuraġġ , kif ukoll żjarat id-dar mingħand nies li kont ili ma nara jew nisma' bihom . "
 1	"	_	PUNCT	X_PUN	_	5	punct	_	_
 2	Permezz	_	NOUN	NOUN	_	4	case:det	_	_
 3	tal-	_	ADP	GEN_DEF	_	2	fixed	_	SpaceAfter=No
-4	Facebook	_	PROPN	NOUN_PROP	_	5	nmod:poss	_	_
+4	Facebook	_	PROPN	NOUN_PROP	_	5	obl:poss	_	_
 5	bdejt	_	VERB	VERB	_	0	root	_	_
 6	nirċievi	_	VERB	VERB	_	5	xcomp	_	_
 7	messaġġi	_	NOUN	NOUN	_	6	obj	_	_
@@ -2685,13 +2784,14 @@
 20	ili	_	VERB	VERB_PSEU	_	17	acl	_	_
 21	ma	_	PART	NEG	_	22	aux:neg	_	_
 22	nara	_	VERB	VERB	_	20	xcomp	_	_
-23	jew	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+23	jew	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 24	nisma'	_	VERB	VERB	_	20	conj	_	_
 25	bihom	_	PRON	PREP_PRON	_	24	obl:arg	_	_
 26	.	_	PUNCT	X_PUN	_	5	punct	_	_
 27	"	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 21_01J03:15
+# text = Iżda issa li minn dak li rrappurtawlu t-tobba li l-kura li rċieva ħadmet tajjeb , Borg Bonaci qed iħares 'il quddiem b'ottimiżmu mġedded .
 1	Iżda	_	CCONJ	CONJ_CORD	_	21	cc	_	_
 2	issa	_	ADV	ADV	_	21	advmod	_	_
 3	li	_	SCONJ	COMP	_	5	mark	_	_
@@ -2709,24 +2809,25 @@
 15	ħadmet	_	VERB	VERB	_	2	ccomp	_	_
 16	tajjeb	_	ADV	ADV	_	15	advmod	_	_
 17	,	_	PUNCT	X_PUN	_	2	punct	_	_
-18	Borg	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
-19	Bonaci	_	PROPN	NOUN_PROP	_	21	nsubj	_	_
+18	Borg	_	PROPN	NOUN_PROP	_	21	nsubj	_	_
+19	Bonaci	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
 20	qed	_	AUX	PROG	_	21	aux:part	_	_
 21	iħares	_	VERB	VERB	_	0	root	_	_
 22	'il	_	ADP	PREP	_	23	case	_	_
 23	quddiem	_	ADV	ADV	_	21	advmod	_	_
-24	b'	_	ADP	PREP	_	25	case	_	_
+24	b'	_	ADP	PREP	_	25	case	_	SpaceAfter=No
 25	ottimiżmu	_	NOUN	NOUN	_	21	obl	_	_
 26	mġedded	_	VERB	PART_PASS	_	25	amod	_	_
 27	.	_	PUNCT	X_PUN	_	21	punct	_	_
 
 # sent_id = 21_01J03:16
+# text = " Inħossni twelidt mill-ġdid u bi grinta liema bħalha … " jistqarr Borg Bonaci li jispjega kif minn din il-ġimgħa stess se jerġa' jibda r-rekordings tal-programm ' Kontra l-Ħin ' li se jerġa' jibda jixxandar fuq Net Television għal staġun televiżiv ġdid .
 1	"	_	PUNCT	X_PUN	_	2	punct	_	_
 2	Inħossni	_	VERB	VERB	_	0	root	_	_
 3	twelidt	_	VERB	VERB	_	2	xcomp	_	_
 4	mill-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
 5	ġdid	_	ADJ	ADJ	_	3	obl	_	_
-6	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+6	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
 7	bi	_	ADP	PREP	_	8	case	_	_
 8	grinta	_	NOUN	NOUN	_	3	conj	_	_
 9	liema	_	PRON	PRON_INT	_	10	mark	_	_
@@ -2734,10 +2835,10 @@
 11	…	_	PUNCT	X_PUN	_	10	punct	_	_
 12	"	_	PUNCT	X_PUN	_	2	punct	_	_
 13	jistqarr	_	VERB	VERB	_	2	parataxis	_	_
-14	Borg	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
-15	Bonaci	_	PROPN	NOUN_PROP	_	13	nsubj	_	_
+14	Borg	_	PROPN	NOUN_PROP	_	13	nsubj	_	_
+15	Bonaci	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
 16	li	_	SCONJ	COMP	_	17	mark	_	_
-17	jispjega	_	VERB	VERB	_	15	acl	_	_
+17	jispjega	_	VERB	VERB	_	14	acl	_	_
 18	kif	_	PRON	PRON_INT	_	25	advmod	_	_
 19	minn	_	ADP	PREP	_	22	case	_	_
 20	din	_	PRON	PRON_DEM	_	22	det	_	_
@@ -2771,6 +2872,7 @@
 48	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 21_01J03:17
+# text = Jirrakkonta li l-pawsa ta' 14-il xahar mir-radju u t-televiżjoni servietu biex jaġġorna ruħu aktar u jlesti ruħu għal ritorn bil-qawwi .
 1	Jirrakkonta	_	VERB	VERB	_	0	root	_	_
 2	li	_	SCONJ	COMP	_	13	mark	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -2780,7 +2882,7 @@
 7	xahar	_	NOUN	NOUN	_	4	nmod:poss	_	_
 8	mir-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
 9	radju	_	NOUN	NOUN	_	4	nmod	_	_
-10	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
 11	t-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	televiżjoni	_	NOUN	NOUN	_	9	conj	_	_
 13	servietu	_	VERB	VERB	_	1	ccomp	_	_
@@ -2788,7 +2890,7 @@
 15	jaġġorna	_	VERB	VERB	_	13	advcl	_	_
 16	ruħu	_	PRON	PRON_REF	_	15	obj	_	_
 17	aktar	_	ADV	ADV	_	16	advmod	_	_
-18	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
 19	jlesti	_	VERB	VERB	_	15	conj	_	_
 20	ruħu	_	PRON	PRON_REF	_	19	obj	_	_
 21	għal	_	ADP	PREP	_	22	case	_	_
@@ -2798,10 +2900,11 @@
 25	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 21_01J03:18
+# text = " Ninsab lest b'determinazzjoni kbira biex nerġa' nibda minn fejn tlaqt , " isostni , filwaqt li żied kif anki fejn jidħol ir-radju , " għaddejjin diskussjonijiet . "
 1	"	_	PUNCT	X_PUN	_	2	punct	_	_
 2	Ninsab	_	VERB	VERB	_	0	root	_	_
 3	lest	_	ADJ	ADJ	_	2	xcomp	_	_
-4	b'	_	ADP	PREP	_	5	case	_	_
+4	b'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
 5	determinazzjoni	_	NOUN	NOUN	_	3	obl	_	_
 6	kbira	_	ADJ	ADJ	_	5	amod	_	_
 7	biex	_	SCONJ	CONJ_SUB	_	8	mark	_	_
@@ -2831,6 +2934,7 @@
 31	"	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 21_01J03:19
+# text = " Il-mużika hi parti integrali minn ħajti u teħtieġ tkun miegħi f'kull ma nagħmel , " jgħid Carlo , li jispjega kif anki matul il-perjodu li għamel taħt il-kimoterapija , il-mużika kienet l-aktar ħaġa li tagħtu ispirazzjoni biex iqawwi qalbu u jżomm il-burdata f'postha .
 1	"	_	PUNCT	X_PUN	_	5	punct	_	_
 2	Il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	mużika	_	NOUN	NOUN	_	5	nsubj	_	_
@@ -2839,11 +2943,11 @@
 6	integrali	_	ADJ	ADJ	_	5	amod	_	_
 7	minn	_	ADP	PREP	_	8	case	_	_
 8	ħajti	_	NOUN	NOUN	_	5	obl	_	_
-9	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
 10	teħtieġ	_	VERB	VERB	_	5	conj	_	_
 11	tkun	_	AUX	KIEN	_	10	xcomp	_	_
 12	miegħi	_	PRON	PREP_PRON	_	11	xcomp	_	_
-13	f'	_	ADP	PREP	_	14	case	_	_
+13	f'	_	ADP	PREP	_	14	case	_	SpaceAfter=No
 14	kull	_	DET	QUAN	_	12	obl	_	_
 15	ma	_	SCONJ	COMP	_	16	mark	_	_
 16	nagħmel	_	VERB	VERB	_	14	acl	_	_
@@ -2877,15 +2981,16 @@
 44	biex	_	SCONJ	CONJ_SUB	_	45	mark	_	_
 45	iqawwi	_	VERB	VERB	_	42	advcl	_	_
 46	qalbu	_	NOUN	NOUN	_	45	obj	_	_
-47	u	_	CCONJ	CONJ_CORD	_	45	cc	_	_
+47	u	_	CCONJ	CONJ_CORD	_	48	cc	_	_
 48	jżomm	_	VERB	VERB	_	45	conj	_	_
 49	il-	_	DET	DEF	_	50	det	_	SpaceAfter=No
 50	burdata	_	NOUN	NOUN	_	48	obj	_	_
-51	f'	_	ADP	PREP	_	52	case	_	_
+51	f'	_	ADP	PREP	_	52	case	_	SpaceAfter=No
 52	postha	_	NOUN	NOUN	_	48	obl	_	_
 53	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 21_01J03:20
+# text = " Għalija l-mużika hi l-fuel għal ħajti , miniex assolutament kapaċi nkun mingħajrha , " tenna Carlo .
 1	"	_	PUNCT	X_PUN	_	7	punct	_	_
 2	Għalija	_	PRON	PREP_PRON	_	7	obl	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -2908,11 +3013,12 @@
 20	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 21_01J03:21
+# text = Il-karriera ta' Borg Bonaci tmur lura għas-snin 80 meta kien disc jockey f'diskoteka magħrufa f'San Ġiljan , u l-popolarità tiegħu ġiet mix-xejnhekk kif Charles Flores , dak iż-żmien Kap tal-Programmi fuq Radju Malta kien offrielu breakfast show u mbagħad programm wara nofsinhar .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	karriera	_	NOUN	NOUN	_	6	nsubj	_	_
-3	ta'	_	ADP	GEN	_	5	case	_	_
-4	Borg	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
-5	Bonaci	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	Borg	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+5	Bonaci	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 6	tmur	_	VERB	VERB	_	0	root	_	_
 7	lura	_	ADV	ADV	_	6	advmod	_	_
 8	għas-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
@@ -2922,14 +3028,14 @@
 12	kien	_	AUX	KIEN	_	14	cop	_	_
 13	disc	_	ADJ	ADJ	_	14	amod	_	_
 14	jockey	_	NOUN	NOUN	_	6	advcl	_	_
-15	f'	_	ADP	PREP	_	16	case	_	_
+15	f'	_	ADP	PREP	_	16	case	_	SpaceAfter=No
 16	diskoteka	_	NOUN	NOUN	_	14	obl	_	_
 17	magħrufa	_	VERB	PART_PASS	_	16	amod	_	_
-18	f'	_	ADP	PREP	_	20	case	_	_
-19	San	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
-20	Ġiljan	_	PROPN	NOUN_PROP	_	16	nmod	_	_
+18	f'	_	ADP	PREP	_	19	case	_	SpaceAfter=No
+19	San	_	PROPN	NOUN_PROP	_	16	nmod	_	_
+20	Ġiljan	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
 21	,	_	PUNCT	X_PUN	_	14	punct	_	_
-22	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+22	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 23	l-	_	DET	DEF	_	24	det	_	SpaceAfter=No
 24	popolarità	_	NOUN	NOUN	_	26	nsubj	_	_
 25	tiegħu	_	PRON	GEN_PRON	_	24	case	_	_
@@ -2938,13 +3044,13 @@
 28	xejn	_	PRON	PRON_INDEF	_	26	obl	_	SpaceAfter=No
 29	hekk	_	ADV	ADV	_	44	mark	_	_
 30	kif	_	PRON	PRON_INT	_	29	fixed	_	_
-31	Charles	_	PROPN	NOUN_PROP	_	32	flat:name	_	_
-32	Flores	_	PROPN	NOUN_PROP	_	44	nsubj	_	_
-33	,	_	PUNCT	X_PUN	_	32	punct	_	_
+31	Charles	_	PROPN	NOUN_PROP	_	44	nsubj	_	_
+32	Flores	_	PROPN	NOUN_PROP	_	31	flat:name	_	_
+33	,	_	PUNCT	X_PUN	_	31	punct	_	_
 34	dak	_	PRON	PRON_DEM	_	36	det	_	_
 35	iż-	_	DET	DEF	_	36	det	_	SpaceAfter=No
 36	żmien	_	NOUN	NOUN	_	37	nmod	_	_
-37	Kap	_	NOUN	NOUN	_	32	appos	_	_
+37	Kap	_	NOUN	NOUN	_	31	appos	_	_
 38	tal-	_	ADP	GEN_DEF	_	39	case:det	_	SpaceAfter=No
 39	Programmi	_	NOUN	NOUN	_	37	nmod:poss	_	_
 40	fuq	_	ADP	PREP	_	41	case	_	_
@@ -2954,7 +3060,7 @@
 44	offrielu	_	VERB	VERB	_	26	advcl	_	_
 45	breakfast	_	ADJ	ADJ	_	46	amod	_	_
 46	show	_	NOUN	NOUN	_	44	obj	_	_
-47	u	_	CCONJ	CONJ_CORD	_	46	cc	_	_
+47	u	_	CCONJ	CONJ_CORD	_	49	cc	_	_
 48	mbagħad	_	ADV	ADV	_	49	advmod	_	_
 49	programm	_	NOUN	NOUN	_	46	conj	_	_
 50	wara	_	ADP	PREP	_	51	case	_	_
@@ -2962,8 +3068,9 @@
 52	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 21_01J03:22
-1	Borg	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
-2	Bonaci	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+# text = Borg Bonaci hu bniedem li ma jħobbx il-medjokrità .
+1	Borg	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+2	Bonaci	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 3	hu	_	PRON	PRON_PERS	_	4	cop	_	_
 4	bniedem	_	NOUN	NOUN	_	0	root	_	_
 5	li	_	SCONJ	COMP	_	7	mark	_	_
@@ -2974,6 +3081,7 @@
 10	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 21_01J03:23
+# text = In-namur tiegħu għad-dinja tar-radju wasslitu biex jipproduċi programmi li fi ftit kliem biddlu x-xejra ta' dak li l-Maltin kienu tradizzjonalment imdorrija jisimgħu fejn jidħlu d-disc jockeys .
 1	In-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	namur	_	NOUN	NOUN	_	8	nsubj	_	_
 3	tiegħu	_	PRON	GEN_PRON	_	2	case	_	_
@@ -3009,6 +3117,7 @@
 33	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 21_01J03:24
+# text = Bis-saħħa tal-fatt li Carlo kien u għadu jsegwi l-metodi ta' produzzjoni ta' programmi fuq ir-radju barra l-pajjiż , irnexxielu jdaħħal il-kunċett ta' preżentatur , u b'dan irnexxielu jsaħħaħ il-kontenut .
 1	Bis-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	saħħa	_	NOUN	NOUN	_	24	obl	_	_
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
@@ -3016,7 +3125,7 @@
 5	li	_	SCONJ	COMP	_	10	mark	_	_
 6	Carlo	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
 7	kien	_	AUX	KIEN	_	10	aux	_	_
-8	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+8	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 9	għadu	_	VERB	VERB_PSEU	_	7	conj	_	_
 10	jsegwi	_	VERB	VERB	_	4	ccomp	_	_
 11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
@@ -3039,8 +3148,8 @@
 28	ta'	_	ADP	GEN	_	29	case	_	_
 29	preżentatur	_	NOUN	NOUN	_	27	nmod:poss	_	_
 30	,	_	PUNCT	X_PUN	_	24	punct	_	_
-31	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
-32	b'	_	ADP	PREP	_	33	case	_	_
+31	u	_	CCONJ	CONJ_CORD	_	34	cc	_	_
+32	b'	_	ADP	PREP	_	33	case	_	SpaceAfter=No
 33	dan	_	PRON	PRON_DEM	_	34	obl	_	_
 34	irnexxielu	_	VERB	VERB	_	24	conj	_	_
 35	jsaħħaħ	_	VERB	VERB	_	34	xcomp	_	_
@@ -3049,17 +3158,19 @@
 38	.	_	PUNCT	X_PUN	_	24	punct	_	_
 
 # sent_id = 21_01J03:25
+# text = " Ir-radju hu kumpanija u passatemp utli .
 1	"	_	PUNCT	X_PUN	_	5	punct	_	_
 2	Ir-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	radju	_	NOUN	NOUN	_	5	nsubj	_	_
 4	hu	_	PRON	PRON_PERS	_	5	cop	_	_
 5	kumpanija	_	NOUN	NOUN	_	0	root	_	_
-6	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 7	passatemp	_	NOUN	NOUN	_	5	conj	_	_
 8	utli	_	ADJ	ADJ	_	7	amod	_	_
 9	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 21_01J03:26
+# text = Kapaċi jgħallmek , iferrħek , jagħtik is-sabar u għalhekk fi żmien meta f'Malta kien għad hawn Radju Malta biss , irnexxa l-kunċett ta' kontenut waqt programm . "
 1	Kapaċi	_	ADJ	ADJ	_	0	root	_	_
 2	jgħallmek	_	VERB	VERB	_	1	xcomp	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
@@ -3068,12 +3179,12 @@
 6	jagħtik	_	VERB	VERB	_	2	conj	_	_
 7	is-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 8	sabar	_	NOUN	NOUN	_	6	obj	_	_
-9	u	_	CCONJ	CONJ_CORD	_	2	cc	_	_
+9	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
 10	għalhekk	_	ADV	ADV	_	23	advmod	_	_
 11	fi	_	ADP	PREP	_	12	case	_	_
 12	żmien	_	NOUN	NOUN	_	23	obl	_	_
 13	meta	_	SCONJ	CONJ_SUB	_	18	mark	_	_
-14	f'	_	ADP	PREP	_	15	case	_	_
+14	f'	_	ADP	PREP	_	15	case	_	SpaceAfter=No
 15	Malta	_	PROPN	NOUN_PROP	_	18	obl	_	_
 16	kien	_	AUX	KIEN	_	18	aux	_	_
 17	għad	_	VERB	VERB_PSEU	_	18	aux	_	_
@@ -3093,6 +3204,7 @@
 31	"	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 21_01J03:27
+# text = Carlo kien qed jirreferi għall-programm ' Il-Bella Kumpanija ' li fl-1990 kien l-aktar programm popolari fuq Radju Malta u li permezz tiegħu kien għaqqad tim ta' nies u ħoloq il-karattri , iċ-ċajt u anki skopra t-talent .
 1	Carlo	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
 2	kien	_	AUX	KIEN	_	4	aux	_	_
 3	qed	_	AUX	PROG	_	4	aux:part	_	_
@@ -3113,9 +3225,9 @@
 18	programm	_	NOUN	NOUN	_	10	acl	_	_
 19	popolari	_	ADJ	ADJ	_	18	amod	_	_
 20	fuq	_	ADP	PREP	_	21	case	_	_
-21	Radju	_	NOUN	NOUN	_	18	nmod	_	_
+21	Radju	_	NOUN	NOUN	_	18	nmod	_	ToDo=nmod
 22	Malta	_	PROPN	NOUN_PROP	_	21	nmod	_	_
-23	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+23	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
 24	li	_	SCONJ	COMP	_	28	mark	_	_
 25	permezz	_	NOUN	NOUN	_	28	obl	_	_
 26	tiegħu	_	PRON	GEN_PRON	_	25	fixed	_	_
@@ -3124,14 +3236,14 @@
 29	tim	_	NOUN	NOUN	_	28	obj	_	_
 30	ta'	_	ADP	GEN	_	31	case	_	_
 31	nies	_	NOUN	NOUN	_	29	nmod:poss	_	_
-32	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+32	u	_	CCONJ	CONJ_CORD	_	33	cc	_	_
 33	ħoloq	_	VERB	VERB	_	28	conj	_	_
 34	il-	_	DET	DEF	_	35	det	_	SpaceAfter=No
 35	karattri	_	NOUN	NOUN	_	33	obj	_	_
 36	,	_	PUNCT	X_PUN	_	35	punct	_	_
 37	iċ-	_	DET	DEF	_	38	det	_	SpaceAfter=No
 38	ċajt	_	NOUN	NOUN	_	35	conj	_	_
-39	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+39	u	_	CCONJ	CONJ_CORD	_	41	cc	_	_
 40	anki	_	ADV	FOC	_	41	discourse	_	_
 41	skopra	_	VERB	VERB	_	28	conj	_	_
 42	t-	_	DET	DEF	_	43	det	_	SpaceAfter=No
@@ -3139,6 +3251,7 @@
 44	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 21_01J03:28
+# text = " Minn dak il-programm ħarġu l-prezentaturi Joe Tanti , Mario l-Banana u anki Martin Sapiano , filwaqt li kien hemm ukoll Alfie Fabri u Toni Sant li kienu diġà qed jiksbu popolarità … "
 1	"	_	PUNCT	X_PUN	_	6	punct	_	_
 2	Minn	_	ADP	PREP	_	5	case	_	_
 3	dak	_	PRON	PRON_DEM	_	5	det	_	_
@@ -3146,52 +3259,53 @@
 5	programm	_	NOUN	NOUN	_	6	obl	_	_
 6	ħarġu	_	VERB	VERB	_	0	root	_	_
 7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
-8	prezentaturi	_	NOUN	NOUN	_	10	compound	_	_
-9	Joe	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
-10	Tanti	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
-11	,	_	PUNCT	X_PUN	_	10	punct	_	_
-12	Mario	_	PROPN	NOUN_PROP	_	10	conj	_	_
+8	prezentaturi	_	NOUN	NOUN	_	9	compound	_	_
+9	Joe	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+10	Tanti	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
+11	,	_	PUNCT	X_PUN	_	9	punct	_	_
+12	Mario	_	PROPN	NOUN_PROP	_	9	conj	_	_
 13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	Banana	_	NOUN	NOUN	_	12	nmod	_	_
-15	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
-16	anki	_	ADV	FOC	_	18	discourse	_	_
-17	Martin	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
-18	Sapiano	_	PROPN	NOUN_PROP	_	10	conj	_	_
+15	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
+16	anki	_	ADV	FOC	_	17	discourse	_	_
+17	Martin	_	PROPN	NOUN_PROP	_	9	conj	_	_
+18	Sapiano	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
 19	,	_	PUNCT	X_PUN	_	6	punct	_	_
 20	filwaqt	_	SCONJ	CONJ_SUB	_	23	mark	_	_
 21	li	_	SCONJ	COMP	_	20	fixed	_	_
 22	kien	_	AUX	KIEN	_	23	aux	_	_
 23	hemm	_	VERB	HEMM	_	6	advcl	_	_
-24	ukoll	_	ADV	FOC	_	26	discourse	_	_
-25	Alfie	_	PROPN	NOUN_PROP	_	26	flat:name	_	_
-26	Fabri	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
-27	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
-28	Toni	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
-29	Sant	_	PROPN	NOUN_PROP	_	26	conj	_	_
+24	ukoll	_	ADV	FOC	_	25	discourse	_	_
+25	Alfie	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+26	Fabri	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
+27	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+28	Toni	_	PROPN	NOUN_PROP	_	25	conj	_	_
+29	Sant	_	PROPN	NOUN_PROP	_	28	flat:name	_	_
 30	li	_	SCONJ	COMP	_	34	mark	_	_
 31	kienu	_	AUX	KIEN	_	34	aux	_	_
 32	diġà	_	ADV	ADV	_	34	advmod	_	_
 33	qed	_	AUX	PROG	_	34	aux:part	_	_
-34	jiksbu	_	VERB	VERB	_	26	acl	_	_
+34	jiksbu	_	VERB	VERB	_	25	acl	_	_
 35	popolarità	_	NOUN	NOUN	_	34	obj	_	_
 36	…	_	PUNCT	X_PUN	_	6	punct	_	_
 37	"	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 21_01J03:29
+# text = Minn Radju Malta , Borg Bonaci kien wieħed mill-fundaturi ta' Bay Radio u kien hemmekk li r-radju kummerċjali ta spinta lill-kunċett ta' programm bil-kontenut .
 1	Minn	_	ADP	PREP	_	2	case	_	_
 2	Radju	_	NOUN	NOUN	_	8	obl	_	_
 3	Malta	_	PROPN	NOUN_PROP	_	2	nmod	_	_
 4	,	_	PUNCT	X_PUN	_	2	punct	_	_
-5	Borg	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
-6	Bonaci	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+5	Borg	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+6	Bonaci	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 7	kien	_	AUX	KIEN	_	8	cop	_	_
 8	wieħed	_	NUM	NUM_WHD	_	0	root	_	_
 9	mill-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
-10	fundaturi	_	NOUN	NOUN	_	8	nmod	_	_
+10	fundaturi	_	NOUN	NOUN	_	8	nmod	_	ToDo=nmod
 11	ta'	_	ADP	GEN	_	13	case	_	_
 12	Bay	_	ADJ	ADJ	_	13	amod	_	_
 13	Radio	_	NOUN	NOUN	_	10	nmod:poss	_	_
-14	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+14	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 15	kien	_	AUX	KIEN	_	16	cop	_	_
 16	hemmekk	_	ADV	ADV	_	8	conj	_	_
 17	li	_	SCONJ	COMP	_	21	mark	_	_
@@ -3209,6 +3323,7 @@
 29	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 21_01J03:30
+# text = " Il-preżentatur mhux biss dak li jgħid x' diska ġejja jew li spiċċat , iżda l-preżentatur hu propju r-ruħ tal-programm u bl-għajnuna tal-jingles tagħmel id-differenza kollha … tagħti qawwa lill-prodott . "
 1	"	_	PUNCT	X_PUN	_	6	punct	_	_
 2	Il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	preżentatur	_	NOUN	NOUN	_	6	nsubj	_	_
@@ -3220,11 +3335,11 @@
 9	x'	_	PRON	PRON_INT	_	10	det	_	_
 10	diska	_	NOUN	NOUN	_	11	nsubj	_	_
 11	ġejja	_	VERB	PART_ACT	_	8	ccomp	_	_
-12	jew	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+12	jew	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 13	li	_	SCONJ	COMP	_	14	mark	_	_
 14	spiċċat	_	VERB	VERB	_	11	conj	_	_
 15	,	_	PUNCT	X_PUN	_	6	punct	_	_
-16	iżda	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+16	iżda	_	CCONJ	CONJ_CORD	_	22	cc	_	_
 17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	preżentatur	_	NOUN	NOUN	_	22	nsubj	_	_
 19	hu	_	PRON	PRON_PERS	_	22	cop	_	_
@@ -3233,7 +3348,7 @@
 22	ruħ	_	NOUN	NOUN	_	6	conj	_	_
 23	tal-	_	ADP	GEN_DEF	_	24	case:det	_	SpaceAfter=No
 24	programm	_	NOUN	NOUN	_	22	nmod:poss	_	_
-25	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
+25	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
 26	bl-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
 27	għajnuna	_	NOUN	NOUN	_	30	obl	_	_
 28	tal-	_	ADP	GEN_DEF	_	29	case:det	_	SpaceAfter=No
@@ -3251,8 +3366,9 @@
 40	"	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 21_01J03:31
-1	Borg	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
-2	Bonaci	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+# text = Borg Bonaci jemmen li s-suċċess tiegħu fejn tidħol il-popolarità hi marbuta mal-karattru tiegħu li jkun sinċier mas-semmiegħa u li ma jkunx vojt f'dak li jgħid .
+1	Borg	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Bonaci	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 3	jemmen	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	13	mark	_	_
 5	s-	_	DET	DEF	_	6	det	_	SpaceAfter=No
@@ -3272,18 +3388,19 @@
 19	sinċier	_	ADJ	ADJ	_	15	acl	_	_
 20	mas-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
 21	semmiegħa	_	NOUN	NOUN	_	19	obl	_	_
-22	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+22	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 23	li	_	SCONJ	COMP	_	26	mark	_	_
 24	ma	_	PART	NEG	_	26	aux:neg	_	_
 25	jkunx	_	AUX	KIEN	_	26	cop	_	_
 26	vojt	_	ADJ	ADJ	_	19	conj	_	_
-27	f'	_	ADP	PREP	_	28	case	_	_
+27	f'	_	ADP	PREP	_	28	case	_	SpaceAfter=No
 28	dak	_	PRON	PRON_DEM	_	26	obl	_	_
 29	li	_	SCONJ	COMP	_	30	mark	_	_
 30	jgħid	_	VERB	VERB	_	28	acl	_	_
 31	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:32
+# text = " Ma tridx titkellem vojt , pastaż , doppju sens jew ta' kiesaħ …
 1	"	_	PUNCT	X_PUN	_	3	punct	_	_
 2	Ma	_	PART	NEG	_	3	aux:neg	_	_
 3	tridx	_	VERB	VERB	_	0	root	_	_
@@ -3294,19 +3411,20 @@
 8	,	_	PUNCT	X_PUN	_	5	punct	_	_
 9	doppju	_	ADJ	ADJ	_	10	amod	_	_
 10	sens	_	NOUN	NOUN	_	5	conj	_	_
-11	jew	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+11	jew	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 12	ta'	_	ADP	GEN	_	13	case	_	_
 13	kiesaħ	_	NOUN	NOUN	_	5	conj	_	_
 14	…	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:33
+# text = Ir-radju hu komunikazzjoni mal-bnedmin u nemmen li l-bnedmin huma kollha intelliġenti li kapaċi jiġgudikaw bejn min hu ġenwin magħhom u min mhux … "
 1	Ir-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	radju	_	NOUN	NOUN	_	4	nsubj	_	_
 3	hu	_	PRON	PRON_PERS	_	4	cop	_	_
 4	komunikazzjoni	_	NOUN	NOUN	_	0	root	_	_
 5	mal-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
-6	bnedmin	_	NOUN	NOUN	_	4	nmod	_	_
-7	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+6	bnedmin	_	NOUN	NOUN	_	4	nmod	_	ToDo=nmod
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
 8	nemmen	_	VERB	VERB	_	4	conj	_	_
 9	li	_	SCONJ	COMP	_	14	mark	_	_
 10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
@@ -3322,31 +3440,32 @@
 20	hu	_	PRON	PRON_PERS	_	21	cop	_	_
 21	ġenwin	_	ADJ	ADJ	_	19	acl	_	_
 22	magħhom	_	PRON	PREP_PRON	_	21	obl	_	_
-23	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+23	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 24	min	_	PRON	PRON_INT	_	19	conj	_	_
 25	mhux	_	PART	PRON_PERS_NEG	_	24	acl	_	_
 26	…	_	PUNCT	X_PUN	_	25	punct	_	_
 27	"	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 21_01J03:34
+# text = Wara aktar minn 10 snin f'Bay Radio , Carlo Borg Bonaci għadda għall-X- FM fejn kompla jespandi fuq il-proġett tiegħu li jkompli jwessa' l-kunċett tal-kontenut waqt il-programmi tar-radju .
 1	Wara	_	ADP	PREP	_	2	case	_	_
 2	aktar	_	ADV	ADV	_	13	advmod	_	_
 3	minn	_	ADP	PREP	_	5	case	_	_
 4	10	_	NUM	X_DIG	_	5	nummod	_	_
-5	snin	_	NOUN	NOUN	_	2	nmod	_	_
-6	f'	_	ADP	PREP	_	8	case	_	_
+5	snin	_	NOUN	NOUN	_	2	obl	_	_
+6	f'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
 7	Bay	_	ADJ	ADJ	_	8	amod	_	_
 8	Radio	_	NOUN	NOUN	_	5	nmod	_	_
 9	,	_	PUNCT	X_PUN	_	2	punct	_	_
-10	Carlo	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
-11	Borg	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
-12	Bonaci	_	PROPN	NOUN_PROP	_	13	nsubj	_	_
+10	Carlo	_	PROPN	NOUN_PROP	_	13	nsubj	_	_
+11	Borg	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
+12	Bonaci	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
 13	għadda	_	VERB	VERB	_	0	root	_	_
-14	għall-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
-15	X-	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
-16	FM	_	NOUN	X_ABV	_	13	obl	_	_
+14	għall-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	X-	_	PROPN	NOUN_PROP	_	13	obl	_	_
+16	FM	_	NOUN	X_ABV	_	15	flat:name	_	_
 17	fejn	_	PRON	PRON_INT	_	18	advmod	_	_
-18	kompla	_	VERB	VERB	_	16	acl	_	_
+18	kompla	_	VERB	VERB	_	15	acl	_	_
 19	jespandi	_	VERB	VERB	_	18	xcomp	_	_
 20	fuq	_	ADP	PREP	_	22	case	_	_
 21	il-	_	DET	DEF	_	22	det	_	SpaceAfter=No
@@ -3367,6 +3486,7 @@
 36	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 21_01J03:35
+# text = " Nemmen li anki hemmhekk irnexxielna nkomplu nsaħħu dik id-differenza bejn radijiet oħra li jiddandnu b'sempliċi mikrofonu biex jimlew il-ħin fl-iskeda tagħhom .
 1	"	_	PUNCT	X_PUN	_	2	punct	_	_
 2	Nemmen	_	VERB	VERB	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	6	mark	_	_
@@ -3383,7 +3503,7 @@
 14	oħra	_	ADJ	ADJ	_	13	amod	_	_
 15	li	_	SCONJ	COMP	_	16	mark	_	_
 16	jiddandnu	_	VERB	VERB	_	13	acl	_	_
-17	b'	_	ADP	PREP	_	19	case	_	_
+17	b'	_	ADP	PREP	_	19	case	_	SpaceAfter=No
 18	sempliċi	_	ADJ	ADJ	_	19	amod	_	_
 19	mikrofonu	_	NOUN	NOUN	_	16	obl	_	_
 20	biex	_	SCONJ	CONJ_SUB	_	21	mark	_	_
@@ -3396,20 +3516,21 @@
 27	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 21_01J03:36
+# text = " Ir-radju hu tant sabiħ u l-mod kif tittrattah hu arti minnu nnifsu … " isostni .
 1	"	_	PUNCT	X_PUN	_	6	punct	_	_
 2	Ir-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	radju	_	NOUN	NOUN	_	6	nsubj	_	_
 4	hu	_	PRON	PRON_PERS	_	6	cop	_	_
 5	tant	_	ADV	ADV	_	6	advmod	_	_
 6	sabiħ	_	ADJ	ADJ	_	0	root	_	_
-7	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+7	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	mod	_	NOUN	NOUN	_	13	nsubj	_	_
 10	kif	_	PRON	PRON_INT	_	11	advmod	_	_
 11	tittrattah	_	VERB	VERB	_	9	acl	_	_
 12	hu	_	PRON	PRON_PERS	_	13	cop	_	_
 13	arti	_	NOUN	NOUN	_	6	conj	_	_
-14	minnu	_	PRON	PREP_PRON	_	13	nmod	_	_
+14	minnu	_	PRON	PREP_PRON	_	13	nmod	_	ToDo=nmod
 15	nnifsu	_	PRON	PRON_REF	_	14	nmod	_	_
 16	…	_	PUNCT	X_PUN	_	13	punct	_	_
 17	"	_	PUNCT	X_PUN	_	6	punct	_	_
@@ -3417,6 +3538,7 @@
 19	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 21_01J03:37
+# text = " It-televiżjoni mbagħad hi dinja kompletament differenti li minnha nnifisha toffri dimensjoni totalment differenti għal min hu mdorri fuq ir-radju . "
 1	"	_	PUNCT	X_PUN	_	6	punct	_	_
 2	It-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	televiżjoni	_	NOUN	NOUN	_	6	nsubj	_	_
@@ -3443,8 +3565,9 @@
 24	"	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 21_01J03:38
-1	Borg	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
-2	Bonaci	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+# text = Borg Bonaci jirrakkonta li l-avventura tiegħu bħala preżentatur televiżiv bdiet fuq is-Super One TV fejn kellu kwiżz u wara għadda għal Net TV u mbagħad għadda għal Television Malta bil-programm ' Divided ' .
+1	Borg	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Bonaci	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 3	jirrakkonta	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	11	mark	_	_
 5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
@@ -3462,13 +3585,13 @@
 17	fejn	_	PRON	PRON_INT	_	18	advmod	_	_
 18	kellu	_	VERB	VERB_PSEU	_	16	acl	_	_
 19	kwiżz	_	NOUN	NOUN	_	18	obj	_	_
-20	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+20	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
 21	wara	_	ADV	ADV	_	22	advmod	_	_
 22	għadda	_	VERB	VERB	_	11	conj	_	_
 23	għal	_	ADP	PREP	_	25	case	_	_
 24	Net	_	ADJ	ADJ	_	25	amod	_	_
 25	TV	_	NOUN	X_ABV	_	22	obl	_	_
-26	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+26	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
 27	mbagħad	_	ADV	ADV	_	28	advmod	_	_
 28	għadda	_	VERB	VERB	_	11	conj	_	_
 29	għal	_	ADP	PREP	_	30	case	_	_
@@ -3482,8 +3605,9 @@
 37	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:39
-1	Borg	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
-2	Bonaci	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+# text = Borg Bonaci sostna li t-televiżjoni hu mezz sabiħ ta' komunikazzjoni , madankollu r-radju hu l-aktar mezz li jippreferi minn kull lat .
+1	Borg	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Bonaci	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 3	sostna	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	8	mark	_	_
 5	t-	_	DET	DEF	_	6	det	_	SpaceAfter=No
@@ -3509,6 +3633,7 @@
 25	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:40
+# text = " Ma ngħidx li t-televiżjoni ma jogħġobnix għaliex fih is-sabiħ tiegħu , iżda għalija r-radju jiġi fl-ewwel preferenza għaliex il-fatt li tkun magħluq fi studjo u tkun qed tkellem lill-massa inviżibbli li huma milħuqa anki fejn it-televiżjoni ma jlaħħaqx hu inkredibbli …
 1	"	_	PUNCT	X_PUN	_	3	punct	_	_
 2	Ma	_	PART	NEG	_	3	aux:neg	_	_
 3	ngħidx	_	VERB	VERB	_	0	root	_	_
@@ -3523,7 +3648,7 @@
 12	sabiħ	_	NOUN	NOUN	_	10	nsubj	_	_
 13	tiegħu	_	PRON	GEN_PRON	_	12	case	_	_
 14	,	_	PUNCT	X_PUN	_	3	punct	_	_
-15	iżda	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+15	iżda	_	CCONJ	CONJ_CORD	_	19	cc	_	_
 16	għalija	_	PRON	PREP_PRON	_	19	conj	_	_
 17	r-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	radju	_	NOUN	NOUN	_	19	nsubj	_	_
@@ -3539,7 +3664,7 @@
 28	magħluq	_	VERB	PART_PASS	_	25	acl	_	_
 29	fi	_	ADP	PREP	_	30	case	_	_
 30	studjo	_	NOUN	NOUN	_	28	obl	_	_
-31	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+31	u	_	CCONJ	CONJ_CORD	_	34	cc	_	_
 32	tkun	_	AUX	KIEN	_	34	aux	_	_
 33	qed	_	AUX	PROG	_	34	aux:part	_	_
 34	tkellem	_	VERB	VERB	_	28	conj	_	_
@@ -3560,6 +3685,7 @@
 49	…	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:41
+# text = " Tista' tisma' r-radju fil-karozza , fil-kċina , fil-garaxx , fil-fabbrika , insomma kullimkien …
 1	"	_	PUNCT	X_PUN	_	2	punct	_	_
 2	Tista'	_	VERB	VERB	_	0	root	_	_
 3	tisma'	_	VERB	VERB	_	2	xcomp	_	_
@@ -3582,6 +3708,7 @@
 20	…	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 21_01J03:42
+# text = U dak hu s-sabiħ tar-radju , " jinsisti Carlo .
 1	U	_	CCONJ	CONJ_CORD	_	5	cc	_	_
 2	dak	_	PRON	PRON_DEM	_	5	nsubj	_	_
 3	hu	_	PRON	PRON_PERS	_	5	cop	_	_
@@ -3596,12 +3723,13 @@
 12	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 21_01J03:43
+# text = Lejn tmiem l-intervista Borg Bonaci jwieġeb il-mistoqsija speċifika tiegħi dwar il-kritika li ssir xi drabi lejn ċerti preżentaturi li jbiddlu l-istazzjon tar-radju jew tat-televiżjoni – l-aktar dawk tal-partiti politiċi – u jieħdu timbru politiku .
 1	Lejn	_	ADP	PREP	_	2	case	_	_
 2	tmiem	_	NOUN	NOUN	_	7	obl	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	intervista	_	NOUN	NOUN	_	2	nmod:poss	_	_
-5	Borg	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
-6	Bonaci	_	PROPN	NOUN_PROP	_	7	nsubj	_	_
+5	Borg	_	PROPN	NOUN_PROP	_	7	nsubj	_	_
+6	Bonaci	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
 7	jwieġeb	_	VERB	VERB	_	0	root	_	_
 8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	mistoqsija	_	NOUN	NOUN	_	7	obj	_	_
@@ -3623,7 +3751,7 @@
 25	istazzjon	_	NOUN	NOUN	_	23	obj	_	_
 26	tar-	_	ADP	GEN_DEF	_	27	case:det	_	SpaceAfter=No
 27	radju	_	NOUN	NOUN	_	25	nmod:poss	_	_
-28	jew	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+28	jew	_	CCONJ	CONJ_CORD	_	30	cc	_	_
 29	tat-	_	ADP	GEN_DEF	_	30	case:det	_	SpaceAfter=No
 30	televiżjoni	_	NOUN	NOUN	_	27	conj	_	_
 31	–	_	PUNCT	X_PUN	_	34	punct	_	_
@@ -3634,13 +3762,14 @@
 36	partiti	_	NOUN	NOUN	_	34	nmod:poss	_	_
 37	politiċi	_	ADJ	ADJ	_	36	amod	_	_
 38	–	_	PUNCT	X_PUN	_	34	punct	_	_
-39	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+39	u	_	CCONJ	CONJ_CORD	_	40	cc	_	_
 40	jieħdu	_	VERB	VERB	_	23	conj	_	_
 41	timbru	_	NOUN	NOUN	_	40	obj	_	_
 42	politiku	_	ADJ	ADJ	_	41	amod	_	_
 43	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 21_01J03:44
+# text = " Aħna professjonisti , artisti , nies li għalina l-politika mhix importanti .
 1	"	_	PUNCT	X_PUN	_	3	punct	_	_
 2	Aħna	_	PRON	PRON_PERS	_	3	nsubj	_	_
 3	professjonisti	_	NOUN	NOUN	_	0	root	_	_
@@ -3657,13 +3786,14 @@
 14	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:45
+# text = Il-preżentazzjoni hi l-professjoni tagħna u ħaddqatt m' għandu jagħtina xi timbru politiku .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	preżentazzjoni	_	NOUN	NOUN	_	5	nsubj	_	_
 3	hi	_	PRON	PRON_PERS	_	5	cop	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	professjoni	_	NOUN	NOUN	_	0	root	_	_
 6	tagħna	_	PRON	GEN_PRON	_	5	case	_	_
-7	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+7	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
 8	ħadd	_	PRON	PRON_INDEF	_	11	nsubj	_	SpaceAfter=No
 9	qatt	_	ADV	ADV	_	11	advmod	_	_
 10	m'	_	PART	NEG	_	11	aux:neg	_	_
@@ -3675,9 +3805,10 @@
 16	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 21_01J03:46
+# text = " Jekk f'pajjiżna dawn huma l-istazzjonijiet li għandna , dawn huma l-postijiet li joffru l-opportunitajiet fejn nesprimu t-talent tagħna .
 1	"	_	PUNCT	X_PUN	_	15	punct	_	_
 2	Jekk	_	SCONJ	CONJ_SUB	_	8	mark	_	_
-3	f'	_	ADP	PREP	_	4	case	_	_
+3	f'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
 4	pajjiżna	_	NOUN	NOUN	_	8	obl	_	_
 5	dawn	_	PRON	PRON_DEM	_	8	nsubj	_	_
 6	huma	_	PRON	PRON_PERS	_	8	cop	_	_
@@ -3702,30 +3833,32 @@
 25	.	_	PUNCT	X_PUN	_	15	punct	_	_
 
 # sent_id = 21_01J03:47
+# text = " Xogħolna jsir bil-kuntratti , u kolloxisir fuq bażi kummerċjali u mhux b'kalkolu politiku .
 1	"	_	PUNCT	X_PUN	_	3	punct	_	_
 2	Xogħolna	_	NOUN	NOUN	_	3	nsubj	_	_
 3	jsir	_	VERB	VERB	_	0	root	_	_
 4	bil-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
 5	kuntratti	_	NOUN	NOUN	_	3	obl	_	_
 6	,	_	PUNCT	X_PUN	_	3	punct	_	_
-7	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+7	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 8	kollox	_	PRON	PRON_INDEF	_	9	nsubj	_	SpaceAfter=No
 9	isir	_	VERB	VERB	_	3	conj	_	_
 10	fuq	_	ADP	PREP	_	11	case	_	_
 11	bażi	_	NOUN	NOUN	_	9	obl	_	_
 12	kummerċjali	_	ADJ	ADJ	_	11	amod	_	_
-13	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+13	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 14	mhux	_	PART	PRON_PERS_NEG	_	16	aux:neg	_	_
-15	b'	_	ADP	PREP	_	16	case	_	_
+15	b'	_	ADP	PREP	_	16	case	_	SpaceAfter=No
 16	kalkolu	_	NOUN	NOUN	_	11	conj	_	_
 17	politiku	_	ADJ	ADJ	_	16	amod	_	_
 18	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 21_01J03:48
+# text = Għaldaqstant min jikkritikana jew jagħtina tikketta politika jkun jagħmel żball , " sostna .
 1	Għaldaqstant	_	ADV	ADV	_	9	advmod	_	_
 2	min	_	PRON	PRON_INT	_	9	nsubj	_	_
 3	jikkritikana	_	VERB	VERB	_	2	acl	_	_
-4	jew	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+4	jew	_	CCONJ	CONJ_CORD	_	5	cc	_	_
 5	jagħtina	_	VERB	VERB	_	3	conj	_	_
 6	tikketta	_	NOUN	NOUN	_	5	obj	_	_
 7	politika	_	ADJ	ADJ	_	6	amod	_	_
@@ -3738,13 +3871,14 @@
 14	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 21_01J03:49
+# text = Qabel ma nsellmu lil xulxin Borg Bonaci jerġa' juri l-ħeġġa kbira li għandu li jirritorna għall-programm tiegħu u jkompli minn fejn ħalla .
 1	Qabel	_	ADP	PREP	_	3	mark	_	_
 2	ma	_	SCONJ	COMP	_	1	fixed	_	_
 3	nsellmu	_	VERB	VERB	_	8	advcl	_	_
 4	lil	_	ADP	LIL	_	5	case	_	_
 5	xulxin	_	PRON	PRON_REC	_	3	obj	_	_
-6	Borg	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
-7	Bonaci	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+6	Borg	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+7	Bonaci	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
 8	jerġa'	_	VERB	VERB	_	0	root	_	_
 9	juri	_	VERB	VERB	_	8	xcomp	_	_
 10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
@@ -3757,7 +3891,7 @@
 17	għall-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
 18	programm	_	NOUN	NOUN	_	16	obl	_	_
 19	tiegħu	_	PRON	GEN_PRON	_	18	case	_	_
-20	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+20	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
 21	jkompli	_	VERB	VERB	_	16	conj	_	_
 22	minn	_	ADP	PREP	_	23	case	_	_
 23	fejn	_	PRON	PRON_INT	_	24	advmod	_	_
@@ -3765,6 +3899,7 @@
 25	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 21_01J03:50
+# text = " Din id-darba se jkollna programm aktar b'saħħtu milli qatt qabel …
 1	"	_	PUNCT	X_PUN	_	6	punct	_	_
 2	Din	_	PRON	PRON_DEM	_	4	det	_	_
 3	id-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -3773,7 +3908,7 @@
 6	jkollna	_	VERB	VERB_PSEU	_	0	root	_	_
 7	programm	_	NOUN	NOUN	_	6	obj	_	_
 8	aktar	_	ADV	ADV	_	10	advmod	_	_
-9	b'	_	ADP	PREP	_	10	case	_	_
+9	b'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
 10	saħħtu	_	NOUN	NOUN	_	7	nmod	_	_
 11	milli	_	SCONJ	CONJ_SUB	_	12	mark	_	_
 12	qatt	_	ADV	ADV	_	6	advcl	_	_
@@ -3781,14 +3916,15 @@
 14	…	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 21_01J03:51
+# text = Għaliex Carlo jħossu tajjeb u lest għal sfida ġdida , " spiċċa jgħid .
 1	Għaliex	_	SCONJ	CONJ_SUB	_	3	mark	_	_
 2	Carlo	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	jħossu	_	VERB	VERB	_	0	root	_	_
 4	tajjeb	_	ADV	ADV	_	3	xcomp	_	_
-5	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+5	u	_	CCONJ	CONJ_CORD	_	4	cc	_	ToDo=cc-without-conj
 6	lest	_	ADJ	ADJ	_	4	amod	_	_
 7	għal	_	ADP	PREP	_	8	case	_	_
-8	sfida	_	NOUN	NOUN	_	6	nmod	_	_
+8	sfida	_	NOUN	NOUN	_	6	nmod	_	ToDo=nmod
 9	ġdida	_	ADJ	ADJ	_	8	amod	_	_
 10	,	_	PUNCT	X_PUN	_	3	punct	_	_
 11	"	_	PUNCT	X_PUN	_	3	punct	_	_
@@ -3797,12 +3933,14 @@
 14	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 39_01F08:1
+# text = JAKE JEW NATHAN ?
 1	JAKE	_	PROPN	NOUN_PROP	_	0	root	_	_
-2	JEW	_	CCONJ	CONJ_CORD	_	1	cc	_	_
+2	JEW	_	CCONJ	CONJ_CORD	_	3	cc	_	_
 3	NATHAN	_	PROPN	NOUN_PROP	_	1	conj	_	_
 4	?	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 39_01F08:2
+# text = Krista , tfajla ta' sittax-il sena , b'figura pulita , b'għajnejha żoroq u xagħarha iswed , din is-sena bdiet tattendi għall-ewwel darba ġo skola post- sekondarja .
 1	Krista	_	PROPN	NOUN_PROP	_	22	nsubj	_	_
 2	,	_	PUNCT	X_PUN	_	1	punct	_	_
 3	tfajla	_	NOUN	NOUN	_	1	appos	_	_
@@ -3810,14 +3948,14 @@
 5	sittax-il	_	NUM	NUM_CRD	_	6	nummod	_	_
 6	sena	_	NOUN	NOUN	_	3	nmod:poss	_	_
 7	,	_	PUNCT	X_PUN	_	3	punct	_	_
-8	b'	_	ADP	PREP	_	9	case	_	_
+8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
 9	figura	_	NOUN	NOUN	_	3	nmod	_	_
 10	pulita	_	ADJ	ADJ	_	9	amod	_	_
 11	,	_	PUNCT	X_PUN	_	9	punct	_	_
-12	b'	_	ADP	PREP	_	13	case	_	_
+12	b'	_	ADP	PREP	_	13	case	_	SpaceAfter=No
 13	għajnejha	_	NOUN	NOUN	_	9	conj	_	_
 14	żoroq	_	ADJ	ADJ	_	13	amod	_	_
-15	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+15	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 16	xagħarha	_	NOUN	NOUN	_	9	conj	_	_
 17	iswed	_	ADJ	ADJ	_	16	amod	_	_
 18	,	_	PUNCT	X_PUN	_	16	punct	_	_
@@ -3836,6 +3974,7 @@
 31	.	_	PUNCT	X_PUN	_	22	punct	_	_
 
 # sent_id = 39_01F08:3
+# text = Jake , ħabib kbir ta' Krista , huwa ġuvni gustuż ħafna , b'għajnejh ħodor u xagħru kannella ċar .
 1	Jake	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
 2	,	_	PUNCT	X_PUN	_	3	punct	_	_
 3	ħabib	_	NOUN	NOUN	_	1	appos	_	_
@@ -3848,22 +3987,23 @@
 10	gustuż	_	ADJ	ADJ	_	9	amod	_	_
 11	ħafna	_	ADV	ADV	_	10	advmod	_	_
 12	,	_	PUNCT	X_PUN	_	9	punct	_	_
-13	b'	_	ADP	PREP	_	14	case	_	_
-14	għajnejh	_	NOUN	NOUN	_	9	nmod	_	_
+13	b'	_	ADP	PREP	_	14	case	_	SpaceAfter=No
+14	għajnejh	_	NOUN	NOUN	_	9	nmod	_	ToDo=nmod
 15	ħodor	_	ADJ	ADJ	_	14	amod	_	_
-16	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+16	u	_	CCONJ	CONJ_CORD	_	14	cc	_	ToDo=cc-without-conj
 17	xagħru	_	NOUN	NOUN	_	14	nmod	_	_
 18	kannella	_	ADJ	ADJ	_	17	amod	_	_
 19	ċar	_	ADJ	ADJ	_	17	amod	_	_
 20	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 39_01F08:4
+# text = Huwa ġuvni qalbu tajba ħafna u jħobb jgħin lil kulħadd.
 1	Huwa	_	PRON	PRON_PERS	_	2	nsubj	_	_
 2	ġuvni	_	NOUN	NOUN	_	0	root	_	_
-3	qalbu	_	NOUN	NOUN	_	2	nmod	_	_
+3	qalbu	_	NOUN	NOUN	_	2	nmod	_	ToDo=nmod
 4	tajba	_	ADJ	ADJ	_	3	amod	_	_
 5	ħafna	_	ADV	ADV	_	4	advmod	_	_
-6	u	_	CCONJ	CONJ_CORD	_	2	cc	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 7	jħobb	_	VERB	VERB	_	2	conj	_	_
 8	jgħin	_	VERB	VERB	_	7	xcomp	_	_
 9	lil	_	ADP	LIL	_	10	case	_	_
@@ -3871,6 +4011,7 @@
 11	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 39_01F08:5
+# text = Min ma kienx jafhom sew lil Krista u lil Jake kien jgħid li huma għarajjes għax dejjem kont tarahom flimkien , f'kelma waħda , inseparabbli .
 1	Min	_	PRON	PRON_INT	_	12	nsubj	_	_
 2	ma	_	PART	NEG	_	4	aux:neg	_	_
 3	kienx	_	AUX	KIEN	_	4	aux	_	_
@@ -3878,7 +4019,7 @@
 5	sew	_	ADV	ADV	_	4	advmod	_	_
 6	lil	_	ADP	LIL	_	7	case	_	_
 7	Krista	_	PROPN	NOUN_PROP	_	4	obj	_	_
-8	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+8	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
 9	lil	_	ADP	LIL	_	10	case	_	_
 10	Jake	_	PROPN	NOUN_PROP	_	7	conj	_	_
 11	kien	_	AUX	KIEN	_	12	aux	_	_
@@ -3892,7 +4033,7 @@
 19	tarahom	_	VERB	VERB	_	12	advcl	_	_
 20	flimkien	_	ADV	ADV	_	19	advmod	_	_
 21	,	_	PUNCT	X_PUN	_	20	punct	_	_
-22	f'	_	ADP	PREP	_	23	case	_	_
+22	f'	_	ADP	PREP	_	23	case	_	SpaceAfter=No
 23	kelma	_	NOUN	NOUN	_	26	obl	_	_
 24	waħda	_	NUM	NUM_WHD	_	23	det	_	_
 25	,	_	PUNCT	X_PUN	_	23	punct	_	_
@@ -3900,14 +4041,15 @@
 27	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 39_01F08:6
+# text = Krista u Jake kienu jgħixu qrib xulxin u ilhom ħbieb sa minn ċkunithom .
 1	Krista	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
-2	u	_	CCONJ	CONJ_CORD	_	1	cc	_	_
+2	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
 3	Jake	_	PROPN	NOUN_PROP	_	1	conj	_	_
 4	kienu	_	AUX	KIEN	_	5	aux	_	_
 5	jgħixu	_	VERB	VERB	_	0	root	_	_
 6	qrib	_	ADP	PREP	_	7	case	_	_
 7	xulxin	_	PRON	PRON_REC	_	5	obl	_	_
-8	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+8	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 9	ilhom	_	VERB	VERB_PSEU	_	5	conj	_	_
 10	ħbieb	_	NOUN	NOUN	_	9	xcomp	_	_
 11	sa	_	ADP	PREP	_	13	case	_	_
@@ -3916,6 +4058,7 @@
 14	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 39_01F08:7
+# text = Meta bdew jattendu skola ġdida , għalkemm Krista u Jake għażlu xi suġġetti l-istess , ma nzertawx flimkien fil-klassijiet .
 1	Meta	_	SCONJ	CONJ_SUB	_	2	mark	_	_
 2	bdew	_	VERB	VERB	_	18	advcl	_	_
 3	jattendu	_	VERB	VERB	_	2	xcomp	_	_
@@ -3924,7 +4067,7 @@
 6	,	_	PUNCT	X_PUN	_	11	punct	_	_
 7	għalkemm	_	SCONJ	CONJ_SUB	_	11	mark	_	_
 8	Krista	_	PROPN	NOUN_PROP	_	11	nsubj	_	_
-9	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
 10	Jake	_	PROPN	NOUN_PROP	_	8	conj	_	_
 11	għażlu	_	VERB	VERB	_	18	advcl	_	_
 12	xi	_	DET	QUAN	_	13	det	_	_
@@ -3940,6 +4083,7 @@
 22	.	_	PUNCT	X_PUN	_	18	punct	_	_
 
 # sent_id = 39_01F08:8
+# text = Waqt lezzjoni tal-Malti Krista iltaqgħet ma' Nathan , ġuvni tal-istess età tagħha li tista' tgħid it-tfajliet kollha kienu ffissati fuqu .
 1	Waqt	_	ADP	PREP	_	2	case	_	_
 2	lezzjoni	_	NOUN	NOUN	_	6	obl	_	_
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
@@ -3966,6 +4110,7 @@
 24	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 39_01F08:9
+# text = Dawn it-tnejn malajr saru ħbieb .
 1	Dawn	_	PRON	PRON_DEM	_	3	det	_	_
 2	it-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	tnejn	_	NUM	NUM_CRD	_	5	nsubj	_	_
@@ -3975,6 +4120,7 @@
 7	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 39_01F08:10
+# text = Wara ftit taż-żmien Nathan staqsa lil Krista biex toħroġ miegħu u hi aċċettat għax minbarra li kien jogħġobha fiżikament , il-karattru tiegħu laqatha mill-ewwel .
 1	Wara	_	ADP	PREP	_	2	case	_	_
 2	ftit	_	DET	QUAN	_	6	obl	_	_
 3	taż-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
@@ -3986,7 +4132,7 @@
 9	biex	_	SCONJ	CONJ_SUB	_	10	mark	_	_
 10	toħroġ	_	VERB	VERB	_	6	xcomp	_	_
 11	miegħu	_	PRON	PREP_PRON	_	10	obl	_	_
-12	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+12	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 13	hi	_	PRON	PRON_PERS	_	14	nsubj	_	_
 14	aċċettat	_	VERB	VERB	_	6	conj	_	_
 15	għax	_	SCONJ	CONJ_SUB	_	25	mark	_	_
@@ -4005,6 +4151,7 @@
 28	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 39_01F08:11
+# text = Meta Jake sar jaf li bdiet toħroġ ma' Nathan ma tantx ħa gost għax kien sama' xi tfajliet jitkellmu dwaru u ma tantx qalu kliem ta' tifħir .
 1	Meta	_	SCONJ	CONJ_SUB	_	3	mark	_	_
 2	Jake	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
 3	sar	_	VERB	VERB	_	12	advcl	_	_
@@ -4025,7 +4172,7 @@
 18	tfajliet	_	NOUN	NOUN	_	19	nsubj	_	_
 19	jitkellmu	_	VERB	VERB	_	16	ccomp	_	_
 20	dwaru	_	PRON	PREP_PRON	_	19	obl:arg	_	_
-21	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+21	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 22	ma	_	PART	NEG	_	24	aux:neg	_	_
 23	tantx	_	VERB	VERB_PSEU	_	24	aux	_	_
 24	qalu	_	VERB	VERB	_	19	conj	_	_
@@ -4035,20 +4182,21 @@
 28	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 39_01F08:12
+# text = Jum fost l-oħrajn , Krista u Jake kienu ftiehmu biex imorru passiġġata u hemm raw lil Nathan miexi ma' tfajla oħra .
 1	Jum	_	NOUN	NOUN	_	10	obl	_	_
 2	fost	_	ADP	PREP	_	4	case	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	oħrajn	_	ADJ	ADJ	_	1	nmod	_	_
 5	,	_	PUNCT	X_PUN	_	1	punct	_	_
 6	Krista	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
-7	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
 8	Jake	_	PROPN	NOUN_PROP	_	6	conj	_	_
 9	kienu	_	AUX	KIEN	_	10	aux	_	_
 10	ftiehmu	_	VERB	VERB	_	0	root	_	_
 11	biex	_	SCONJ	CONJ_SUB	_	12	mark	_	_
 12	imorru	_	VERB	VERB	_	10	xcomp	_	_
 13	passiġġata	_	NOUN	NOUN	_	12	obl	_	_
-14	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+14	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 15	hemm	_	ADV	ADV	_	16	advmod	_	_
 16	raw	_	VERB	VERB	_	12	conj	_	_
 17	lil	_	ADP	LIL	_	18	case	_	_
@@ -4060,6 +4208,7 @@
 23	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 39_01F08:13
+# text = Krista ddispjaċiha ħafna għax ma setgħetx tifhem għaliex għamlilha hekk .
 1	Krista	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
 2	ddispjaċiha	_	VERB	VERB	_	0	root	_	_
 3	ħafna	_	ADV	ADV	_	2	advmod	_	_
@@ -4073,6 +4222,7 @@
 11	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 39_01F08:14
+# text = Jake sab il-kuraġġ biex jistqarrilha li jħobbha u staqsieha biex toħroġ miegħu …
 1	Jake	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
 2	sab	_	VERB	VERB	_	0	root	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -4081,7 +4231,7 @@
 6	jistqarrilha	_	VERB	VERB	_	4	acl	_	_
 7	li	_	SCONJ	COMP	_	8	mark	_	_
 8	jħobbha	_	VERB	VERB	_	6	xcomp	_	_
-9	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+9	u	_	CCONJ	CONJ_CORD	_	6	cc	_	ToDo=cc-without-conj
 10	staqsieha	_	VERB	VERB	_	6	xcomp	_	_
 11	biex	_	SCONJ	CONJ_SUB	_	12	mark	_	_
 12	toħroġ	_	VERB	VERB	_	10	xcomp	_	_
@@ -4089,6 +4239,7 @@
 14	…	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 51_02N10:1
+# text = Fost il-Griegi u t-Torok
 1	Fost	_	ADP	PREP	_	3	case	_	_
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	Griegi	_	NOUN	NOUN	_	0	root	_	_
@@ -4097,6 +4248,7 @@
 6	Torok	_	NOUN	NOUN	_	3	conj	_	_
 
 # sent_id = 51_02N10:2
+# text = Qrib il-Palestina hemm il-gżira ta' Ċipru li sa mill-1878 ittieħdet minn idejn it-Torok u saret parti mill-Imperu .
 1	Qrib	_	ADP	PREP	_	3	case	_	_
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	Palestina	_	PROPN	NOUN_PROP	_	4	obl	_	_
@@ -4114,7 +4266,7 @@
 15	idejn	_	NOUN	NOUN	_	13	obl	_	_
 16	it-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 17	Torok	_	NOUN	NOUN	_	15	nmod:poss	_	_
-18	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
 19	saret	_	VERB	VERB	_	13	conj	_	_
 20	parti	_	NOUN	NOUN	_	19	xcomp	_	_
 21	mill-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
@@ -4122,6 +4274,7 @@
 23	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 51_02N10:3
+# text = Wara l-falliment ta' l-esperiment ta' l-1880 ftit kien hemm interess Malti f'Ċipru iżda fl-1927 ċertu Harman Grisewood xtara artijiet fl-inħawi ta' Margo u ried li f'din il-proprjetà jħaddem immigrati minn Malta .
 1	Wara	_	ADP	PREP	_	3	case	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	falliment	_	NOUN	NOUN	_	12	obl	_	_
@@ -4136,24 +4289,24 @@
 12	hemm	_	VERB	HEMM	_	0	root	_	_
 13	interess	_	NOUN	NOUN	_	12	nsubj	_	_
 14	Malti	_	ADJ	ADJ	_	13	amod	_	_
-15	f'	_	ADP	PREP	_	16	case	_	_
+15	f'	_	ADP	PREP	_	16	case	_	SpaceAfter=No
 16	Ċipru	_	PROPN	NOUN_PROP	_	13	nmod	_	_
-17	iżda	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+17	iżda	_	CCONJ	CONJ_CORD	_	23	cc	_	_
 18	fl-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
 19	1927	_	NUM	X_DIG	_	23	obl	_	_
-20	ċertu	_	ADJ	ADJ	_	22	amod	_	_
-21	Harman	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
-22	Grisewood	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+20	ċertu	_	ADJ	ADJ	_	21	amod	_	_
+21	Harman	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+22	Grisewood	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
 23	xtara	_	VERB	VERB	_	12	conj	_	_
 24	artijiet	_	NOUN	NOUN	_	23	obj	_	_
 25	fl-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
 26	inħawi	_	NOUN	NOUN	_	24	nmod	_	_
 27	ta'	_	ADP	GEN	_	28	case	_	_
 28	Margo	_	PROPN	NOUN_PROP	_	26	nmod:poss	_	_
-29	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+29	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
 30	ried	_	VERB	VERB	_	23	conj	_	_
 31	li	_	SCONJ	COMP	_	36	mark	_	_
-32	f'	_	ADP	PREP	_	35	case	_	_
+32	f'	_	ADP	PREP	_	35	case	_	SpaceAfter=No
 33	din	_	PRON	PRON_DEM	_	35	det	_	_
 34	il-	_	DET	DEF	_	35	det	_	SpaceAfter=No
 35	proprjetà	_	NOUN	NOUN	_	36	obl	_	_
@@ -4164,6 +4317,7 @@
 40	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 51_02N10:4
+# text = Il-ħsieb kien li huwa jħajjar xi 2,000 Malti jgħixu u jaħdmu ġo Margo .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	ħsieb	_	NOUN	NOUN	_	3	nsubj	_	_
 3	kien	_	AUX	KIEN	_	0	root	_	_
@@ -4174,13 +4328,14 @@
 8	2,000	_	NUM	X_DIG	_	9	nummod	_	_
 9	Malti	_	NOUN	NOUN	_	6	obj	_	_
 10	jgħixu	_	VERB	VERB	_	6	xcomp	_	_
-11	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+11	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
 12	jaħdmu	_	VERB	VERB	_	10	conj	_	_
 13	ġo	_	ADP	PREP	_	14	case	_	_
 14	Margo	_	PROPN	NOUN_PROP	_	10	obl	_	_
 15	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 51_02N10:5
+# text = Harman ried jissellef £ 220,000 biex jagħti bidu għall-ħsieb tiegħu .
 1	Harman	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
 2	ried	_	VERB	VERB	_	0	root	_	_
 3	jissellef	_	VERB	VERB	_	2	xcomp	_	_
@@ -4195,6 +4350,7 @@
 12	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 51_02N10:6
+# text = Il-Gvern ta' Lord Strickland ma riedx jissogra dak il-kapital , l-aktar meta l-Maltin saru jafu li viċin Margo kien hemm għadajjar li kienu l-kaġun tal-malarja .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	Gvern	_	NOUN	NOUN	_	7	nsubj	_	_
 3	ta'	_	ADP	GEN	_	5	case	_	_
@@ -4229,6 +4385,7 @@
 32	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 51_02N10:7
+# text = Kien hemm ukoll min irraġuna li ftit kien jagħmel sens li wieħed jemigra lejn Ċipru meta l-istess Ċiprijotti kienu ħerġin bi ħġarhom mill-gżira .
 1	Kien	_	AUX	KIEN	_	2	aux	_	_
 2	hemm	_	VERB	HEMM	_	0	root	_	_
 3	ukoll	_	ADV	FOC	_	2	discourse	_	_
@@ -4257,6 +4414,7 @@
 26	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 51_02N10:8
+# text = Minħabba dan id-dubju l-proġett ta' Grisewood qatt ma seħħ .
 1	Minħabba	_	ADP	PREP	_	4	case	_	_
 2	dan	_	PRON	PRON_DEM	_	4	det	_	_
 3	id-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -4271,6 +4429,7 @@
 12	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 # sent_id = 51_02N10:9
+# text = L-aħħar darba li Ċipru ssemma fl-istorja ta' l-emigrazzjoni Maltija kien fis-snin ta' wara t-Tieni Gwerra Dinjija meta fl-1949 kien hemm erba' mitt persuna ta' nisel Malti rifuġjati fil-kamp ta' Dekhelia .
 1	L-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 2	aħħar	_	ADJ	ADJ	_	3	amod	_	_
 3	darba	_	NOUN	NOUN	_	15	obl	_	_
@@ -4311,6 +4470,7 @@
 38	.	_	PUNCT	X_PUN	_	15	punct	_	_
 
 # sent_id = 51_02N10:10
+# text = Dawn kienu ħarbu mill-Eritrea fl-1941 waqt li xi wħud kienu ħarbu mill-Greċja u mit-Turkija .
 1	Dawn	_	PRON	PRON_DEM	_	3	nsubj	_	_
 2	kienu	_	AUX	KIEN	_	3	aux	_	_
 3	ħarbu	_	VERB	VERB	_	0	root	_	_
@@ -4326,20 +4486,21 @@
 13	ħarbu	_	VERB	VERB	_	3	advcl	_	_
 14	mill-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
 15	Greċja	_	PROPN	NOUN_PROP	_	13	obl	_	_
-16	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+16	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
 17	mit-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
 18	Turkija	_	PROPN	NOUN_PROP	_	15	conj	_	_
 19	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 51_02N10:11
+# text = Dawn la kellhom qraba u lanqas ħbieb f'Malta u lanqas ma kellhom lil xi ħadd lest biex jaċċettahom fl-artijiet fejn kienu qed imorru l-Maltin .
 1	Dawn	_	PRON	PRON_DEM	_	3	nsubj	_	_
 2	la	_	PART	NEG	_	3	aux:neg	_	_
 3	kellhom	_	VERB	VERB_PSEU	_	0	root	_	_
 4	qraba	_	NOUN	NOUN	_	3	obj	_	_
-5	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+5	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 6	lanqas	_	ADV	FOC	_	7	discourse	_	_
 7	ħbieb	_	NOUN	NOUN	_	4	conj	_	_
-8	f'	_	ADP	PREP	_	9	case	_	_
+8	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
 9	Malta	_	PROPN	NOUN_PROP	_	3	obl	_	_
 10	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 11	lanqas	_	ADV	FOC	_	13	discourse	_	_
@@ -4362,6 +4523,7 @@
 28	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 51_02N10:12
+# text = Kien hemm xi ftit li rnexxielhom imorru l-Ingilterra u l-Awstralja , imma l-parti l-kbira tagħhom baqgħu f'Ċipru .
 1	Kien	_	AUX	KIEN	_	2	aux	_	_
 2	hemm	_	VERB	HEMM	_	0	root	_	_
 3	xi	_	DET	QUAN	_	4	det	_	_
@@ -4371,25 +4533,26 @@
 7	imorru	_	VERB	VERB	_	6	xcomp	_	_
 8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	Ingilterra	_	PROPN	NOUN_PROP	_	7	obl	_	_
-10	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
 11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	Awstralja	_	PROPN	NOUN_PROP	_	9	conj	_	_
 13	,	_	PUNCT	X_PUN	_	2	punct	_	_
-14	imma	_	CCONJ	CONJ_CORD	_	2	cc	_	_
+14	imma	_	CCONJ	CONJ_CORD	_	20	cc	_	_
 15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
 16	parti	_	NOUN	NOUN	_	20	nsubj	_	_
 17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	kbira	_	ADJ	ADJ	_	16	amod	_	_
 19	tagħhom	_	PRON	GEN_PRON	_	16	case	_	_
 20	baqgħu	_	VERB	VERB	_	2	conj	_	_
-21	f'	_	ADP	PREP	_	22	case	_	_
+21	f'	_	ADP	PREP	_	22	case	_	SpaceAfter=No
 22	Ċipru	_	PROPN	NOUN_PROP	_	20	obl	_	_
 23	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 51_02N10:13
+# text = Ġo Korfu u l-gżejjer l-oħra fil-qrib nibtu xi komunitajiet żgħar ta' Maltin wara l-1815 meta dawn il-gżejjer saru protettorat Ingliż .
 1	Ġo	_	ADP	PREP	_	2	case	_	_
 2	Korfu	_	PROPN	NOUN_PROP	_	10	obl	_	_
-3	u	_	CCONJ	CONJ_CORD	_	2	cc	_	_
+3	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	gżejjer	_	NOUN	NOUN	_	2	conj	_	_
 6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
@@ -4415,18 +4578,19 @@
 26	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 51_02N10:14
+# text = Iżda fl-1864 il-Greċja ħadet f'idejha l-Gżejjer Jonji u minħabba dan kien hemm bosta Maltin li telqu minn hemm .
 1	Iżda	_	CCONJ	CONJ_CORD	_	6	cc	_	_
 2	fl-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 3	1864	_	NUM	X_DIG	_	6	obl	_	_
 4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	Greċja	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
 6	ħadet	_	VERB	VERB	_	0	root	_	_
-7	f'	_	ADP	PREP	_	8	case	_	_
+7	f'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
 8	idejha	_	NOUN	NOUN	_	6	obl	_	_
 9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
 10	Gżejjer	_	NOUN	NOUN	_	6	obj	_	_
 11	Jonji	_	ADJ	ADJ	_	10	amod	_	_
-12	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+12	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 13	minħabba	_	ADP	PREP	_	14	case	_	_
 14	dan	_	PRON	PRON_DEM	_	16	obl	_	_
 15	kien	_	AUX	KIEN	_	16	aux	_	_
@@ -4440,6 +4604,7 @@
 23	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 51_02N10:15
+# text = Iżda baqa' oħrajn li komplew bil-ħajja tagħhom taħt il-Griegi .
 1	Iżda	_	CCONJ	CONJ_CORD	_	2	cc	_	_
 2	baqa'	_	VERB	VERB	_	0	root	_	_
 3	oħrajn	_	NOUN	NOUN	_	2	nsubj	_	_
@@ -4454,6 +4619,7 @@
 12	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 51_02N10:16
+# text = Fl-1907 grupp ta' sorijiet Maltin fetħu dar ġo Korfu biex jgħinu lill-komunità Maltija .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	1907	_	NUM	X_DIG	_	7	obl	_	_
 3	grupp	_	NOUN	NOUN	_	7	nsubj	_	_
@@ -4472,6 +4638,7 @@
 16	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 51_02N10:17
+# text = Dawn għadhom hemm sa llum .
 1	Dawn	_	PRON	PRON_DEM	_	2	nsubj	_	_
 2	għadhom	_	VERB	VERB_PSEU	_	0	root	_	_
 3	hemm	_	ADV	ADV	_	2	advmod	_	_
@@ -4480,12 +4647,13 @@
 6	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 51_02N10:18
+# text = Sa l-1930 Dun Spir Cilia kien jieħu ħsieb madwar elf Korfjot ta' nisel Malti .
 1	Sa	_	ADP	PREP	_	3	case	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	1930	_	NUM	X_DIG	_	8	obl	_	_
-4	Dun	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
-5	Spir	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
-6	Cilia	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+4	Dun	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+5	Spir	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
+6	Cilia	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
 7	kien	_	AUX	KIEN	_	8	aux	_	_
 8	jieħu	_	VERB	VERB	_	0	root	_	_
 9	ħsieb	_	NOUN	NOUN	_	8	compound	_	_
@@ -4498,16 +4666,17 @@
 16	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 51_02N10:19
+# text = Bl-għajnuna ta' kontribuzzjonijiet minn Malta Dun Spir bena u fetaħ dar għax-xjuħ Maltin .
 1	Bl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	għajnuna	_	NOUN	NOUN	_	9	obl	_	_
 3	ta'	_	ADP	GEN	_	4	case	_	_
 4	kontribuzzjonijiet	_	NOUN	NOUN	_	2	nmod:poss	_	_
 5	minn	_	ADP	PREP	_	6	case	_	_
 6	Malta	_	PROPN	NOUN_PROP	_	4	nmod	_	_
-7	Dun	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
-8	Spir	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
+7	Dun	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
+8	Spir	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
 9	bena	_	VERB	VERB	_	0	root	_	_
-10	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+10	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
 11	fetaħ	_	VERB	VERB	_	9	conj	_	_
 12	dar	_	NOUN	NOUN	_	9	obj	_	_
 13	għax-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
@@ -4516,6 +4685,7 @@
 16	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 51_02N10:20
+# text = Illum il-Maltin ta' Korfu jitkellmu bil-Grieg u tħalltu sew man-nies tal-post .
 1	Illum	_	ADV	ADV	_	6	advmod	_	_
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	Maltin	_	NOUN	NOUN	_	6	nsubj	_	_
@@ -4524,7 +4694,7 @@
 6	jitkellmu	_	VERB	VERB	_	0	root	_	_
 7	bil-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
 8	Grieg	_	NOUN	NOUN	_	6	obl:arg	_	_
-9	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
 10	tħalltu	_	VERB	VERB	_	6	conj	_	_
 11	sew	_	ADV	ADV	_	10	advmod	_	_
 12	man-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
@@ -4534,6 +4704,7 @@
 16	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 51_02N10:21
+# text = Oħrajn telqu lejn il-Greċja kontinentali , l-aktar lejn Atene .
 1	Oħrajn	_	NOUN	NOUN	_	2	nsubj	_	_
 2	telqu	_	VERB	VERB	_	0	root	_	_
 3	lejn	_	ADP	PREP	_	5	case	_	_
@@ -4548,11 +4719,12 @@
 12	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 51_02N10:22
+# text = Żammew r-reliġjon tagħhom u r-rabta sentimentali ma' Malta .
 1	Żammew	_	VERB	VERB	_	0	root	_	_
 2	r-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	reliġjon	_	NOUN	NOUN	_	1	obj	_	_
 4	tagħhom	_	PRON	GEN_PRON	_	3	case	_	_
-5	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+5	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 6	r-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	rabta	_	NOUN	NOUN	_	3	conj	_	_
 8	sentimentali	_	ADJ	ADJ	_	7	amod	_	_
@@ -4561,6 +4733,7 @@
 11	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 51_02N10:23
+# text = Fil-bliet ewlenin ta' l-Ottomani bħalma huma Kostantinopli u Smyrna kien hemm komunitajiet żgħar Maltin sa mill-bidu tas-seklu għoxrin .
 1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	bliet	_	NOUN	NOUN	_	13	obl	_	_
 3	ewlenin	_	ADJ	ADJ	_	2	amod	_	_
@@ -4570,7 +4743,7 @@
 7	bħalma	_	SCONJ	CONJ_SUB	_	9	mark	_	_
 8	huma	_	PRON	PRON_PERS	_	9	cop	_	_
 9	Kostantinopli	_	PROPN	NOUN_PROP	_	2	acl	_	_
-10	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+10	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
 11	Smyrna	_	PROPN	NOUN_PROP	_	9	conj	_	_
 12	kien	_	AUX	KIEN	_	13	aux	_	_
 13	hemm	_	VERB	HEMM	_	0	root	_	_
@@ -4586,6 +4759,7 @@
 23	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 51_02N10:24
+# text = Ġo Kostantinopli l-għadd tal-Maltin ġie li wasal għal tliet elef ruħ .
 1	Ġo	_	ADP	PREP	_	2	case	_	_
 2	Kostantinopli	_	PROPN	NOUN_PROP	_	7	obl	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -4602,6 +4776,7 @@
 14	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 51_02N10:25
+# text = Dawn kienu joqogħdu fid-distrett ta' Galata fejn kienu jinġabru l-Kristjani .
 1	Dawn	_	PRON	PRON_DEM	_	3	nsubj	_	_
 2	kienu	_	AUX	KIEN	_	3	aux	_	_
 3	joqogħdu	_	VERB	VERB	_	0	root	_	_
@@ -4617,6 +4792,7 @@
 13	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 51_02N10:26
+# text = Il-Maltin ta' Smyrna kienu jgħixu fid-distrett ta' Karsiyaka .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	Maltin	_	NOUN	NOUN	_	6	nsubj	_	_
 3	ta'	_	ADP	GEN	_	4	case	_	_
@@ -4630,26 +4806,28 @@
 11	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 51_02N10:27
+# text = Fl-1927 f'Karsiyaka kien hemm bħala kappillan Dun Dward Tonna li wara sar isqof ta' Smyrna .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	1927	_	NUM	X_DIG	_	6	obl	_	_
-3	f'	_	ADP	PREP	_	4	case	_	_
+3	f'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
 4	Karsiyaka	_	PROPN	NOUN_PROP	_	6	obl	_	_
 5	kien	_	AUX	KIEN	_	6	aux	_	_
 6	hemm	_	VERB	HEMM	_	0	root	_	_
 7	bħala	_	ADP	PREP	_	8	case	_	_
 8	kappillan	_	NOUN	NOUN	_	6	obl	_	_
-9	Dun	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
-10	Dward	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
-11	Tonna	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+9	Dun	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+10	Dward	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
+11	Tonna	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
 12	li	_	SCONJ	COMP	_	14	mark	_	_
 13	wara	_	ADV	ADV	_	14	advmod	_	_
-14	sar	_	VERB	VERB	_	11	acl	_	_
+14	sar	_	VERB	VERB	_	9	acl	_	_
 15	isqof	_	NOUN	NOUN	_	14	xcomp	_	_
 16	ta'	_	ADP	GEN	_	17	case	_	_
 17	Smyrna	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	_
 18	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 51_02N10:28
+# text = Fl-1995 patri Malti li trabba fl-Awstralja , Leonard Testa , sar kappillan ta' Karsiyaka .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	1995	_	NUM	X_DIG	_	13	obl	_	_
 3	patri	_	NOUN	NOUN	_	13	nsubj	_	_
@@ -4658,10 +4836,10 @@
 6	trabba	_	VERB	VERB	_	3	acl	_	_
 7	fl-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
 8	Awstralja	_	PROPN	NOUN_PROP	_	6	obl	_	_
-9	,	_	PUNCT	X_PUN	_	11	punct	_	_
-10	Leonard	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
-11	Testa	_	PROPN	NOUN_PROP	_	3	appos	_	_
-12	,	_	PUNCT	X_PUN	_	11	punct	_	_
+9	,	_	PUNCT	X_PUN	_	10	punct	_	_
+10	Leonard	_	PROPN	NOUN_PROP	_	3	appos	_	_
+11	Testa	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
+12	,	_	PUNCT	X_PUN	_	10	punct	_	_
 13	sar	_	VERB	VERB	_	0	root	_	_
 14	kappillan	_	NOUN	NOUN	_	13	xcomp	_	_
 15	ta'	_	ADP	GEN	_	16	case	_	_
@@ -4669,6 +4847,7 @@
 17	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 51_02N10:29
+# text = Għal xi żmien il-komunità Maltija ta' Smyrna kienet tilħaq l-elfejn ruħ , iżda wara l-Armistizju ta' l-1918 , ħafna mill-Maltin xterdu ma' naħat oħra fil-lvant tal-Mediterran .
 1	Għal	_	ADP	PREP	_	3	case	_	_
 2	xi	_	DET	QUAN	_	3	det	_	_
 3	żmien	_	NOUN	NOUN	_	10	obl	_	_
@@ -4683,7 +4862,7 @@
 12	elfejn	_	NUM	NUM_CRD	_	13	nummod	_	_
 13	ruħ	_	NOUN	NOUN	_	10	obj	_	_
 14	,	_	PUNCT	X_PUN	_	10	punct	_	_
-15	iżda	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+15	iżda	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 16	wara	_	ADP	PREP	_	18	case	_	_
 17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	Armistizju	_	NOUN	NOUN	_	26	obl	_	_
@@ -4705,6 +4884,7 @@
 34	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 51_02N10:30
+# text = Fl-1922 Malta laqgħet 1,300 rifuġjat minn Smyrna ; fost dawn kien hemm xi ftit li kienu ta' oriġini Maltija .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	1922	_	NUM	X_DIG	_	4	obl	_	_
 3	Malta	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
@@ -4728,6 +4908,7 @@
 21	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 51_02N10:31
+# text = Fil-21 ta' Mejju 1934 il-president tar-repubblika Torka , Kemal Ataturk , ħareġ liġi li biha saret ħaġa tista' tgħid impossibbli għal min ma kienx ċittadin Tork li jibqa' jaħdem fit-Turkija .
 1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	21	_	NUM	X_DIG	_	15	obl	_	_
 3	ta'	_	ADP	GEN	_	4	case	_	_
@@ -4738,10 +4919,10 @@
 8	tar-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
 9	repubblika	_	NOUN	NOUN	_	7	nmod:poss	_	_
 10	Torka	_	ADJ	ADJ	_	9	amod	_	_
-11	,	_	PUNCT	X_PUN	_	13	punct	_	_
-12	Kemal	_	PROPN	NOUN_PROP	_	13	flat:name	_	_
-13	Ataturk	_	PROPN	NOUN_PROP	_	7	appos	_	_
-14	,	_	PUNCT	X_PUN	_	13	punct	_	_
+11	,	_	PUNCT	X_PUN	_	12	punct	_	_
+12	Kemal	_	PROPN	NOUN_PROP	_	7	appos	_	_
+13	Ataturk	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
+14	,	_	PUNCT	X_PUN	_	12	punct	_	_
 15	ħareġ	_	VERB	VERB	_	0	root	_	_
 16	liġi	_	NOUN	NOUN	_	15	obj	_	_
 17	li	_	SCONJ	COMP	_	19	mark	_	_
@@ -4765,6 +4946,7 @@
 35	.	_	PUNCT	X_PUN	_	15	punct	_	_
 
 # sent_id = 51_02N10:32
+# text = Fl-1946 il-Gvern Ingliż ħa taħt il-ħarsien tiegħu seba' mitt persuna li kienu ta' nisel Malti u li kellhom passaport tar-Renju Unit .
 1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	1946	_	NUM	X_DIG	_	6	obl	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -4783,7 +4965,7 @@
 16	ta'	_	ADP	GEN	_	17	case	_	_
 17	nisel	_	NOUN	NOUN	_	13	acl	_	_
 18	Malti	_	ADJ	ADJ	_	17	amod	_	_
-19	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
+19	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
 20	li	_	SCONJ	COMP	_	21	mark	_	_
 21	kellhom	_	VERB	VERB_PSEU	_	17	conj	_	_
 22	passaport	_	NOUN	NOUN	_	21	obj	_	_
@@ -4793,6 +4975,7 @@
 26	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 51_02N10:33
+# text = Dawn ġew megħjuna biex jemigraw lejn pajjiżi oħra .
 1	Dawn	_	PRON	PRON_DEM	_	3	nsubj:pass	_	_
 2	ġew	_	VERB	VERB	_	3	aux:pass	_	_
 3	megħjuna	_	VERB	PART_PASS	_	0	root	_	_
@@ -4804,14 +4987,15 @@
 9	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 51_02N10:34
-1	B'	_	ADP	PREP	_	2	case	_	_
+# text = B'hekk il-preżenza Maltija ġo Kostaninopli u Smyrna tista' tgħid li ġiet fix-xejn.
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
 2	hekk	_	ADV	ADV	_	13	advmod	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	preżenza	_	NOUN	NOUN	_	13	nsubj	_	_
 5	Maltija	_	ADJ	ADJ	_	4	amod	_	_
 6	ġo	_	ADP	PREP	_	7	case	_	_
 7	Kostaninopli	_	PROPN	NOUN_PROP	_	4	nmod	_	_
-8	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+8	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 9	Smyrna	_	PROPN	NOUN_PROP	_	7	conj	_	_
 10	tista'	_	VERB	VERB	_	13	parataxis	_	_
 11	tgħid	_	VERB	VERB	_	10	xcomp	_	_
@@ -4822,6 +5006,7 @@
 16	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 57_04N11:1
+# text = X' inhu l-Unicode ?
 1	X'	_	PRON	PRON_INT	_	0	root	_	_
 2	inhu	_	PRON	PRON_INT	_	1	cop	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -4829,6 +5014,7 @@
 5	?	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 57_04N11:2
+# text = Bħala standard , ħafna kompjuters tal-Windows jiġu bil-kodifikazzjoni ISO8859-1 ( Western Europe ) .
 1	Bħala	_	ADP	PREP	_	2	case	_	_
 2	standard	_	NOUN	NOUN	_	8	obl	_	_
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
@@ -4847,6 +5033,7 @@
 16	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 57_04N11:3
+# text = Din il-kodifikazzjoni tkopri l-aktar lingwi dominanti tad-dinja .
 1	Din	_	PRON	PRON_DEM	_	3	det	_	_
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	kodifikazzjoni	_	NOUN	NOUN	_	4	nsubj	_	_
@@ -4860,6 +5047,7 @@
 11	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 57_04N11:4
+# text = Peress li l-programmi ta' dawn il-kompjuters qed jiġu żviluppati minn kelliema tal-Ingliż fl-Istati Uniti , dawn il-programmaturi jagħżlu dik il-kodifikazzjoni bħala default .
 1	Peress	_	ADP	PREP	_	11	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -4872,7 +5060,7 @@
 10	jiġu	_	VERB	VERB	_	11	aux:pass	_	_
 11	żviluppati	_	VERB	PART_PASS	_	23	advcl	_	_
 12	minn	_	ADP	PREP	_	13	case	_	_
-13	kelliema	_	NOUN	NOUN	_	11	nmod:agent	_	_
+13	kelliema	_	NOUN	NOUN	_	11	obl:agent	_	_
 14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
 15	Ingliż	_	NOUN	NOUN	_	13	nmod:poss	_	_
 16	fl-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
@@ -4891,6 +5079,7 @@
 29	.	_	PUNCT	X_PUN	_	23	punct	_	_
 
 # sent_id = 57_04N11:5
+# text = Sfortunatament , din ma tinkludix il-lingwa Maltija u hawn jinħolqu l-problemi . . .
 1	Sfortunatament	_	ADV	ADV	_	5	advmod	_	_
 2	,	_	PUNCT	X_PUN	_	1	punct	_	_
 3	din	_	PRON	PRON_DEM	_	5	nsubj	_	_
@@ -4899,7 +5088,7 @@
 6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	lingwa	_	NOUN	NOUN	_	5	obj	_	_
 8	Maltija	_	ADJ	ADJ	_	7	amod	_	_
-9	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+9	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
 10	hawn	_	ADV	ADV	_	11	advmod	_	_
 11	jinħolqu	_	VERB	VERB	_	5	conj	_	_
 12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
@@ -4909,6 +5098,7 @@
 16	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 57_04N11:6
+# text = Xi snin ilu kien hemm min ipprova jegħleb in-nuqqas tat-tipi Maltin billi ħoloq tiegħu .
 1	Xi	_	DET	QUAN	_	2	det	_	_
 2	snin	_	NOUN	NOUN	_	5	obl	_	_
 3	ilu	_	VERB	VERB_PSEU	_	2	case	_	_
@@ -4928,12 +5118,13 @@
 17	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 57_04N11:7
+# text = L-intenzjoni kienet tajba , imma peress li dawn in-nies ħadmu għal rashom , it-tipi li ħolqu ma kinux jaqblu bejniethom .
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	intenzjoni	_	NOUN	NOUN	_	4	nsubj	_	_
 3	kienet	_	AUX	KIEN	_	4	cop	_	_
 4	tajba	_	ADJ	ADJ	_	0	root	_	_
 5	,	_	PUNCT	X_PUN	_	4	punct	_	_
-6	imma	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+6	imma	_	CCONJ	CONJ_CORD	_	22	cc	_	_
 7	peress	_	ADP	PREP	_	12	mark	_	_
 8	li	_	SCONJ	COMP	_	7	fixed	_	_
 9	dawn	_	PRON	PRON_DEM	_	11	det	_	_
@@ -4954,6 +5145,7 @@
 24	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 57_04N11:8
+# text = Huwa għalhekk li meta xi ħaddjuża tipi antiki bħal Tornado , Malta jew M . Maiandra biex jibgħat id-dokumenti tiegħu lil ħaddieħor, ħafna nies ma jkunux jistgħu jaqrawhom sew .
 1	Huwa	_	PRON	PRON_PERS	_	2	nsubj	_	_
 2	għalhekk	_	ADV	ADV	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	30	mark	_	_
@@ -4967,7 +5159,7 @@
 11	Tornado	_	PROPN	NOUN_PROP	_	8	nmod	_	_
 12	,	_	PUNCT	X_PUN	_	11	punct	_	_
 13	Malta	_	PROPN	NOUN_PROP	_	11	conj	_	_
-14	jew	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+14	jew	_	CCONJ	CONJ_CORD	_	15	cc	_	_
 15	M	_	NOUN	X_ABV	_	11	conj	_	_
 16	.	_	PUNCT	X_PUN	_	15	punct	_	_
 17	Maiandra	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
@@ -4989,6 +5181,7 @@
 33	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 57_04N11:9
+# text = Għax min jirċevihom irid ikollu l-istess tipi installati fis-sistema tiegħu .
 1	Għax	_	SCONJ	CONJ_SUB	_	4	mark	_	_
 2	min	_	PRON	PRON_INT	_	4	nsubj	_	_
 3	jirċevihom	_	VERB	VERB	_	2	acl	_	_
@@ -5004,6 +5197,7 @@
 13	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 57_04N11:10
+# text = Ngħidu aħna , kelma bħal żrinġ tiġi tidher \rin[ .
 1	Ngħidu	_	VERB	VERB	_	7	parataxis	_	_
 2	aħna	_	PRON	PRON_PERS	_	1	nsubj	_	_
 3	,	_	PUNCT	X_PUN	_	1	punct	_	_
@@ -5016,6 +5210,7 @@
 10	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 57_04N11:11
+# text = U dokument pdf għandek mnejn tkun tista' taqrah , imma ma tkunx tista' tikkopja sew u tieħu r-referenzi minnu .
 1	U	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 2	dokument	_	NOUN	NOUN	_	3	compound	_	_
 3	pdf	_	NOUN	X_ABV	_	8	obj	_	_
@@ -5025,13 +5220,13 @@
 7	tista'	_	VERB	VERB	_	0	root	_	_
 8	taqrah	_	VERB	VERB	_	7	xcomp	_	_
 9	,	_	PUNCT	X_PUN	_	8	punct	_	_
-10	imma	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+10	imma	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 11	ma	_	PART	NEG	_	13	aux:neg	_	_
 12	tkunx	_	AUX	KIEN	_	13	aux	_	_
 13	tista'	_	VERB	VERB	_	8	conj	_	_
 14	tikkopja	_	VERB	VERB	_	13	xcomp	_	_
 15	sew	_	ADV	ADV	_	14	advmod	_	_
-16	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+16	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
 17	tieħu	_	VERB	VERB	_	14	conj	_	_
 18	r-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	referenzi	_	NOUN	NOUN	_	17	obj	_	_
@@ -5039,7 +5234,8 @@
 21	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 57_04N11:12
-1	B'	_	ADP	PREP	_	2	case	_	_
+# text = B'xorti tajba ma damx ma nħoloq l-istandard tal-kodifikazzjoni universali Unicode ( UTF8 ) , u llum nużaw lilu .
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
 2	xorti	_	NOUN	NOUN	_	5	obl	_	_
 3	tajba	_	ADJ	ADJ	_	2	amod	_	_
 4	ma	_	PART	NEG	_	5	aux:neg	_	_
@@ -5056,13 +5252,14 @@
 15	UTF8	_	NOUN	X_ABV	_	13	appos	_	_
 16	)	_	PUNCT	X_PUN	_	15	punct	_	_
 17	,	_	PUNCT	X_PUN	_	7	punct	_	_
-18	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+18	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
 19	llum	_	ADV	ADV	_	20	advmod	_	_
 20	nużaw	_	VERB	VERB	_	7	conj	_	_
 21	lilu	_	PRON	LIL_PRON	_	20	obj	_	_
 22	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 57_04N11:13
+# text = Il-Unicode hu sistema li qablu fuqha ħafna pajjiżi biex jegħlbu problemi bħal dawn .
 1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	Unicode	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
 3	hu	_	PRON	PRON_PERS	_	4	cop	_	_
@@ -5080,6 +5277,7 @@
 15	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 57_04N11:14
+# text = Kważi kull lingwa tad-dinja hija inkluża fih , u għalhekk id-dokumenti li jużaw il-Unicode ikunu jistgħu jinqraw minn kulħaddbl-istess mod , minn kull parti tad-dinja u minn kompjuters differenti .
 1	Kważi	_	ADV	ADV	_	2	advmod	_	_
 2	kull	_	DET	QUAN	_	3	det	_	_
 3	lingwa	_	NOUN	NOUN	_	7	nsubj	_	_
@@ -5089,7 +5287,7 @@
 7	inkluża	_	VERB	PART_PASS	_	0	root	_	_
 8	fih	_	PRON	PREP_PRON	_	7	obl	_	_
 9	,	_	PUNCT	X_PUN	_	7	punct	_	_
-10	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+10	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
 11	għalhekk	_	ADV	ADV	_	19	advmod	_	_
 12	id-	_	DET	DEF	_	13	det	_	SpaceAfter=No
 13	dokumenti	_	NOUN	NOUN	_	19	nsubj	_	_
@@ -5101,7 +5299,7 @@
 19	jistgħu	_	VERB	VERB	_	7	conj	_	_
 20	jinqraw	_	VERB	VERB	_	19	xcomp	_	_
 21	minn	_	ADP	PREP	_	22	case	_	_
-22	kulħadd	_	PRON	PRON_INDEF	_	20	nmod:agent	_	SpaceAfter=No
+22	kulħadd	_	PRON	PRON_INDEF	_	20	obl:agent	_	SpaceAfter=No
 23	bl-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
 24	istess	_	ADJ	ADJ	_	25	amod	_	_
 25	mod	_	NOUN	NOUN	_	20	obl	_	_
@@ -5111,13 +5309,14 @@
 29	parti	_	NOUN	NOUN	_	20	obl	_	_
 30	tad-	_	ADP	GEN_DEF	_	31	case:det	_	SpaceAfter=No
 31	dinja	_	NOUN	NOUN	_	29	nmod:poss	_	_
-32	u	_	CCONJ	CONJ_CORD	_	29	cc	_	_
+32	u	_	CCONJ	CONJ_CORD	_	34	cc	_	_
 33	minn	_	ADP	PREP	_	34	case	_	_
 34	kompjuters	_	NOUN	NOUN	_	29	conj	_	_
 35	differenti	_	ADJ	ADJ	_	34	amod	_	_
 36	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 57_04N11:15
+# text = It-tastiera Maltija li attivajt tuża din is-sistema universali tal-Unicode ( UTF8 ) , li taħdem mal-Windows , mal-Linux u mal-Mac .
 1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	tastiera	_	NOUN	NOUN	_	6	nsubj	_	_
 3	Maltija	_	ADJ	ADJ	_	2	amod	_	_
@@ -5141,23 +5340,24 @@
 21	,	_	PUNCT	X_PUN	_	20	punct	_	_
 22	mal-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
 23	Linux	_	PROPN	NOUN_PROP	_	20	conj	_	_
-24	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+24	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
 25	mal-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
 26	Mac	_	PROPN	NOUN_PROP	_	20	conj	_	_
 27	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 57_04N11:16
+# text = Bil-Unicode tista' faċilment tikteb u tikkorrispondi bil-Malti u b'għadd ta' lingwi oħra tad-dinja .
 1	Bil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	Unicode	_	PROPN	NOUN_PROP	_	3	obl	_	_
 3	tista'	_	VERB	VERB	_	0	root	_	_
 4	faċilment	_	ADV	ADV	_	5	advmod	_	_
 5	tikteb	_	VERB	VERB	_	3	xcomp	_	_
-6	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 7	tikkorrispondi	_	VERB	VERB	_	5	conj	_	_
 8	bil-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
 9	Malti	_	NOUN	NOUN	_	5	obl	_	_
-10	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
-11	b'	_	ADP	PREP	_	12	case	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+11	b'	_	ADP	PREP	_	12	case	_	SpaceAfter=No
 12	għadd	_	NOUN	NOUN	_	9	conj	_	_
 13	ta'	_	ADP	GEN	_	14	case	_	_
 14	lingwi	_	NOUN	NOUN	_	12	nmod:poss	_	_
@@ -5167,6 +5367,7 @@
 18	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 57_04N11:17
+# text = U tkun ċert li se tinftiehem għax dak li tikteb jibqa' kliem u ma jinqalibx f'simboli !
 1	U	_	CCONJ	CONJ_CORD	_	3	cc	_	_
 2	tkun	_	AUX	KIEN	_	3	cop	_	_
 3	ċert	_	ADJ	ADJ	_	0	root	_	_
@@ -5179,10 +5380,10 @@
 10	tikteb	_	VERB	VERB	_	8	acl	_	_
 11	jibqa'	_	VERB	VERB	_	6	advcl	_	_
 12	kliem	_	NOUN	NOUN	_	11	xcomp	_	_
-13	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+13	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
 14	ma	_	PART	NEG	_	15	aux:neg	_	_
 15	jinqalibx	_	VERB	VERB	_	11	conj	_	_
-16	f'	_	ADP	PREP	_	17	case	_	_
+16	f'	_	ADP	PREP	_	17	case	_	SpaceAfter=No
 17	simboli	_	NOUN	NOUN	_	15	obl:arg	_	_
 18	!	_	PUNCT	X_PUN	_	3	punct	_	_
 
