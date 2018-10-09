@@ -5267,7 +5267,7 @@
 11	hija	_	PRON	PRON_PERS	_	12	cop	_	_
 12	sintomatika	_	ADJ	ADJ	_	0	root	_	_
 13	ta'	_	ADP	GEN	_	14	case	_	_
-14	min	_	PRON	PRON_INT	_	12	obl:poss	_	_
+14	min	_	PRON	PRON_INT	_	12	nmod:poss	_	_
 15	jgħix	_	VERB	VERB	_	14	acl	_	_
 16	komdu	_	ADJ	ADJ	_	15	advmod	_	_
 17	komdu	_	ADJ	ADJ	_	15	advmod	_	_
@@ -7441,7 +7441,7 @@
 2	wkoll	_	ADV	FOC	_	18	discourse	_	_
 3	li	_	SCONJ	COMP	_	18	mark	_	_
 4	mal-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
-5	bidu	_	NOUN	NOUN	_	18	obl:poss	_	_
+5	bidu	_	NOUN	NOUN	_	18	nmod:poss	_	_
 6	ta'	_	ADP	GEN	_	8	case	_	_
 7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 8	istaġun	_	NOUN	NOUN	_	5	nmod:poss	_	_
@@ -9171,7 +9171,7 @@
 5	żejda	_	ADJ	ADJ	_	4	amod	_	_
 6	dakinhar	_	ADV	ADV	_	4	advmod	_	_
 7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
-8	votazzjoni	_	NOUN	NOUN	_	6	obl:poss	_	_
+8	votazzjoni	_	NOUN	NOUN	_	6	nmod:poss	_	_
 9	li	_	SCONJ	COMP	_	11	mark	_	_
 10	żgur	_	ADV	ADV	_	11	advmod	_	_
 11	tefgħet	_	VERB	VERB	_	4	acl	_	_
@@ -14903,7 +14903,7 @@
 23	konoxxenti	_	ADJ	ADJ	_	2	ccomp	_	_
 24	tas-	_	ADP	GEN_DEF	_	25	case:det	_	SpaceAfter=No
 25	soċjetà	_	NOUN	NOUN	_	26	compound	_	_
-26	Henley	_	PROPN	NOUN_PROP	_	23	obl:poss	_	_
+26	Henley	_	PROPN	NOUN_PROP	_	23	nmod:poss	_	_
 27	&amp;	_	PUNCT	X_PUN	_	26	punct	_	_
 28	Partners	_	PROPN	NOUN_PROP	_	26	flat:name	_	_
 29	jew	_	CCONJ	CONJ_CORD	_	32	cc	_	_
@@ -24091,7 +24091,7 @@
 1	Fuq	_	ADP	PREP	_	2	case	_	_
 2	barra	_	ADV	ADV	_	7	advmod	_	_
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
-4	Maqdes	_	NOUN	NOUN	_	2	obl:poss	_	_
+4	Maqdes	_	NOUN	NOUN	_	2	nmod:poss	_	_
 5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
 6	għassiesa	_	NOUN	NOUN	_	7	nsubj	_	_
 7	waqfu	_	VERB	VERB	_	0	root	_	_

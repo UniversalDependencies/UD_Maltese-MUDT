@@ -2765,7 +2765,7 @@
 1	"	_	PUNCT	X_PUN	_	5	punct	_	_
 2	Permezz	_	NOUN	NOUN	_	4	case:det	_	_
 3	tal-	_	ADP	GEN_DEF	_	2	fixed	_	SpaceAfter=No
-4	Facebook	_	PROPN	NOUN_PROP	_	5	obl:poss	_	_
+4	Facebook	_	PROPN	NOUN_PROP	_	5	nmod:poss	_	_
 5	bdejt	_	VERB	VERB	_	0	root	_	_
 6	nirċievi	_	VERB	VERB	_	5	xcomp	_	_
 7	messaġġi	_	NOUN	NOUN	_	6	obj	_	_
