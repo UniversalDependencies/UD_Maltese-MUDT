@@ -29,11 +29,11 @@ MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) i
 
 The annotated sentences have been manually split into train, test and dev sets as follows:
 
-| File                           | Sentence count |
-|--------------------------------|---------------:|
-| mt_mudt-ud-train.conllu        | 1671           |
-| mt_mudt-ud-test.conllu         | 202            |
-| mt_mudt-ud-dev.conllu          | 201            |
+| File                           | Sentence count | Token count |
+|--------------------------------|---------------:|------------:|
+| mt_mudt-ud-train.conllu        | 1671           | 34446       |
+| mt_mudt-ud-test.conllu         | 202            | 4930        |
+| mt_mudt-ud-dev.conllu          | 201            | 4876        |
 
 # Conversion
 The original treebank was annotated according to UDv1, this version was automatically converted to UDv2 as follows:
