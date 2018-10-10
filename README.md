@@ -35,10 +35,17 @@ The annotated sentences have been manually split into train, test and dev sets a
 | mt_mudt-ud-test.conllu         | 202            |
 | mt_mudt-ud-dev.conllu          | 201            |
 
+# Conversion
+The original treebank was annotated according to UDv1, this version was automatically converted to UDv2 as follows:
+- UPOS were added by automatic conversion from XPOS using a conversion table
+- UDv1-specific relations where only the label was changed were automatically converted to UDv2 relations (e.g. dobj > obj or nmod:advmod > obl)
+- for all \*_DEF and DEF tokens, as well as for *b'*, *f'* and *t'*, SpaceAfter=No was added automatically
+- Udapi was used to convert those relations which involved changes in dependency relations (e.g. conj or flat) to UDv2, as well as to add SpaceAfter=No to punctuation (with the exception of \' which was fixed manually)
+- all ToDo items were checked manually and fixed wherever necessary
+- all validation errors were fixed manually
 
 # Acknowledgments
 
-...
 
 # Changelog
 * 2018-10-04 v1
@@ -46,9 +53,7 @@ The annotated sentences have been manually split into train, test and dev sets a
 * 2018-10-07 
 	* Added the files, updated README
 
-
 ## References
-
 **(Čéplö 2018)** Slavomír Čéplö. (2018) [Constituent order in Maltese: A quantitative analysis](http://www.bulbul.sk/phd/Text/Slavomir_Ceplo-text.pdf). Prague: Charles University.
 
 

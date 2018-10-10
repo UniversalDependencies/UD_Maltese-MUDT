@@ -3649,7 +3649,7 @@
 13	tiegħu	_	PRON	GEN_PRON	_	12	case	_	_
 14	,	_	PUNCT	X_PUN	_	3	punct	_	_
 15	iżda	_	CCONJ	CONJ_CORD	_	19	cc	_	_
-16	għalija	_	PRON	PREP_PRON	_	19	conj	_	_
+16	għalija	_	PRON	PREP_PRON	_	19	obl	_	_
 17	r-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	radju	_	NOUN	NOUN	_	19	nsubj	_	_
 19	jiġi	_	VERB	VERB	_	3	conj	_	_
