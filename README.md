@@ -44,10 +44,11 @@ The original treebank was annotated according to UDv1, this version was automati
 - all ToDo items were checked manually and fixed wherever necessary
 - all validation errors were fixed manually
 
-̥̥# To do (status as of 2018-10-11)
+# To do (status as of 2018-10-11)
+- doublecheck SpaceAfter=No in general, for \' and \" and in particular
 - doublecheck the attachment of ADPs to compounds
 - doublecheck nmods attached to a non-verbal predicate
-- doublecheck SpaceAfter=No in general, for \' and \" and in particular
+- doublecheck flats with X_ENG
 
 
 # Changelog
