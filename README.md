@@ -59,7 +59,7 @@ The original treebank was annotated according to UDv1, this version was automati
 * 2018-10-11
 	* Added the files converted to UDv2 (see above), updated README
 * 2018-11-08
-	* Changes the train-test-dev split per official guidelines, updated README accordingly
+	* Changed the train-test-dev split per official guidelines, updated README accordingly; fixed tokenization errors
 
 ## References
 **(Čéplö 2018)** Slavomír Čéplö. (2018) [Constituent order in Maltese: A quantitative analysis](http://www.bulbul.sk/phd/Text/Slavomir_Ceplo-text.pdf). Prague: Charles University.
