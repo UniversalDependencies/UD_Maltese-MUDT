@@ -44,7 +44,7 @@
 42	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 03_03J01:2
-# text = Kien hemm saħansitra nies fil-core group ta' Joseph Muscat li jiltaqa' regolarment fir-raba' sular fiċ-Ċentru Nazzjonali Laburista fil-Ħamrun, li ma qablu xejnli Jason jitpoġġa f'post daqshekk prominenti aktar u aktar issa li se jkun kandidat tal-elezzjoni ġenerali.
+# text = Kien hemm saħansitra nies fil-core group ta' Joseph Muscat li jiltaqa' regolarment fir-raba' sular fiċ-Ċentru Nazzjonali Laburista fil-Ħamrun, li ma qablu xejn li Jason jitpoġġa f'post daqshekk prominenti aktar u aktar issa li se jkun kandidat tal-elezzjoni ġenerali.
 1	Kien	_	AUX	KIEN	_	2	aux	_	_
 2	hemm	_	VERB	HEMM	_	0	root	_	_
 3	saħansitra	_	ADV	FOC	_	4	discourse	_	_
@@ -71,7 +71,7 @@
 24	li	_	SCONJ	COMP	_	26	mark	_	_
 25	ma	_	PART	NEG	_	26	aux:neg	_	_
 26	qablu	_	VERB	VERB	_	4	acl	_	_
-27	xejn	_	PRON	PRON_INDEF	_	26	advmod	_	SpaceAfter=No
+27	xejn	_	PRON	PRON_INDEF	_	26	advmod	_	_
 28	li	_	SCONJ	COMP	_	30	mark	_	_
 29	Jason	_	PROPN	NOUN_PROP	_	30	nsubj:pass	_	_
 30	jitpoġġa	_	VERB	VERB	_	26	ccomp	_	_
@@ -318,7 +318,7 @@
 35	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 03_03J01:8
-# text = Din il-kampanja favur Alex Muscat kienet dgħajfet għal kolloxlid-Deputat Laburista Anthony Agius Decelis li l-mara tiegħu kienet il-Viċi Sindku tal-kunsill diżastruż tal-Mosta u li ma tħallietx toħroġ għall-elezzjoni.
+# text = Din il-kampanja favur Alex Muscat kienet dgħajfet għal kollox lid-Deputat Laburista Anthony Agius Decelis li l-mara tiegħu kienet il-Viċi Sindku tal-kunsill diżastruż tal-Mosta u li ma tħallietx toħroġ għall-elezzjoni.
 1	Din	_	PRON	PRON_DEM	_	3	det	_	_
 2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	kampanja	_	NOUN	NOUN	_	8	nsubj	_	_
@@ -328,7 +328,7 @@
 7	kienet	_	AUX	KIEN	_	8	aux	_	_
 8	dgħajfet	_	VERB	VERB	_	0	root	_	_
 9	għal	_	ADP	PREP	_	10	case	_	_
-10	kollox	_	PRON	PRON_INDEF	_	8	obl	_	SpaceAfter=No
+10	kollox	_	PRON	PRON_INDEF	_	8	obl	_	_
 11	lid-	_	ADP	LIL_DEF	_	12	case:det	_	SpaceAfter=No
 12	Deputat	_	NOUN	NOUN	_	14	compound	_	_
 13	Laburista	_	ADJ	ADJ	_	12	amod	_	_
@@ -3000,7 +3000,7 @@
 34	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 14_01J02:9
-# text = Anzi minflok għaraf il-ġest ta' ġentlom ta' Sant, iddieħak bih u fil-fatt għamel minn kolloxbiex jibqa' mkaħħal mal-poter anke jekk m'għandux maġġoranza parlamentari.
+# text = Anzi minflok għaraf il-ġest ta' ġentlom ta' Sant, iddieħak bih u fil-fatt għamel minn kollox biex jibqa' mkaħħal mal-poter anke jekk m'għandux maġġoranza parlamentari.
 1	Anzi	_	ADV	ADV	_	3	advmod	_	_
 2	minflok	_	ADP	PREP	_	3	mark	_	_
 3	għaraf	_	VERB	VERB	_	11	advcl	_	_
@@ -3018,7 +3018,7 @@
 15	fatt	_	NOUN	NOUN	_	16	obl	_	_
 16	għamel	_	VERB	VERB	_	11	conj	_	_
 17	minn	_	ADP	PREP	_	18	case	_	_
-18	kollox	_	PRON	PRON_INDEF	_	16	obl:arg	_	SpaceAfter=No
+18	kollox	_	PRON	PRON_INDEF	_	16	obl:arg	_	_
 19	biex	_	SCONJ	CONJ_SUB	_	20	mark	_	_
 20	jibqa'	_	VERB	VERB	_	16	advcl	_	_
 21	mkaħħal	_	VERB	PART_PASS	_	20	xcomp	_	_
@@ -3506,11 +3506,11 @@
 21	.	_	PUNCT	X_PUN	_	10	punct	_	_
 
 # sent_id = 14_01J02:25
-# text = Hekk ma ra xejnħażin billi f'xenarju ta' sitwazzjoni ekonomika diffiċli, jippriedka l-awsterità lili u lilek filwaqt li hu żied lilu nnifsu u lil sħabu € 500 fil-ġimgħa.
+# text = Hekk ma ra xejn ħażin billi f'xenarju ta' sitwazzjoni ekonomika diffiċli, jippriedka l-awsterità lili u lilek filwaqt li hu żied lilu nnifsu u lil sħabu € 500 fil-ġimgħa.
 1	Hekk	_	ADV	ADV	_	3	advmod	_	_
 2	ma	_	PART	NEG	_	3	aux:neg	_	_
 3	ra	_	VERB	VERB	_	0	root	_	_
-4	xejn	_	PRON	PRON_INDEF	_	3	obj	_	SpaceAfter=No
+4	xejn	_	PRON	PRON_INDEF	_	3	obj	_	_
 5	ħażin	_	ADJ	ADJ	_	4	amod	_	_
 6	billi	_	SCONJ	CONJ_SUB	_	14	mark	_	_
 7	f'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
@@ -4618,7 +4618,7 @@
 26	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 16_03J02:5
-# text = Filwaqt li ma nikkunsidrax lili nnifsi nisrani, niftakar li dak Alla, li din il-persuna għandha tant għal qalbha, qal ħafna dwar nies ipokriti, regħba, ostili, giddieba u ħallelin - iżda qatt ma semma xejnfuq persuni li jħobbu lil xi ħaddtal-istess ġeneru tagħhom.
+# text = Filwaqt li ma nikkunsidrax lili nnifsi nisrani, niftakar li dak Alla, li din il-persuna għandha tant għal qalbha, qal ħafna dwar nies ipokriti, regħba, ostili, giddieba u ħallelin - iżda qatt ma semma xejn fuq persuni li jħobbu lil xi ħadd tal-istess ġeneru tagħhom.
 1	Filwaqt	_	SCONJ	CONJ_SUB	_	4	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	ma	_	PART	NEG	_	4	aux:neg	_	_
@@ -4659,14 +4659,14 @@
 38	qatt	_	ADV	ADV	_	40	advmod	_	_
 39	ma	_	PART	NEG	_	40	aux:neg	_	_
 40	semma	_	VERB	VERB	_	23	conj	_	_
-41	xejn	_	PRON	PRON_INDEF	_	40	obj	_	SpaceAfter=No
+41	xejn	_	PRON	PRON_INDEF	_	40	obj	_	_
 42	fuq	_	ADP	PREP	_	43	case	_	_
 43	persuni	_	NOUN	NOUN	_	41	nmod	_	_
 44	li	_	SCONJ	COMP	_	45	mark	_	_
 45	jħobbu	_	VERB	VERB	_	43	acl	_	_
 46	lil	_	ADP	LIL	_	48	case	_	_
 47	xi	_	DET	QUAN	_	48	det	_	_
-48	ħadd	_	PRON	PRON_INDEF	_	45	obj	_	SpaceAfter=No
+48	ħadd	_	PRON	PRON_INDEF	_	45	obj	_	_
 49	tal-	_	ADP	GEN_DEF	_	51	case:det	_	SpaceAfter=No
 50	istess	_	ADJ	ADJ	_	51	amod	_	_
 51	ġeneru	_	NOUN	NOUN	_	48	nmod:poss	_	_
@@ -4836,7 +4836,7 @@
 10	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 16_03J02:12
-# text = Iżda żgur mhix l-imħabba ġenwina ta' bejn żewġ persuni adulti li qegħdin jgħixu ħajja deċenti ta' mħabba mal-maħbub / maħbuba tagħhom tal-istess sess, mingħajr ma jagħtu l-ebda fastidju lil ħadd- u li jibqgħu solidi fid-dedikazzjoni tagħhom lejn xulxin minkejja l-kliem ta' mibegħda bħal dawk ta' min jinħeba wara psewdonimi simili.
+# text = Iżda żgur mhix l-imħabba ġenwina ta' bejn żewġ persuni adulti li qegħdin jgħixu ħajja deċenti ta' mħabba mal-maħbub / maħbuba tagħhom tal-istess sess, mingħajr ma jagħtu l-ebda fastidju lil ħadd - u li jibqgħu solidi fid-dedikazzjoni tagħhom lejn xulxin minkejja l-kliem ta' mibegħda bħal dawk ta' min jinħeba wara psewdonimi simili.
 1	Iżda	_	CCONJ	CONJ_CORD	_	5	cc	_	_
 2	żgur	_	ADV	ADV	_	5	advmod	_	_
 3	mhix	_	AUX	PRON_PERS_NEG	_	5	cop	_	_
@@ -4871,7 +4871,7 @@
 32	ebda	_	DET	QUAN	_	33	amod	_	_
 33	fastidju	_	NOUN	NOUN	_	30	obj	_	_
 34	lil	_	ADP	LIL	_	35	case	_	_
-35	ħadd	_	PRON	PRON_INDEF	_	30	iobj	_	SpaceAfter=No
+35	ħadd	_	PRON	PRON_INDEF	_	30	iobj	_	_
 36	-	_	PUNCT	X_PUN	_	14	punct	_	_
 37	u	_	CCONJ	CONJ_CORD	_	39	cc	_	_
 38	li	_	SCONJ	COMP	_	39	mark	_	_
@@ -4925,7 +4925,7 @@
 24	.	_	PUNCT	X_PUN	_	21	punct	_	_
 
 # sent_id = 16_03J02:14
-# text = Jien smajt b'widnejja lil saċerdot isejjaħ lil persuni gay ' aberrazzjoni tar-razza umana ' fuq l-istazzjon nazzjonali xi snin ilu, u lkollsmajna kemm-il darba lil bosta membri tal-knisja jirreferu għal persuni gay bħala ' midinbin ', ' imsieken ' u ' intrinsikament diżordinati ', fost kliem ieħor mhux xieraq.
+# text = Jien smajt b'widnejja lil saċerdot isejjaħ lil persuni gay ' aberrazzjoni tar-razza umana ' fuq l-istazzjon nazzjonali xi snin ilu, u lkoll smajna kemm-il darba lil bosta membri tal-knisja jirreferu għal persuni gay bħala ' midinbin ', ' imsieken ' u ' intrinsikament diżordinati ', fost kliem ieħor mhux xieraq.
 1	Jien	_	PRON	PRON_PERS	_	2	nsubj	_	_
 2	smajt	_	VERB	VERB	_	0	root	_	_
 3	b'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
@@ -4951,7 +4951,7 @@
 23	ilu	_	ADP	PREP	_	22	case	_	SpaceAfter=No
 24	,	_	PUNCT	X_PUN	_	2	punct	_	_
 25	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
-26	lkoll	_	PRON	PRON_INDEF	_	27	nsubj	_	SpaceAfter=No
+26	lkoll	_	PRON	PRON_INDEF	_	27	nsubj	_	_
 27	smajna	_	VERB	VERB	_	2	conj	_	_
 28	kemm-il	_	PRON	PRON_INT	_	29	nummod	_	_
 29	darba	_	NOUN	NOUN	_	27	obl	_	_
@@ -5301,14 +5301,14 @@
 38	.	_	PUNCT	X_PUN	_	28	punct	_	_
 
 # sent_id = 18_05J02:10
-# text = Mhix kwistjoni li aċċetta vjaġġ b'xejnb'rigal.
+# text = Mhix kwistjoni li aċċetta vjaġġ b'xejn b'rigal.
 1	Mhix	_	PART	PRON_PERS_NEG	_	2	aux:neg	_	_
 2	kwistjoni	_	NOUN	NOUN	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	4	mark	_	_
 4	aċċetta	_	VERB	VERB	_	2	ccomp	_	_
 5	vjaġġ	_	NOUN	NOUN	_	4	obj	_	_
 6	b'	_	ADP	PREP	_	7	case	_	SpaceAfter=No
-7	xejn	_	PRON	PRON_INDEF	_	5	nmod	_	SpaceAfter=No
+7	xejn	_	PRON	PRON_INDEF	_	5	nmod	_	_
 8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
 9	rigal	_	NOUN	NOUN	_	5	nmod	_	SpaceAfter=No
 10	.	_	PUNCT	X_PUN	_	2	punct	_	_
@@ -5467,9 +5467,9 @@
 5	?	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 18_05J02:19
-# text = Fuq kolloxil-Prim Ministru Gonzi kien dak li fl-2004 fassal ir-regoli tal-etika għall-Ministri tal-Kabinett tiegħu.
+# text = Fuq kollox il-Prim Ministru Gonzi kien dak li fl-2004 fassal ir-regoli tal-etika għall-Ministri tal-Kabinett tiegħu.
 1	Fuq	_	ADP	PREP	_	2	case	_	_
-2	kollox	_	PRON	PRON_INDEF	_	8	obl	_	SpaceAfter=No
+2	kollox	_	PRON	PRON_INDEF	_	8	obl	_	_
 3	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 4	Prim	_	ADJ	ADJ	_	5	amod	_	_
 5	Ministru	_	NOUN	NOUN	_	6	compound	_	_
@@ -5757,13 +5757,13 @@
 25	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 18_05J02:31
-# text = Minkejja kull diskors kuntrarju, ħaddma jista' jgħid li għall-ħabta tas-safra misħuta, il-Ministru ma kienx qed jikkontempla xi bidliet importanti fis-settur tal-logħob tal-azzard.
+# text = Minkejja kull diskors kuntrarju, ħadd ma jista' jgħid li għall-ħabta tas-safra misħuta, il-Ministru ma kienx qed jikkontempla xi bidliet importanti fis-settur tal-logħob tal-azzard.
 1	Minkejja	_	ADP	PREP	_	3	case	_	_
 2	kull	_	DET	QUAN	_	3	det	_	_
 3	diskors	_	NOUN	NOUN	_	8	obl	_	_
 4	kuntrarju	_	ADJ	ADJ	_	3	amod	_	SpaceAfter=No
 5	,	_	PUNCT	X_PUN	_	3	punct	_	_
-6	ħadd	_	PRON	PRON_INDEF	_	8	nsubj	_	SpaceAfter=No
+6	ħadd	_	PRON	PRON_INDEF	_	8	nsubj	_	_
 7	ma	_	PART	NEG	_	8	aux:neg	_	_
 8	jista'	_	VERB	VERB	_	0	root	_	_
 9	jgħid	_	VERB	VERB	_	8	xcomp	_	_
@@ -5983,8 +5983,8 @@
 36	.	_	PUNCT	X_PUN	_	13	punct	_	_
 
 # sent_id = 19_06J02:1
-# text = Kulminhu midħla ta' l-industrija tat-turiżmu jgħidlek li l-falliment li ħoloq l-istess gvern Nazzjonalista ta' Dottor Gonzi għadu magħna u ftit li xejnhemm x'jindika li se noħorġu minnu fi żmien qasir.
-1	Kulmin	_	PRON	PRON_INDEF	_	9	nsubj	_	SpaceAfter=No
+# text = Kulmin hu midħla ta' l-industrija tat-turiżmu jgħidlek li l-falliment li ħoloq l-istess gvern Nazzjonalista ta' Dottor Gonzi għadu magħna u ftit li xejn hemm x'jindika li se noħorġu minnu fi żmien qasir.
+1	Kulmin	_	PRON	PRON_INDEF	_	9	nsubj	_	_
 2	hu	_	PRON	PRON_PERS	_	3	cop	_	_
 3	midħla	_	NOUN	NOUN	_	1	acl	_	_
 4	ta'	_	ADP	GEN	_	6	case	_	_
@@ -6010,7 +6010,7 @@
 24	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
 25	ftit	_	DET	QUAN	_	28	nsubj	_	_
 26	li	_	SCONJ	COMP	_	27	mark	_	_
-27	xejn	_	PRON	PRON_INDEF	_	25	conj	_	SpaceAfter=No
+27	xejn	_	PRON	PRON_INDEF	_	25	conj	_	_
 28	hemm	_	VERB	HEMM	_	22	conj	_	_
 29	x'	_	PRON	PRON_INT	_	30	mark	_	SpaceAfter=No
 30	jindika	_	VERB	VERB	_	25	acl	_	_
@@ -6024,7 +6024,7 @@
 38	.	_	PUNCT	X_PUN	_	9	punct	_	_
 
 # sent_id = 19_06J02:2
-# text = Jekk tneħħi t-tpaċpiċ tal-Ministru Żammit Dimech, il-pożi għar-ritratti, u retorika li issa kulħaddxaba' jismagħha m'hemm xejnli jindika li qed issir xi ħaġa bis-serjetà li tista' mqar titfa' xaqq ta' dawl li l-affarijiet qed jirranġaw.
+# text = Jekk tneħħi t-tpaċpiċ tal-Ministru Żammit Dimech, il-pożi għar-ritratti, u retorika li issa kulħadd xaba' jismagħha m'hemm xejn li jindika li qed issir xi ħaġa bis-serjetà li tista' mqar titfa' xaqq ta' dawl li l-affarijiet qed jirranġaw.
 1	Jekk	_	SCONJ	CONJ_SUB	_	2	mark	_	_
 2	tneħħi	_	VERB	VERB	_	23	advcl	_	_
 3	t-	_	DET	DEF	_	4	det	_	SpaceAfter=No
@@ -6043,12 +6043,12 @@
 16	retorika	_	NOUN	NOUN	_	4	conj	_	_
 17	li	_	SCONJ	COMP	_	20	mark	_	_
 18	issa	_	ADV	ADV	_	20	advmod	_	_
-19	kulħadd	_	PRON	PRON_INDEF	_	20	nsubj	_	SpaceAfter=No
+19	kulħadd	_	PRON	PRON_INDEF	_	20	nsubj	_	_
 20	xaba'	_	VERB	VERB	_	16	acl	_	_
 21	jismagħha	_	VERB	VERB	_	20	xcomp	_	_
 22	m'	_	PART	NEG	_	23	aux:neg	_	SpaceAfter=No
 23	hemm	_	VERB	HEMM	_	0	root	_	_
-24	xejn	_	PRON	PRON_INDEF	_	23	nsubj	_	SpaceAfter=No
+24	xejn	_	PRON	PRON_INDEF	_	23	nsubj	_	_
 25	li	_	SCONJ	COMP	_	26	mark	_	_
 26	jindika	_	VERB	VERB	_	24	acl	_	_
 27	li	_	SCONJ	COMP	_	29	mark	_	_
@@ -6380,8 +6380,8 @@
 55	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 19_06J02:13
-# text = Kolloxjindika li għad iridu joħorġu fatti li jiskandalizzaw lill-pajjiż.
-1	Kollox	_	PRON	PRON_INDEF	_	2	nsubj	_	SpaceAfter=No
+# text = Kollox jindika li għad iridu joħorġu fatti li jiskandalizzaw lill-pajjiż.
+1	Kollox	_	PRON	PRON_INDEF	_	2	nsubj	_	_
 2	jindika	_	VERB	VERB	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	5	mark	_	_
 4	għad	_	VERB	VERB_PSEU	_	5	aux	_	_
@@ -6461,8 +6461,8 @@
 63	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 19_06J02:15
-# text = J' Alla l-konferenza nnifisha ma tispiċċax f'xi arena ta' tilwim bħalma ġara tant drabi fl-imgħoddi, imma l-fatt jibqa' wkoll li jekk taqta' barra l-Ingilterra ftit li xejnhemm pajjiżi li se jieħdu sehem li fil-fatt aħna nistgħu nibbenefikaw turiżmu mingħandħom.
-1	J'	_	INTJ	INT	_	2	discourse	_	_
+# text = J'Alla l-konferenza nnifisha ma tispiċċax f'xi arena ta' tilwim bħalma ġara tant drabi fl-imgħoddi, imma l-fatt jibqa' wkoll li jekk taqta' barra l-Ingilterra ftit li xejn hemm pajjiżi li se jieħdu sehem li fil-fatt aħna nistgħu nibbenefikaw turiżmu mingħandħom.
+1	J'	_	INTJ	INT	_	2	discourse	_	SpaceAfter=No
 2	Alla	_	PROPN	NOUN_PROP	_	7	discourse	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	konferenza	_	NOUN	NOUN	_	7	nsubj	_	_
@@ -6494,7 +6494,7 @@
 30	Ingilterra	_	PROPN	NOUN_PROP	_	27	obj	_	_
 31	ftit	_	DET	QUAN	_	35	det	_	_
 32	li	_	SCONJ	COMP	_	33	mark	_	_
-33	xejn	_	PRON	PRON_INDEF	_	31	conj	_	SpaceAfter=No
+33	xejn	_	PRON	PRON_INDEF	_	31	conj	_	_
 34	hemm	_	VERB	HEMM	_	23	ccomp	_	_
 35	pajjiżi	_	NOUN	NOUN	_	34	nsubj	_	_
 36	li	_	SCONJ	COMP	_	38	mark	_	_
@@ -7751,14 +7751,14 @@
 18	.	_	PUNCT	X_PUN	_	7	punct	_	_
 
 # sent_id = 23_03J03:6
-# text = Minn hemmhekk huwa qabbadni ma' xi ħaddiehorli huwa ħabib tiegħu, u bdejt nitħarreġ u nitgħallem bil-mod il-mod it-teknika ta' kif issir kull lift.
+# text = Minn hemmhekk huwa qabbadni ma' xi ħaddiehor li huwa ħabib tiegħu, u bdejt nitħarreġ u nitgħallem bil-mod il-mod it-teknika ta' kif issir kull lift.
 1	Minn	_	ADP	PREP	_	2	case	_	_
 2	hemmhekk	_	ADV	ADV	_	4	advmod	_	_
 3	huwa	_	PRON	PRON_PERS	_	4	nsubj	_	_
 4	qabbadni	_	VERB	VERB	_	0	root	_	_
 5	ma'	_	ADP	PREP	_	7	case	_	_
 6	xi	_	DET	QUAN	_	7	det	_	_
-7	ħaddiehor	_	PRON	PRON_INDEF	_	4	obl	_	SpaceAfter=No
+7	ħaddiehor	_	PRON	PRON_INDEF	_	4	obl	_	_
 8	li	_	SCONJ	COMP	_	10	mark	_	_
 9	huwa	_	PRON	PRON_PERS	_	10	cop	_	_
 10	ħabib	_	NOUN	NOUN	_	7	acl	_	_
@@ -8162,7 +8162,7 @@
 6	?	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 23b_04J03:7
-# text = Ir-risposta tinsab fil-metodu ġdid li beda jintuża biex jintgħażlu l-kantanti, u fuq kolloxdik il-kanzunetta li tista' taqla' lil Malta mill-fażi ta' kwalifikazzjoni għall-Eurovision ta' Helsinki f'Mejju li ġej.
+# text = Ir-risposta tinsab fil-metodu ġdid li beda jintuża biex jintgħażlu l-kantanti, u fuq kollox dik il-kanzunetta li tista' taqla' lil Malta mill-fażi ta' kwalifikazzjoni għall-Eurovision ta' Helsinki f'Mejju li ġej.
 1	Ir-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	risposta	_	NOUN	NOUN	_	3	nsubj:pass	_	_
 3	tinsab	_	VERB	VERB	_	0	root	_	_
@@ -8179,7 +8179,7 @@
 14	,	_	PUNCT	X_PUN	_	5	punct	_	_
 15	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
 16	fuq	_	ADP	PREP	_	17	case	_	_
-17	kollox	_	PRON	PRON_INDEF	_	20	obl	_	SpaceAfter=No
+17	kollox	_	PRON	PRON_INDEF	_	20	obl	_	_
 18	dik	_	PRON	PRON_DEM	_	20	det	_	_
 19	il-	_	DET	DEF	_	20	det	_	SpaceAfter=No
 20	kanzunetta	_	NOUN	NOUN	_	5	conj	_	_
@@ -8472,9 +8472,9 @@
 38	.	_	PUNCT	X_PUN	_	22	punct	_	_
 
 # sent_id = 23b_04J03:15
-# text = B'kolloxkien hemm 228- ilkanzunetta li kienu sottomessi għall-konsiderazzjoni.
+# text = B'kollox kien hemm 228- ilkanzunetta li kienu sottomessi għall-konsiderazzjoni.
 1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
-2	kollox	_	PRON	PRON_INDEF	_	4	obl	_	SpaceAfter=No
+2	kollox	_	PRON	PRON_INDEF	_	4	obl	_	_
 3	kien	_	AUX	KIEN	_	4	aux	_	_
 4	hemm	_	VERB	HEMM	_	0	root	_	_
 5	228-	_	NUM	X_DIG	_	7	nummod	_	_
@@ -8549,14 +8549,14 @@
 24	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 23b_04J03:19
-# text = Għal Robbie Abela " ma jfisser xejnjekk int stabbilit jew le.
+# text = Għal Robbie Abela " ma jfisser xejn jekk int stabbilit jew le.
 1	Għal	_	ADP	PREP	_	2	case	_	_
 2	Robbie	_	PROPN	NOUN_PROP	_	6	obl	_	_
 3	Abela	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 4	"	_	PUNCT	X_PUN	_	6	punct	_	_
 5	ma	_	PART	NEG	_	6	aux:neg	_	_
 6	jfisser	_	VERB	VERB	_	0	root	_	_
-7	xejn	_	PRON	PRON_INDEF	_	6	obj	_	SpaceAfter=No
+7	xejn	_	PRON	PRON_INDEF	_	6	obj	_	_
 8	jekk	_	SCONJ	CONJ_SUB	_	10	mark	_	_
 9	int	_	PRON	PRON_PERS	_	10	nsubj	_	_
 10	stabbilit	_	VERB	PART_PASS	_	6	csubj	_	_
@@ -8974,7 +8974,7 @@
 21	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 23b_04J03:35
-# text = Fl-istess ħin kien hemm il-fattur tas-sorpriża tal-Finlandiżi "Lordi" li bil-kanzunetta "Rock Allelulia" u l-istil li ħarġu bih kaxkru l-voti mingħand kulħaddu din kompliet titfagħna lura.
+# text = Fl-istess ħin kien hemm il-fattur tas-sorpriża tal-Finlandiżi "Lordi" li bil-kanzunetta "Rock Allelulia" u l-istil li ħarġu bih kaxkru l-voti mingħand kulħadd u din kompliet titfagħna lura.
 1	Fl-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 2	istess	_	ADJ	ADJ	_	3	amod	_	_
 3	ħin	_	NOUN	NOUN	_	5	obl	_	_
@@ -9006,7 +9006,7 @@
 29	l-	_	DET	DEF	_	30	det	_	SpaceAfter=No
 30	voti	_	NOUN	NOUN	_	28	obj	_	_
 31	mingħand	_	ADP	PREP	_	32	case	_	_
-32	kulħadd	_	PRON	PRON_INDEF	_	28	obl	_	SpaceAfter=No
+32	kulħadd	_	PRON	PRON_INDEF	_	28	obl	_	_
 33	u	_	CCONJ	CONJ_CORD	_	35	cc	_	_
 34	din	_	PRON	PRON_DEM	_	35	nsubj	_	_
 35	kompliet	_	VERB	VERB	_	28	conj	_	_
@@ -9238,7 +9238,7 @@
 19	"	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 23b_04J03:44
-# text = "Fil-Eurovision ksibna riżultati eċċellenti u sirna poplu li nagħtu l-appoġġ bis-saħħa lil kulminirrappreżentah," sostna.
+# text = "Fil-Eurovision ksibna riżultati eċċellenti u sirna poplu li nagħtu l-appoġġ bis-saħħa lil kulmin irrappreżentah," sostna.
 1	"	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
 2	Fil-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 3	Eurovision	_	PROPN	NOUN_PROP	_	4	obl	_	_
@@ -9255,7 +9255,7 @@
 14	bis-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
 15	saħħa	_	NOUN	NOUN	_	11	obl	_	_
 16	lil	_	ADP	LIL	_	17	case	_	_
-17	kulmin	_	PRON	PRON_INDEF	_	11	iobj	_	SpaceAfter=No
+17	kulmin	_	PRON	PRON_INDEF	_	11	iobj	_	_
 18	irrappreżentah	_	VERB	VERB	_	17	acl	_	SpaceAfter=No
 19	,	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
 20	"	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -9757,8 +9757,8 @@
 19	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 41_03F08:6
-# text = Xejnma kien iwaqqafha, avolja f'ħajjitha sabet ħafna ostakli.
-1	Xejn	_	PRON	PRON_INDEF	_	4	nsubj	_	SpaceAfter=No
+# text = Xejn ma kien iwaqqafha, avolja f'ħajjitha sabet ħafna ostakli.
+1	Xejn	_	PRON	PRON_INDEF	_	4	nsubj	_	_
 2	ma	_	PART	NEG	_	4	aux:neg	_	_
 3	kien	_	AUX	KIEN	_	4	aux	_	_
 4	iwaqqafha	_	VERB	VERB	_	0	root	_	SpaceAfter=No
@@ -10068,11 +10068,11 @@
 16	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 43_05F08:3
-# text = Kont nagħmel minn kolloxbiex noqgħod imqareb u ma nobdihiex.
+# text = Kont nagħmel minn kollox biex noqgħod imqareb u ma nobdihiex.
 1	Kont	_	AUX	KIEN	_	2	aux	_	_
 2	nagħmel	_	VERB	VERB	_	0	root	_	_
 3	minn	_	ADP	PREP	_	4	case	_	_
-4	kollox	_	PRON	PRON_INDEF	_	2	obl:arg	_	SpaceAfter=No
+4	kollox	_	PRON	PRON_INDEF	_	2	obl:arg	_	_
 5	biex	_	SCONJ	CONJ_SUB	_	6	mark	_	_
 6	noqgħod	_	VERB	VERB	_	2	advcl	_	_
 7	imqareb	_	VERB	PART_PASS	_	6	xcomp	_	_
@@ -10190,7 +10190,7 @@
 8	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 43_05F08:12
-# text = Ilbist kostum ta' pirata imma ftit li xejndomt bih.
+# text = Ilbist kostum ta' pirata imma ftit li xejn domt bih.
 1	Ilbist	_	VERB	VERB	_	0	root	_	_
 2	kostum	_	NOUN	NOUN	_	1	obj	_	_
 3	ta'	_	ADP	GEN	_	4	case	_	_
@@ -10198,7 +10198,7 @@
 5	imma	_	CCONJ	CONJ_CORD	_	9	cc	_	_
 6	ftit	_	ADV	ADV	_	9	advmod	_	_
 7	li	_	SCONJ	COMP	_	8	mark	_	_
-8	xejn	_	PRON	PRON_INDEF	_	6	conj	_	SpaceAfter=No
+8	xejn	_	PRON	PRON_INDEF	_	6	conj	_	_
 9	domt	_	VERB	VERB	_	1	conj	_	_
 10	bih	_	PRON	PREP_PRON	_	9	obl	_	SpaceAfter=No
 11	.	_	PUNCT	X_PUN	_	1	punct	_	_
