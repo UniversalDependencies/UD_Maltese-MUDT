@@ -31,9 +31,9 @@ The annotated sentences have been manually split into train, test and dev sets a
 
 | File                           | Sentence count | Token count |
 |--------------------------------|---------------:|------------:|
-| mt_mudt-ud-train.conllu        | 1671           | 34446       |
-| mt_mudt-ud-test.conllu         | 202            | 4930        |
-| mt_mudt-ud-dev.conllu          | 201            | 4876        |
+| mt_mudt-ud-train.conllu        | 1123           | 22880       |
+| mt_mudt-ud-test.conllu         | 518            | 11073        |
+| mt_mudt-ud-dev.conllu          | 433            | 10209        |
 
 # Conversion
 The original treebank was annotated according to UDv1, this version was automatically converted to UDv2 as follows:
@@ -58,6 +58,8 @@ The original treebank was annotated according to UDv1, this version was automati
 	* Added the files, updated README
 * 2018-10-11
 	* Added the files converted to UDv2 (see above), updated README
+* 2018-11-08
+	* Changes the train-test-dev split per official guidelines, updated README accordingly
 
 ## References
 **(Čéplö 2018)** Slavomír Čéplö. (2018) [Constituent order in Maltese: A quantitative analysis](http://www.bulbul.sk/phd/Text/Slavomir_Ceplo-text.pdf). Prague: Charles University.
