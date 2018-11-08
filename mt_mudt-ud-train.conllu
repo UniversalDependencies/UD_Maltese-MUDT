@@ -12582,7 +12582,7 @@
 7	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 46_02F08:51
-# text = Imma xorta waħda kien jinsab fuq l-ajruplan lejn Budapest biex ifittex lil Eva, sabiħa u misterjuża, li sar jafha biss fuq facebook, u bla indirizz, wara kollox , forsi ma jsibhiex, imma anki din, fiha nfisha, kienet sabiħa.
+# text = Imma xorta waħda kien jinsab fuq l-ajruplan lejn Budapest biex ifittex lil Eva, sabiħa u misterjuża, li sar jafha biss fuq facebook, u bla indirizz, wara kollox, forsi ma jsibhiex, imma anki din, fiha nfisha, kienet sabiħa.
 1	Imma	_	CCONJ	CONJ_CORD	_	5	mark	_	_
 2	xorta	_	NOUN	NOUN	_	5	obl	_	_
 3	waħda	_	NUM	NUM_WHD	_	2	det	_	_
