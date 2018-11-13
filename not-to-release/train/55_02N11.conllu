@@ -1,0 +1,1561 @@
+# sent_id = 55_02N11:1
+# text = L-alġebra astratta testendi l-kunċetti li nsibu fl-alġebra elementari għal oħrajn iżjed ġenerali.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	alġebra	_	NOUN	NOUN	_	4	nsubj	_	_
+3	astratta	_	ADJ	ADJ	_	2	amod	_	_
+4	testendi	_	VERB	VERB	_	0	root	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	kunċetti	_	NOUN	NOUN	_	4	obj	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	nsibu	_	VERB	VERB	_	6	acl	_	_
+9	fl-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	alġebra	_	NOUN	NOUN	_	8	obl	_	_
+11	elementari	_	ADJ	ADJ	_	10	amod	_	_
+12	għal	_	ADP	PREP	_	13	case	_	_
+13	oħrajn	_	NOUN	NOUN	_	4	obl	_	_
+14	iżjed	_	ADV	ADV	_	15	advmod	_	_
+15	ġenerali	_	ADJ	ADJ	_	13	amod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 55_02N11:2
+# text = Settijiet:
+1	Settijiet	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+2	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:3
+# text = Minflok nikkunsidraw biss it-tipi ta' numri differenti, fl-alġebra astratta nqisu il-kunċett iżjed ġenerali ta' sett li hu ġabra ta' oġġetti (li jgħidulhom elementi) li għandhom ċerta proprjetà speċifika għas-sett.
+1	Minflok	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	nikkunsidraw	_	VERB	VERB	_	13	advcl	_	_
+3	biss	_	ADV	FOC	_	5	discourse	_	_
+4	it-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	tipi	_	NOUN	NOUN	_	2	obj	_	_
+6	ta'	_	ADP	GEN	_	7	case	_	_
+7	numri	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	differenti	_	ADJ	ADJ	_	7	amod	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	2	punct	_	_
+10	fl-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	alġebra	_	NOUN	NOUN	_	13	obl	_	_
+12	astratta	_	ADJ	ADJ	_	11	amod	_	_
+13	nqisu	_	VERB	VERB	_	0	root	_	_
+14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	kunċett	_	NOUN	NOUN	_	13	obj	_	_
+16	iżjed	_	ADV	ADV	_	17	advmod	_	_
+17	ġenerali	_	ADJ	ADJ	_	15	amod	_	_
+18	ta'	_	ADP	GEN	_	19	case	_	_
+19	sett	_	NOUN	NOUN	_	15	nmod:poss	_	_
+20	li	_	SCONJ	COMP	_	22	mark	_	_
+21	hu	_	PRON	PRON_PERS	_	22	cop	_	_
+22	ġabra	_	NOUN	NOUN	_	19	acl	_	_
+23	ta'	_	ADP	GEN	_	24	case	_	_
+24	oġġetti	_	NOUN	NOUN	_	22	nmod:poss	_	_
+25	(	_	PUNCT	X_PUN	_	27	punct	_	SpaceAfter=No
+26	li	_	SCONJ	COMP	_	27	mark	_	_
+27	jgħidulhom	_	VERB	VERB	_	24	acl	_	_
+28	elementi	_	NOUN	NOUN	_	27	obl:arg	_	SpaceAfter=No
+29	)	_	PUNCT	X_PUN	_	27	punct	_	_
+30	li	_	SCONJ	COMP	_	31	mark	_	_
+31	għandhom	_	VERB	VERB_PSEU	_	24	acl	_	_
+32	ċerta	_	ADJ	ADJ	_	33	amod	_	_
+33	proprjetà	_	NOUN	NOUN	_	31	obj	_	_
+34	speċifika	_	ADJ	ADJ	_	33	amod	_	_
+35	għas-	_	ADP	PREP_DEF	_	36	case:det	_	SpaceAfter=No
+36	sett	_	NOUN	NOUN	_	34	nmod	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 55_02N11:4
+# text = Pereżempju in-numri reali jiffurmaw sett u n-numri komplessi sett ieħor.
+1	Pereżempju	_	INTJ	INT	_	5	discourse	_	_
+2	in-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	numri	_	NOUN	NOUN	_	5	nsubj	_	_
+4	reali	_	ADJ	ADJ	_	3	amod	_	_
+5	jiffurmaw	_	VERB	VERB	_	0	root	_	_
+6	sett	_	NOUN	NOUN	_	5	obj	_	_
+7	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+8	n-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	numri	_	NOUN	NOUN	_	5	conj	_	orig_deprel=nsubj
+10	komplessi	_	ADJ	ADJ	_	9	amod	_	_
+11	sett	_	NOUN	NOUN	_	9	orphan	_	orig_deprel=obj
+12	ieħor	_	ADJ	ADJ	_	11	amod	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 55_02N11:5
+# text = Eżempji oħra ta' settijiet jinkludu is-sett tal-matriċi ta' tnejn bi- tnejn, is-sett tal-polinomji tat-tieni ordni (ax2 + bx + c), is-sett tal-vetturi bidimensjonali, u gruppi finiti varji bħall-gruppi ċikliċi, jiġifieri l-gruppi tan-numri interi modulo n.
+1	Eżempji	_	NOUN	NOUN	_	5	nsubj	_	_
+2	oħra	_	ADJ	ADJ	_	1	amod	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	settijiet	_	NOUN	NOUN	_	1	nmod:poss	_	_
+5	jinkludu	_	VERB	VERB	_	0	root	_	_
+6	is-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	sett	_	NOUN	NOUN	_	5	obj	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	matriċi	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	ta'	_	ADP	GEN	_	11	case	_	_
+11	tnejn	_	NUM	NUM_CRD	_	9	nmod:poss	_	_
+12	bi-	_	ADP	PREP	_	13	case	_	_
+13	tnejn	_	NUM	NUM_CRD	_	11	nmod	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	7	punct	_	_
+15	is-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	sett	_	NOUN	NOUN	_	7	conj	_	_
+17	tal-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	polinomji	_	NOUN	NOUN	_	16	nmod:poss	_	_
+19	tat-	_	ADP	GEN_DEF	_	21	case:det	_	SpaceAfter=No
+20	tieni	_	NUM	NUM_ORD	_	21	amod	_	_
+21	ordni	_	NOUN	NOUN	_	18	nmod:poss	_	_
+22	(	_	PUNCT	X_PUN	_	23	punct	_	SpaceAfter=No
+23	ax2	_	SYM	X_BOR	_	21	appos	_	_
+24	+	_	PUNCT	X_PUN	_	23	punct	_	_
+25	bx	_	SYM	X_BOR	_	23	list	_	_
+26	+	_	PUNCT	X_PUN	_	23	punct	_	_
+27	c	_	SYM	X_BOR	_	23	list	_	SpaceAfter=No
+28	)	_	PUNCT	X_PUN	_	23	punct	_	SpaceAfter=No
+29	,	_	PUNCT	X_PUN	_	7	punct	_	_
+30	is-	_	DET	DEF	_	31	det	_	SpaceAfter=No
+31	sett	_	NOUN	NOUN	_	7	conj	_	_
+32	tal-	_	ADP	GEN_DEF	_	33	case:det	_	SpaceAfter=No
+33	vetturi	_	NOUN	NOUN	_	31	nmod:poss	_	_
+34	bidimensjonali	_	ADJ	ADJ	_	33	amod	_	SpaceAfter=No
+35	,	_	PUNCT	X_PUN	_	7	punct	_	_
+36	u	_	CCONJ	CONJ_CORD	_	37	cc	_	_
+37	gruppi	_	NOUN	NOUN	_	7	conj	_	_
+38	finiti	_	ADJ	ADJ	_	37	amod	_	_
+39	varji	_	ADJ	ADJ	_	37	amod	_	_
+40	bħall-	_	ADP	PREP_DEF	_	41	case:det	_	SpaceAfter=No
+41	gruppi	_	NOUN	NOUN	_	37	nmod	_	_
+42	ċikliċi	_	ADJ	ADJ	_	41	amod	_	SpaceAfter=No
+43	,	_	PUNCT	X_PUN	_	41	punct	_	_
+44	jiġifieri	_	VERB	VERB	_	46	discourse	_	_
+45	l-	_	DET	DEF	_	46	det	_	SpaceAfter=No
+46	gruppi	_	NOUN	NOUN	_	41	appos	_	_
+47	tan-	_	ADP	GEN_DEF	_	48	case:det	_	SpaceAfter=No
+48	numri	_	NOUN	NOUN	_	46	nmod:poss	_	_
+49	interi	_	ADJ	ADJ	_	48	amod	_	_
+50	modulo	_	NOUN	NOUN	_	48	nmod	_	_
+51	n	_	SYM	X_BOR	_	50	nmod:poss	_	SpaceAfter=No
+52	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 55_02N11:6
+# text = It-Teorija tas-settijiet hija fergħa tal-loġika u teknikament mhux fergħa tal-alġebra.
+1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Teorija	_	NOUN	NOUN	_	6	nsubj	_	_
+3	tas-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	settijiet	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	hija	_	PRON	PRON_PERS	_	6	cop	_	_
+6	fergħa	_	NOUN	NOUN	_	0	root	_	_
+7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	loġika	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+10	teknikament	_	ADV	ADV	_	12	advmod	_	_
+11	mhux	_	PART	PRON_PERS_NEG	_	12	aux:neg	_	_
+12	fergħa	_	NOUN	NOUN	_	6	conj	_	_
+13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	alġebra	_	NOUN	NOUN	_	12	nmod:poss	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 55_02N11:7
+# text = Operazzjonijiet binarji:
+1	Operazzjonijiet	_	NOUN	NOUN	_	0	root	_	_
+2	binarji	_	ADJ	ADJ	_	1	amod	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:8
+# text = L-ideja tal-għadd (+) nistgħu nagħmluha iżjed astratta biex ittina operazzjoni binarja, * ngħidu aħna.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ideja	_	NOUN	NOUN	_	9	obj	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	għadd	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
+6	+	_	PUNCT	X_PUN	_	4	appos	_	SpaceAfter=No
+7	)	_	PUNCT	X_PUN	_	6	punct	_	_
+8	nistgħu	_	VERB	VERB	_	0	root	_	_
+9	nagħmluha	_	VERB	VERB	_	8	xcomp	_	_
+10	iżjed	_	ADV	ADV	_	11	advmod	_	_
+11	astratta	_	ADJ	ADJ	_	9	xcomp	_	_
+12	biex	_	SCONJ	CONJ_SUB	_	13	mark	_	_
+13	ittina	_	VERB	VERB	_	9	advcl	_	_
+14	operazzjoni	_	NOUN	NOUN	_	13	obj	_	_
+15	binarja	_	ADJ	ADJ	_	14	amod	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	14	punct	_	_
+17	*	_	PUNCT	X_PUN	_	14	appos	_	_
+18	ngħidu	_	VERB	VERB	_	17	parataxis	_	_
+19	aħna	_	PRON	PRON_PERS	_	18	nsubj	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 55_02N11:9
+# text = Il-kunċett ta' operazzjoni binarja ma jfisser xejn jekk ma nagħtux is-sett li fuqu qed niddefinixxu l-operazzjoni.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	kunċett	_	NOUN	NOUN	_	7	nsubj	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	operazzjoni	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	binarja	_	ADJ	ADJ	_	4	amod	_	_
+6	ma	_	PART	NEG	_	7	aux:neg	_	_
+7	jfisser	_	VERB	VERB	_	0	root	_	_
+8	xejn	_	PRON	PRON_INDEF	_	7	obj	_	_
+9	jekk	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+10	ma	_	PART	NEG	_	11	aux:neg	_	_
+11	nagħtux	_	VERB	VERB	_	7	advcl	_	_
+12	is-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	sett	_	NOUN	NOUN	_	11	obj	_	_
+14	li	_	SCONJ	COMP	_	17	mark	_	_
+15	fuqu	_	PRON	PREP_PRON	_	17	obl	_	_
+16	qed	_	AUX	PROG	_	17	aux:part	_	_
+17	niddefinixxu	_	VERB	VERB	_	13	acl	_	_
+18	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	operazzjoni	_	NOUN	NOUN	_	17	obj	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 55_02N11:10
+# text = Għal żewġ elementi a u b f'sett S a * b ittina element ieħor fis-sett, (dil-kundizzjoni ngħidulha għeluq taħt l-operazzjoni).
+1	Għal	_	ADP	PREP	_	3	case	_	_
+2	żewġ	_	NUM	NUM_CRD	_	3	nummod	_	_
+3	elementi	_	NOUN	NOUN	_	4	compound	_	_
+4	a	_	SYM	X_BOR	_	13	obl	_	_
+5	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+6	b	_	SYM	X_BOR	_	4	conj	_	_
+7	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+8	sett	_	NOUN	NOUN	_	9	compound	_	_
+9	S	_	SYM	X_BOR	_	4	nmod	_	_
+10	a	_	SYM	X_BOR	_	13	nsubj	_	_
+11	*	_	PUNCT	X_PUN	_	10	punct	_	_
+12	b	_	SYM	X_BOR	_	10	list	_	_
+13	ittina	_	VERB	VERB	_	0	root	_	_
+14	element	_	NOUN	NOUN	_	13	obj	_	_
+15	ieħor	_	ADJ	ADJ	_	14	amod	_	_
+16	fis-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	sett	_	NOUN	NOUN	_	14	nmod	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	13	punct	_	_
+19	(	_	PUNCT	X_PUN	_	22	punct	_	SpaceAfter=No
+20	dil-	_	PRON	PRON_DEM_DEF	_	21	det	_	SpaceAfter=No
+21	kundizzjoni	_	NOUN	NOUN	_	22	iobj	_	_
+22	ngħidulha	_	VERB	VERB	_	13	parataxis	_	_
+23	għeluq	_	NOUN	NOUN	_	22	obl:arg	_	_
+24	taħt	_	ADP	PREP	_	26	case	_	_
+25	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	operazzjoni	_	NOUN	NOUN	_	23	nmod	_	SpaceAfter=No
+27	)	_	PUNCT	X_PUN	_	22	punct	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 55_02N11:11
+# text = L-għadd (+), it-tnaqqis (-), il-moltiplikazzjoni (×), u d-diviżjoni (÷) huma operazzjonijiet binarji meta niddefinuhom fuq settijiet addattati, kif ukoll l-għadd u l-moltiplikazzjoni tal-matriċi, vetturi u polinomji.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	għadd	_	NOUN	NOUN	_	26	nsubj	_	_
+3	(	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+4	+	_	PUNCT	X_PUN	_	2	appos	_	SpaceAfter=No
+5	)	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	it-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	tnaqqis	_	NOUN	NOUN	_	2	conj	_	_
+9	(	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+10	-	_	PUNCT	X_PUN	_	8	appos	_	SpaceAfter=No
+11	)	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	2	punct	_	_
+13	il-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	moltiplikazzjoni	_	NOUN	NOUN	_	2	conj	_	_
+15	(	_	PUNCT	X_PUN	_	16	punct	_	SpaceAfter=No
+16	×	_	PUNCT	X_PUN	_	14	appos	_	SpaceAfter=No
+17	)	_	PUNCT	X_PUN	_	16	punct	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	2	punct	_	_
+19	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+20	d-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	diviżjoni	_	NOUN	NOUN	_	2	conj	_	_
+22	(	_	PUNCT	X_PUN	_	23	punct	_	SpaceAfter=No
+23	÷	_	PUNCT	X_PUN	_	21	appos	_	SpaceAfter=No
+24	)	_	PUNCT	X_PUN	_	23	punct	_	_
+25	huma	_	PRON	PRON_PERS	_	26	cop	_	_
+26	operazzjonijiet	_	NOUN	NOUN	_	0	root	_	_
+27	binarji	_	ADJ	ADJ	_	26	amod	_	_
+28	meta	_	SCONJ	CONJ_SUB	_	29	mark	_	_
+29	niddefinuhom	_	VERB	VERB	_	26	advcl	_	_
+30	fuq	_	ADP	PREP	_	31	case	_	_
+31	settijiet	_	NOUN	NOUN	_	29	obl	_	_
+32	addattati	_	VERB	PART_PASS	_	31	amod	_	SpaceAfter=No
+33	,	_	PUNCT	X_PUN	_	26	punct	_	_
+34	kif	_	PRON	PRON_INT	_	37	cc	_	_
+35	ukoll	_	ADV	FOC	_	34	fixed	_	_
+36	l-	_	DET	DEF	_	37	det	_	SpaceAfter=No
+37	għadd	_	NOUN	NOUN	_	2	conj	_	_
+38	u	_	CCONJ	CONJ_CORD	_	40	cc	_	_
+39	l-	_	DET	DEF	_	40	det	_	SpaceAfter=No
+40	moltiplikazzjoni	_	NOUN	NOUN	_	37	conj	_	_
+41	tal-	_	ADP	GEN_DEF	_	42	case:det	_	SpaceAfter=No
+42	matriċi	_	NOUN	NOUN	_	40	nmod:poss	_	SpaceAfter=No
+43	,	_	PUNCT	X_PUN	_	42	punct	_	_
+44	vetturi	_	NOUN	NOUN	_	42	conj	_	_
+45	u	_	CCONJ	CONJ_CORD	_	46	cc	_	_
+46	polinomji	_	NOUN	NOUN	_	42	conj	_	SpaceAfter=No
+47	.	_	PUNCT	X_PUN	_	26	punct	_	_
+
+# sent_id = 55_02N11:12
+# text = Elementi tal-identità:
+1	Elementi	_	NOUN	NOUN	_	0	root	_	_
+2	tal-	_	ADP	GEN_DEF	_	3	case:det	_	SpaceAfter=No
+3	identità	_	NOUN	NOUN	_	1	nmod:poss	_	SpaceAfter=No
+4	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:13
+# text = Il-kunċett tal-"element tal-identità" huwa l-astrazzjoni tan-numri żero u wieħed.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	kunċett	_	NOUN	NOUN	_	11	nsubj	_	_
+3	tal-	_	ADP	GEN_DEF	_	5	case:det	_	SpaceAfter=No
+4	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+5	element	_	NOUN	NOUN	_	2	nmod:poss	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	identità	_	NOUN	NOUN	_	5	nmod:poss	_	SpaceAfter=No
+8	"	_	PUNCT	X_PUN	_	5	punct	_	_
+9	huwa	_	PRON	PRON_PERS	_	11	cop	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	astrazzjoni	_	NOUN	NOUN	_	0	root	_	_
+12	tan-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	numri	_	NOUN	NOUN	_	14	compound	_	_
+14	żero	_	NOUN	NOUN	_	11	nmod:poss	_	_
+15	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+16	wieħed	_	NUM	NUM_WHD	_	14	conj	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 55_02N11:14
+# text = Żero huwa l-element tal-identità għall-għadd u wieħed l-element tal-identità għall-moltiplikazzjoni.
+1	Żero	_	NOUN	NOUN	_	4	nsubj	_	_
+2	huwa	_	PRON	PRON_PERS	_	4	cop	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	element	_	NOUN	NOUN	_	0	root	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	identità	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	għall-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	għadd	_	NOUN	NOUN	_	4	obl	_	_
+9	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+10	wieħed	_	NUM	NUM_WHD	_	12	nsubj	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	element	_	NOUN	NOUN	_	4	conj	_	_
+13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	identità	_	NOUN	NOUN	_	12	nmod:poss	_	_
+15	għall-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	moltiplikazzjoni	_	NOUN	NOUN	_	12	obl	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 55_02N11:15
+# text = Għal operazzjoni binarja ġenerali * l-element tal-identità e irid jissodisfa a * e = a u e * a = a.
+1	Għal	_	ADP	PREP	_	2	case	_	_
+2	operazzjoni	_	NOUN	NOUN	_	5	compound	_	_
+3	binarja	_	ADJ	ADJ	_	2	amod	_	_
+4	ġenerali	_	ADJ	ADJ	_	2	amod	_	_
+5	*	_	PUNCT	X_PUN	_	11	punct	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	element	_	NOUN	NOUN	_	10	compound	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	identità	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	e	_	SYM	X_BOR	_	11	nsubj	_	_
+11	irid	_	VERB	VERB	_	0	root	_	_
+12	jissodisfa	_	VERB	VERB	_	11	xcomp	_	_
+13	a	_	SYM	X_BOR	_	12	obj	_	_
+14	*	_	PUNCT	X_PUN	_	13	punct	_	_
+15	e	_	SYM	X_BOR	_	13	list	_	_
+16	=	_	PUNCT	X_PUN	_	13	punct	_	_
+17	a	_	SYM	X_BOR	_	13	list	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+19	e	_	SYM	X_BOR	_	13	conj	_	_
+20	*	_	PUNCT	X_PUN	_	19	punct	_	_
+21	a	_	SYM	X_BOR	_	19	list	_	_
+22	=	_	PUNCT	X_PUN	_	19	punct	_	_
+23	a	_	SYM	X_BOR	_	19	list	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 55_02N11:16
+# text = Għall-għadd din hi sodisfatta billi a + 0 = a u 0 + a = a u għall-moltiplikazzjoni wkoll għax a × 1 = a u 1 × a = a.
+1	Għall-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	għadd	_	NOUN	NOUN	_	5	obl	_	_
+3	din	_	PRON	PRON_DEM	_	5	nsubj	_	_
+4	hi	_	PRON	PRON_PERS	_	5	cop	_	_
+5	sodisfatta	_	VERB	PART_PASS	_	0	root	_	_
+6	billi	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+7	a	_	SYM	X_BOR	_	5	advcl	_	_
+8	+	_	PUNCT	X_PUN	_	7	punct	_	_
+9	0	_	NUM	X_DIG	_	7	list	_	_
+10	=	_	PUNCT	X_PUN	_	7	punct	_	_
+11	a	_	SYM	X_BOR	_	7	list	_	_
+12	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+13	0	_	NUM	X_DIG	_	7	conj	_	_
+14	+	_	PUNCT	X_PUN	_	13	punct	_	_
+15	a	_	SYM	X_BOR	_	13	list	_	_
+16	=	_	PUNCT	X_PUN	_	13	punct	_	_
+17	a	_	SYM	X_BOR	_	13	list	_	_
+18	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+19	għall-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	moltiplikazzjoni	_	NOUN	NOUN	_	2	conj	_	_
+21	wkoll	_	ADV	FOC	_	20	discourse	_	_
+22	għax	_	SCONJ	CONJ_SUB	_	23	mark	_	_
+23	a	_	SYM	X_BOR	_	20	advcl	_	_
+24	×	_	PUNCT	X_PUN	_	23	punct	_	_
+25	1	_	NUM	X_DIG	_	23	list	_	_
+26	=	_	PUNCT	X_PUN	_	23	punct	_	_
+27	a	_	SYM	X_BOR	_	23	list	_	_
+28	u	_	CCONJ	CONJ_CORD	_	29	cc	_	_
+29	1	_	NUM	X_DIG	_	23	conj	_	_
+30	×	_	PUNCT	X_PUN	_	29	punct	_	_
+31	a	_	SYM	X_BOR	_	29	list	_	_
+32	=	_	PUNCT	X_PUN	_	29	punct	_	_
+33	a	_	SYM	X_BOR	_	29	list	_	SpaceAfter=No
+34	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 55_02N11:17
+# text = Imma, jekk nieħdu in-numri naturali pożitivi u l-operazzjoni tal-għadd, m'hemmx element tal-identità.
+1	Imma	_	CCONJ	CONJ_CORD	_	16	cc	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	4	punct	_	_
+3	jekk	_	SCONJ	CONJ_SUB	_	4	mark	_	_
+4	nieħdu	_	VERB	VERB	_	16	advcl	_	_
+5	in-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	numri	_	NOUN	NOUN	_	4	obj	_	_
+7	naturali	_	ADJ	ADJ	_	6	amod	_	_
+8	pożitivi	_	ADJ	ADJ	_	6	amod	_	_
+9	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	operazzjoni	_	NOUN	NOUN	_	6	conj	_	_
+12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	għadd	_	NOUN	NOUN	_	11	nmod:poss	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	4	punct	_	_
+15	m'	_	PART	NEG	_	16	aux:neg	_	SpaceAfter=No
+16	hemmx	_	VERB	HEMM	_	0	root	_	_
+17	element	_	NOUN	NOUN	_	16	nsubj	_	_
+18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
+19	identità	_	NOUN	NOUN	_	17	nmod:poss	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	16	punct	_	_
+
+# sent_id = 55_02N11:18
+# text = Elementi inversi:
+1	Elementi	_	NOUN	NOUN	_	0	root	_	_
+2	inversi	_	ADJ	ADJ	_	1	amod	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:19
+# text = Min-numri negattivi noħolqu l-kunċett ta' element invers jew sempliċiment l-invers.
+1	Min-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	numri	_	NOUN	NOUN	_	4	obl	_	_
+3	negattivi	_	ADJ	ADJ	_	2	amod	_	_
+4	noħolqu	_	VERB	VERB	_	0	root	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	kunċett	_	NOUN	NOUN	_	4	obj	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	element	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	invers	_	ADJ	ADJ	_	8	amod	_	_
+10	jew	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+11	sempliċiment	_	ADV	ADV	_	13	advmod	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	invers	_	NOUN	NOUN	_	8	conj	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 55_02N11:20
+# text = Għall-għadd, l-invers ta' a huwa - a, u għall-moltiplikazzjoni l-invers hu 1 / a.
+1	Għall-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	għadd	_	NOUN	NOUN	_	10	obl	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	invers	_	NOUN	NOUN	_	10	nsubj	_	_
+6	ta'	_	ADP	GEN	_	7	case	_	_
+7	a	_	SYM	X_BOR	_	5	nmod:poss	_	_
+8	huwa	_	PRON	PRON_PERS	_	10	cop	_	_
+9	-	_	PUNCT	X_PUN	_	10	punct	_	_
+10	a	_	SYM	X_BOR	_	0	root	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	10	punct	_	_
+12	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+13	għall-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	moltiplikazzjoni	_	NOUN	NOUN	_	18	obl	_	_
+15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	invers	_	NOUN	NOUN	_	18	nsubj	_	_
+17	hu	_	PRON	PRON_PERS	_	18	cop	_	_
+18	1	_	NUM	X_DIG	_	10	conj	_	_
+19	/	_	PUNCT	X_PUN	_	18	punct	_	_
+20	a	_	SYM	X_BOR	_	18	list	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 55_02N11:21
+# text = L-element invers ġenerali a - 1 jrid jissodifa r-relazzjoni a * a - 1 = e u a - 1 * a = e.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	element	_	NOUN	NOUN	_	5	compound	_	_
+3	invers	_	ADJ	ADJ	_	2	amod	_	_
+4	ġenerali	_	ADJ	ADJ	_	2	amod	_	_
+5	a	_	SYM	X_BOR	_	8	nsubj	_	_
+6	-	_	PUNCT	X_PUN	_	5	punct	_	_
+7	1	_	NUM	X_DIG	_	5	list	_	_
+8	jrid	_	VERB	VERB	_	0	root	_	_
+9	jissodifa	_	VERB	VERB	_	8	xcomp	_	_
+10	r-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	relazzjoni	_	NOUN	NOUN	_	12	compound	_	_
+12	a	_	SYM	X_BOR	_	9	obj	_	_
+13	*	_	PUNCT	X_PUN	_	12	punct	_	_
+14	a	_	SYM	X_BOR	_	12	list	_	_
+15	-	_	PUNCT	X_PUN	_	12	list	_	_
+16	1	_	NUM	X_DIG	_	12	list	_	_
+17	=	_	PUNCT	X_PUN	_	12	punct	_	_
+18	e	_	SYM	X_BOR	_	12	list	_	_
+19	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+20	a	_	SYM	X_BOR	_	12	conj	_	_
+21	-	_	PUNCT	X_PUN	_	20	punct	_	_
+22	1	_	NUM	X_DIG	_	20	list	_	_
+23	*	_	PUNCT	X_PUN	_	20	punct	_	_
+24	a	_	SYM	X_BOR	_	20	list	_	_
+25	=	_	PUNCT	X_PUN	_	20	punct	_	_
+26	e	_	SYM	X_BOR	_	20	list	_	SpaceAfter=No
+27	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 55_02N11:22
+# text = Assoċjattività:
+1	Assoċjattività	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+2	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:23
+# text = L-għadd tan-numri interi għandu proprjetà li nsejħulha assoċjattività.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	għadd	_	NOUN	NOUN	_	6	nsubj	_	_
+3	tan-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	numri	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	interi	_	ADJ	ADJ	_	4	amod	_	_
+6	għandu	_	VERB	VERB_PSEU	_	0	root	_	_
+7	proprjetà	_	NOUN	NOUN	_	6	obj	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	nsejħulha	_	VERB	VERB	_	7	acl	_	_
+10	assoċjattività	_	NOUN	NOUN	_	9	obj	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 55_02N11:24
+# text = Jiġifieri, l-kumbinazzjoni tan-numri li nkunu qed nogħdu ma tbiddilx is-somma tagħhom.
+1	Jiġifieri	_	VERB	VERB	_	12	discourse	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	kumbinazzjoni	_	NOUN	NOUN	_	12	nsubj	_	_
+5	tan-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	numri	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	li	_	SCONJ	COMP	_	10	mark	_	_
+8	nkunu	_	AUX	KIEN	_	10	aux	_	_
+9	qed	_	AUX	PROG	_	10	aux:part	_	_
+10	nogħdu	_	VERB	VERB	_	6	acl	_	_
+11	ma	_	PART	NEG	_	12	aux:neg	_	_
+12	tbiddilx	_	VERB	VERB	_	0	root	_	_
+13	is-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	somma	_	NOUN	NOUN	_	12	obj	_	_
+15	tagħhom	_	PRON	GEN_PRON	_	14	case	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 55_02N11:25
+# text = Pereżempju:
+1	Pereżempju	_	INTJ	INT	_	0	root	_	SpaceAfter=No
+2	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:26
+# text = (2 + 3) + 4 = 2 + (3 + 4).
+1	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	2	_	NUM	X_DIG	_	0	root	_	_
+3	+	_	PUNCT	X_PUN	_	2	punct	_	_
+4	3	_	NUM	X_DIG	_	2	list	_	SpaceAfter=No
+5	)	_	PUNCT	X_PUN	_	2	punct	_	_
+6	+	_	PUNCT	X_PUN	_	2	punct	_	_
+7	4	_	NUM	X_DIG	_	2	list	_	_
+8	=	_	PUNCT	X_PUN	_	2	punct	_	_
+9	2	_	NUM	X_DIG	_	2	list	_	_
+10	+	_	PUNCT	X_PUN	_	2	punct	_	_
+11	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+12	3	_	NUM	X_DIG	_	2	list	_	_
+13	+	_	PUNCT	X_PUN	_	2	punct	_	_
+14	4	_	NUM	X_DIG	_	2	list	_	SpaceAfter=No
+15	)	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 55_02N11:27
+# text = Fil-kuntest generali, din issir (a * b) * c = a * (b * c).
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	kuntest	_	NOUN	NOUN	_	6	obl	_	_
+3	generali	_	ADJ	ADJ	_	2	amod	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	2	punct	_	_
+5	din	_	PRON	PRON_DEM	_	6	nsubj	_	_
+6	issir	_	VERB	VERB	_	0	root	_	_
+7	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+8	a	_	SYM	X_BOR	_	6	xcomp	_	_
+9	*	_	PUNCT	X_PUN	_	8	punct	_	_
+10	b	_	SYM	X_BOR	_	8	list	_	SpaceAfter=No
+11	)	_	PUNCT	X_PUN	_	8	punct	_	_
+12	*	_	PUNCT	X_PUN	_	8	punct	_	_
+13	c	_	SYM	X_BOR	_	8	list	_	_
+14	=	_	PUNCT	X_PUN	_	8	punct	_	_
+15	a	_	SYM	X_BOR	_	8	list	_	_
+16	*	_	PUNCT	X_PUN	_	8	punct	_	_
+17	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+18	b	_	SYM	X_BOR	_	8	list	_	_
+19	*	_	PUNCT	X_PUN	_	8	punct	_	_
+20	c	_	SYM	X_BOR	_	8	list	_	SpaceAfter=No
+21	)	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 55_02N11:28
+# text = Il-biċċa kbira tal-operazzjonijiet binarji għandhom din il-proprjetà imma t-tnaqqis u d-diviżjoni le.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	biċċa	_	NOUN	NOUN	_	7	nsubj	_	_
+3	kbira	_	ADJ	ADJ	_	2	amod	_	_
+4	tal-	_	ADP	GEN_DEF	_	5	case:det	_	SpaceAfter=No
+5	operazzjonijiet	_	NOUN	NOUN	_	2	nmod:poss	_	_
+6	binarji	_	ADJ	ADJ	_	5	amod	_	_
+7	għandhom	_	VERB	VERB_PSEU	_	0	root	_	_
+8	din	_	PRON	PRON_DEM	_	10	det	_	_
+9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	proprjetà	_	NOUN	NOUN	_	7	obj	_	_
+11	imma	_	CCONJ	CONJ_CORD	_	17	cc	_	_
+12	t-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	tnaqqis	_	NOUN	NOUN	_	17	nsubj	_	_
+14	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+15	d-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	diviżjoni	_	NOUN	NOUN	_	13	conj	_	_
+17	le	_	INTJ	INT	_	7	conj	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 55_02N11:29
+# text = Kommutattività:
+1	Kommutattività	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+2	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:30
+# text = L-għadd tan-numri interi għandu wkoll proprjetà oħra li ngħidulha kommutattività.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	għadd	_	NOUN	NOUN	_	6	nsubj	_	_
+3	tan-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	numri	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	interi	_	ADJ	ADJ	_	4	amod	_	_
+6	għandu	_	VERB	VERB_PSEU	_	0	root	_	_
+7	wkoll	_	ADV	FOC	_	8	discourse	_	_
+8	proprjetà	_	NOUN	NOUN	_	6	obj	_	_
+9	oħra	_	ADJ	ADJ	_	8	amod	_	_
+10	li	_	SCONJ	COMP	_	11	mark	_	_
+11	ngħidulha	_	VERB	VERB	_	8	acl	_	_
+12	kommutattività	_	NOUN	NOUN	_	11	obl:arg	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 55_02N11:31
+# text = Jiġifieri, l-ordni tan-numri li nkunu qed nogħdu ma tbiddilx is-somma tagħhom.
+1	Jiġifieri	_	VERB	VERB	_	12	parataxis	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	ordni	_	NOUN	NOUN	_	12	nsubj	_	_
+5	tan-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	numri	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	li	_	SCONJ	COMP	_	10	mark	_	_
+8	nkunu	_	AUX	KIEN	_	10	aux	_	_
+9	qed	_	AUX	PROG	_	10	aux:part	_	_
+10	nogħdu	_	VERB	VERB	_	6	acl	_	_
+11	ma	_	PART	NEG	_	12	aux:neg	_	_
+12	tbiddilx	_	VERB	VERB	_	0	root	_	_
+13	is-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	somma	_	NOUN	NOUN	_	12	obj	_	_
+15	tagħhom	_	PRON	GEN_PRON	_	14	case	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 55_02N11:32
+# text = Pereżempju:
+1	Pereżempju	_	INTJ	INT	_	0	root	_	SpaceAfter=No
+2	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:33
+# text = 2 + 3 = 3 + 2.
+1	2	_	NUM	X_DIG	_	0	root	_	_
+2	+	_	PUNCT	X_PUN	_	1	punct	_	_
+3	3	_	NUM	X_DIG	_	1	list	_	_
+4	=	_	PUNCT	X_PUN	_	1	punct	_	_
+5	3	_	NUM	X_DIG	_	1	list	_	_
+6	+	_	PUNCT	X_PUN	_	1	punct	_	_
+7	2	_	NUM	X_DIG	_	1	list	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:34
+# text = Fil-kuntest generali, din issir a * b = b * a.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	kuntest	_	NOUN	NOUN	_	6	obl	_	_
+3	generali	_	ADJ	ADJ	_	2	amod	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	2	punct	_	_
+5	din	_	PRON	PRON_DEM	_	6	nsubj	_	_
+6	issir	_	VERB	VERB	_	0	root	_	_
+7	a	_	SYM	X_BOR	_	6	xcomp	_	_
+8	*	_	PUNCT	X_PUN	_	7	punct	_	_
+9	b	_	SYM	X_BOR	_	7	list	_	_
+10	=	_	PUNCT	X_PUN	_	7	punct	_	_
+11	b	_	SYM	X_BOR	_	7	list	_	_
+12	*	_	PUNCT	X_PUN	_	7	punct	_	_
+13	a	_	SYM	X_BOR	_	7	list	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 55_02N11:35
+# text = Mhux l-operazzjonijiet binarji kollha għandhom din il-proprjetà.
+1	Mhux	_	PART	PRON_PERS_NEG	_	3	aux:neg	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	operazzjonijiet	_	NOUN	NOUN	_	6	nsubj	_	_
+4	binarji	_	ADJ	ADJ	_	3	amod	_	_
+5	kollha	_	DET	QUAN	_	3	det	_	_
+6	għandhom	_	VERB	VERB_PSEU	_	0	root	_	_
+7	din	_	PRON	PRON_DEM	_	9	det	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	proprjetà	_	NOUN	NOUN	_	6	obj	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 55_02N11:36
+# text = L-għadd u l-moltiplikazzjoni tan-numri interi għandhom din il-proprjetà imma l-moltiplikazzjoni tal-matriċi le.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	għadd	_	NOUN	NOUN	_	9	nsubj	_	_
+3	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	moltiplikazzjoni	_	NOUN	NOUN	_	2	conj	_	_
+6	tan-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	numri	_	NOUN	NOUN	_	2	nmod:poss	_	_
+8	interi	_	ADJ	ADJ	_	7	amod	_	_
+9	għandhom	_	VERB	VERB_PSEU	_	0	root	_	_
+10	din	_	PRON	PRON_DEM	_	12	det	_	_
+11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	proprjetà	_	NOUN	NOUN	_	9	obj	_	_
+13	imma	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	moltiplikazzjoni	_	NOUN	NOUN	_	18	nsubj	_	_
+16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	matriċi	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	le	_	INTJ	INT	_	9	conj	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 55_02N11:37
+# text = Gruppi-strutturi ta' sett b'operazzjoni binarja waħda
+1	Gruppi-strutturi	_	NOUN	NOUN	_	0	root	_	_
+2	ta'	_	ADP	GEN	_	3	case	_	_
+3	sett	_	NOUN	NOUN	_	1	nmod:poss	_	_
+4	b'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
+5	operazzjoni	_	NOUN	NOUN	_	1	nmod	_	_
+6	binarja	_	ADJ	ADJ	_	5	amod	_	_
+7	waħda	_	NUM	NUM_WHD	_	5	det	_	_
+
+# sent_id = 55_02N11:38
+# text = Meta niġbru flimkien il-kunċetti li rajna qabel, ikollna waħda mill-iżjed strutturi importanti fil-matematika: il-grupp.
+1	Meta	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	niġbru	_	VERB	VERB	_	10	advcl	_	_
+3	flimkien	_	ADV	ADV	_	2	advmod	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	kunċetti	_	NOUN	NOUN	_	2	obj	_	_
+6	li	_	SCONJ	COMP	_	7	mark	_	_
+7	rajna	_	VERB	VERB	_	5	acl	_	_
+8	qabel	_	ADV	ADV	_	7	advmod	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	2	punct	_	_
+10	ikollna	_	VERB	VERB_PSEU	_	0	root	_	_
+11	waħda	_	NUM	NUM_WHD	_	10	obj	_	_
+12	mill-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+13	iżjed	_	ADV	ADV	_	15	advmod	_	_
+14	strutturi	_	NOUN	NOUN	_	11	nmod	_	_
+15	importanti	_	ADJ	ADJ	_	14	amod	_	_
+16	fil-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	matematika	_	NOUN	NOUN	_	14	nmod	_	SpaceAfter=No
+18	:	_	PUNCT	X_PUN	_	11	punct	_	_
+19	il-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	grupp	_	NOUN	NOUN	_	11	appos	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 55_02N11:39
+# text = Grupp jikkonsisti f'sett S u operazzjoni waħda li rridu, li niktbuha ' * ', imma li jrid ikollha dawn il-proprjetajiet:
+1	Grupp	_	NOUN	NOUN	_	2	nsubj	_	_
+2	jikkonsisti	_	VERB	VERB	_	0	root	_	_
+3	f'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
+4	sett	_	NOUN	NOUN	_	5	compound	_	_
+5	S	_	SYM	X_BOR	_	2	obl:arg	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	operazzjoni	_	NOUN	NOUN	_	5	conj	_	_
+8	waħda	_	NUM	NUM_WHD	_	7	det	_	_
+9	li	_	SCONJ	COMP	_	10	mark	_	_
+10	rridu	_	VERB	VERB	_	7	acl	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	10	punct	_	_
+12	li	_	SCONJ	COMP	_	13	mark	_	_
+13	niktbuha	_	VERB	VERB	_	10	conj	_	_
+14	'	_	PUNCT	X_PUN	_	15	punct	_	_
+15	*	_	PUNCT	X_PUN	_	13	xcomp	_	_
+16	'	_	PUNCT	X_PUN	_	15	punct	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	10	punct	_	_
+18	imma	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+19	li	_	SCONJ	COMP	_	20	mark	_	_
+20	jrid	_	VERB	VERB	_	10	conj	_	_
+21	ikollha	_	VERB	VERB_PSEU	_	20	xcomp	_	_
+22	dawn	_	PRON	PRON_DEM	_	24	det	_	_
+23	il-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+24	proprjetajiet	_	NOUN	NOUN	_	21	obj	_	SpaceAfter=No
+25	:	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 55_02N11:40
+# text = Irid ikun hemm element tal-identità e, li għal kull membru ieħor a ta' S, e * a u a * e huma t-tnejn ugwali għal a.
+1	Irid	_	VERB	VERB	_	0	root	_	_
+2	ikun	_	AUX	KIEN	_	3	aux	_	_
+3	hemm	_	VERB	HEMM	_	1	xcomp	_	_
+4	element	_	NOUN	NOUN	_	7	compound	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	identità	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	e	_	SYM	X_BOR	_	3	nsubj	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	7	punct	_	_
+9	li	_	SCONJ	COMP	_	28	mark	_	_
+10	għal	_	ADP	PREP	_	12	case	_	_
+11	kull	_	DET	QUAN	_	12	det	_	_
+12	membru	_	NOUN	NOUN	_	14	compound	_	_
+13	ieħor	_	ADJ	ADJ	_	12	amod	_	_
+14	a	_	SYM	X_BOR	_	28	obl	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	S	_	SYM	X_BOR	_	14	nmod:poss	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	14	punct	_	_
+18	e	_	SYM	X_BOR	_	28	dislocated	_	_
+19	*	_	PUNCT	X_PUN	_	18	punct	_	_
+20	a	_	SYM	X_BOR	_	18	list	_	_
+21	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
+22	a	_	SYM	X_BOR	_	18	conj	_	_
+23	*	_	PUNCT	X_PUN	_	22	punct	_	_
+24	e	_	SYM	X_BOR	_	22	list	_	_
+25	huma	_	PRON	PRON_PERS	_	28	nsubj	_	_
+26	t-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+27	tnejn	_	NUM	NUM_CRD	_	25	nmod	_	_
+28	ugwali	_	ADJ	ADJ	_	7	acl	_	_
+29	għal	_	ADP	PREP	_	30	case	_	_
+30	a	_	SYM	X_BOR	_	28	obl	_	SpaceAfter=No
+31	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:41
+# text = Kull element irid ikollu invers: għal kull membru ieħor a ta' S, irid jeżisti membru a - 1 sabiex a * a - 1 u a - 1 * a huma t-tnejn ugwali għall-element tal-identità.
+1	Kull	_	DET	QUAN	_	2	det	_	_
+2	element	_	NOUN	NOUN	_	3	nsubj	_	_
+3	irid	_	VERB	VERB	_	0	root	_	_
+4	ikollu	_	VERB	VERB_PSEU	_	3	xcomp	_	_
+5	invers	_	NOUN	NOUN	_	4	obj	_	SpaceAfter=No
+6	:	_	PUNCT	X_PUN	_	3	punct	_	_
+7	għal	_	ADP	PREP	_	9	case	_	_
+8	kull	_	DET	QUAN	_	9	det	_	_
+9	membru	_	NOUN	NOUN	_	11	compound	_	_
+10	ieħor	_	ADJ	ADJ	_	9	amod	_	_
+11	a	_	SYM	X_BOR	_	15	obl	_	_
+12	ta'	_	ADP	GEN	_	13	case	_	_
+13	S	_	SYM	X_BOR	_	11	nmod:poss	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	11	punct	_	_
+15	irid	_	VERB	VERB	_	3	parataxis	_	_
+16	jeżisti	_	VERB	VERB	_	15	xcomp	_	_
+17	membru	_	NOUN	NOUN	_	18	compound	_	_
+18	a	_	SYM	X_BOR	_	16	nsubj	_	_
+19	-	_	PUNCT	X_PUN	_	18	punct	_	_
+20	1	_	NUM	X_DIG	_	18	list	_	_
+21	sabiex	_	SCONJ	CONJ_SUB	_	36	mark	_	_
+22	a	_	SYM	X_BOR	_	36	nsubj	_	_
+23	*	_	PUNCT	X_PUN	_	22	punct	_	_
+24	a	_	SYM	X_BOR	_	22	list	_	_
+25	-	_	PUNCT	X_PUN	_	22	punct	_	_
+26	1	_	NUM	X_DIG	_	22	list	_	_
+27	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+28	a	_	SYM	X_BOR	_	22	conj	_	_
+29	-	_	PUNCT	X_PUN	_	28	punct	_	_
+30	1	_	NUM	X_DIG	_	28	list	_	_
+31	*	_	PUNCT	X_PUN	_	28	punct	_	_
+32	a	_	SYM	X_BOR	_	28	list	_	_
+33	huma	_	PRON	PRON_PERS	_	36	cop	_	_
+34	t-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	tnejn	_	NUM	NUM_CRD	_	36	nsubj	_	_
+36	ugwali	_	ADJ	ADJ	_	16	advcl	_	_
+37	għall-	_	ADP	PREP_DEF	_	38	case:det	_	SpaceAfter=No
+38	element	_	NOUN	NOUN	_	36	obl	_	_
+39	tal-	_	ADP	GEN_DEF	_	40	case:det	_	SpaceAfter=No
+40	identità	_	NOUN	NOUN	_	38	nmod:poss	_	SpaceAfter=No
+41	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 55_02N11:42
+# text = L-operazzjoni hi assoċjattiva: għal a, b u c membri ta' S, (a * b) * c hija ugwali għal a * (b * c).
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	operazzjoni	_	NOUN	NOUN	_	4	nsubj	_	_
+3	hi	_	PRON	PRON_PERS	_	4	cop	_	_
+4	assoċjattiva	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	4	punct	_	_
+6	għal	_	ADP	PREP	_	7	case	_	_
+7	a	_	SYM	X_BOR	_	24	obl	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	7	punct	_	_
+9	b	_	SYM	X_BOR	_	7	conj	_	_
+10	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+11	c	_	SYM	X_BOR	_	7	conj	_	_
+12	membri	_	NOUN	NOUN	_	7	acl	_	_
+13	ta'	_	ADP	GEN	_	14	case	_	_
+14	S	_	SYM	X_BOR	_	12	nmod:poss	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	7	punct	_	_
+16	(	_	PUNCT	X_PUN	_	17	punct	_	SpaceAfter=No
+17	a	_	SYM	X_BOR	_	24	nsubj	_	_
+18	*	_	PUNCT	X_PUN	_	17	punct	_	_
+19	b	_	SYM	X_BOR	_	17	list	_	SpaceAfter=No
+20	)	_	PUNCT	X_PUN	_	17	punct	_	_
+21	*	_	PUNCT	X_PUN	_	17	punct	_	_
+22	c	_	SYM	X_BOR	_	17	list	_	_
+23	hija	_	PRON	PRON_PERS	_	24	cop	_	_
+24	ugwali	_	ADJ	ADJ	_	4	ccomp	_	_
+25	għal	_	ADP	PREP	_	26	case	_	_
+26	a	_	SYM	X_BOR	_	24	obl	_	_
+27	*	_	PUNCT	X_PUN	_	26	punct	_	_
+28	(	_	PUNCT	X_PUN	_	26	punct	_	SpaceAfter=No
+29	b	_	SYM	X_BOR	_	26	list	_	_
+30	*	_	PUNCT	X_PUN	_	26	punct	_	_
+31	c	_	SYM	X_BOR	_	26	list	_	SpaceAfter=No
+32	)	_	PUNCT	X_PUN	_	26	punct	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 55_02N11:43
+# text = Jekk grupp hu anki kommutattiv - jiġifieri, għal kull żewg membri a u b ta' S, a * b hija ugwali għal b * a - il-grupp ngħidu li hu Abeljan.
+1	Jekk	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+2	grupp	_	NOUN	NOUN	_	5	nsubj	_	_
+3	hu	_	PRON	PRON_PERS	_	5	cop	_	_
+4	anki	_	ADV	FOC	_	5	discourse	_	_
+5	kommutattiv	_	ADJ	ADJ	_	31	advcl	_	_
+6	-	_	PUNCT	X_PUN	_	23	punct	_	_
+7	jiġifieri	_	VERB	VERB	_	23	discourse	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	7	punct	_	_
+9	għal	_	ADP	PREP	_	12	case	_	_
+10	kull	_	DET	QUAN	_	12	det	_	_
+11	żewg	_	NUM	NUM_CRD	_	12	nummod	_	_
+12	membri	_	NOUN	NOUN	_	13	compound	_	_
+13	a	_	SYM	X_BOR	_	23	obl	_	_
+14	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+15	b	_	SYM	X_BOR	_	13	conj	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	S	_	SYM	X_BOR	_	13	nmod:poss	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	13	punct	_	_
+19	a	_	SYM	X_BOR	_	23	nsubj	_	_
+20	*	_	PUNCT	X_PUN	_	19	punct	_	_
+21	b	_	SYM	X_BOR	_	19	list	_	_
+22	hija	_	PRON	PRON_PERS	_	23	cop	_	_
+23	ugwali	_	ADJ	ADJ	_	5	parataxis	_	_
+24	għal	_	ADP	PREP	_	25	case	_	_
+25	b	_	SYM	X_BOR	_	23	obl	_	_
+26	*	_	PUNCT	X_PUN	_	25	punct	_	_
+27	a	_	SYM	X_BOR	_	25	list	_	_
+28	-	_	PUNCT	X_PUN	_	23	punct	_	_
+29	il-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	grupp	_	NOUN	NOUN	_	31	obj	_	_
+31	ngħidu	_	VERB	VERB	_	0	root	_	_
+32	li	_	SCONJ	COMP	_	34	mark	_	_
+33	hu	_	PRON	PRON_PERS	_	34	nsubj	_	_
+34	Abeljan	_	ADJ	ADJ	_	31	ccomp	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	31	punct	_	_
+
+# sent_id = 55_02N11:44
+# text = Pereżempju, is-sett tan-numri interi bl-operazzjoni tal-għadd huwa grupp.
+1	Pereżempju	_	INTJ	INT	_	13	discourse	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	is-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	sett	_	NOUN	NOUN	_	13	nsubj	_	_
+5	tan-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	numri	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	interi	_	ADJ	ADJ	_	6	amod	_	_
+8	bl-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	operazzjoni	_	NOUN	NOUN	_	6	nmod	_	_
+10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	għadd	_	NOUN	NOUN	_	9	nmod:poss	_	_
+12	huwa	_	PRON	PRON_PERS	_	13	cop	_	_
+13	grupp	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 55_02N11:45
+# text = F'dal-grupp, l-identità hija 0 u l-invers ta' kull element a huwa n-negativ tiegħu, -a.
+1	F'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
+2	dal-	_	PRON	PRON_DEM_DEF	_	3	det	_	SpaceAfter=No
+3	grupp	_	NOUN	NOUN	_	8	obl	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	3	punct	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	identità	_	NOUN	NOUN	_	8	nsubj	_	_
+7	hija	_	PRON	PRON_PERS	_	8	cop	_	_
+8	0	_	NUM	X_DIG	_	0	root	_	_
+9	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	invers	_	NOUN	NOUN	_	18	nsubj	_	_
+12	ta'	_	ADP	GEN	_	14	case	_	_
+13	kull	_	DET	QUAN	_	14	det	_	_
+14	element	_	NOUN	NOUN	_	15	compound	_	_
+15	a	_	SYM	X_BOR	_	11	nmod:poss	_	_
+16	huwa	_	PRON	PRON_PERS	_	18	cop	_	_
+17	n-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	negativ	_	NOUN	NOUN	_	8	conj	_	_
+19	tiegħu	_	PRON	GEN_PRON	_	18	case	_	SpaceAfter=No
+20	,	_	PUNCT	X_PUN	_	21	punct	_	_
+21	-a	_	SYM	X_BOR	_	18	appos	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 55_02N11:46
+# text = Il-kundizzjoni ta' assoċjattività hi sodisfatta, għax għal kull tliet numri interi a, b u c, (a + b) + c = a + (b + c).
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	kundizzjoni	_	NOUN	NOUN	_	6	nsubj	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	assoċjattività	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	hi	_	PRON	PRON_PERS	_	6	cop	_	_
+6	sodisfatta	_	VERB	PART_PASS	_	0	root	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	6	punct	_	_
+8	għax	_	SCONJ	CONJ_SUB	_	21	mark	_	_
+9	għal	_	ADP	PREP	_	12	case	_	_
+10	kull	_	DET	QUAN	_	12	det	_	_
+11	tliet	_	NUM	NUM_CRD	_	12	nummod	_	_
+12	numri	_	NOUN	NOUN	_	14	compound	_	_
+13	interi	_	ADJ	ADJ	_	12	amod	_	_
+14	a	_	SYM	X_BOR	_	21	obl	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	14	punct	_	_
+16	b	_	SYM	X_BOR	_	14	conj	_	_
+17	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+18	c	_	SYM	X_BOR	_	14	conj	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	14	punct	_	_
+20	(	_	PUNCT	X_PUN	_	21	punct	_	SpaceAfter=No
+21	a	_	SYM	X_BOR	_	6	advcl	_	_
+22	+	_	PUNCT	X_PUN	_	21	punct	_	_
+23	b	_	SYM	X_BOR	_	21	list	_	SpaceAfter=No
+24	)	_	PUNCT	X_PUN	_	21	punct	_	_
+25	+	_	PUNCT	X_PUN	_	21	punct	_	_
+26	c	_	SYM	X_BOR	_	21	list	_	_
+27	=	_	PUNCT	X_PUN	_	21	punct	_	_
+28	a	_	SYM	X_BOR	_	21	list	_	_
+29	+	_	PUNCT	X_PUN	_	21	punct	_	_
+30	(	_	PUNCT	X_PUN	_	21	punct	_	SpaceAfter=No
+31	b	_	SYM	X_BOR	_	21	list	_	_
+32	+	_	PUNCT	X_PUN	_	21	punct	_	_
+33	c	_	SYM	X_BOR	_	21	list	_	SpaceAfter=No
+34	)	_	PUNCT	X_PUN	_	21	punct	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 55_02N11:47
+# text = Imma l-interi bl-operazzjoni tal-moltiplikazzjoni ma jiffurmawx grupp.
+1	Imma	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	interi	_	NOUN	NOUN	_	9	nsubj	_	_
+4	bl-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	operazzjoni	_	NOUN	NOUN	_	3	nmod	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	moltiplikazzjoni	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	ma	_	PART	NEG	_	9	aux:neg	_	_
+9	jiffurmawx	_	VERB	VERB	_	0	root	_	_
+10	grupp	_	NOUN	NOUN	_	9	obj	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 55_02N11:48
+# text = Dan jiġri għax, in ġenerali, l-invers moltiplikattiv ta' numru interu mhuwiex interu.
+1	Dan	_	PRON	PRON_DEM	_	2	nsubj	_	_
+2	jiġri	_	VERB	VERB	_	0	root	_	_
+3	għax	_	SCONJ	CONJ_SUB	_	15	mark	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	6	punct	_	_
+5	in	_	ADP	PREP	_	6	case	_	_
+6	ġenerali	_	ADJ	ADJ	_	15	obl	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	6	punct	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	invers	_	NOUN	NOUN	_	15	nsubj	_	_
+10	moltiplikattiv	_	ADJ	ADJ	_	9	amod	_	_
+11	ta'	_	ADP	GEN	_	12	case	_	_
+12	numru	_	NOUN	NOUN	_	9	nmod:poss	_	_
+13	interu	_	ADJ	ADJ	_	12	amod	_	_
+14	mhuwiex	_	PART	PRON_PERS_NEG	_	15	aux:neg	_	_
+15	interu	_	ADJ	ADJ	_	2	advcl	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 55_02N11:49
+# text = Pereżempju, 4 huwa interu, imma l-invers moltiplikattiv tiegħu hu 1 / 4, li mhux interu.
+1	Pereżempju	_	INTJ	INT	_	5	discourse	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	4	_	NUM	X_DIG	_	5	nsubj	_	_
+4	huwa	_	PRON	PRON_PERS	_	5	cop	_	_
+5	interu	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	5	punct	_	_
+7	imma	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	invers	_	NOUN	NOUN	_	13	nsubj	_	_
+10	moltiplikattiv	_	ADJ	ADJ	_	9	amod	_	_
+11	tiegħu	_	PRON	GEN_PRON	_	9	case	_	_
+12	hu	_	PRON	PRON_PERS	_	13	cop	_	_
+13	1	_	NUM	X_DIG	_	5	conj	_	_
+14	/	_	PUNCT	X_PUN	_	13	punct	_	_
+15	4	_	NUM	X_DIG	_	13	list	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	13	punct	_	_
+17	li	_	SCONJ	COMP	_	19	mark	_	_
+18	mhux	_	PART	PRON_PERS_NEG	_	19	aux:neg	_	_
+19	interu	_	ADJ	ADJ	_	13	amod	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 55_02N11:50
+# text = L-istudju tal-gruppi jsir fit-teorija tal-gruppi.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	istudju	_	NOUN	NOUN	_	5	nsubj	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	gruppi	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	jsir	_	VERB	VERB	_	0	root	_	_
+6	fit-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	teorija	_	NOUN	NOUN	_	5	obl	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	gruppi	_	NOUN	NOUN	_	7	nmod:poss	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 55_02N11:51
+# text = Wieħed mir-riżultati l-iżjed importanti f'din it-teorija kien il-klassifikazzjoni tal-gruppi finiti sempliċi li l-ikbar parti tagħha ġiet ippublikata bejn xi l-1955 u l-1983.
+1	Wieħed	_	NUM	NUM_WHD	_	13	nsubj	_	_
+2	mir-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+3	riżultati	_	NOUN	NOUN	_	1	nmod	_	_
+4	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+5	iżjed	_	ADV	ADV	_	6	advmod	_	_
+6	importanti	_	ADJ	ADJ	_	3	amod	_	_
+7	f'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
+8	din	_	PRON	PRON_DEM	_	10	det	_	_
+9	it-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	teorija	_	NOUN	NOUN	_	3	nmod	_	_
+11	kien	_	AUX	KIEN	_	13	cop	_	_
+12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	klassifikazzjoni	_	NOUN	NOUN	_	0	root	_	_
+14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	gruppi	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	finiti	_	ADJ	ADJ	_	15	amod	_	_
+17	sempliċi	_	ADJ	ADJ	_	15	amod	_	_
+18	li	_	SCONJ	COMP	_	24	mark	_	_
+19	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+20	ikbar	_	ADJ	ADJ	_	21	amod	_	_
+21	parti	_	NOUN	NOUN	_	24	nsubj:pass	_	_
+22	tagħha	_	PRON	GEN_PRON	_	21	case	_	_
+23	ġiet	_	VERB	VERB	_	24	aux:pass	_	_
+24	ippublikata	_	VERB	PART_PASS	_	13	acl	_	_
+25	bejn	_	ADP	PREP	_	28	case	_	_
+26	xi	_	DET	QUAN	_	28	det	_	_
+27	l-	_	DET	DEF	_	28	det	_	SpaceAfter=No
+28	1955	_	NUM	X_DIG	_	24	obl	_	_
+29	u	_	CCONJ	CONJ_CORD	_	31	cc	_	_
+30	l-	_	DET	DEF	_	31	det	_	SpaceAfter=No
+31	1983	_	NUM	X_DIG	_	28	conj	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 55_02N11:52
+# text = Din tqassam il-gruppi sempliċi finiti f'xi 30 tip bażiku.
+1	Din	_	PRON	PRON_DEM	_	2	nsubj	_	_
+2	tqassam	_	VERB	VERB	_	0	root	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	gruppi	_	NOUN	NOUN	_	2	obj	_	_
+5	sempliċi	_	ADJ	ADJ	_	4	amod	_	_
+6	finiti	_	ADJ	ADJ	_	4	amod	_	_
+7	f'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
+8	xi	_	DET	QUAN	_	10	det	_	_
+9	30	_	NUM	X_DIG	_	10	nummod	_	_
+10	tip	_	NOUN	NOUN	_	2	obl:arg	_	_
+11	bażiku	_	ADJ	ADJ	_	10	amod	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 55_02N11:53
+# text = Semigruppi, kważigruppi, u monoidi huma strutturi simili għall-gruppi, imma iżjed ġenerali.
+1	Semigruppi	_	NOUN	NOUN	_	8	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	kważigruppi	_	NOUN	NOUN	_	1	conj	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	1	punct	_	_
+5	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+6	monoidi	_	NOUN	NOUN	_	1	conj	_	_
+7	huma	_	PRON	PRON_PERS	_	8	cop	_	_
+8	strutturi	_	NOUN	NOUN	_	0	root	_	_
+9	simili	_	ADJ	ADJ	_	8	amod	_	_
+10	għall-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	gruppi	_	NOUN	NOUN	_	9	nmod	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	9	punct	_	_
+13	imma	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+14	iżjed	_	ADV	ADV	_	15	advmod	_	_
+15	ġenerali	_	ADJ	ADJ	_	9	conj	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 55_02N11:54
+# text = Jikkonsistu f'sett u operazzjoni binarja magħluqa, imma ma jissodisfawx il-kondizzjonijiet l-oħra neċessarjament.
+1	Jikkonsistu	_	VERB	VERB	_	0	root	_	_
+2	f'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
+3	sett	_	NOUN	NOUN	_	1	obl:arg	_	_
+4	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+5	operazzjoni	_	NOUN	NOUN	_	3	conj	_	_
+6	binarja	_	ADJ	ADJ	_	5	amod	_	_
+7	magħluqa	_	VERB	PART_PASS	_	5	amod	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	1	punct	_	_
+9	imma	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+10	ma	_	PART	NEG	_	11	aux:neg	_	_
+11	jissodisfawx	_	VERB	VERB	_	1	conj	_	_
+12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	kondizzjonijiet	_	NOUN	NOUN	_	11	obj	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	oħra	_	ADJ	ADJ	_	13	amod	_	_
+16	neċessarjament	_	ADV	ADV	_	11	advmod	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 55_02N11:55
+# text = Semigrupp għandu operazzjoni binarja assoċjattiva, imma jista' jkun li m'għandux element tal-identità.
+1	Semigrupp	_	NOUN	NOUN	_	2	nsubj	_	_
+2	għandu	_	VERB	VERB_PSEU	_	0	root	_	_
+3	operazzjoni	_	NOUN	NOUN	_	2	obj	_	_
+4	binarja	_	ADJ	ADJ	_	3	amod	_	_
+5	assoċjattiva	_	ADJ	ADJ	_	3	amod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	imma	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	jista'	_	VERB	VERB	_	2	conj	_	_
+9	jkun	_	AUX	KIEN	_	8	xcomp	_	_
+10	li	_	SCONJ	COMP	_	12	mark	_	_
+11	m'	_	PART	NEG	_	12	aux:neg	_	SpaceAfter=No
+12	għandux	_	VERB	VERB_PSEU	_	9	xcomp	_	_
+13	element	_	NOUN	NOUN	_	12	obj	_	_
+14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	identità	_	NOUN	NOUN	_	13	nmod:poss	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 55_02N11:56
+# text = Monoid huwa semigrupp li għandu identità imma jista' jkun li m'għandux invers għal kull element.
+1	Monoid	_	NOUN	NOUN	_	3	nsubj	_	_
+2	huwa	_	PRON	PRON_PERS	_	3	cop	_	_
+3	semigrupp	_	NOUN	NOUN	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	għandu	_	VERB	VERB_PSEU	_	3	acl	_	_
+6	identità	_	NOUN	NOUN	_	5	obj	_	_
+7	imma	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	jista'	_	VERB	VERB	_	5	conj	_	_
+9	jkun	_	AUX	KIEN	_	8	xcomp	_	_
+10	li	_	SCONJ	COMP	_	12	mark	_	_
+11	m'	_	PART	NEG	_	12	aux:neg	_	SpaceAfter=No
+12	għandux	_	VERB	VERB_PSEU	_	9	xcomp	_	_
+13	invers	_	NOUN	NOUN	_	12	obj	_	_
+14	għal	_	ADP	PREP	_	16	case	_	_
+15	kull	_	DET	QUAN	_	16	det	_	_
+16	element	_	NOUN	NOUN	_	13	nmod	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 55_02N11:57
+# text = Kważigrupp għandu l-proprjetà li kull element jista' jinbidel f'kull ieħor bi pre- jew post- operazzjoni unika; imma l-operazzjoni binarja jista' jkun li mhux assoċjattiva.
+1	Kważigrupp	_	NOUN	NOUN	_	2	nsubj	_	_
+2	għandu	_	VERB	VERB_PSEU	_	0	root	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	proprjetà	_	NOUN	NOUN	_	2	obj	_	_
+5	li	_	SCONJ	COMP	_	8	mark	_	_
+6	kull	_	DET	QUAN	_	7	det	_	_
+7	element	_	NOUN	NOUN	_	8	nsubj	_	_
+8	jista'	_	VERB	VERB	_	4	acl	_	_
+9	jinbidel	_	VERB	VERB	_	8	xcomp	_	_
+10	f'	_	ADP	PREP	_	12	case	_	SpaceAfter=No
+11	kull	_	DET	QUAN	_	12	det	_	_
+12	ieħor	_	ADJ	ADJ	_	9	obl:arg	_	_
+13	bi	_	ADP	PREP	_	17	case	_	_
+14	pre-	_	ADJ	ADJ	_	17	amod	_	_
+15	jew	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+16	post-	_	ADJ	ADJ	_	14	conj	_	_
+17	operazzjoni	_	NOUN	NOUN	_	9	obl	_	_
+18	unika	_	ADJ	ADJ	_	17	amod	_	SpaceAfter=No
+19	;	_	PUNCT	X_PUN	_	8	punct	_	_
+20	imma	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	operazzjoni	_	NOUN	NOUN	_	24	nsubj	_	_
+23	binarja	_	ADJ	ADJ	_	22	amod	_	_
+24	jista'	_	VERB	VERB	_	8	conj	_	_
+25	jkun	_	AUX	KIEN	_	24	xcomp	_	_
+26	li	_	SCONJ	COMP	_	28	mark	_	_
+27	mhux	_	PART	PRON_PERS_NEG	_	28	aux:neg	_	_
+28	assoċjattiva	_	ADJ	ADJ	_	25	xcomp	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 55_02N11:58
+# text = Il-gruppi kollha huma monoidi, u l-monoidi kollha huma semigruppi.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	gruppi	_	NOUN	NOUN	_	5	nsubj	_	_
+3	kollha	_	DET	QUAN	_	2	det	_	_
+4	huma	_	PRON	PRON_PERS	_	5	cop	_	_
+5	monoidi	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	5	punct	_	_
+7	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	monoidi	_	NOUN	NOUN	_	12	nsubj	_	_
+10	kollha	_	DET	QUAN	_	9	det	_	_
+11	huma	_	PRON	PRON_PERS	_	12	cop	_	_
+12	semigruppi	_	NOUN	NOUN	_	5	conj	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 55_02N11:59
+# text = Ċrieki u Kampi - strutturi ta' sett b'żewġ operazzjonijiet binarji, (+) u (×)
+1	Ċrieki	_	NOUN	NOUN	_	0	root	_	_
+2	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+3	Kampi	_	NOUN	NOUN	_	1	conj	_	_
+4	-	_	PUNCT	X_PUN	_	1	conj	_	_
+5	strutturi	_	NOUN	NOUN	_	1	conj	_	_
+6	ta'	_	ADP	GEN	_	7	case	_	_
+7	sett	_	NOUN	NOUN	_	1	nmod:poss	_	_
+8	b'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
+9	żewġ	_	NUM	NUM_CRD	_	10	nummod	_	_
+10	operazzjonijiet	_	NOUN	NOUN	_	1	nmod	_	_
+11	binarji	_	ADJ	ADJ	_	10	amod	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	1	punct	_	_
+13	(	_	PUNCT	X_PUN	_	14	punct	_	SpaceAfter=No
+14	+	_	PUNCT	X_PUN	_	1	appos	_	SpaceAfter=No
+15	)	_	PUNCT	X_PUN	_	14	punct	_	_
+16	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+17	(	_	PUNCT	X_PUN	_	18	punct	_	SpaceAfter=No
+18	×	_	PUNCT	X_PUN	_	14	conj	_	SpaceAfter=No
+19	)	_	PUNCT	X_PUN	_	18	punct	_	_
+
+# sent_id = 55_02N11:60
+# text = Il-gruppi għandhom operazzjoni binarja waħda biss.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	gruppi	_	NOUN	NOUN	_	3	nsubj	_	_
+3	għandhom	_	VERB	VERB_PSEU	_	0	root	_	_
+4	operazzjoni	_	NOUN	NOUN	_	3	obj	_	_
+5	binarja	_	ADJ	ADJ	_	4	amod	_	_
+6	waħda	_	NUM	NUM_WHD	_	4	det	_	_
+7	biss	_	ADV	FOC	_	4	discourse	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 55_02N11:61
+# text = Biex nispjegaw il-mekkaniżmu tat-tipi ta' numri differenti kompletament, hemm bżonn li nistudjaw strutturi b'żewġ operazzjonijiet.
+1	Biex	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	nispjegaw	_	VERB	VERB	_	12	advcl	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	mekkaniżmu	_	NOUN	NOUN	_	2	obj	_	_
+5	tat-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	tipi	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	numri	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	differenti	_	ADJ	ADJ	_	8	amod	_	_
+10	kompletament	_	ADV	ADV	_	9	advmod	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	2	punct	_	_
+12	hemm	_	VERB	HEMM	_	0	root	_	_
+13	bżonn	_	NOUN	NOUN	_	12	nsubj	_	_
+14	li	_	SCONJ	COMP	_	15	mark	_	_
+15	nistudjaw	_	VERB	VERB	_	13	acl	_	_
+16	strutturi	_	NOUN	NOUN	_	15	obj	_	_
+17	b'	_	ADP	PREP	_	19	case	_	SpaceAfter=No
+18	żewġ	_	NUM	NUM_CRD	_	19	nummod	_	_
+19	operazzjonijiet	_	NOUN	NOUN	_	16	nmod	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 55_02N11:62
+# text = L-iżjed importanti fost dawn huma ċ-Ċrieki, u l-Kampi.
+1	L-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+2	iżjed	_	ADV	ADV	_	3	advmod	_	_
+3	importanti	_	ADJ	ADJ	_	0	root	_	_
+4	fost	_	ADP	PREP	_	5	case	_	_
+5	dawn	_	PRON	PRON_DEM	_	3	obl	_	_
+6	huma	_	PRON	PRON_PERS	_	3	cop	_	_
+7	ċ-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	Ċrieki	_	NOUN	NOUN	_	3	nsubj	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	8	punct	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	Kampi	_	NOUN	NOUN	_	8	conj	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 55_02N11:63
+# text = Id-Distributtività tiġġeneralizza l-liġi distributtiva tan-numri u tiffissa f'liema ordni għandna napplikaw l-operazzjonijiet, (ngħidulha l-preċedenza).
+1	Id-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Distributtività	_	NOUN	NOUN	_	3	nsubj	_	_
+3	tiġġeneralizza	_	VERB	VERB	_	0	root	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	liġi	_	NOUN	NOUN	_	3	obj	_	_
+6	distributtiva	_	ADJ	ADJ	_	5	amod	_	_
+7	tan-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	numri	_	NOUN	NOUN	_	5	nmod:poss	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	tiffissa	_	VERB	VERB	_	3	conj	_	_
+11	f'	_	ADP	PREP	_	13	case	_	SpaceAfter=No
+12	liema	_	PRON	PRON_INT	_	13	det	_	_
+13	ordni	_	NOUN	NOUN	_	14	obl	_	_
+14	għandna	_	VERB	VERB_PSEU	_	10	ccomp	_	_
+15	napplikaw	_	VERB	VERB	_	14	xcomp	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	operazzjonijiet	_	NOUN	NOUN	_	15	obj	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	14	punct	_	_
+19	(	_	PUNCT	X_PUN	_	20	punct	_	SpaceAfter=No
+20	ngħidulha	_	VERB	VERB	_	14	parataxis	_	_
+21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	preċedenza	_	NOUN	NOUN	_	20	obl:arg	_	SpaceAfter=No
+23	)	_	PUNCT	X_PUN	_	22	punct	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 55_02N11:64
+# text = Għall-interi (a + b) × c = a × c + b × c u c × (a + b) = c × a + c × b, u ngħidu li × hija distributtiva fuq +.
+1	Għall-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	interi	_	NOUN	NOUN	_	4	obl	_	_
+3	(	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+4	a	_	SYM	X_BOR	_	0	root	_	_
+5	+	_	PUNCT	X_PUN	_	4	punct	_	_
+6	b	_	SYM	X_BOR	_	4	list	_	SpaceAfter=No
+7	)	_	PUNCT	X_PUN	_	4	punct	_	_
+8	×	_	PUNCT	X_PUN	_	4	punct	_	_
+9	c	_	SYM	X_BOR	_	4	list	_	_
+10	=	_	PUNCT	X_PUN	_	4	punct	_	_
+11	a	_	SYM	X_BOR	_	4	list	_	_
+12	×	_	PUNCT	X_PUN	_	4	punct	_	_
+13	c	_	SYM	X_BOR	_	4	list	_	_
+14	+	_	PUNCT	X_PUN	_	4	punct	_	_
+15	b	_	SYM	X_BOR	_	4	list	_	_
+16	×	_	PUNCT	X_PUN	_	4	punct	_	_
+17	c	_	SYM	X_BOR	_	4	list	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+19	c	_	SYM	X_BOR	_	4	conj	_	_
+20	×	_	PUNCT	X_PUN	_	19	punct	_	_
+21	(	_	PUNCT	X_PUN	_	19	punct	_	SpaceAfter=No
+22	a	_	SYM	X_BOR	_	19	list	_	_
+23	+	_	PUNCT	X_PUN	_	19	punct	_	_
+24	b	_	SYM	X_BOR	_	19	list	_	SpaceAfter=No
+25	)	_	PUNCT	X_PUN	_	19	punct	_	_
+26	=	_	PUNCT	X_PUN	_	19	punct	_	_
+27	c	_	SYM	X_BOR	_	19	list	_	_
+28	×	_	PUNCT	X_PUN	_	19	punct	_	_
+29	a	_	SYM	X_BOR	_	19	list	_	_
+30	+	_	PUNCT	X_PUN	_	19	punct	_	_
+31	c	_	SYM	X_BOR	_	19	list	_	_
+32	×	_	PUNCT	X_PUN	_	19	punct	_	_
+33	b	_	SYM	X_BOR	_	19	list	_	SpaceAfter=No
+34	,	_	PUNCT	X_PUN	_	19	punct	_	_
+35	u	_	CCONJ	CONJ_CORD	_	36	cc	_	_
+36	ngħidu	_	VERB	VERB	_	4	conj	_	_
+37	li	_	SCONJ	COMP	_	40	mark	_	_
+38	×	_	PUNCT	X_PUN	_	40	nsubj	_	_
+39	hija	_	PRON	PRON_PERS	_	40	cop	_	_
+40	distributtiva	_	ADJ	ADJ	_	36	ccomp	_	_
+41	fuq	_	ADP	PREP	_	42	case	_	_
+42	+	_	PUNCT	X_PUN	_	40	obl	_	SpaceAfter=No
+43	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 55_02N11:65
+# text = Ċirku għandu żewġ operazzjonijiet (+) u (×), fejn × hu distributtiv fuq +.
+1	Ċirku	_	NOUN	NOUN	_	2	nsubj	_	_
+2	għandu	_	VERB	VERB_PSEU	_	0	root	_	_
+3	żewġ	_	NUM	NUM_CRD	_	4	nummod	_	_
+4	operazzjonijiet	_	NOUN	NOUN	_	2	obj	_	_
+5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
+6	+	_	PUNCT	X_PUN	_	4	appos	_	SpaceAfter=No
+7	)	_	PUNCT	X_PUN	_	6	punct	_	_
+8	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+9	(	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+10	×	_	PUNCT	X_PUN	_	6	conj	_	SpaceAfter=No
+11	)	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	4	punct	_	_
+13	fejn	_	PRON	PRON_INT	_	16	advmod	_	_
+14	×	_	PUNCT	X_PUN	_	16	punct	_	_
+15	hu	_	PRON	PRON_PERS	_	16	cop	_	_
+16	distributtiv	_	ADJ	ADJ	_	4	acl	_	_
+17	fuq	_	ADP	PREP	_	18	case	_	_
+18	+	_	PUNCT	X_PUN	_	16	obl	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 55_02N11:66
+# text = Taħt l-ewwel operazzjoni (+) jifforma grupp Abeljan.
+1	Taħt	_	ADP	PREP	_	4	case	_	_
+2	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+3	ewwel	_	NUM	NUM_ORD	_	4	amod	_	_
+4	operazzjoni	_	NOUN	NOUN	_	8	obl	_	_
+5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
+6	+	_	PUNCT	X_PUN	_	8	nsubj	_	SpaceAfter=No
+7	)	_	PUNCT	X_PUN	_	6	punct	_	_
+8	jifforma	_	VERB	VERB	_	0	root	_	_
+9	grupp	_	NOUN	NOUN	_	8	obj	_	_
+10	Abeljan	_	ADJ	ADJ	_	9	amod	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 55_02N11:67
+# text = Taħt it-tieni operazzjoni (×) hu assoċjattiv, imma m'hemmx bżonn ta' identità jew ta' invers, u allura ma nistgħux niddividu.
+1	Taħt	_	ADP	PREP	_	4	case	_	_
+2	it-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+3	tieni	_	NUM	NUM_ORD	_	4	amod	_	_
+4	operazzjoni	_	NOUN	NOUN	_	9	obl	_	_
+5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
+6	×	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+7	)	_	PUNCT	X_PUN	_	6	punct	_	_
+8	hu	_	PRON	PRON_PERS	_	9	cop	_	_
+9	assoċjattiv	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	9	punct	_	_
+11	imma	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+12	m'	_	PART	NEG	_	13	aux:neg	_	SpaceAfter=No
+13	hemmx	_	VERB	HEMM	_	9	conj	_	_
+14	bżonn	_	NOUN	NOUN	_	13	nsubj	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	identità	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	jew	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+18	ta'	_	ADP	GEN	_	19	case	_	_
+19	invers	_	NOUN	NOUN	_	16	conj	_	SpaceAfter=No
+20	,	_	PUNCT	X_PUN	_	13	punct	_	_
+21	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+22	allura	_	ADV	ADV	_	24	advmod	_	_
+23	ma	_	PART	NEG	_	24	aux:neg	_	_
+24	nistgħux	_	VERB	VERB	_	13	conj	_	_
+25	niddividu	_	VERB	VERB	_	24	xcomp	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 55_02N11:68
+# text = L-element tal-identità tal-għadd (+) niktbuha bħala 0 u l-invers tal-għadd ta' a jinkiteb -a.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	element	_	NOUN	NOUN	_	10	obj	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	identità	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	għadd	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+8	+	_	PUNCT	X_PUN	_	2	appos	_	SpaceAfter=No
+9	)	_	PUNCT	X_PUN	_	8	punct	_	_
+10	niktbuha	_	VERB	VERB	_	0	root	_	_
+11	bħala	_	ADP	PREP	_	12	case	_	_
+12	0	_	NUM	X_DIG	_	10	obl	_	_
+13	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	invers	_	NOUN	NOUN	_	20	nsubj:pass	_	_
+16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	għadd	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	ta'	_	ADP	GEN	_	19	case	_	_
+19	a	_	SYM	X_BOR	_	17	nmod:poss	_	_
+20	jinkiteb	_	VERB	VERB	_	10	conj	_	_
+21	-a	_	SYM	X_BOR	_	20	xcomp	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 55_02N11:69
+# text = In-numri interi huma eżempju ta' ċirku.
+1	In-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	numri	_	NOUN	NOUN	_	5	nsubj	_	_
+3	interi	_	ADJ	ADJ	_	2	amod	_	_
+4	huma	_	PRON	PRON_PERS	_	5	cop	_	_
+5	eżempju	_	NOUN	NOUN	_	0	root	_	_
+6	ta'	_	ADP	GEN	_	7	case	_	_
+7	ċirku	_	NOUN	NOUN	_	5	nmod:poss	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 55_02N11:70
+# text = Kamp hu ċirku b'proprjetà oħra miżjuda li l-elementi kollha barra 0 jiffurmaw grupp Abeljan taħt ×.
+1	Kamp	_	NOUN	NOUN	_	3	nsubj	_	_
+2	hu	_	PRON	PRON_PERS	_	3	cop	_	_
+3	ċirku	_	NOUN	NOUN	_	0	root	_	_
+4	b'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
+5	proprjetà	_	NOUN	NOUN	_	3	nmod	_	_
+6	oħra	_	ADJ	ADJ	_	5	amod	_	_
+7	miżjuda	_	VERB	PART_PASS	_	5	amod	_	_
+8	li	_	SCONJ	COMP	_	14	mark	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	elementi	_	NOUN	NOUN	_	14	nsubj	_	_
+11	kollha	_	DET	QUAN	_	10	det	_	_
+12	barra	_	ADP	PREP	_	13	case	_	_
+13	0	_	NUM	X_DIG	_	10	nmod	_	_
+14	jiffurmaw	_	VERB	VERB	_	5	acl	_	_
+15	grupp	_	NOUN	NOUN	_	14	obj	_	_
+16	Abeljan	_	ADJ	ADJ	_	15	amod	_	_
+17	taħt	_	ADP	PREP	_	18	case	_	_
+18	×	_	PUNCT	X_PUN	_	14	obl	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 55_02N11:71
+# text = L-identità moltiplikattiva (×) niktbuha bħala 1 u l-invers moltiplikattiv ta' a jinkiteb a-1.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	identità	_	NOUN	NOUN	_	7	nsubj	_	_
+3	moltiplikattiva	_	ADJ	ADJ	_	2	amod	_	_
+4	(	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+5	×	_	PUNCT	X_PUN	_	2	appos	_	SpaceAfter=No
+6	)	_	PUNCT	X_PUN	_	5	punct	_	_
+7	niktbuha	_	VERB	VERB	_	0	root	_	_
+8	bħala	_	ADP	PREP	_	9	case	_	_
+9	1	_	NUM	X_DIG	_	7	obl:arg	_	_
+10	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	invers	_	NOUN	NOUN	_	16	nsubj:pass	_	_
+13	moltiplikattiv	_	ADJ	ADJ	_	12	amod	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	a	_	SYM	X_BOR	_	12	nmod:poss	_	_
+16	jinkiteb	_	VERB	VERB	_	7	conj	_	_
+17	a-1	_	SYM	X_BOR	_	16	xcomp	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 55_02N11:72
+# text = In-numri razzjonali, in-numri reali u n-numri komplessi huma kollha eżempji ta' kampi.
+1	In-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	numri	_	NOUN	NOUN	_	14	nsubj	_	_
+3	razzjonali	_	ADJ	ADJ	_	2	amod	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	2	punct	_	_
+5	in-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	numri	_	NOUN	NOUN	_	2	conj	_	_
+7	reali	_	ADJ	ADJ	_	6	amod	_	_
+8	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+9	n-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	numri	_	NOUN	NOUN	_	2	conj	_	_
+11	komplessi	_	ADJ	ADJ	_	10	amod	_	_
+12	huma	_	PRON	PRON_PERS	_	14	cop	_	_
+13	kollha	_	DET	QUAN	_	14	nsubj	_	_
+14	eżempji	_	NOUN	NOUN	_	0	root	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	kampi	_	NOUN	NOUN	_	14	nmod:poss	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	14	punct	_	_
+

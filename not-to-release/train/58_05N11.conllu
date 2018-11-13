@@ -1,0 +1,2476 @@
+# sent_id = 58_05N11:1
+# text = Materja skura
+1	Materja	_	NOUN	NOUN	_	0	root	_	_
+2	skura	_	ADJ	ADJ	_	1	amod	_	_
+
+# sent_id = 58_05N11:2
+# text = Fil-kożmoloġija, it-terminu materja skura jfisser il-komponent ipotetiku tal-materja li mhuwiex osservabbli direttament, billi ma jarmix radjazzjoni elettromanjetika bħall-materja magħrufa u jidher biss permezz tal-effetti gravitazzjonali.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	kożmoloġija	_	NOUN	NOUN	_	8	obl	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	it-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	terminu	_	NOUN	NOUN	_	6	compound	_	_
+6	materja	_	NOUN	NOUN	_	8	nsubj	_	_
+7	skura	_	ADJ	ADJ	_	6	amod	_	_
+8	jfisser	_	VERB	VERB	_	0	root	_	_
+9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	komponent	_	NOUN	NOUN	_	8	obj	_	_
+11	ipotetiku	_	ADJ	ADJ	_	10	amod	_	_
+12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	materja	_	NOUN	NOUN	_	10	nmod:poss	_	_
+14	li	_	SCONJ	COMP	_	16	mark	_	_
+15	mhuwiex	_	AUX	PRON_PERS_NEG	_	16	cop	_	_
+16	osservabbli	_	ADJ	ADJ	_	10	amod	_	_
+17	direttament	_	ADV	ADV	_	16	advmod	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	16	punct	_	_
+19	billi	_	SCONJ	CONJ_SUB	_	21	mark	_	_
+20	ma	_	PART	NEG	_	21	aux:neg	_	_
+21	jarmix	_	VERB	VERB	_	16	advcl	_	_
+22	radjazzjoni	_	NOUN	NOUN	_	21	obj	_	_
+23	elettromanjetika	_	ADJ	ADJ	_	22	amod	_	_
+24	bħall-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
+25	materja	_	NOUN	NOUN	_	21	obl	_	_
+26	magħrufa	_	VERB	PART_PASS	_	25	amod	_	_
+27	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+28	jidher	_	VERB	VERB	_	16	conj	_	_
+29	biss	_	ADV	FOC	_	32	discourse	_	_
+30	permezz	_	NOUN	NOUN	_	32	case:det	_	_
+31	tal-	_	ADP	GEN_DEF	_	30	fixed	_	SpaceAfter=No
+32	effetti	_	NOUN	NOUN	_	28	obl	_	_
+33	gravitazzjonali	_	ADJ	ADJ	_	32	amod	_	SpaceAfter=No
+34	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 58_05N11:3
+# text = Jistmaw li l-materja skura tagħmel il-parti l-kbira, kważi d-90 %, tal-massa li hemm fl-univers.
+1	Jistmaw	_	VERB	VERB	_	0	root	_	_
+2	li	_	SCONJ	COMP	_	6	mark	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	materja	_	NOUN	NOUN	_	6	nsubj	_	_
+5	skura	_	ADJ	ADJ	_	4	amod	_	_
+6	tagħmel	_	VERB	VERB	_	1	ccomp	_	_
+7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	parti	_	NOUN	NOUN	_	6	obj	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	kbira	_	ADJ	ADJ	_	8	amod	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	15	punct	_	_
+12	kważi	_	ADV	ADV	_	15	advmod	_	_
+13	d-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	90	_	NUM	X_DIG	_	15	nummod	_	_
+15	%	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	15	punct	_	_
+17	tal-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	massa	_	NOUN	NOUN	_	8	nmod:poss	_	_
+19	li	_	SCONJ	COMP	_	20	mark	_	_
+20	hemm	_	VERB	HEMM	_	18	acl	_	_
+21	fl-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
+22	univers	_	NOUN	NOUN	_	20	obl	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:4
+# text = Tagħrif ġenerali
+1	Tagħrif	_	NOUN	NOUN	_	0	root	_	_
+2	ġenerali	_	ADJ	ADJ	_	1	amod	_	_
+
+# sent_id = 58_05N11:5
+# text = Minkejja l-mapep dettaljati tal-Univers viċin, li jkopru l-ispettru elettromanjetiku kollu mill-mewġ tar-radju għar-raġġi gamma, instabu biss 10 % tal-massa tiegħu, kif stqarr fl-2001 lin-New York Times Bruce H. Margon, astronomu fl-Università ta' Washington:
+1	Minkejja	_	ADP	PREP	_	3	case	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	mapep	_	NOUN	NOUN	_	23	obl	_	_
+4	dettaljati	_	ADJ	ADJ	_	3	amod	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	Univers	_	NOUN	NOUN	_	3	nmod:poss	_	_
+7	viċin	_	ADJ	ADJ	_	6	amod	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	10	punct	_	_
+9	li	_	SCONJ	COMP	_	10	mark	_	_
+10	jkopru	_	VERB	VERB	_	3	acl	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	ispettru	_	NOUN	NOUN	_	10	obj	_	_
+13	elettromanjetiku	_	ADJ	ADJ	_	12	amod	_	_
+14	kollu	_	DET	QUAN	_	12	det	_	_
+15	mill-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	mewġ	_	NOUN	NOUN	_	12	nmod	_	_
+17	tar-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	radju	_	NOUN	NOUN	_	16	nmod:poss	_	_
+19	għar-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	raġġi	_	NOUN	NOUN	_	21	compound	_	_
+21	gamma	_	NOUN	NOUN	_	18	nmod	_	SpaceAfter=No
+22	,	_	PUNCT	X_PUN	_	10	punct	_	_
+23	instabu	_	VERB	VERB	_	0	root	_	_
+24	biss	_	ADV	FOC	_	26	discourse	_	_
+25	10	_	NUM	X_DIG	_	26	nummod	_	_
+26	%	_	PUNCT	X_PUN	_	23	nsubj:pass	_	_
+27	tal-	_	ADP	GEN_DEF	_	28	case:det	_	SpaceAfter=No
+28	massa	_	NOUN	NOUN	_	26	nmod:poss	_	_
+29	tiegħu	_	PRON	GEN_PRON	_	28	case	_	SpaceAfter=No
+30	,	_	PUNCT	X_PUN	_	23	punct	_	_
+31	kif	_	PRON	PRON_INT	_	32	advmod	_	_
+32	stqarr	_	VERB	VERB	_	23	parataxis	_	_
+33	fl-	_	ADP	PREP_DEF	_	34	case:det	_	SpaceAfter=No
+34	2001	_	NUM	X_DIG	_	32	obl	_	_
+35	lin-	_	ADP	LIL_DEF	_	36	case:det	_	SpaceAfter=No
+36	New	_	PROPN	NOUN_PROP	_	32	iobj	_	_
+37	York	_	PROPN	NOUN_PROP	_	36	flat:name	_	_
+38	Times	_	PROPN	NOUN_PROP	_	36	flat:name	_	_
+39	Bruce	_	PROPN	NOUN_PROP	_	32	nsubj	_	_
+40	H	_	PROPN	NOUN_PROP	_	39	flat:name	_	SpaceAfter=No
+41	.	_	PUNCT	X_PUN	_	40	punct	_	_
+42	Margon	_	PROPN	NOUN_PROP	_	39	flat:name	_	SpaceAfter=No
+43	,	_	PUNCT	X_PUN	_	39	punct	_	_
+44	astronomu	_	NOUN	NOUN	_	39	appos	_	_
+45	fl-	_	ADP	PREP_DEF	_	46	case:det	_	SpaceAfter=No
+46	Università	_	NOUN	NOUN	_	44	nmod	_	_
+47	ta'	_	ADP	GEN	_	48	case	_	_
+48	Washington	_	PROPN	NOUN_PROP	_	46	nmod:poss	_	SpaceAfter=No
+49	:	_	PUNCT	X_PUN	_	23	punct	_	_
+
+# sent_id = 58_05N11:6
+# text = Ninsabu f'sitwazzjoni daqsxejn imbarazzanti għax ikollna nammettu li rnexxielna nsibu biss 90 % tal-materja tal-Univers.
+1	Ninsabu	_	VERB	VERB	_	0	root	_	_
+2	f'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
+3	sitwazzjoni	_	NOUN	NOUN	_	1	obl	_	_
+4	daqsxejn	_	ADV	ADV	_	5	advmod	_	_
+5	imbarazzanti	_	ADJ	ADJ	_	3	amod	_	_
+6	għax	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+7	ikollna	_	VERB	VERB_PSEU	_	1	advcl	_	_
+8	nammettu	_	VERB	VERB	_	7	xcomp	_	_
+9	li	_	SCONJ	COMP	_	10	mark	_	_
+10	rnexxielna	_	VERB	VERB	_	8	xcomp	_	_
+11	nsibu	_	VERB	VERB	_	10	xcomp	_	_
+12	biss	_	ADV	FOC	_	14	discourse	_	_
+13	90	_	NUM	X_DIG	_	14	nummod	_	_
+14	%	_	PUNCT	X_PUN	_	11	obj	_	_
+15	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
+16	materja	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	tal-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	Univers	_	NOUN	NOUN	_	16	nmod:poss	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:7
+# text = L-aħħar kalkoli juru li l-materja skura tagħmel madwar 86 % tal-massa tal-univers u madwar 26 % tal-enerġija tiegħu.
+1	L-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+2	aħħar	_	ADJ	ADJ	_	3	amod	_	_
+3	kalkoli	_	NOUN	NOUN	_	4	nsubj	_	_
+4	juru	_	VERB	VERB	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	9	mark	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	materja	_	NOUN	NOUN	_	9	nsubj	_	_
+8	skura	_	ADJ	ADJ	_	7	amod	_	_
+9	tagħmel	_	VERB	VERB	_	4	ccomp	_	_
+10	madwar	_	ADP	PREP	_	12	case	_	_
+11	86	_	NUM	X_DIG	_	12	nummod	_	_
+12	%	_	PUNCT	X_PUN	_	9	obj	_	_
+13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	massa	_	NOUN	NOUN	_	12	nmod:poss	_	_
+15	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
+16	univers	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+18	madwar	_	ADP	PREP	_	20	case	_	_
+19	26	_	NUM	X_DIG	_	20	nummod	_	_
+20	%	_	PUNCT	X_PUN	_	12	conj	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	enerġija	_	NOUN	NOUN	_	20	nmod:poss	_	_
+23	tiegħu	_	PRON	GEN_PRON	_	22	case	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 58_05N11:8
+# text = Fil-bidu kienu jsejħulha "massa nieqsa", minkejja li effettivament hi materja li l-effetti gravitazzjonali tal-massa tagħha huma osservabbli.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	bidu	_	NOUN	NOUN	_	4	obl	_	_
+3	kienu	_	AUX	KIEN	_	4	aux	_	_
+4	jsejħulha	_	VERB	VERB	_	0	root	_	_
+5	"	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
+6	massa	_	NOUN	NOUN	_	4	obl:arg	_	_
+7	nieqsa	_	VERB	PART_ACT	_	6	amod	_	SpaceAfter=No
+8	"	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	4	punct	_	_
+10	minkejja	_	ADP	PREP	_	14	mark	_	_
+11	li	_	SCONJ	COMP	_	10	fixed	_	_
+12	effettivament	_	ADV	ADV	_	14	advmod	_	_
+13	hi	_	PRON	PRON_PERS	_	14	nsubj	_	_
+14	materja	_	NOUN	NOUN	_	4	advcl	_	_
+15	li	_	SCONJ	COMP	_	23	mark	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	effetti	_	NOUN	NOUN	_	23	nsubj	_	_
+18	gravitazzjonali	_	ADJ	ADJ	_	17	amod	_	_
+19	tal-	_	ADP	GEN_DEF	_	20	case:det	_	SpaceAfter=No
+20	massa	_	NOUN	NOUN	_	17	nmod:poss	_	_
+21	tagħha	_	PRON	GEN_PRON	_	20	case	_	_
+22	huma	_	PRON	PRON_PERS	_	23	cop	_	_
+23	osservabbli	_	ADJ	ADJ	_	14	acl	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 58_05N11:9
+# text = Però din il-materja ma tarmi l-ebda radjazzjoni elettromanjetika; għalhekk ma tistax tiġi osservata mill-istrumenti tal-analiżi spettroskopika u għal din ir-raġuni ngħatat l-aġġettiv "skura".
+1	Però	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+2	din	_	PRON	PRON_DEM	_	4	det	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	materja	_	NOUN	NOUN	_	6	nsubj	_	_
+5	ma	_	PART	NEG	_	6	aux:neg	_	_
+6	tarmi	_	VERB	VERB	_	0	root	_	_
+7	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+8	ebda	_	DET	QUAN	_	9	det	_	_
+9	radjazzjoni	_	NOUN	NOUN	_	6	obj	_	_
+10	elettromanjetika	_	ADJ	ADJ	_	9	amod	_	SpaceAfter=No
+11	;	_	PUNCT	X_PUN	_	6	punct	_	_
+12	għalhekk	_	ADV	ADV	_	14	advmod	_	_
+13	ma	_	PART	NEG	_	14	aux:neg	_	_
+14	tistax	_	VERB	VERB	_	6	parataxis	_	_
+15	tiġi	_	VERB	VERB	_	16	aux:pass	_	_
+16	osservata	_	VERB	PART_PASS	_	14	xcomp	_	_
+17	mill-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	istrumenti	_	NOUN	NOUN	_	16	obl:agent	_	_
+19	tal-	_	ADP	GEN_DEF	_	20	case:det	_	SpaceAfter=No
+20	analiżi	_	NOUN	NOUN	_	18	nmod:poss	_	_
+21	spettroskopika	_	ADJ	ADJ	_	20	amod	_	_
+22	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+23	għal	_	ADP	PREP	_	26	case	_	_
+24	din	_	PRON	PRON_DEM	_	26	det	_	_
+25	ir-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	raġuni	_	NOUN	NOUN	_	27	obl	_	_
+27	ngħatat	_	VERB	VERB	_	16	conj	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	aġġettiv	_	NOUN	NOUN	_	31	compound	_	_
+30	"	_	PUNCT	X_PUN	_	31	punct	_	SpaceAfter=No
+31	skura	_	ADJ	ADJ	_	27	obj	_	SpaceAfter=No
+32	"	_	PUNCT	X_PUN	_	31	punct	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 58_05N11:10
+# text = It-terminu massa nieqsa jista' jqarraq bina billi mhux il-massa li hi nieqsa imma d-"dawl" tagħha biss.
+1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	terminu	_	NOUN	NOUN	_	3	compound	_	_
+3	massa	_	NOUN	NOUN	_	5	nsubj	_	_
+4	nieqsa	_	VERB	PART_ACT	_	3	amod	_	_
+5	jista'	_	VERB	VERB	_	0	root	_	_
+6	jqarraq	_	VERB	VERB	_	5	xcomp	_	_
+7	bina	_	PRON	PREP_PRON	_	6	obl:arg	_	_
+8	billi	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+9	mhux	_	PART	PRON_PERS_NEG	_	11	aux:neg	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	massa	_	NOUN	NOUN	_	6	advcl	_	_
+12	li	_	SCONJ	COMP	_	14	mark	_	_
+13	hi	_	PRON	PRON_PERS	_	14	cop	_	_
+14	nieqsa	_	VERB	PART_ACT	_	11	acl	_	_
+15	imma	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+16	d-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+17	"	_	PUNCT	X_PUN	_	18	punct	_	SpaceAfter=No
+18	dawl	_	NOUN	NOUN	_	11	conj	_	SpaceAfter=No
+19	"	_	PUNCT	X_PUN	_	18	punct	_	_
+20	tagħha	_	PRON	GEN_PRON	_	18	case	_	_
+21	biss	_	ADV	FOC	_	18	discourse	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 58_05N11:11
+# text = Irridu nagħmluha ċara li l-kunċett ta' materja skura jagħmel sens biss fil-kuntest tal-mudell standard tal-kożmoloġija li nużaw illum ibbażat fuq il-Big Bang.
+1	Irridu	_	VERB	VERB	_	0	root	_	_
+2	nagħmluha	_	VERB	VERB	_	1	xcomp	_	_
+3	ċara	_	ADJ	ADJ	_	2	xcomp	_	_
+4	li	_	SCONJ	COMP	_	10	mark	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	kunċett	_	NOUN	NOUN	_	10	nsubj	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	materja	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	skura	_	ADJ	ADJ	_	8	amod	_	_
+10	jagħmel	_	VERB	VERB	_	2	ccomp	_	_
+11	sens	_	NOUN	NOUN	_	10	compound	_	_
+12	biss	_	ADV	FOC	_	14	discourse	_	_
+13	fil-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	kuntest	_	NOUN	NOUN	_	10	obl	_	_
+15	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
+16	mudell	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	standard	_	ADJ	ADJ	_	16	amod	_	_
+18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
+19	kożmoloġija	_	NOUN	NOUN	_	16	nmod:poss	_	_
+20	li	_	SCONJ	COMP	_	21	mark	_	_
+21	nużaw	_	VERB	VERB	_	16	acl	_	_
+22	illum	_	ADV	ADV	_	21	advmod	_	_
+23	ibbażat	_	VERB	PART_PASS	_	16	acl	_	_
+24	fuq	_	ADP	PREP	_	27	case	_	_
+25	il-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+26	Big	_	ADJ	ADJ	_	27	amod	_	_
+27	Bang	_	NOUN	NOUN	_	23	obl	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:12
+# text = Dan minħabba żewġ raġunijiet fundamentali: b'dan il-mudell ma nistgħux nispjegaw b'mod ieħor il-formazzjoni tal-galassji u l-ġemgħat tal-galassji fiż-żmien ikkalkolat mill-bidu tal-Big Bang fix-xenarju kożmoloġiku li nużaw illum, li jipprevedi l-gravità bħala l-unika forza, ma nistgħux nispjegaw kif il-galassiji jistgħu jibqgħu sħaħ billi l-materja viżibbli, komposta mill-barjoni, ma tipprovdix ġibda gravitazzjonali qawwija biżżejjed.
+1	Dan	_	PRON	PRON_DEM	_	4	nsubj	_	_
+2	minħabba	_	ADP	PREP	_	4	case	_	_
+3	żewġ	_	NUM	NUM_CRD	_	4	nummod	_	_
+4	raġunijiet	_	NOUN	NOUN	_	0	root	_	_
+5	fundamentali	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+6	:	_	PUNCT	X_PUN	_	4	punct	_	_
+7	b'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
+8	dan	_	PRON	PRON_DEM	_	10	det	_	_
+9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	mudell	_	NOUN	NOUN	_	12	obl	_	_
+11	ma	_	PART	NEG	_	12	aux:neg	_	_
+12	nistgħux	_	VERB	VERB	_	4	ccomp	_	_
+13	nispjegaw	_	VERB	VERB	_	12	xcomp	_	_
+14	b'	_	ADP	PREP	_	15	case	_	SpaceAfter=No
+15	mod	_	NOUN	NOUN	_	13	obl	_	_
+16	ieħor	_	ADJ	ADJ	_	15	amod	_	_
+17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	formazzjoni	_	NOUN	NOUN	_	13	obj	_	_
+19	tal-	_	ADP	GEN_DEF	_	20	case:det	_	SpaceAfter=No
+20	galassji	_	NOUN	NOUN	_	18	nmod:poss	_	_
+21	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	ġemgħat	_	NOUN	NOUN	_	20	conj	_	_
+24	tal-	_	ADP	GEN_DEF	_	25	case:det	_	SpaceAfter=No
+25	galassji	_	NOUN	NOUN	_	23	nmod:poss	_	_
+26	fiż-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
+27	żmien	_	NOUN	NOUN	_	18	obl	_	_
+28	ikkalkolat	_	VERB	PART_PASS	_	27	acl	_	_
+29	mill-	_	ADP	PREP_DEF	_	30	case:det	_	SpaceAfter=No
+30	bidu	_	NOUN	NOUN	_	28	obl	_	_
+31	tal-	_	ADP	GEN_DEF	_	33	case:det	_	SpaceAfter=No
+32	Big	_	ADJ	ADJ	_	33	amod	_	_
+33	Bang	_	NOUN	NOUN	_	30	nmod:poss	_	_
+34	fix-	_	ADP	PREP_DEF	_	35	case:det	_	SpaceAfter=No
+35	xenarju	_	NOUN	NOUN	_	28	obl	_	_
+36	kożmoloġiku	_	ADJ	ADJ	_	35	amod	_	_
+37	li	_	SCONJ	COMP	_	38	mark	_	_
+38	nużaw	_	VERB	VERB	_	35	acl	_	_
+39	illum	_	ADV	ADV	_	38	advmod	_	SpaceAfter=No
+40	,	_	PUNCT	X_PUN	_	35	punct	_	_
+41	li	_	SCONJ	COMP	_	42	mark	_	_
+42	jipprevedi	_	VERB	VERB	_	35	acl	_	_
+43	l-	_	DET	DEF	_	44	det	_	SpaceAfter=No
+44	gravità	_	NOUN	NOUN	_	42	obj	_	_
+45	bħala	_	ADP	PREP	_	48	case	_	_
+46	l-	_	DET	DEF	_	48	det	_	SpaceAfter=No
+47	unika	_	ADJ	ADJ	_	48	amod	_	_
+48	forza	_	NOUN	NOUN	_	42	obl:arg	_	SpaceAfter=No
+49	,	_	PUNCT	X_PUN	_	12	punct	_	_
+50	ma	_	PART	NEG	_	51	aux:neg	_	_
+51	nistgħux	_	VERB	VERB	_	12	parataxis	_	_
+52	nispjegaw	_	VERB	VERB	_	51	xcomp	_	_
+53	kif	_	PRON	PRON_INT	_	56	advmod	_	_
+54	il-	_	DET	DEF	_	55	det	_	SpaceAfter=No
+55	galassiji	_	NOUN	NOUN	_	56	nsubj	_	_
+56	jistgħu	_	VERB	VERB	_	52	ccomp	_	_
+57	jibqgħu	_	VERB	VERB	_	56	xcomp	_	_
+58	sħaħ	_	ADJ	ADJ	_	57	xcomp	_	_
+59	billi	_	SCONJ	CONJ_SUB	_	69	mark	_	_
+60	l-	_	DET	DEF	_	61	det	_	SpaceAfter=No
+61	materja	_	NOUN	NOUN	_	69	nsubj	_	_
+62	viżibbli	_	ADJ	ADJ	_	61	amod	_	SpaceAfter=No
+63	,	_	PUNCT	X_PUN	_	64	punct	_	_
+64	komposta	_	VERB	PART_PASS	_	61	acl	_	_
+65	mill-	_	ADP	PREP_DEF	_	66	case:det	_	SpaceAfter=No
+66	barjoni	_	NOUN	NOUN	_	64	obl:agent	_	SpaceAfter=No
+67	,	_	PUNCT	X_PUN	_	64	punct	_	_
+68	ma	_	PART	NEG	_	69	aux:neg	_	_
+69	tipprovdix	_	VERB	VERB	_	57	advcl	_	_
+70	ġibda	_	NOUN	NOUN	_	69	obj	_	_
+71	gravitazzjonali	_	ADJ	ADJ	_	70	amod	_	_
+72	qawwija	_	ADJ	ADJ	_	70	amod	_	_
+73	biżżejjed	_	ADV	ADV	_	72	advmod	_	SpaceAfter=No
+74	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 58_05N11:13
+# text = Min-naħa l-oħra, jekk it-teorija li nużaw illum tinsab żbaljata, jista' jkun li ma jkunx hemm bżonn tal-materja skura, billi l-ipoteżi tal-eżistenza tagħha ġejja biss mill-ksur ta' mudell matematiku u mhux minn evidenza sperimentali ċerta.
+1	Min-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	naħa	_	NOUN	NOUN	_	15	obl	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	oħra	_	ADJ	ADJ	_	2	amod	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	2	punct	_	_
+6	jekk	_	SCONJ	CONJ_SUB	_	12	mark	_	_
+7	it-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	teorija	_	NOUN	NOUN	_	12	nsubj:pass	_	_
+9	li	_	SCONJ	COMP	_	10	mark	_	_
+10	nużaw	_	VERB	VERB	_	8	acl	_	_
+11	illum	_	ADV	ADV	_	10	advmod	_	_
+12	tinsab	_	VERB	VERB	_	15	advcl	_	_
+13	żbaljata	_	VERB	PART_PASS	_	12	xcomp	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	12	punct	_	_
+15	jista'	_	VERB	VERB	_	0	root	_	_
+16	jkun	_	AUX	KIEN	_	15	xcomp	_	_
+17	li	_	SCONJ	COMP	_	20	mark	_	_
+18	ma	_	PART	NEG	_	20	aux:neg	_	_
+19	jkunx	_	AUX	KIEN	_	20	aux	_	_
+20	hemm	_	VERB	HEMM	_	16	ccomp	_	_
+21	bżonn	_	NOUN	NOUN	_	20	nsubj	_	_
+22	tal-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No
+23	materja	_	NOUN	NOUN	_	21	nmod:poss	_	_
+24	skura	_	ADJ	ADJ	_	23	amod	_	SpaceAfter=No
+25	,	_	PUNCT	X_PUN	_	20	punct	_	_
+26	billi	_	SCONJ	CONJ_SUB	_	32	mark	_	_
+27	l-	_	DET	DEF	_	28	det	_	SpaceAfter=No
+28	ipoteżi	_	NOUN	NOUN	_	32	nsubj	_	_
+29	tal-	_	ADP	GEN_DEF	_	30	case:det	_	SpaceAfter=No
+30	eżistenza	_	NOUN	NOUN	_	28	nmod:poss	_	_
+31	tagħha	_	PRON	GEN_PRON	_	30	case	_	_
+32	ġejja	_	VERB	PART_ACT	_	20	advcl	_	_
+33	biss	_	ADV	FOC	_	35	discourse	_	_
+34	mill-	_	ADP	PREP_DEF	_	35	case:det	_	SpaceAfter=No
+35	ksur	_	NOUN	NOUN	_	32	obl	_	_
+36	ta'	_	ADP	GEN	_	37	case	_	_
+37	mudell	_	NOUN	NOUN	_	35	nmod:poss	_	_
+38	matematiku	_	ADJ	ADJ	_	37	amod	_	_
+39	u	_	CCONJ	CONJ_CORD	_	42	cc	_	_
+40	mhux	_	PART	PRON_PERS_NEG	_	42	aux:neg	_	_
+41	minn	_	ADP	PREP	_	42	case	_	_
+42	evidenza	_	NOUN	NOUN	_	35	conj	_	_
+43	sperimentali	_	ADJ	ADJ	_	42	amod	_	_
+44	ċerta	_	ADJ	ADJ	_	42	amod	_	SpaceAfter=No
+45	.	_	PUNCT	X_PUN	_	15	punct	_	_
+
+# sent_id = 58_05N11:14
+# text = Irridu noqogħdu attenti li ma nħalltux il-materja skura ma' ipoteżi oħra li jsejħulha "enerġija skura".
+1	Irridu	_	VERB	VERB	_	0	root	_	_
+2	noqogħdu	_	VERB	VERB	_	1	xcomp	_	_
+3	attenti	_	ADJ	ADJ	_	2	xcomp	_	_
+4	li	_	SCONJ	COMP	_	6	mark	_	_
+5	ma	_	PART	NEG	_	6	aux:neg	_	_
+6	nħalltux	_	VERB	VERB	_	2	xcomp	_	_
+7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	materja	_	NOUN	NOUN	_	6	obj	_	_
+9	skura	_	ADJ	ADJ	_	8	amod	_	_
+10	ma'	_	ADP	PREP	_	11	case	_	_
+11	ipoteżi	_	NOUN	NOUN	_	6	obl	_	_
+12	oħra	_	ADJ	ADJ	_	11	amod	_	_
+13	li	_	SCONJ	COMP	_	14	mark	_	_
+14	jsejħulha	_	VERB	VERB	_	11	acl	_	_
+15	"	_	PUNCT	X_PUN	_	16	punct	_	SpaceAfter=No
+16	enerġija	_	NOUN	NOUN	_	14	obl:arg	_	_
+17	skura	_	ADJ	ADJ	_	16	amod	_	SpaceAfter=No
+18	"	_	PUNCT	X_PUN	_	16	punct	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:15
+# text = Storja
+1	Storja	_	NOUN	NOUN	_	0	root	_	_
+
+# sent_id = 58_05N11:16
+# text = Fl-1933 l-astronomu Fritz Zwicky kien qiegħed jistudja l-mixi tal-ġemgħat ta' galassji tal-bogħod u ta' massa kbira, fil-każ partikolari tal-ġabra ta' Coma u ta' Virgo.
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	1933	_	NUM	X_DIG	_	9	obl	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	astronomu	_	NOUN	NOUN	_	5	compound	_	_
+5	Fritz	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
+6	Zwicky	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
+7	kien	_	AUX	KIEN	_	9	aux	_	_
+8	qiegħed	_	AUX	PROG	_	9	aux:part	_	_
+9	jistudja	_	VERB	VERB	_	0	root	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	mixi	_	NOUN	NOUN	_	9	obj	_	_
+12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	ġemgħat	_	NOUN	NOUN	_	11	nmod:poss	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	galassji	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	bogħod	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+19	ta'	_	ADP	GEN	_	20	case	_	_
+20	massa	_	NOUN	NOUN	_	15	conj	_	_
+21	kbira	_	ADJ	ADJ	_	20	amod	_	SpaceAfter=No
+22	,	_	PUNCT	X_PUN	_	13	punct	_	_
+23	fil-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
+24	każ	_	NOUN	NOUN	_	27	nmod	_	_
+25	partikolari	_	ADJ	ADJ	_	24	amod	_	_
+26	tal-	_	ADP	GEN_DEF	_	27	case:det	_	SpaceAfter=No
+27	ġabra	_	NOUN	NOUN	_	13	appos	_	_
+28	ta'	_	ADP	GEN	_	29	case	_	_
+29	Coma	_	PROPN	NOUN_PROP	_	27	nmod:poss	_	_
+30	u	_	CCONJ	CONJ_CORD	_	32	cc	_	_
+31	ta'	_	ADP	GEN	_	32	case	_	_
+32	Virgo	_	PROPN	NOUN_PROP	_	29	conj	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 58_05N11:17
+# text = Zwicky stima l-massa ta' kull galassja tal-ġemgħa mill-luminożità tagħha u għadd il-mases galattiċi flimkien biex jikseb il-massa totali tal-ġemgħa.
+1	Zwicky	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+2	stima	_	VERB	VERB	_	0	root	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	massa	_	NOUN	NOUN	_	2	obj	_	_
+5	ta'	_	ADP	GEN	_	7	case	_	_
+6	kull	_	DET	QUAN	_	7	det	_	_
+7	galassja	_	NOUN	NOUN	_	4	nmod:poss	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	ġemgħa	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	mill-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	luminożità	_	NOUN	NOUN	_	2	obl	_	_
+12	tagħha	_	PRON	GEN_PRON	_	11	case	_	_
+13	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+14	għadd	_	NOUN	NOUN	_	11	conj	_	_
+15	il-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	mases	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	galattiċi	_	ADJ	ADJ	_	16	amod	_	_
+18	flimkien	_	ADV	ADV	_	11	advmod	_	_
+19	biex	_	SCONJ	CONJ_SUB	_	20	mark	_	_
+20	jikseb	_	VERB	VERB	_	2	advcl	_	_
+21	il-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	massa	_	NOUN	NOUN	_	20	obj	_	_
+23	totali	_	ADJ	ADJ	_	22	amod	_	_
+24	tal-	_	ADP	GEN_DEF	_	25	case:det	_	SpaceAfter=No
+25	ġemgħa	_	NOUN	NOUN	_	22	nmod:poss	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 58_05N11:18
+# text = Imbagħad għamel stima oħra indipendenti mill-massa totali, ibbażata fuq il-kejl tad-dispersjoni tal-veloċitajiet individwali tal-galassji fil-ġemgħa;
+1	Imbagħad	_	ADV	ADV	_	2	advmod	_	_
+2	għamel	_	VERB	VERB	_	0	root	_	_
+3	stima	_	NOUN	NOUN	_	2	obj	_	_
+4	oħra	_	ADJ	ADJ	_	3	amod	_	_
+5	indipendenti	_	ADJ	ADJ	_	3	amod	_	_
+6	mill-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	massa	_	NOUN	NOUN	_	5	nmod	_	_
+8	totali	_	ADJ	ADJ	_	7	amod	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	3	punct	_	_
+10	ibbażata	_	VERB	PART_PASS	_	3	acl	_	_
+11	fuq	_	ADP	PREP	_	13	case	_	_
+12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	kejl	_	NOUN	NOUN	_	10	obl	_	_
+14	tad-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	dispersjoni	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	veloċitajiet	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	individwali	_	ADJ	ADJ	_	17	amod	_	_
+19	tal-	_	ADP	GEN_DEF	_	20	case:det	_	SpaceAfter=No
+20	galassji	_	NOUN	NOUN	_	17	nmod:poss	_	_
+21	fil-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
+22	ġemgħa	_	NOUN	NOUN	_	20	nmod	_	SpaceAfter=No
+23	;	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 58_05N11:19
+# text = Din it-tieni stima ta' massa dinamika kienet 400 darba akbar mill-istima bbażata fuq id-dawl tal-galassji.
+1	Din	_	PRON	PRON_DEM	_	4	det	_	_
+2	it-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+3	tieni	_	NUM	NUM_ORD	_	4	amod	_	_
+4	stima	_	NOUN	NOUN	_	11	nsubj	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	massa	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	dinamika	_	ADJ	ADJ	_	6	amod	_	_
+8	kienet	_	AUX	KIEN	_	11	cop	_	_
+9	400	_	NUM	X_DIG	_	10	nummod	_	_
+10	darba	_	NOUN	NOUN	_	11	obl	_	_
+11	akbar	_	ADJ	ADJ	_	0	root	_	_
+12	mill-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	istima	_	NOUN	NOUN	_	11	obl	_	_
+14	bbażata	_	VERB	PART_PASS	_	13	acl	_	_
+15	fuq	_	ADP	PREP	_	17	case	_	_
+16	id-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	dawl	_	NOUN	NOUN	_	14	obl	_	_
+18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
+19	galassji	_	NOUN	NOUN	_	17	nmod:poss	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 58_05N11:20
+# text = Minkejja li l-evidenza sperimentali kienet diġà teżisti fi żmien Zwicky, kien biss fis-sittinijiet li x-xjenzjati bdew jiflu din id-diskrepanza b'mod sistematiku u l-eżistenza tal-materja skura bdiet tiġi kkonsidrata.
+1	Minkejja	_	ADP	PREP	_	8	mark	_	_
+2	li	_	SCONJ	COMP	_	1	fixed	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	evidenza	_	NOUN	NOUN	_	8	nsubj	_	_
+5	sperimentali	_	ADJ	ADJ	_	4	amod	_	_
+6	kienet	_	AUX	KIEN	_	8	aux	_	_
+7	diġà	_	ADV	ADV	_	8	advmod	_	_
+8	teżisti	_	VERB	VERB	_	16	advcl	_	_
+9	fi	_	ADP	PREP	_	10	case	_	_
+10	żmien	_	NOUN	NOUN	_	8	obl	_	_
+11	Zwicky	_	PROPN	NOUN_PROP	_	10	nmod:poss	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	8	punct	_	_
+13	kien	_	AUX	KIEN	_	16	expl	_	_
+14	biss	_	ADV	FOC	_	16	discourse	_	_
+15	fis-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	sittinijiet	_	NOUN	NOUN	_	0	root	_	_
+17	li	_	SCONJ	COMP	_	20	mark	_	_
+18	x-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	xjenzjati	_	NOUN	NOUN	_	20	nsubj	_	_
+20	bdew	_	VERB	VERB	_	16	ccomp	_	_
+21	jiflu	_	VERB	VERB	_	20	xcomp	_	_
+22	din	_	PRON	PRON_DEM	_	24	det	_	_
+23	id-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+24	diskrepanza	_	NOUN	NOUN	_	21	obj	_	_
+25	b'	_	ADP	PREP	_	26	case	_	SpaceAfter=No
+26	mod	_	NOUN	NOUN	_	21	obl	_	_
+27	sistematiku	_	ADJ	ADJ	_	26	amod	_	_
+28	u	_	CCONJ	CONJ_CORD	_	34	cc	_	_
+29	l-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	eżistenza	_	NOUN	NOUN	_	34	nsubj	_	_
+31	tal-	_	ADP	GEN_DEF	_	32	case:det	_	SpaceAfter=No
+32	materja	_	NOUN	NOUN	_	30	nmod:poss	_	_
+33	skura	_	ADJ	ADJ	_	32	amod	_	_
+34	bdiet	_	VERB	VERB	_	20	conj	_	_
+35	tiġi	_	VERB	VERB	_	36	aux:pass	_	_
+36	kkonsidrata	_	VERB	PART_PASS	_	34	xcomp	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	20	punct	_	_
+
+# sent_id = 58_05N11:21
+# text = L-iskoperta tagħha mhux biss solviet in-nuqqas tal-massa fil-ġemgħat ta' galassji, imma kellha konsegwenzi fil-wisgħa iżjed fuq il-kapaċità tal-bniedem li jbassar l-evoluzzjoni u d-destin tal-Univers.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	iskoperta	_	NOUN	NOUN	_	6	nsubj	_	_
+3	tagħha	_	PRON	GEN_PRON	_	2	case	_	_
+4	mhux	_	PART	PRON_PERS_NEG	_	6	aux:neg	_	_
+5	biss	_	ADV	FOC	_	6	discourse	_	_
+6	solviet	_	VERB	VERB	_	0	root	_	_
+7	in-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	nuqqas	_	NOUN	NOUN	_	6	obj	_	_
+9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
+10	massa	_	NOUN	NOUN	_	8	nmod:poss	_	_
+11	fil-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	ġemgħat	_	NOUN	NOUN	_	8	nmod	_	_
+13	ta'	_	ADP	GEN	_	14	case	_	_
+14	galassji	_	NOUN	NOUN	_	12	nmod:poss	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	6	punct	_	_
+16	imma	_	CCONJ	CONJ_CORD	_	17	cc	_	_
+17	kellha	_	VERB	VERB_PSEU	_	6	conj	_	_
+18	konsegwenzi	_	NOUN	NOUN	_	17	obj	_	_
+19	fil-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	wisgħa	_	NOUN	NOUN	_	18	nmod	_	_
+21	iżjed	_	ADJ	ADJ	_	20	amod	_	_
+22	fuq	_	ADP	PREP	_	24	case	_	_
+23	il-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+24	kapaċità	_	NOUN	NOUN	_	18	nmod	_	_
+25	tal-	_	ADP	GEN_DEF	_	26	case:det	_	SpaceAfter=No
+26	bniedem	_	NOUN	NOUN	_	24	nmod:poss	_	_
+27	li	_	SCONJ	COMP	_	28	mark	_	_
+28	jbassar	_	VERB	VERB	_	24	acl	_	_
+29	l-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	evoluzzjoni	_	NOUN	NOUN	_	28	obj	_	_
+31	u	_	CCONJ	CONJ_CORD	_	33	cc	_	_
+32	d-	_	DET	DEF	_	33	det	_	SpaceAfter=No
+33	destin	_	NOUN	NOUN	_	30	conj	_	_
+34	tal-	_	ADP	GEN_DEF	_	35	case:det	_	SpaceAfter=No
+35	Univers	_	NOUN	NOUN	_	33	nmod:poss	_	SpaceAfter=No
+36	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 58_05N11:22
+# text = Fl-2008, bis-saħħa tal-istudju ta' diversi riċerkaturi, fosthom Franċiżi u Kanadiżi fl-Istitut tal-Astrofiżika ta' Pariġi, għandna xhieda definittiva tal-preżenza tal-materja skura.
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	2008	_	NUM	X_DIG	_	23	obl	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	bis-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	saħħa	_	NOUN	NOUN	_	23	obl	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	istudju	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	ta'	_	ADP	GEN	_	10	case	_	_
+9	diversi	_	ADJ	ADJ	_	10	amod	_	_
+10	riċerkaturi	_	NOUN	NOUN	_	7	nmod:poss	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	13	punct	_	_
+12	fosthom	_	PRON	PREP_PRON	_	13	obl	_	_
+13	Franċiżi	_	NOUN	NOUN	_	10	appos	_	_
+14	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+15	Kanadiżi	_	NOUN	NOUN	_	13	conj	_	_
+16	fl-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	Istitut	_	NOUN	NOUN	_	10	nmod	_	_
+18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
+19	Astrofiżika	_	NOUN	NOUN	_	17	nmod:poss	_	_
+20	ta'	_	ADP	GEN	_	21	case	_	_
+21	Pariġi	_	PROPN	NOUN_PROP	_	19	nmod:poss	_	SpaceAfter=No
+22	,	_	PUNCT	X_PUN	_	13	punct	_	_
+23	għandna	_	VERB	VERB_PSEU	_	0	root	_	_
+24	xhieda	_	NOUN	NOUN	_	23	obj	_	_
+25	definittiva	_	ADJ	ADJ	_	24	amod	_	_
+26	tal-	_	ADP	GEN_DEF	_	27	case:det	_	SpaceAfter=No
+27	preżenza	_	NOUN	NOUN	_	24	nmod:poss	_	_
+28	tal-	_	ADP	GEN_DEF	_	29	case:det	_	SpaceAfter=No
+29	materja	_	NOUN	NOUN	_	27	nmod:poss	_	_
+30	skura	_	ADJ	ADJ	_	29	amod	_	SpaceAfter=No
+31	.	_	PUNCT	X_PUN	_	23	punct	_	_
+
+# sent_id = 58_05N11:23
+# text = Difatti, bl-użu tat-teleskopju Canada- France- Hawaii Telescope (Cfht), li jinsab fuq il-muntanja Mauna Kea fil-Ħawaii, l-istudjużi ħarsu lejn eluf ta' xbihat biex jivverifikaw id-devjazzjoni tad-dawl fil-vjaġġ kożmiku tiegħu u kkonfermaw li dan jiddevja anki f'postijiet fejn m'hemmx mases viżibbli.
+1	Difatti	_	ADV	ADV	_	27	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	bl-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	użu	_	NOUN	NOUN	_	27	obl	_	_
+5	tat-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	teleskopju	_	NOUN	NOUN	_	7	compound	_	_
+7	Canada-	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
+8	France-	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
+9	Hawaii	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
+10	Telescope	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
+11	(	_	PUNCT	X_PUN	_	12	punct	_	SpaceAfter=No
+12	Cfht	_	NOUN	X_ABV	_	7	appos	_	SpaceAfter=No
+13	)	_	PUNCT	X_PUN	_	12	punct	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	16	punct	_	_
+15	li	_	SCONJ	COMP	_	16	mark	_	_
+16	jinsab	_	VERB	VERB	_	7	acl	_	_
+17	fuq	_	ADP	PREP	_	19	case	_	_
+18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	muntanja	_	NOUN	NOUN	_	20	compound	_	_
+20	Mauna	_	PROPN	NOUN_PROP	_	16	obl	_	_
+21	Kea	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
+22	fil-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	Ħawaii	_	PROPN	NOUN_PROP	_	20	nmod	_	SpaceAfter=No
+24	,	_	PUNCT	X_PUN	_	16	punct	_	_
+25	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	istudjużi	_	NOUN	NOUN	_	27	nsubj	_	_
+27	ħarsu	_	VERB	VERB	_	0	root	_	_
+28	lejn	_	ADP	PREP	_	29	case	_	_
+29	eluf	_	NOUN	NOUN	_	27	obl:arg	_	_
+30	ta'	_	ADP	GEN	_	31	case	_	_
+31	xbihat	_	NOUN	NOUN	_	29	nmod:poss	_	_
+32	biex	_	SCONJ	CONJ_SUB	_	33	mark	_	_
+33	jivverifikaw	_	VERB	VERB	_	27	advcl	_	_
+34	id-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	devjazzjoni	_	NOUN	NOUN	_	33	obj	_	_
+36	tad-	_	ADP	GEN_DEF	_	37	case:det	_	SpaceAfter=No
+37	dawl	_	NOUN	NOUN	_	35	nmod:poss	_	_
+38	fil-	_	ADP	PREP_DEF	_	39	case:det	_	SpaceAfter=No
+39	vjaġġ	_	NOUN	NOUN	_	35	nmod	_	_
+40	kożmiku	_	ADJ	ADJ	_	39	amod	_	_
+41	tiegħu	_	PRON	GEN_PRON	_	39	case	_	_
+42	u	_	CCONJ	CONJ_CORD	_	43	cc	_	_
+43	kkonfermaw	_	VERB	VERB	_	27	conj	_	_
+44	li	_	SCONJ	COMP	_	46	mark	_	_
+45	dan	_	PRON	PRON_DEM	_	46	nsubj	_	_
+46	jiddevja	_	VERB	VERB	_	43	ccomp	_	_
+47	anki	_	ADV	FOC	_	49	discourse	_	_
+48	f'	_	ADP	PREP	_	49	case	_	SpaceAfter=No
+49	postijiet	_	NOUN	NOUN	_	46	obl	_	_
+50	fejn	_	PRON	PRON_INT	_	52	advcl	_	_
+51	m'	_	PART	NEG	_	52	aux:neg	_	SpaceAfter=No
+52	hemmx	_	VERB	HEMM	_	49	acl	_	_
+53	mases	_	NOUN	NOUN	_	52	nsubj	_	_
+54	viżibbli	_	ADJ	ADJ	_	53	amod	_	SpaceAfter=No
+55	.	_	PUNCT	X_PUN	_	27	punct	_	_
+
+# sent_id = 58_05N11:24
+# text = Kien bis-saħħa ta' dawn l-osservazzjonijiet li instabet il-materja skura li minkejja li ma tidhirx għandha effetti gravitazzjonali.
+1	Kien	_	AUX	KIEN	_	3	expl	_	_
+2	bis-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+3	saħħa	_	NOUN	NOUN	_	0	root	_	_
+4	ta'	_	ADP	GEN	_	7	case	_	_
+5	dawn	_	PRON	PRON_DEM	_	7	det	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	osservazzjonijiet	_	NOUN	NOUN	_	3	nmod:poss	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	instabet	_	VERB	VERB	_	3	ccomp	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	materja	_	NOUN	NOUN	_	9	nsubj:pass	_	_
+12	skura	_	ADJ	ADJ	_	11	amod	_	_
+13	li	_	SCONJ	COMP	_	18	mark	_	_
+14	minkejja	_	ADP	PREP	_	17	mark	_	_
+15	li	_	SCONJ	COMP	_	14	fixed	_	_
+16	ma	_	PART	NEG	_	17	aux:neg	_	_
+17	tidhirx	_	VERB	VERB	_	18	advcl	_	_
+18	għandha	_	VERB	VERB_PSEU	_	11	acl	_	_
+19	effetti	_	NOUN	NOUN	_	18	obj	_	_
+20	gravitazzjonali	_	ADJ	ADJ	_	19	amod	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 58_05N11:25
+# text = Xhieda potenzjali għall-materja skura
+1	Xhieda	_	NOUN	NOUN	_	0	root	_	_
+2	potenzjali	_	ADJ	ADJ	_	1	amod	_	_
+3	għall-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	materja	_	NOUN	NOUN	_	1	nmod	_	_
+5	skura	_	ADJ	ADJ	_	4	amod	_	_
+
+# sent_id = 58_05N11:26
+# text = Ir-rotazzjoni tal-Galassji
+1	Ir-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	rotazzjoni	_	NOUN	NOUN	_	0	root	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	Galassji	_	NOUN	NOUN	_	2	nmod:poss	_	_
+
+# sent_id = 58_05N11:27
+# text = Il-kurvi tar-rotazzjoni tal-galassji spirali fornew evidenza osservattiva importanti għall-ħtieġa tal-materja skura.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	kurvi	_	NOUN	NOUN	_	8	nsubj	_	_
+3	tar-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	rotazzjoni	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	galassji	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	spirali	_	ADJ	ADJ	_	6	amod	_	_
+8	fornew	_	VERB	VERB	_	0	root	_	_
+9	evidenza	_	NOUN	NOUN	_	8	obj	_	_
+10	osservattiva	_	ADJ	ADJ	_	9	amod	_	_
+11	importanti	_	ADJ	ADJ	_	9	amod	_	_
+12	għall-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	ħtieġa	_	NOUN	NOUN	_	9	nmod	_	_
+14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	materja	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	skura	_	ADJ	ADJ	_	15	amod	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 58_05N11:28
+# text = Dawn il-galassji fihom popolazzjoni vasta ta' kwiekeb fuq orbiti kważi ċirkolari madwar iċ-ċentru galattiku.
+1	Dawn	_	PRON	PRON_DEM	_	3	det	_	_
+2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	galassji	_	NOUN	NOUN	_	4	nsubj	_	_
+4	fihom	_	VERB	VERB_PSEU	_	0	root	_	_
+5	popolazzjoni	_	NOUN	NOUN	_	4	obj	_	_
+6	vasta	_	ADJ	ADJ	_	5	amod	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	kwiekeb	_	NOUN	NOUN	_	5	nmod:poss	_	_
+9	fuq	_	ADP	PREP	_	10	case	_	_
+10	orbiti	_	NOUN	NOUN	_	8	nmod	_	_
+11	kważi	_	ADV	ADV	_	12	advmod	_	_
+12	ċirkolari	_	ADJ	ADJ	_	10	amod	_	_
+13	madwar	_	ADP	PREP	_	15	case	_	_
+14	iċ-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	ċentru	_	NOUN	NOUN	_	10	nmod	_	_
+16	galattiku	_	ADJ	ADJ	_	15	amod	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 58_05N11:29
+# text = Kif jiġri fil-każ tal-orbiti planetarji, skont it-tielet liġi ta' Kepler l-istilel bl-ikbar orbiti galattiċi għandhom l-iċken veloċitajiet orbitali.
+1	Kif	_	PRON	PRON_INT	_	2	advmod	_	_
+2	jiġri	_	VERB	VERB	_	21	advcl	_	_
+3	fil-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	każ	_	NOUN	NOUN	_	2	obl	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	orbiti	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	planetarji	_	ADJ	ADJ	_	6	amod	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	2	punct	_	_
+9	skont	_	ADP	PREP	_	12	case	_	_
+10	it-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+11	tielet	_	NUM	NUM_ORD	_	12	amod	_	_
+12	liġi	_	NOUN	NOUN	_	21	obl	_	_
+13	ta'	_	ADP	GEN	_	14	case	_	_
+14	Kepler	_	PROPN	NOUN_PROP	_	12	nmod:poss	_	_
+15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	istilel	_	NOUN	NOUN	_	21	nsubj	_	_
+17	bl-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
+18	ikbar	_	ADJ	ADJ	_	19	amod	_	_
+19	orbiti	_	NOUN	NOUN	_	16	nmod	_	_
+20	galattiċi	_	ADJ	ADJ	_	19	amod	_	_
+21	għandhom	_	VERB	VERB_PSEU	_	0	root	_	_
+22	l-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+23	iċken	_	ADJ	ADJ	_	24	amod	_	_
+24	veloċitajiet	_	NOUN	NOUN	_	21	obj	_	_
+25	orbitali	_	ADJ	ADJ	_	24	amod	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	21	punct	_	_
+
+# sent_id = 58_05N11:30
+# text = Imma t-tielet liġi ta' Kepler tapplika biss għall-kwiekeb qrib il-periferija ta' galassja spirali, billi nissoponu minn qabel li l-massa magħluqa mill-orbita hi kostanti.
+1	Imma	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+2	t-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+3	tielet	_	NUM	NUM_ORD	_	4	amod	_	_
+4	liġi	_	NOUN	NOUN	_	7	nsubj	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	Kepler	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
+7	tapplika	_	VERB	VERB	_	0	root	_	_
+8	biss	_	ADV	FOC	_	10	discourse	_	_
+9	għall-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	kwiekeb	_	NOUN	NOUN	_	7	obl:arg	_	_
+11	qrib	_	ADP	PREP	_	13	case	_	_
+12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	periferija	_	NOUN	NOUN	_	10	nmod	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	galassja	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	spirali	_	ADJ	ADJ	_	15	amod	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	7	punct	_	_
+18	billi	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+19	nissoponu	_	VERB	VERB	_	7	advcl	_	_
+20	minn	_	ADP	PREP	_	21	case	_	_
+21	qabel	_	ADV	ADV	_	19	advmod	_	_
+22	li	_	SCONJ	COMP	_	29	mark	_	_
+23	l-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+24	massa	_	NOUN	NOUN	_	29	nsubj	_	_
+25	magħluqa	_	VERB	PART_PASS	_	24	acl	_	_
+26	mill-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
+27	orbita	_	NOUN	NOUN	_	25	obl	_	_
+28	hi	_	PRON	PRON_PERS	_	29	cop	_	_
+29	kostanti	_	ADJ	ADJ	_	19	ccomp	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 58_05N11:31
+# text = Madankollu l-astronomi għamlu osservazzjonijiet tal-veloċitajiet orbitali tal-istilel fir-reġjuni periferiċi ta' għadd kbir ta' galassji spirali, u sabu li fl-ebda każ ma jssegwu t-tielet liġi ta' Kepler dawn il-veloċitajiet.
+1	Madankollu	_	ADV	ADV	_	4	advmod	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	astronomi	_	NOUN	NOUN	_	4	nsubj	_	_
+4	għamlu	_	VERB	VERB	_	0	root	_	_
+5	osservazzjonijiet	_	NOUN	NOUN	_	4	obj	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	veloċitajiet	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	orbitali	_	ADJ	ADJ	_	7	amod	_	_
+9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
+10	istilel	_	NOUN	NOUN	_	7	nmod:poss	_	_
+11	fir-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	reġjuni	_	NOUN	NOUN	_	10	nmod	_	_
+13	periferiċi	_	ADJ	ADJ	_	12	amod	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	għadd	_	NOUN	NOUN	_	12	nmod:poss	_	_
+16	kbir	_	ADJ	ADJ	_	15	amod	_	_
+17	ta'	_	ADP	GEN	_	18	case	_	_
+18	galassji	_	NOUN	NOUN	_	15	nmod:poss	_	_
+19	spirali	_	ADJ	ADJ	_	18	amod	_	SpaceAfter=No
+20	,	_	PUNCT	X_PUN	_	4	punct	_	_
+21	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
+22	sabu	_	VERB	VERB	_	4	conj	_	_
+23	li	_	SCONJ	COMP	_	28	mark	_	_
+24	fl-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
+25	ebda	_	DET	QUAN	_	26	det	_	_
+26	każ	_	NOUN	NOUN	_	28	obl	_	_
+27	ma	_	PART	NEG	_	28	aux:neg	_	_
+28	jssegwu	_	VERB	VERB	_	22	ccomp	_	_
+29	t-	_	DET	DEF	_	31	det	_	SpaceAfter=No
+30	tielet	_	NUM	NUM_ORD	_	31	amod	_	_
+31	liġi	_	NOUN	NOUN	_	28	obj	_	_
+32	ta'	_	ADP	GEN	_	33	case	_	_
+33	Kepler	_	PROPN	NOUN_PROP	_	31	nmod:poss	_	_
+34	dawn	_	PRON	PRON_DEM	_	36	det	_	_
+35	il-	_	DET	DEF	_	36	det	_	SpaceAfter=No
+36	veloċitajiet	_	NOUN	NOUN	_	28	nsubj	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 58_05N11:32
+# text = Bil-kontra minnflok jonqsu iżjed ma tkun kbira d-distanza miċ-ċentru, il-veloċitajiet jibqgħu kostanti.
+1	Bil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	kontra	_	NOUN	NOUN	_	16	obl	_	_
+3	minnflok	_	SCONJ	CONJ_SUB	_	4	mark	_	_
+4	jonqsu	_	VERB	VERB	_	16	advcl	_	_
+5	iżjed	_	ADV	ADV	_	8	advmod	_	_
+6	ma	_	SCONJ	COMP	_	5	mark	_	_
+7	tkun	_	AUX	KIEN	_	8	cop	_	_
+8	kbira	_	ADJ	ADJ	_	4	advcl	_	_
+9	d-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	distanza	_	NOUN	NOUN	_	8	nsubj	_	_
+11	miċ-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	ċentru	_	NOUN	NOUN	_	10	nmod	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	4	punct	_	_
+14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	veloċitajiet	_	NOUN	NOUN	_	16	nsubj	_	_
+16	jibqgħu	_	VERB	VERB	_	0	root	_	_
+17	kostanti	_	ADJ	ADJ	_	16	xcomp	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	16	punct	_	_
+
+# sent_id = 58_05N11:33
+# text = L-implikazzjoni hi li l-massa magħluqa mill-orbiti tikber iżjed ma jkun kbir ir-raġġ, anki għall-istilel li mid-dehra jinstabu viċin il-limitu tal-galassja.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	implikazzjoni	_	NOUN	NOUN	_	3	nsubj	_	_
+3	hi	_	PRON	PRON_PERS	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	10	mark	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	massa	_	NOUN	NOUN	_	10	nsubj	_	_
+7	magħluqa	_	VERB	PART_PASS	_	6	acl	_	_
+8	mill-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	orbiti	_	NOUN	NOUN	_	7	obl	_	_
+10	tikber	_	VERB	VERB	_	3	ccomp	_	_
+11	iżjed	_	ADV	ADV	_	14	advmod	_	_
+12	ma	_	PART	NEG	_	11	mark	_	_
+13	jkun	_	AUX	KIEN	_	14	cop	_	_
+14	kbir	_	ADJ	ADJ	_	10	advcl	_	_
+15	ir-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	raġġ	_	NOUN	NOUN	_	14	nsubj	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	10	punct	_	_
+18	anki	_	ADV	FOC	_	20	discourse	_	_
+19	għall-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	istilel	_	NOUN	NOUN	_	10	conj	_	_
+21	li	_	SCONJ	COMP	_	24	mark	_	_
+22	mid-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	dehra	_	NOUN	NOUN	_	24	obl	_	_
+24	jinstabu	_	VERB	VERB	_	20	acl	_	_
+25	viċin	_	ADP	PREP	_	27	case	_	_
+26	il-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+27	limitu	_	NOUN	NOUN	_	24	obl	_	_
+28	tal-	_	ADP	GEN_DEF	_	29	case:det	_	SpaceAfter=No
+29	galassja	_	NOUN	NOUN	_	27	nmod:poss	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 58_05N11:34
+# text = Minkejja li tinsab ħdejn il-konfini tal-parti luminuża tal-galassja, din għandha profil ta' massa li tidher li jkompli 'l hemm sewwa mir-reġjuni okkupati mil-kwiekeb.
+1	Minkejja	_	ADP	PREP	_	3	mark	_	_
+2	li	_	SCONJ	COMP	_	1	fixed	_	_
+3	tinsab	_	VERB	VERB	_	14	advcl	_	_
+4	ħdejn	_	ADP	PREP	_	6	case	_	_
+5	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	konfini	_	NOUN	NOUN	_	3	obl	_	_
+7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	parti	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	luminuża	_	ADJ	ADJ	_	8	amod	_	_
+10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	galassja	_	NOUN	NOUN	_	8	nmod:poss	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	3	punct	_	_
+13	din	_	PRON	PRON_DEM	_	14	nsubj	_	_
+14	għandha	_	VERB	VERB_PSEU	_	0	root	_	_
+15	profil	_	NOUN	NOUN	_	14	obj	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	massa	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	li	_	SCONJ	COMP	_	19	mark	_	_
+19	tidher	_	VERB	VERB	_	17	acl	_	_
+20	li	_	SCONJ	COMP	_	21	mark	_	_
+21	jkompli	_	VERB	VERB	_	19	xcomp	_	_
+22	'l	_	ADP	PREP	_	23	case	_	_
+23	hemm	_	ADV	ADV	_	21	advmod	_	_
+24	sewwa	_	ADV	ADV	_	21	advmod	_	_
+25	mir-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
+26	reġjuni	_	NOUN	NOUN	_	21	obl	_	_
+27	okkupati	_	VERB	PART_PASS	_	26	acl	_	_
+28	mil-	_	ADP	PREP_DEF	_	29	case:det	_	SpaceAfter=No
+29	kwiekeb	_	NOUN	NOUN	_	27	obl:agent	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	14	punct	_	_
+
+# sent_id = 58_05N11:35
+# text = Fil-każ tal-istilel qrib il-periferija ta' galassja spirali, b'veloċitajiet orbitali osservati normalment ta' 200 kilometru fis-sekonda, kieku l-galassja kienet magħmula mill-materja li tidher biss, dawn l-istilel ma jdumux ma jitilquha billi l-veloċitajiet orbitali tagħhom huma erba' darbiet ikbar mill-veloċità tal-ħrib tal-galassja.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	każ	_	NOUN	NOUN	_	38	obl	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	istilel	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	qrib	_	ADP	PREP	_	7	case	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	periferija	_	NOUN	NOUN	_	4	nmod	_	_
+8	ta'	_	ADP	GEN	_	9	case	_	_
+9	galassja	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	spirali	_	ADJ	ADJ	_	9	amod	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	13	punct	_	_
+12	b'	_	ADP	PREP	_	13	case	_	SpaceAfter=No
+13	veloċitajiet	_	NOUN	NOUN	_	2	nmod	_	_
+14	orbitali	_	ADJ	ADJ	_	13	amod	_	_
+15	osservati	_	VERB	PART_PASS	_	13	acl	_	_
+16	normalment	_	ADV	ADV	_	15	advmod	_	_
+17	ta'	_	ADP	GEN	_	19	case	_	_
+18	200	_	NUM	X_DIG	_	19	nummod	_	_
+19	kilometru	_	NOUN	NOUN	_	13	nmod:poss	_	_
+20	fis-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
+21	sekonda	_	NOUN	NOUN	_	19	nmod	_	SpaceAfter=No
+22	,	_	PUNCT	X_PUN	_	13	punct	_	_
+23	kieku	_	SCONJ	CONJ_SUB	_	27	mark	_	_
+24	l-	_	DET	DEF	_	25	det	_	SpaceAfter=No
+25	galassja	_	NOUN	NOUN	_	27	nsubj:pass	_	_
+26	kienet	_	AUX	KIEN	_	27	cop	_	_
+27	magħmula	_	VERB	PART_PASS	_	38	advcl	_	_
+28	mill-	_	ADP	PREP_DEF	_	29	case:det	_	SpaceAfter=No
+29	materja	_	NOUN	NOUN	_	27	obl:agent	_	_
+30	li	_	SCONJ	COMP	_	31	mark	_	_
+31	tidher	_	VERB	VERB	_	29	acl	_	_
+32	biss	_	ADV	FOC	_	31	discourse	_	SpaceAfter=No
+33	,	_	PUNCT	X_PUN	_	27	punct	_	_
+34	dawn	_	PRON	PRON_DEM	_	36	det	_	_
+35	l-	_	DET	DEF	_	36	det	_	SpaceAfter=No
+36	istilel	_	NOUN	NOUN	_	38	nsubj	_	_
+37	ma	_	PART	NEG	_	38	aux:neg	_	_
+38	jdumux	_	VERB	VERB	_	0	root	_	_
+39	ma	_	SCONJ	COMP	_	40	mark	_	_
+40	jitilquha	_	VERB	VERB	_	38	xcomp	_	_
+41	billi	_	SCONJ	CONJ_SUB	_	49	mark	_	_
+42	l-	_	DET	DEF	_	43	det	_	SpaceAfter=No
+43	veloċitajiet	_	NOUN	NOUN	_	49	nsubj	_	_
+44	orbitali	_	ADJ	ADJ	_	43	amod	_	_
+45	tagħhom	_	PRON	GEN_PRON	_	43	case	_	_
+46	huma	_	PRON	PRON_PERS	_	49	cop	_	_
+47	erba'	_	NUM	NUM_CRD	_	48	nummod	_	_
+48	darbiet	_	NOUN	NOUN	_	49	obl	_	_
+49	ikbar	_	ADJ	ADJ	_	40	advcl	_	_
+50	mill-	_	ADP	PREP_DEF	_	51	case:det	_	SpaceAfter=No
+51	veloċità	_	NOUN	NOUN	_	49	obl	_	_
+52	tal-	_	ADP	GEN_DEF	_	53	case:det	_	SpaceAfter=No
+53	ħrib	_	NOUN	NOUN	_	51	nmod:poss	_	_
+54	tal-	_	ADP	GEN_DEF	_	55	case:det	_	SpaceAfter=No
+55	galassja	_	NOUN	NOUN	_	53	nmod:poss	_	SpaceAfter=No
+56	.	_	PUNCT	X_PUN	_	38	punct	_	_
+
+# sent_id = 58_05N11:36
+# text = La ma nosservawx galassji li qegħdin jinfirxu b'dan il-mod, fil-ġewwieni tagħhom bilfors irid ikun hemm ammont ta' massa li mhux qegħdin inqiesuha meta ngħoddu flimkien il-massa tal-partijiet viżibbli.
+1	La	_	SCONJ	CONJ_SUB	_	3	mark	_	_
+2	ma	_	PART	NEG	_	3	aux:neg	_	_
+3	nosservawx	_	VERB	VERB	_	17	advcl	_	_
+4	galassji	_	NOUN	NOUN	_	3	obj	_	_
+5	li	_	SCONJ	COMP	_	7	mark	_	_
+6	qegħdin	_	AUX	PROG	_	7	aux:part	_	_
+7	jinfirxu	_	VERB	VERB	_	4	acl	_	_
+8	b'	_	ADP	PREP	_	11	case	_	SpaceAfter=No
+9	dan	_	PRON	PRON_DEM	_	11	det	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	mod	_	NOUN	NOUN	_	7	obl	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	3	punct	_	_
+13	fil-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	ġewwieni	_	NOUN	NOUN	_	17	obl	_	_
+15	tagħhom	_	PRON	GEN_PRON	_	14	case	_	_
+16	bilfors	_	ADV	ADV	_	17	advmod	_	_
+17	irid	_	VERB	VERB	_	0	root	_	_
+18	ikun	_	AUX	KIEN	_	19	aux	_	_
+19	hemm	_	VERB	HEMM	_	17	xcomp	_	_
+20	ammont	_	NOUN	NOUN	_	19	nsubj	_	_
+21	ta'	_	ADP	GEN	_	22	case	_	_
+22	massa	_	NOUN	NOUN	_	20	nmod:poss	_	_
+23	li	_	SCONJ	COMP	_	26	mark	_	_
+24	mhux	_	PART	PRON_PERS_NEG	_	26	aux:neg	_	_
+25	qegħdin	_	AUX	PROG	_	26	aux:part	_	_
+26	inqiesuha	_	VERB	VERB	_	22	acl	_	_
+27	meta	_	SCONJ	CONJ_SUB	_	28	mark	_	_
+28	ngħoddu	_	VERB	VERB	_	26	advcl	_	_
+29	flimkien	_	ADV	ADV	_	28	advmod	_	_
+30	il-	_	DET	DEF	_	31	det	_	SpaceAfter=No
+31	massa	_	NOUN	NOUN	_	28	obj	_	_
+32	tal-	_	ADP	GEN_DEF	_	33	case:det	_	SpaceAfter=No
+33	partijiet	_	NOUN	NOUN	_	31	nmod:poss	_	_
+34	viżibbli	_	ADJ	ADJ	_	33	amod	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	17	punct	_	_
+
+# sent_id = 58_05N11:37
+# text = Il-lentijiet gravitazzjonali
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	lentijiet	_	NOUN	NOUN	_	0	root	_	_
+3	gravitazzjonali	_	ADJ	ADJ	_	2	amod	_	_
+
+# sent_id = 58_05N11:38
+# text = Il-lentijiet gravitazzjonali jistgħu jkunu prova oħra tal-eżistenza tal-materja skura.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	lentijiet	_	NOUN	NOUN	_	4	nsubj	_	_
+3	gravitazzjonali	_	ADJ	ADJ	_	2	amod	_	_
+4	jistgħu	_	VERB	VERB	_	0	root	_	_
+5	jkunu	_	AUX	KIEN	_	4	xcomp	_	_
+6	prova	_	NOUN	NOUN	_	5	xcomp	_	_
+7	oħra	_	ADJ	ADJ	_	6	amod	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	eżistenza	_	NOUN	NOUN	_	6	nmod:poss	_	_
+10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	materja	_	NOUN	NOUN	_	9	nmod:poss	_	_
+12	skura	_	ADJ	ADJ	_	11	amod	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 58_05N11:39
+# text = Il-massa viżibbli mhijiex biżżejjed biex toħloq lenti gravitazzjonali, għalhekk għal din il-lenti hemm bżonn il-preżenza ta' kwantitajiet enormi ta' materja skura biex ikun hemm massa totali kapaċi li tgħawweġ il-mogħdija tad-dawl.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	massa	_	NOUN	NOUN	_	5	nsubj	_	_
+3	viżibbli	_	ADJ	ADJ	_	2	amod	_	_
+4	mhijiex	_	PART	PRON_PERS_NEG	_	5	aux:neg	_	_
+5	biżżejjed	_	ADV	ADV	_	0	root	_	_
+6	biex	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+7	toħloq	_	VERB	VERB	_	5	xcomp	_	_
+8	lenti	_	NOUN	NOUN	_	7	obj	_	_
+9	gravitazzjonali	_	ADJ	ADJ	_	8	amod	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	5	punct	_	_
+11	għalhekk	_	ADV	ADV	_	16	advmod	_	_
+12	għal	_	ADP	PREP	_	15	case	_	_
+13	din	_	PRON	PRON_DEM	_	15	det	_	_
+14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	lenti	_	NOUN	NOUN	_	16	obl	_	_
+16	hemm	_	VERB	HEMM	_	5	conj	_	_
+17	bżonn	_	NOUN	NOUN	_	16	nsubj	_	_
+18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	preżenza	_	NOUN	NOUN	_	17	nmod:poss	_	_
+20	ta'	_	ADP	GEN	_	21	case	_	_
+21	kwantitajiet	_	NOUN	NOUN	_	19	nmod:poss	_	_
+22	enormi	_	ADJ	ADJ	_	21	amod	_	_
+23	ta'	_	ADP	GEN	_	24	case	_	_
+24	materja	_	NOUN	NOUN	_	21	nmod:poss	_	_
+25	skura	_	ADJ	ADJ	_	24	amod	_	_
+26	biex	_	SCONJ	CONJ_SUB	_	28	mark	_	_
+27	ikun	_	AUX	KIEN	_	28	aux	_	_
+28	hemm	_	VERB	HEMM	_	16	ccomp	_	_
+29	massa	_	NOUN	NOUN	_	28	nsubj	_	_
+30	totali	_	ADJ	ADJ	_	29	amod	_	_
+31	kapaċi	_	ADJ	ADJ	_	29	amod	_	_
+32	li	_	SCONJ	COMP	_	33	mark	_	_
+33	tgħawweġ	_	VERB	VERB	_	31	xcomp	_	_
+34	il-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	mogħdija	_	NOUN	NOUN	_	33	obj	_	_
+36	tad-	_	ADP	GEN_DEF	_	37	case:det	_	SpaceAfter=No
+37	dawl	_	NOUN	NOUN	_	35	nmod:poss	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 58_05N11:40
+# text = Aspetti sperimentali
+1	Aspetti	_	NOUN	NOUN	_	0	root	_	_
+2	sperimentali	_	ADJ	ADJ	_	1	amod	_	_
+
+# sent_id = 58_05N11:41
+# text = Fil-21 ta' Awwissu 2006, in-NASA ħarġet stqarrija għall-istampa li skontha it-teleskopju Chandra sab xhieda diretta tal-eżistenza tal-materja skura fejn jiltagħu żewġ ġemgħat ta' galassji.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	21	_	NUM	X_DIG	_	9	obl	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	Awwissu	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+5	2006	_	NUM	X_DIG	_	4	nummod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	in-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	NASA	_	NOUN	X_ABV	_	9	nsubj	_	_
+9	ħarġet	_	VERB	VERB	_	0	root	_	_
+10	stqarrija	_	NOUN	NOUN	_	9	obj	_	_
+11	għall-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	istampa	_	NOUN	NOUN	_	9	obl	_	_
+13	li	_	SCONJ	COMP	_	18	mark	_	_
+14	skontha	_	PRON	PREP_PRON	_	18	obl	_	_
+15	it-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	teleskopju	_	NOUN	NOUN	_	17	compound	_	_
+17	Chandra	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
+18	sab	_	VERB	VERB	_	10	acl	_	_
+19	xhieda	_	NOUN	NOUN	_	18	obj	_	_
+20	diretta	_	ADJ	ADJ	_	19	amod	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	eżistenza	_	NOUN	NOUN	_	19	nmod:poss	_	_
+23	tal-	_	ADP	GEN_DEF	_	24	case:det	_	SpaceAfter=No
+24	materja	_	NOUN	NOUN	_	22	nmod:poss	_	_
+25	skura	_	ADJ	ADJ	_	24	amod	_	_
+26	fejn	_	PRON	PRON_INT	_	27	advmod	_	_
+27	jiltagħu	_	VERB	VERB	_	19	acl	_	_
+28	żewġ	_	NUM	NUM_CRD	_	29	nummod	_	_
+29	ġemgħat	_	NOUN	NOUN	_	27	nsubj	_	_
+30	ta'	_	ADP	GEN	_	31	case	_	_
+31	galassji	_	NOUN	NOUN	_	29	nmod:poss	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 58_05N11:42
+# text = Fil-bidu tal-2007, l-astronomi tal-Cosmic Evolution Survey u t-Teleskopju spazjali Hubble, permezz ta' tgħarif miksub mit-teleskopju Hubble u minn strumenti fl-art, pinġew mappa tal-materja skura u wrew li dawn jippermeaw l-univers; fejn insibu materja viżibbli jkun hemm ukoll kwantitajiet kbar ta' materja skura, imma din hi preżenti wkoll fiż-żoni fejn m'hemmx materja viżibbli.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	bidu	_	NOUN	NOUN	_	31	obl	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	2007	_	NUM	X_DIG	_	2	nmod:poss	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	2	punct	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	astronomi	_	NOUN	NOUN	_	31	nsubj	_	_
+8	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+9	Cosmic	_	ADJ	ADJ	_	11	amod	_	_
+10	Evolution	_	ADJ	ADJ	_	11	amod	_	_
+11	Survey	_	NOUN	NOUN	_	7	nmod:poss	_	_
+12	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+13	t-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	Teleskopju	_	NOUN	NOUN	_	16	compound	_	_
+15	spazjali	_	ADJ	ADJ	_	14	amod	_	_
+16	Hubble	_	PROPN	NOUN_PROP	_	11	conj	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	20	punct	_	_
+18	permezz	_	NOUN	NOUN	_	20	case	_	_
+19	ta'	_	ADP	GEN	_	18	fixed	_	_
+20	tgħarif	_	NOUN	NOUN	_	31	obl	_	_
+21	miksub	_	VERB	PART_PASS	_	20	acl	_	_
+22	mit-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	teleskopju	_	NOUN	NOUN	_	24	compound	_	_
+24	Hubble	_	PROPN	NOUN_PROP	_	21	obl:agent	_	_
+25	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+26	minn	_	ADP	PREP	_	27	case	_	_
+27	strumenti	_	NOUN	NOUN	_	24	conj	_	_
+28	fl-	_	ADP	PREP_DEF	_	29	case:det	_	SpaceAfter=No
+29	art	_	NOUN	NOUN	_	27	nmod	_	SpaceAfter=No
+30	,	_	PUNCT	X_PUN	_	20	punct	_	_
+31	pinġew	_	VERB	VERB	_	0	root	_	_
+32	mappa	_	NOUN	NOUN	_	31	obj	_	_
+33	tal-	_	ADP	GEN_DEF	_	34	case:det	_	SpaceAfter=No
+34	materja	_	NOUN	NOUN	_	32	nmod:poss	_	_
+35	skura	_	ADJ	ADJ	_	34	amod	_	_
+36	u	_	CCONJ	CONJ_CORD	_	37	cc	_	_
+37	wrew	_	VERB	VERB	_	31	conj	_	_
+38	li	_	SCONJ	COMP	_	40	mark	_	_
+39	dawn	_	PRON	PRON_DEM	_	40	nsubj	_	_
+40	jippermeaw	_	VERB	VERB	_	37	ccomp	_	_
+41	l-	_	DET	DEF	_	42	det	_	SpaceAfter=No
+42	univers	_	NOUN	NOUN	_	40	obj	_	SpaceAfter=No
+43	;	_	PUNCT	X_PUN	_	31	punct	_	_
+44	fejn	_	PRON	PRON_INT	_	45	advmod	_	_
+45	insibu	_	VERB	VERB	_	49	advcl	_	_
+46	materja	_	NOUN	NOUN	_	45	obj	_	_
+47	viżibbli	_	ADJ	ADJ	_	46	amod	_	_
+48	jkun	_	AUX	KIEN	_	49	aux	_	_
+49	hemm	_	VERB	HEMM	_	31	parataxis	_	_
+50	ukoll	_	ADV	FOC	_	51	discourse	_	_
+51	kwantitajiet	_	NOUN	NOUN	_	49	nsubj	_	_
+52	kbar	_	ADJ	ADJ	_	51	amod	_	_
+53	ta'	_	ADP	GEN	_	54	case	_	_
+54	materja	_	NOUN	NOUN	_	51	nmod:poss	_	_
+55	skura	_	ADJ	ADJ	_	54	amod	_	SpaceAfter=No
+56	,	_	PUNCT	X_PUN	_	49	punct	_	_
+57	imma	_	CCONJ	CONJ_CORD	_	60	cc	_	_
+58	din	_	PRON	PRON_DEM	_	60	nsubj	_	_
+59	hi	_	PRON	PRON_PERS	_	60	cop	_	_
+60	preżenti	_	ADJ	ADJ	_	49	conj	_	_
+61	wkoll	_	ADV	FOC	_	63	discourse	_	_
+62	fiż-	_	ADP	PREP_DEF	_	63	case:det	_	SpaceAfter=No
+63	żoni	_	NOUN	NOUN	_	60	obl	_	_
+64	fejn	_	PRON	PRON_INT	_	66	advmod	_	_
+65	m'	_	PART	NEG	_	66	aux:neg	_	SpaceAfter=No
+66	hemmx	_	VERB	HEMM	_	63	acl	_	_
+67	materja	_	NOUN	NOUN	_	66	nsubj	_	_
+68	viżibbli	_	ADJ	ADJ	_	67	amod	_	SpaceAfter=No
+69	.	_	PUNCT	X_PUN	_	31	punct	_	_
+
+# sent_id = 58_05N11:43
+# text = Fit-3 Ta' April 2013, ix-xjenzjati tan-NASA qalu li l-Alpha Magnetic Spectrometer fuq l-Istazzjon Spazjali Internazzjonali x'aktarx innota traċċja ta' materja skura.
+1	Fit-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	3	_	NUM	X_DIG	_	11	obl	_	_
+3	Ta'	_	ADP	GEN	_	4	case	_	_
+4	April	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+5	2013	_	NUM	X_DIG	_	4	nummod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	ix-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	xjenzjati	_	NOUN	NOUN	_	11	nsubj	_	_
+9	tan-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
+10	NASA	_	NOUN	X_ABV	_	8	nmod:poss	_	_
+11	qalu	_	VERB	VERB	_	0	root	_	_
+12	li	_	SCONJ	COMP	_	24	mark	_	_
+13	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+14	Alpha	_	ADJ	ADJ	_	16	amod	_	_
+15	Magnetic	_	ADJ	ADJ	_	16	amod	_	_
+16	Spectrometer	_	NOUN	NOUN	_	24	nsubj	_	_
+17	fuq	_	ADP	PREP	_	19	case	_	_
+18	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	Istazzjon	_	NOUN	NOUN	_	16	nmod	_	_
+20	Spazjali	_	ADJ	ADJ	_	19	amod	_	_
+21	Internazzjonali	_	ADJ	ADJ	_	19	amod	_	_
+22	x'	_	PRON	PRON_INT	_	24	advmod	_	SpaceAfter=No
+23	aktarx	_	ADV	ADV	_	22	fixed	_	_
+24	innota	_	VERB	VERB	_	11	ccomp	_	_
+25	traċċja	_	NOUN	NOUN	_	24	obj	_	_
+26	ta'	_	ADP	GEN	_	27	case	_	_
+27	materja	_	NOUN	NOUN	_	25	nmod:poss	_	_
+28	skura	_	ADJ	ADJ	_	27	amod	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 58_05N11:44
+# text = L-ewwel riżultati tal-iSpaceborne Alpha Magnetic Spectrometer urew eċċess ta' pożitroni b'enerġija għolja fir-raġġi kożmiċi, li nistgħu nispjegah bil-preżenza tal-materja skura.
+1	L-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+2	ewwel	_	NUM	NUM_ORD	_	3	amod	_	_
+3	riżultati	_	NOUN	NOUN	_	9	nsubj	_	_
+4	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+5	iSpaceborne	_	ADJ	ADJ	_	8	amod	_	_
+6	Alpha	_	ADJ	ADJ	_	8	amod	_	_
+7	Magnetic	_	ADJ	ADJ	_	8	amod	_	_
+8	Spectrometer	_	NOUN	NOUN	_	3	nmod:poss	_	_
+9	urew	_	VERB	VERB	_	0	root	_	_
+10	eċċess	_	NOUN	NOUN	_	9	obj	_	_
+11	ta'	_	ADP	GEN	_	12	case	_	_
+12	pożitroni	_	NOUN	NOUN	_	10	nmod:poss	_	_
+13	b'	_	ADP	PREP	_	14	case	_	SpaceAfter=No
+14	enerġija	_	NOUN	NOUN	_	12	nmod	_	_
+15	għolja	_	ADJ	ADJ	_	14	amod	_	_
+16	fir-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	raġġi	_	NOUN	NOUN	_	10	nmod	_	_
+18	kożmiċi	_	ADJ	ADJ	_	17	amod	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	10	punct	_	_
+20	li	_	SCONJ	COMP	_	21	mark	_	_
+21	nistgħu	_	VERB	VERB	_	10	acl	_	_
+22	nispjegah	_	VERB	VERB	_	21	xcomp	_	_
+23	bil-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
+24	preżenza	_	NOUN	NOUN	_	22	obl	_	_
+25	tal-	_	ADP	GEN_DEF	_	26	case:det	_	SpaceAfter=No
+26	materja	_	NOUN	NOUN	_	24	nmod:poss	_	_
+27	skura	_	ADJ	ADJ	_	26	amod	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 58_05N11:45
+# text = Ipoteżijiet dwar il-materja skura
+1	Ipoteżijiet	_	NOUN	NOUN	_	0	root	_	_
+2	dwar	_	ADP	PREP	_	4	case	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	materja	_	NOUN	NOUN	_	1	nmod	_	_
+5	skura	_	ADJ	ADJ	_	4	amod	_	_
+
+# sent_id = 58_05N11:46
+# text = L-ipoteżijiet prevalenti
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ipoteżijiet	_	NOUN	NOUN	_	0	root	_	_
+3	prevalenti	_	ADJ	ADJ	_	2	amod	_	_
+
+# sent_id = 58_05N11:47
+# text = Fil-letteratura dehru bosta teoriji biex jispegaw in-natura ta' dik li tissejjaħ "massa nieqsa", marbuta ma' diversi fenomeni.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	letteratura	_	NOUN	NOUN	_	3	obl	_	_
+3	dehru	_	VERB	VERB	_	0	root	_	_
+4	bosta	_	DET	QUAN	_	5	det	_	_
+5	teoriji	_	NOUN	NOUN	_	3	nsubj	_	_
+6	biex	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+7	jispegaw	_	VERB	VERB	_	3	xcomp	_	_
+8	in-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	natura	_	NOUN	NOUN	_	7	obj	_	_
+10	ta'	_	ADP	GEN	_	11	case	_	_
+11	dik	_	PRON	PRON_DEM	_	9	nmod:poss	_	_
+12	li	_	SCONJ	COMP	_	13	mark	_	_
+13	tissejjaħ	_	VERB	VERB	_	11	acl	_	_
+14	"	_	PUNCT	X_PUN	_	15	punct	_	SpaceAfter=No
+15	massa	_	NOUN	NOUN	_	13	obj	_	_
+16	nieqsa	_	VERB	PART_ACT	_	15	amod	_	SpaceAfter=No
+17	"	_	PUNCT	X_PUN	_	15	punct	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	19	punct	_	_
+19	marbuta	_	VERB	PART_PASS	_	15	acl	_	_
+20	ma'	_	ADP	PREP	_	22	case	_	_
+21	diversi	_	ADJ	ADJ	_	22	amod	_	_
+22	fenomeni	_	NOUN	NOUN	_	19	obl	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 58_05N11:48
+# text = Il-materja skura kieku tinsab fid-"dlam" madwar il-kwiekeb u tinqasam b'mod fondamentali f'barjonika u mhux barjonika:
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	materja	_	NOUN	NOUN	_	5	nsubj:pass	_	_
+3	skura	_	ADJ	ADJ	_	2	amod	_	_
+4	kieku	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	tinsab	_	VERB	VERB	_	0	root	_	_
+6	fid-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+7	"	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+8	dlam	_	NOUN	NOUN	_	5	obl	_	SpaceAfter=No
+9	"	_	PUNCT	X_PUN	_	8	punct	_	_
+10	madwar	_	ADP	PREP	_	12	case	_	_
+11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	kwiekeb	_	NOUN	NOUN	_	8	nmod	_	_
+13	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+14	tinqasam	_	VERB	VERB	_	5	conj	_	_
+15	b'	_	ADP	PREP	_	16	case	_	SpaceAfter=No
+16	mod	_	NOUN	NOUN	_	14	obl	_	_
+17	fondamentali	_	ADJ	ADJ	_	16	amod	_	_
+18	f'	_	ADP	PREP	_	19	case	_	SpaceAfter=No
+19	barjonika	_	NOUN	NOUN	_	14	obl:arg	_	_
+20	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
+21	mhux	_	PART	PRON_PERS_NEG	_	22	aux:neg	_	_
+22	barjonika	_	NOUN	NOUN	_	19	conj	_	SpaceAfter=No
+23	:	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 58_05N11:49
+# text = Il-materja skura barjonika hi dik magħmula minn materja li hi għal kollox simili għal dik li tikkonstistwixxi l-istilel, il-pjaneti, it-trab interstellari, eċċ., li però ma titfax radjazzjoni.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	materja	_	NOUN	NOUN	_	6	nsubj	_	_
+3	skura	_	ADJ	ADJ	_	2	amod	_	_
+4	barjonika	_	ADJ	ADJ	_	2	amod	_	_
+5	hi	_	PRON	PRON_PERS	_	6	cop	_	_
+6	dik	_	PRON	PRON_DEM	_	0	root	_	_
+7	magħmula	_	VERB	PART_PASS	_	6	acl	_	_
+8	minn	_	ADP	PREP	_	9	case	_	_
+9	materja	_	NOUN	NOUN	_	7	obl:agent	_	_
+10	li	_	SCONJ	COMP	_	14	mark	_	_
+11	hi	_	PRON	PRON_PERS	_	14	cop	_	_
+12	għal	_	ADP	PREP	_	13	case	_	_
+13	kollox	_	PRON	PRON_INDEF	_	14	obl	_	_
+14	simili	_	ADJ	ADJ	_	9	amod	_	_
+15	għal	_	ADP	PREP	_	16	case	_	_
+16	dik	_	PRON	PRON_DEM	_	14	obl	_	_
+17	li	_	SCONJ	COMP	_	18	mark	_	_
+18	tikkonstistwixxi	_	VERB	VERB	_	16	acl	_	_
+19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	istilel	_	NOUN	NOUN	_	18	obj	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	20	punct	_	_
+22	il-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	pjaneti	_	NOUN	NOUN	_	20	conj	_	SpaceAfter=No
+24	,	_	PUNCT	X_PUN	_	20	punct	_	_
+25	it-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	trab	_	NOUN	NOUN	_	20	conj	_	_
+27	interstellari	_	ADJ	ADJ	_	26	amod	_	SpaceAfter=No
+28	,	_	PUNCT	X_PUN	_	20	punct	_	_
+29	eċċ	_	NOUN	X_ABV	_	20	conj	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	29	punct	_	SpaceAfter=No
+31	,	_	PUNCT	X_PUN	_	18	punct	_	_
+32	li	_	SCONJ	COMP	_	35	mark	_	_
+33	però	_	CCONJ	CONJ_CORD	_	35	cc	_	_
+34	ma	_	PART	NEG	_	35	aux:neg	_	_
+35	titfax	_	VERB	VERB	_	18	conj	_	_
+36	radjazzjoni	_	NOUN	NOUN	_	35	obj	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 58_05N11:50
+# text = Insibu xi kostitwenti oħra possibbli tal-materja skura barjonika fil-MACHO (Massive Compact Halo Objects), oġġetti kompatti ta' massa kbira fir-raġġiera galattika.
+1	Insibu	_	VERB	VERB	_	0	root	_	_
+2	xi	_	DET	QUAN	_	3	det	_	_
+3	kostitwenti	_	NOUN	NOUN	_	1	obj	_	_
+4	oħra	_	ADJ	ADJ	_	3	amod	_	_
+5	possibbli	_	ADJ	ADJ	_	3	amod	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	materja	_	NOUN	NOUN	_	3	nmod:poss	_	_
+8	skura	_	ADJ	ADJ	_	7	amod	_	_
+9	barjonika	_	ADJ	ADJ	_	7	amod	_	_
+10	fil-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	MACHO	_	NOUN	X_ABV	_	1	obl	_	_
+12	(	_	PUNCT	X_PUN	_	13	punct	_	SpaceAfter=No
+13	Massive	_	X	X_ENG	_	11	appos	_	_
+14	Compact	_	X	X_ENG	_	13	flat	_	_
+15	Halo	_	X	X_ENG	_	13	flat	_	_
+16	Objects	_	X	X_ENG	_	13	flat	_	SpaceAfter=No
+17	)	_	PUNCT	X_PUN	_	13	punct	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	11	punct	_	_
+19	oġġetti	_	NOUN	NOUN	_	11	appos	_	_
+20	kompatti	_	ADJ	ADJ	_	19	amod	_	_
+21	ta'	_	ADP	GEN	_	22	case	_	_
+22	massa	_	NOUN	NOUN	_	19	nmod:poss	_	_
+23	kbira	_	ADJ	ADJ	_	22	amod	_	_
+24	fir-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
+25	raġġiera	_	NOUN	NOUN	_	19	nmod	_	_
+26	galattika	_	ADJ	ADJ	_	25	amod	_	SpaceAfter=No
+27	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:51
+# text = Il-materja skura mhux barjonika hi rappreżentata prinċipalment mill-partiċelli ipotetiċi WIMP (Weakly Interacting Massive Particles), mogħnija minn massa unitarja kbira, komposti minn materja intrinsekament differenti minn dik barjonika u jinteraġixxu b'mod dgħajjef magħha u għalhekk diffiċli li nsibuhom.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	materja	_	NOUN	NOUN	_	7	nsubj:pass	_	_
+3	skura	_	ADJ	ADJ	_	2	amod	_	_
+4	mhux	_	PART	PRON_PERS_NEG	_	5	aux:neg	_	_
+5	barjonika	_	ADJ	ADJ	_	2	amod	_	_
+6	hi	_	PRON	PRON_PERS	_	7	cop	_	_
+7	rappreżentata	_	VERB	PART_PASS	_	0	root	_	_
+8	prinċipalment	_	ADV	ADV	_	7	advmod	_	_
+9	mill-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	partiċelli	_	NOUN	NOUN	_	12	compound	_	_
+11	ipotetiċi	_	ADJ	ADJ	_	10	amod	_	_
+12	WIMP	_	NOUN	X_ABV	_	7	obl:agent	_	_
+13	(	_	PUNCT	X_PUN	_	14	punct	_	SpaceAfter=No
+14	Weakly	_	X	X_ENG	_	12	appos	_	_
+15	Interacting	_	X	X_ENG	_	14	flat	_	_
+16	Massive	_	X	X_ENG	_	14	flat	_	_
+17	Particles	_	X	X_ENG	_	14	flat	_	SpaceAfter=No
+18	)	_	PUNCT	X_PUN	_	14	punct	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	12	punct	_	_
+20	mogħnija	_	VERB	PART_PASS	_	12	acl	_	_
+21	minn	_	ADP	PREP	_	22	case	_	_
+22	massa	_	NOUN	NOUN	_	20	obl:agent	_	_
+23	unitarja	_	ADJ	ADJ	_	22	amod	_	_
+24	kbira	_	ADJ	ADJ	_	22	amod	_	SpaceAfter=No
+25	,	_	PUNCT	X_PUN	_	20	punct	_	_
+26	komposti	_	VERB	PART_PASS	_	20	conj	_	_
+27	minn	_	ADP	PREP	_	28	case	_	_
+28	materja	_	NOUN	NOUN	_	26	obl:agent	_	_
+29	intrinsekament	_	ADV	ADV	_	30	advmod	_	_
+30	differenti	_	ADJ	ADJ	_	28	amod	_	_
+31	minn	_	ADP	PREP	_	32	case	_	_
+32	dik	_	PRON	PRON_DEM	_	28	det	_	_
+33	barjonika	_	ADJ	ADJ	_	32	amod	_	_
+34	u	_	CCONJ	CONJ_CORD	_	35	cc	_	_
+35	jinteraġixxu	_	VERB	VERB	_	20	conj	_	_
+36	b'	_	ADP	PREP	_	37	case	_	SpaceAfter=No
+37	mod	_	NOUN	NOUN	_	35	obl	_	_
+38	dgħajjef	_	ADJ	ADJ	_	37	amod	_	_
+39	magħha	_	PRON	PREP_PRON	_	35	obl:arg	_	_
+40	u	_	CCONJ	CONJ_CORD	_	42	cc	_	_
+41	għalhekk	_	ADV	ADV	_	42	advmod	_	_
+42	diffiċli	_	ADJ	ADJ	_	35	conj	_	_
+43	li	_	SCONJ	COMP	_	44	mark	_	_
+44	nsibuhom	_	VERB	VERB	_	42	ccomp	_	SpaceAfter=No
+45	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 58_05N11:52
+# text = Hemm min jaħseb li nistgħu nittrattawhom bħala partiċelli supersimmetriċi bħan-newtralini, jew in-newtrini bil-massa, jew assjoni, jew partiċelli oħra li mhuma osservati qatt u soġġetti biss għall-forza gravitazzjonali u għall-interazzjoni nukleari dgħajfa.
+1	Hemm	_	VERB	HEMM	_	0	root	_	_
+2	min	_	PRON	PRON_INT	_	1	nsubj	_	_
+3	jaħseb	_	VERB	VERB	_	2	acl	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	nistgħu	_	VERB	VERB	_	3	ccomp	_	_
+6	nittrattawhom	_	VERB	VERB	_	5	xcomp	_	_
+7	bħala	_	ADP	PREP	_	8	case	_	_
+8	partiċelli	_	NOUN	NOUN	_	6	obl	_	_
+9	supersimmetriċi	_	ADJ	ADJ	_	8	amod	_	_
+10	bħan-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	newtralini	_	NOUN	NOUN	_	8	nmod	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	11	punct	_	_
+13	jew	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+14	in-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	newtrini	_	NOUN	NOUN	_	11	conj	_	_
+16	bil-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	massa	_	NOUN	NOUN	_	15	nmod	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	11	punct	_	_
+19	jew	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+20	assjoni	_	NOUN	NOUN	_	11	conj	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	11	punct	_	_
+22	jew	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+23	partiċelli	_	NOUN	NOUN	_	11	conj	_	_
+24	oħra	_	ADJ	ADJ	_	23	amod	_	_
+25	li	_	SCONJ	COMP	_	27	mark	_	_
+26	mhuma	_	AUX	PRON_PERS_NEG	_	27	cop	_	_
+27	osservati	_	VERB	PART_PASS	_	23	acl	_	_
+28	qatt	_	ADV	ADV	_	27	advmod	_	_
+29	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
+30	soġġetti	_	VERB	PART_PASS	_	27	conj	_	_
+31	biss	_	ADV	FOC	_	33	discourse	_	_
+32	għall-	_	ADP	PREP_DEF	_	33	case:det	_	SpaceAfter=No
+33	forza	_	NOUN	NOUN	_	30	obl	_	_
+34	gravitazzjonali	_	ADJ	ADJ	_	33	amod	_	_
+35	u	_	CCONJ	CONJ_CORD	_	37	cc	_	_
+36	għall-	_	ADP	PREP_DEF	_	37	case:det	_	SpaceAfter=No
+37	interazzjoni	_	NOUN	NOUN	_	33	conj	_	_
+38	nukleari	_	ADJ	ADJ	_	37	amod	_	_
+39	dgħajfa	_	ADJ	ADJ	_	37	amod	_	SpaceAfter=No
+40	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:53
+# text = Hemm tliet tipi ta' esperimenti li jippruvaw juru dawn il-partiċelli: I) billi jinħalqu f'aċċeleraturi ta' partiċelli, II) billi jqisu l-enerġija li għandhom jitilqu meta jaħbtu mal-materja ordinarja, III) it-tixjin bejn partiċelli ta' materja skura preżenti madwar iċ-ċentru tal-galassja jew tax-xemx jista' jagħti partiċelli normali, bħal newtrini, pożitroni, antiprotoni.
+1	Hemm	_	VERB	HEMM	_	0	root	_	_
+2	tliet	_	NUM	NUM_CRD	_	3	nummod	_	_
+3	tipi	_	NOUN	NOUN	_	1	nsubj	_	_
+4	ta'	_	ADP	GEN	_	5	case	_	_
+5	esperimenti	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	li	_	SCONJ	COMP	_	7	mark	_	_
+7	jippruvaw	_	VERB	VERB	_	5	acl	_	_
+8	juru	_	VERB	VERB	_	7	xcomp	_	_
+9	dawn	_	PRON	PRON_DEM	_	11	det	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	partiċelli	_	NOUN	NOUN	_	8	obj	_	SpaceAfter=No
+12	:	_	PUNCT	X_PUN	_	1	punct	_	_
+13	I	_	SYM	X_BOR	_	16	list	_	SpaceAfter=No
+14	)	_	PUNCT	X_PUN	_	13	punct	_	_
+15	billi	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+16	jinħalqu	_	VERB	VERB	_	7	advcl	_	_
+17	f'	_	ADP	PREP	_	18	case	_	SpaceAfter=No
+18	aċċeleraturi	_	NOUN	NOUN	_	16	obl	_	_
+19	ta'	_	ADP	GEN	_	20	case	_	_
+20	partiċelli	_	NOUN	NOUN	_	18	nmod:poss	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	16	punct	_	_
+22	II	_	SYM	X_BOR	_	25	list	_	SpaceAfter=No
+23	)	_	PUNCT	X_PUN	_	22	punct	_	_
+24	billi	_	SCONJ	CONJ_SUB	_	25	mark	_	_
+25	jqisu	_	VERB	VERB	_	16	conj	_	_
+26	l-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+27	enerġija	_	NOUN	NOUN	_	25	obj	_	_
+28	li	_	SCONJ	COMP	_	29	mark	_	_
+29	għandhom	_	VERB	VERB_PSEU	_	27	acl	_	_
+30	jitilqu	_	VERB	VERB	_	29	xcomp	_	_
+31	meta	_	SCONJ	CONJ_SUB	_	32	mark	_	_
+32	jaħbtu	_	VERB	VERB	_	30	advcl	_	_
+33	mal-	_	ADP	PREP_DEF	_	34	case:det	_	SpaceAfter=No
+34	materja	_	NOUN	NOUN	_	32	obl	_	_
+35	ordinarja	_	ADJ	ADJ	_	34	amod	_	SpaceAfter=No
+36	,	_	PUNCT	X_PUN	_	25	punct	_	_
+37	III	_	SYM	X_BOR	_	40	list	_	SpaceAfter=No
+38	)	_	PUNCT	X_PUN	_	37	punct	_	_
+39	it-	_	DET	DEF	_	40	det	_	SpaceAfter=No
+40	tixjin	_	NOUN	NOUN	_	55	nsubj	_	_
+41	bejn	_	ADP	PREP	_	42	case	_	_
+42	partiċelli	_	NOUN	NOUN	_	40	nmod	_	_
+43	ta'	_	ADP	GEN	_	44	case	_	_
+44	materja	_	NOUN	NOUN	_	42	nmod:poss	_	_
+45	skura	_	ADJ	ADJ	_	44	amod	_	_
+46	preżenti	_	ADJ	ADJ	_	44	acl	_	_
+47	madwar	_	ADP	PREP	_	49	case	_	_
+48	iċ-	_	DET	DEF	_	49	det	_	SpaceAfter=No
+49	ċentru	_	NOUN	NOUN	_	46	obl	_	_
+50	tal-	_	ADP	GEN_DEF	_	51	case:det	_	SpaceAfter=No
+51	galassja	_	NOUN	NOUN	_	49	nmod:poss	_	_
+52	jew	_	CCONJ	CONJ_CORD	_	54	cc	_	_
+53	tax-	_	ADP	GEN_DEF	_	54	case:det	_	SpaceAfter=No
+54	xemx	_	NOUN	NOUN	_	51	conj	_	_
+55	jista'	_	VERB	VERB	_	16	conj	_	_
+56	jagħti	_	VERB	VERB	_	55	xcomp	_	_
+57	partiċelli	_	NOUN	NOUN	_	56	obj	_	_
+58	normali	_	ADJ	ADJ	_	57	amod	_	SpaceAfter=No
+59	,	_	PUNCT	X_PUN	_	57	punct	_	_
+60	bħal	_	ADP	PREP	_	61	case	_	_
+61	newtrini	_	NOUN	NOUN	_	57	nmod	_	SpaceAfter=No
+62	,	_	PUNCT	X_PUN	_	61	punct	_	_
+63	pożitroni	_	NOUN	NOUN	_	61	conj	_	SpaceAfter=No
+64	,	_	PUNCT	X_PUN	_	61	punct	_	_
+65	antiprotoni	_	NOUN	NOUN	_	61	conj	_	SpaceAfter=No
+66	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:54
+# text = Barra minn hekk, l-iskoperta li n-newtrino għandu xi massa, għalkemm estremament baxxa, jagħmlu kandidat biex jirrappreżenta almenu parti mill-materja skura u jista' jispjega parzjalment il-massa żejda fil-ġemgħat u superġemgħat ta' galassji, imma mhux ta' galassja waħda, għax huma jimxu b'veloċità qrib ta' dik tad-dawl u mument jew ieħor jaħarbu mill-ġibda gravitazzjonali tagħha u joħorġu minnha.
+1	Barra	_	ADV	ADV	_	18	advmod	_	_
+2	minn	_	ADP	PREP	_	3	case	_	_
+3	hekk	_	ADV	ADV	_	1	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	1	punct	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	iskoperta	_	NOUN	NOUN	_	18	nsubj	_	_
+7	li	_	SCONJ	COMP	_	10	mark	_	_
+8	n-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	newtrino	_	NOUN	NOUN	_	10	nsubj	_	_
+10	għandu	_	VERB	VERB_PSEU	_	6	acl	_	_
+11	xi	_	DET	QUAN	_	12	det	_	_
+12	massa	_	NOUN	NOUN	_	10	obj	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	16	punct	_	_
+14	għalkemm	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+15	estremament	_	ADV	ADV	_	16	advmod	_	_
+16	baxxa	_	ADJ	ADJ	_	12	acl	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	16	punct	_	_
+18	jagħmlu	_	VERB	VERB	_	0	root	_	_
+19	kandidat	_	NOUN	NOUN	_	18	obj	_	_
+20	biex	_	SCONJ	CONJ_SUB	_	21	mark	_	_
+21	jirrappreżenta	_	VERB	VERB	_	18	xcomp	_	_
+22	almenu	_	ADV	ADV	_	23	advmod	_	_
+23	parti	_	NOUN	NOUN	_	21	obj	_	_
+24	mill-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
+25	materja	_	NOUN	NOUN	_	23	nmod	_	_
+26	skura	_	ADJ	ADJ	_	25	amod	_	_
+27	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+28	jista'	_	VERB	VERB	_	21	conj	_	_
+29	jispjega	_	VERB	VERB	_	28	xcomp	_	_
+30	parzjalment	_	ADV	ADV	_	29	advmod	_	_
+31	il-	_	DET	DEF	_	32	det	_	SpaceAfter=No
+32	massa	_	NOUN	NOUN	_	29	obj	_	_
+33	żejda	_	ADJ	ADJ	_	32	amod	_	_
+34	fil-	_	ADP	PREP_DEF	_	35	case:det	_	SpaceAfter=No
+35	ġemgħat	_	NOUN	NOUN	_	32	nmod	_	_
+36	u	_	CCONJ	CONJ_CORD	_	37	cc	_	_
+37	superġemgħat	_	NOUN	NOUN	_	35	conj	_	_
+38	ta'	_	ADP	GEN	_	39	case	_	_
+39	galassji	_	NOUN	NOUN	_	37	nmod:poss	_	SpaceAfter=No
+40	,	_	PUNCT	X_PUN	_	37	punct	_	_
+41	imma	_	CCONJ	CONJ_CORD	_	44	cc	_	_
+42	mhux	_	PART	PRON_PERS_NEG	_	44	aux:neg	_	_
+43	ta'	_	ADP	GEN	_	44	case	_	_
+44	galassja	_	NOUN	NOUN	_	32	conj	_	_
+45	waħda	_	NUM	NUM_WHD	_	44	det	_	SpaceAfter=No
+46	,	_	PUNCT	X_PUN	_	44	punct	_	_
+47	għax	_	SCONJ	CONJ_SUB	_	49	mark	_	_
+48	huma	_	PRON	PRON_PERS	_	49	nsubj	_	_
+49	jimxu	_	VERB	VERB	_	29	advcl	_	_
+50	b'	_	ADP	PREP	_	51	case	_	SpaceAfter=No
+51	veloċità	_	NOUN	NOUN	_	49	obl	_	_
+52	qrib	_	ADP	PREP	_	54	case	_	_
+53	ta'	_	ADP	GEN	_	52	fixed	_	_
+54	dik	_	PRON	PRON_DEM	_	51	nmod	_	_
+55	tad-	_	ADP	GEN_DEF	_	56	case:det	_	SpaceAfter=No
+56	dawl	_	NOUN	NOUN	_	54	nmod:poss	_	_
+57	u	_	CCONJ	CONJ_CORD	_	61	cc	_	_
+58	mument	_	NOUN	NOUN	_	61	obl	_	_
+59	jew	_	CCONJ	CONJ_CORD	_	60	cc	_	_
+60	ieħor	_	ADJ	ADJ	_	58	conj	_	_
+61	jaħarbu	_	VERB	VERB	_	49	conj	_	_
+62	mill-	_	ADP	PREP_DEF	_	63	case:det	_	SpaceAfter=No
+63	ġibda	_	NOUN	NOUN	_	61	obl	_	_
+64	gravitazzjonali	_	ADJ	ADJ	_	63	amod	_	_
+65	tagħha	_	PRON	GEN_PRON	_	63	case	_	_
+66	u	_	CCONJ	CONJ_CORD	_	67	cc	_	_
+67	joħorġu	_	VERB	VERB	_	61	conj	_	_
+68	minnha	_	PRON	PREP_PRON	_	67	obl	_	SpaceAfter=No
+69	.	_	PUNCT	X_PUN	_	18	punct	_	_
+
+# sent_id = 58_05N11:55
+# text = Jaħsbu li mill-inqas 90 % tal-materja skura mhijiex barjonika.
+1	Jaħsbu	_	VERB	VERB	_	0	root	_	_
+2	li	_	SCONJ	COMP	_	11	mark	_	_
+3	mill-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	inqas	_	ADJ	ADJ	_	6	amod	_	_
+5	90	_	NUM	X_DIG	_	6	nummod	_	_
+6	%	_	PUNCT	X_PUN	_	11	punct	_	_
+7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	materja	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	skura	_	ADJ	ADJ	_	8	amod	_	_
+10	mhijiex	_	AUX	PRON_PERS_NEG	_	11	cop	_	_
+11	barjonika	_	ADJ	ADJ	_	1	ccomp	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:56
+# text = Infatti, billi l-abbondanza kożmika tad-dewterju (atomu tad-dewterju għal kull 100000 ta' idroġenu) hi estremament sensibbli għad-densità tal-materja fil-forma ta' barjoni, kieku d-densità barjonika kienet ogħla il-preżenza tad-dewterju kienet tkun ħafna iżjed baxxa.
+1	Infatti	_	ADV	ADV	_	45	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	billi	_	SCONJ	CONJ_SUB	_	21	mark	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	abbondanza	_	NOUN	NOUN	_	21	nsubj	_	_
+6	kożmika	_	ADJ	ADJ	_	5	amod	_	_
+7	tad-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	dewterju	_	NOUN	NOUN	_	5	nmod:poss	_	_
+9	(	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+10	atomu	_	NOUN	NOUN	_	8	appos	_	_
+11	tad-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
+12	dewterju	_	NOUN	NOUN	_	10	nmod:poss	_	_
+13	għal	_	ADP	PREP	_	15	case	_	_
+14	kull	_	DET	QUAN	_	15	det	_	_
+15	100000	_	NUM	X_DIG	_	10	nmod	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	idroġenu	_	NOUN	NOUN	_	15	nmod:poss	_	SpaceAfter=No
+18	)	_	PUNCT	X_PUN	_	10	punct	_	_
+19	hi	_	PRON	PRON_PERS	_	21	cop	_	_
+20	estremament	_	ADV	ADV	_	21	advmod	_	_
+21	sensibbli	_	ADJ	ADJ	_	45	advcl	_	_
+22	għad-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	densità	_	NOUN	NOUN	_	21	obl	_	_
+24	tal-	_	ADP	GEN_DEF	_	25	case:det	_	SpaceAfter=No
+25	materja	_	NOUN	NOUN	_	23	nmod:poss	_	_
+26	fil-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
+27	forma	_	NOUN	NOUN	_	25	nmod	_	_
+28	ta'	_	ADP	GEN	_	29	case	_	_
+29	barjoni	_	NOUN	NOUN	_	27	nmod:poss	_	SpaceAfter=No
+30	,	_	PUNCT	X_PUN	_	21	punct	_	_
+31	kieku	_	SCONJ	CONJ_SUB	_	36	mark	_	_
+32	d-	_	DET	DEF	_	33	det	_	SpaceAfter=No
+33	densità	_	NOUN	NOUN	_	36	nsubj	_	_
+34	barjonika	_	ADJ	ADJ	_	33	amod	_	_
+35	kienet	_	AUX	KIEN	_	36	cop	_	_
+36	ogħla	_	ADJ	ADJ	_	45	advcl	_	_
+37	il-	_	DET	DEF	_	38	det	_	SpaceAfter=No
+38	preżenza	_	NOUN	NOUN	_	45	nsubj	_	_
+39	tad-	_	ADP	GEN_DEF	_	40	case:det	_	SpaceAfter=No
+40	dewterju	_	NOUN	NOUN	_	38	nmod:poss	_	_
+41	kienet	_	AUX	KIEN	_	45	aux	_	_
+42	tkun	_	AUX	KIEN	_	45	cop	_	_
+43	ħafna	_	ADV	ADV	_	45	advmod	_	_
+44	iżjed	_	ADV	ADV	_	45	advmod	_	_
+45	baxxa	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+46	.	_	PUNCT	X_PUN	_	45	punct	_	_
+
+# sent_id = 58_05N11:57
+# text = Bil-kuntrarju l-abbundanza osservata tad-dewterju hi kompatibbli mad-densità tal-materja osservata.
+1	Bil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	kuntrarju	_	NOUN	NOUN	_	9	obl	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	abbundanza	_	NOUN	NOUN	_	9	nsubj	_	_
+5	osservata	_	VERB	PART_PASS	_	4	amod	_	_
+6	tad-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	dewterju	_	NOUN	NOUN	_	4	nmod:poss	_	_
+8	hi	_	PRON	PRON_PERS	_	9	cop	_	_
+9	kompatibbli	_	ADJ	ADJ	_	0	root	_	_
+10	mad-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	densità	_	NOUN	NOUN	_	9	obl	_	_
+12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	materja	_	NOUN	NOUN	_	11	nmod:poss	_	_
+14	osservata	_	VERB	PART_PASS	_	13	amod	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 58_05N11:58
+# text = Qed issir ukoll distinzjoni bejn il-"materja skura kisħa", irrappreżentata essenzjalmente mill-partiċelli ipotetiċi tal-"lenti" WIMP, u l-"materja skura sħuna", irrappreżentata min-newtrini, li, kif għedna, huma partiċelli superveloċi.
+1	Qed	_	AUX	PROG	_	2	aux:part	_	_
+2	issir	_	VERB	VERB	_	0	root	_	_
+3	ukoll	_	ADV	FOC	_	4	discourse	_	_
+4	distinzjoni	_	NOUN	NOUN	_	2	nsubj	_	_
+5	bejn	_	ADP	PREP	_	8	case	_	_
+6	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+7	"	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+8	materja	_	NOUN	NOUN	_	4	nmod	_	_
+9	skura	_	ADJ	ADJ	_	8	amod	_	_
+10	kisħa	_	ADJ	ADJ	_	8	amod	_	SpaceAfter=No
+11	"	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	8	punct	_	_
+13	irrappreżentata	_	VERB	PART_PASS	_	8	acl	_	_
+14	essenzjalmente	_	ADV	ADV	_	13	advmod	_	_
+15	mill-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	partiċelli	_	NOUN	NOUN	_	13	obl:agent	_	_
+17	ipotetiċi	_	ADJ	ADJ	_	16	amod	_	_
+18	tal-	_	ADP	GEN_DEF	_	20	case:det	_	SpaceAfter=No
+19	"	_	PUNCT	X_PUN	_	20	punct	_	SpaceAfter=No
+20	lenti	_	NOUN	NOUN	_	22	compound	_	SpaceAfter=No
+21	"	_	PUNCT	X_PUN	_	20	punct	_	_
+22	WIMP	_	NOUN	X_ABV	_	16	nmod:poss	_	SpaceAfter=No
+23	,	_	PUNCT	X_PUN	_	8	punct	_	_
+24	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+25	l-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+26	"	_	PUNCT	X_PUN	_	27	punct	_	SpaceAfter=No
+27	materja	_	NOUN	NOUN	_	8	conj	_	_
+28	skura	_	ADJ	ADJ	_	27	amod	_	_
+29	sħuna	_	ADJ	ADJ	_	27	amod	_	SpaceAfter=No
+30	"	_	PUNCT	X_PUN	_	27	punct	_	SpaceAfter=No
+31	,	_	PUNCT	X_PUN	_	27	punct	_	_
+32	irrappreżentata	_	VERB	PART_PASS	_	27	acl	_	_
+33	min-	_	ADP	PREP_DEF	_	34	case:det	_	SpaceAfter=No
+34	newtrini	_	NOUN	NOUN	_	32	obl:agent	_	SpaceAfter=No
+35	,	_	PUNCT	X_PUN	_	34	punct	_	_
+36	li	_	SCONJ	COMP	_	42	mark	_	SpaceAfter=No
+37	,	_	PUNCT	X_PUN	_	39	punct	_	_
+38	kif	_	PRON	PRON_INT	_	39	advmod	_	_
+39	għedna	_	VERB	VERB	_	42	advcl	_	SpaceAfter=No
+40	,	_	PUNCT	X_PUN	_	39	punct	_	_
+41	huma	_	PRON	PRON_PERS	_	42	cop	_	_
+42	partiċelli	_	NOUN	NOUN	_	34	acl	_	_
+43	superveloċi	_	ADJ	ADJ	_	42	amod	_	SpaceAfter=No
+44	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 58_05N11:59
+# text = Teoriji alternattivi
+1	Teoriji	_	NOUN	NOUN	_	0	root	_	_
+2	alternattivi	_	ADJ	ADJ	_	1	amod	_	_
+
+# sent_id = 58_05N11:60
+# text = Hemm minoranza ta' riċerkaturi li l-ipoteżi tal-materja skura ma jqisuhiex soddisfaċenti bħala spjegazzjoni tal-effetti osservati.
+1	Hemm	_	VERB	HEMM	_	0	root	_	_
+2	minoranza	_	NOUN	NOUN	_	1	nsubj	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	riċerkaturi	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	li	_	SCONJ	COMP	_	12	mark	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	ipoteżi	_	NOUN	NOUN	_	12	obj	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	materja	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	skura	_	ADJ	ADJ	_	9	amod	_	_
+11	ma	_	PART	NEG	_	12	aux:neg	_	_
+12	jqisuhiex	_	VERB	VERB	_	4	acl	_	_
+13	soddisfaċenti	_	ADJ	ADJ	_	12	xcomp	_	_
+14	bħala	_	ADP	PREP	_	15	case	_	_
+15	spjegazzjoni	_	NOUN	NOUN	_	12	obl:arg	_	_
+16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	effetti	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	osservati	_	ADJ	ADJ	_	17	amod	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:61
+# text = Fosthom:
+1	Fosthom	_	PRON	PREP_PRON	_	0	root	_	SpaceAfter=No
+2	:	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:62
+# text = Arrigo Finzi, gravitazzjoni modifikata, 1963.
+1	Arrigo	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	Finzi	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	1	punct	_	_
+4	gravitazzjoni	_	NOUN	NOUN	_	1	list	_	_
+5	modifikata	_	VERB	PART_PASS	_	4	amod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	1	punct	_	_
+7	1963	_	NUM	X_DIG	_	1	list	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:63
+# text = Robert Sanders, gravitazzjoni modifikata, 1984.
+1	Robert	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	Sanders	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	1	punct	_	_
+4	gravitazzjoni	_	NOUN	NOUN	_	1	list	_	_
+5	modifikata	_	VERB	PART_PASS	_	4	amod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	1	punct	_	_
+7	1984	_	NUM	X_DIG	_	1	list	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:64
+# text = John W. Moffatt, gravitazzjoni mhux simmetrica (NGT, Nonsymmetric Gravitational Theory), 1994
+1	John	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	W	_	NOUN	X_ABV	_	1	flat:name	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	2	punct	_	_
+4	Moffatt	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	1	punct	_	_
+6	gravitazzjoni	_	NOUN	NOUN	_	1	list	_	_
+7	mhux	_	PART	PRON_PERS_NEG	_	8	aux:neg	_	_
+8	simmetrica	_	ADJ	ADJ	_	6	amod	_	_
+9	(	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+10	NGT	_	NOUN	X_ABV	_	6	appos	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	10	punct	_	_
+12	Nonsymmetric	_	X	X_ENG	_	10	appos	_	_
+13	Gravitational	_	X	X_ENG	_	12	flat	_	_
+14	Theory	_	X	X_ENG	_	12	flat	_	SpaceAfter=No
+15	)	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	1	punct	_	_
+17	1994	_	NUM	X_DIG	_	1	list	_	_
+
+# sent_id = 58_05N11:65
+# text = Alexander Mayer, 2005.
+1	Alexander	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	Mayer	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	1	punct	_	_
+4	2005	_	NUM	X_DIG	_	1	list	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:66
+# text = Mordehai Milgrom, it-teorija MOND, 1981, akronimu ta' Modified Newtonian Dynamics (Dinamika Newtonjana Modifikata).
+1	Mordehai	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	Milgrom	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	1	punct	_	_
+4	it-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	teorija	_	NOUN	NOUN	_	6	compound	_	_
+6	MOND	_	NOUN	X_ABV	_	1	list	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	1	punct	_	_
+8	1981	_	NUM	X_DIG	_	1	list	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	1	punct	_	_
+10	akronimu	_	NOUN	NOUN	_	6	appos	_	_
+11	ta'	_	ADP	GEN	_	14	case	_	_
+12	Modified	_	ADJ	ADJ	_	14	amod	_	_
+13	Newtonian	_	ADJ	ADJ	_	14	amod	_	_
+14	Dynamics	_	NOUN	NOUN	_	10	nmod:poss	_	_
+15	(	_	PUNCT	X_PUN	_	16	punct	_	SpaceAfter=No
+16	Dinamika	_	NOUN	NOUN	_	14	appos	_	_
+17	Newtonjana	_	ADJ	ADJ	_	16	amod	_	_
+18	Modifikata	_	VERB	PART_PASS	_	16	amod	_	SpaceAfter=No
+19	)	_	PUNCT	X_PUN	_	14	punct	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:67
+# text = Din tipproponi li fuq l-iskali ta' aċċelerazzjonijiet tipiċi taż-żoni esterni tal-galassji il-liġi tal-gravitazzjoni universali ta' Newton teħtieġ modifika ħafifa, b'mod li tieħu kont tal-kurvi ta' rotazzjonijiet ċatti mingħajr ma tirrikorri għall-materja skura.
+1	Din	_	PRON	PRON_DEM	_	2	nsubj	_	_
+2	tipproponi	_	VERB	VERB	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	22	mark	_	_
+4	fuq	_	ADP	PREP	_	6	case	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	iskali	_	NOUN	NOUN	_	22	obl	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	aċċelerazzjonijiet	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	tipiċi	_	ADJ	ADJ	_	8	amod	_	_
+10	taż-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	żoni	_	NOUN	NOUN	_	8	nmod:poss	_	_
+12	esterni	_	ADJ	ADJ	_	11	amod	_	_
+13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	galassji	_	NOUN	NOUN	_	11	nmod:poss	_	_
+15	il-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	liġi	_	NOUN	NOUN	_	22	nsubj	_	_
+17	tal-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	gravitazzjoni	_	NOUN	NOUN	_	16	nmod:poss	_	_
+19	universali	_	ADJ	ADJ	_	18	amod	_	_
+20	ta'	_	ADP	GEN	_	21	case	_	_
+21	Newton	_	PROPN	NOUN_PROP	_	16	nmod:poss	_	_
+22	teħtieġ	_	VERB	VERB	_	2	ccomp	_	_
+23	modifika	_	NOUN	NOUN	_	22	obj	_	_
+24	ħafifa	_	ADJ	ADJ	_	23	amod	_	SpaceAfter=No
+25	,	_	PUNCT	X_PUN	_	23	punct	_	_
+26	b'	_	ADP	PREP	_	27	case	_	SpaceAfter=No
+27	mod	_	NOUN	NOUN	_	23	nmod	_	_
+28	li	_	SCONJ	COMP	_	29	mark	_	_
+29	tieħu	_	VERB	VERB	_	27	acl	_	_
+30	kont	_	NOUN	NOUN	_	29	obj	_	_
+31	tal-	_	ADP	GEN_DEF	_	32	case:det	_	SpaceAfter=No
+32	kurvi	_	NOUN	NOUN	_	30	nmod:poss	_	_
+33	ta'	_	ADP	GEN	_	34	case	_	_
+34	rotazzjonijiet	_	NOUN	NOUN	_	32	nmod:poss	_	_
+35	ċatti	_	ADJ	ADJ	_	34	amod	_	_
+36	mingħajr	_	ADP	PREP	_	38	case	_	_
+37	ma	_	SCONJ	COMP	_	36	fixed	_	_
+38	tirrikorri	_	VERB	VERB	_	29	advcl	_	_
+39	għall-	_	ADP	PREP_DEF	_	40	case:det	_	SpaceAfter=No
+40	materja	_	NOUN	NOUN	_	38	obl:arg	_	_
+41	skura	_	ADJ	ADJ	_	40	amod	_	SpaceAfter=No
+42	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 58_05N11:68
+# text = It-teorija MOND ġiet appoġġata u żviluppata anke mill-pijunier tat-termodinamika tal-ħofor suwed, Jacob David Bekenstein.
+1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	teorija	_	NOUN	NOUN	_	3	compound	_	_
+3	MOND	_	NOUN	X_ABV	_	5	nsubj:pass	_	_
+4	ġiet	_	VERB	VERB	_	5	aux:pass	_	_
+5	appoġġata	_	VERB	PART_PASS	_	0	root	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	żviluppata	_	VERB	PART_PASS	_	5	conj	_	_
+8	anke	_	ADV	FOC	_	10	discourse	_	_
+9	mill-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	pijunier	_	NOUN	NOUN	_	5	obl:agent	_	_
+11	tat-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
+12	termodinamika	_	NOUN	NOUN	_	10	nmod:poss	_	_
+13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	ħofor	_	NOUN	NOUN	_	12	nmod:poss	_	_
+15	suwed	_	ADJ	ADJ	_	14	amod	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	17	punct	_	_
+17	Jacob	_	PROPN	NOUN_PROP	_	10	appos	_	_
+18	David	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
+19	Bekenstein	_	PROPN	NOUN_PROP	_	17	flat:name	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 58_05N11:69
+# text = Jacob Bekenstein, tensor- vector- scalar gravitation (TeVeS), 2004.
+1	Jacob	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	Bekenstein	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	1	punct	_	_
+4	tensor-	_	X	X_ENG	_	1	list	_	_
+5	vector-	_	X	X_ENG	_	4	flat	_	_
+6	scalar	_	X	X_ENG	_	4	flat	_	_
+7	gravitation	_	X	X_ENG	_	4	list	_	_
+8	(	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+9	TeVeS	_	NOUN	X_ABV	_	4	appos	_	SpaceAfter=No
+10	)	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	1	punct	_	_
+12	2004	_	NUM	X_DIG	_	1	list	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:70
+# text = Johan Masreliez, Scale Expanding Cosmos model (SEC), 1999.
+1	Johan	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	Masreliez	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Scale	_	X	X_ENG	_	1	list	_	_
+5	Expanding	_	X	X_ENG	_	4	flat	_	_
+6	Cosmos	_	X	X_ENG	_	4	flat	_	_
+7	model	_	X	X_ENG	_	4	flat	_	_
+8	(	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+9	SEC	_	NOUN	X_ABV	_	4	appos	_	SpaceAfter=No
+10	)	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	1	punct	_	_
+12	1999	_	NUM	X_DIG	_	1	list	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 58_05N11:71
+# text = SEC hu mudell kożmoloġiku komplut ibbażat fuq it-teorija ġenerali tar-relatività.
+1	SEC	_	NOUN	X_ABV	_	3	nsubj	_	_
+2	hu	_	PRON	PRON_PERS	_	3	cop	_	_
+3	mudell	_	NOUN	NOUN	_	0	root	_	_
+4	kożmoloġiku	_	ADJ	ADJ	_	3	amod	_	_
+5	komplut	_	VERB	PART_PASS	_	3	amod	_	_
+6	ibbażat	_	VERB	PART_PASS	_	3	acl	_	_
+7	fuq	_	ADP	PREP	_	9	case	_	_
+8	it-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	teorija	_	NOUN	NOUN	_	6	obl	_	_
+10	ġenerali	_	ADJ	ADJ	_	9	amod	_	_
+11	tar-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
+12	relatività	_	NOUN	NOUN	_	9	nmod:poss	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 58_05N11:72
+# text = Ma tinnegax l-eżistenza tal-materja skura, imma ma għandhiex bżonn tispjega il-kurvi ta' rotazzjoni tal-galassji jew tal-anomaliji gravitazzjonali oħra.
+1	Ma	_	PART	NEG	_	2	aux:neg	_	_
+2	tinnegax	_	VERB	VERB	_	0	root	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	eżistenza	_	NOUN	NOUN	_	2	obj	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	materja	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	skura	_	ADJ	ADJ	_	6	amod	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	2	punct	_	_
+9	imma	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+10	ma	_	PART	NEG	_	11	aux:neg	_	_
+11	għandhiex	_	VERB	VERB_PSEU	_	2	conj	_	_
+12	bżonn	_	NOUN	NOUN	_	11	compound	_	_
+13	tispjega	_	VERB	VERB	_	11	xcomp	_	_
+14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	kurvi	_	NOUN	NOUN	_	13	obj	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	rotazzjoni	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
+19	galassji	_	NOUN	NOUN	_	17	nmod:poss	_	_
+20	jew	_	CCONJ	CONJ_CORD	_	22	cc	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	anomaliji	_	NOUN	NOUN	_	19	conj	_	_
+23	gravitazzjonali	_	ADJ	ADJ	_	22	amod	_	_
+24	oħra	_	ADJ	ADJ	_	22	amod	_	SpaceAfter=No
+25	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 58_05N11:73
+# text = Maurizio Michelini
+1	Maurizio	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	Michelini	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+
+# sent_id = 58_05N11:74
+# text = It-teorija tiegħu tipproponi li hemm preżenti għejun gravitazzjonali "addizzjonali" fil-kwadru ta' teorija iżjed ġenerali tal-inerzja u tal-gravitazzjoni.
+1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	teorija	_	NOUN	NOUN	_	4	nsubj	_	_
+3	tiegħu	_	PRON	GEN_PRON	_	2	case	_	_
+4	tipproponi	_	VERB	VERB	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	7	mark	_	_
+6	hemm	_	ADV	ADV	_	7	advmod	_	_
+7	preżenti	_	ADJ	ADJ	_	4	ccomp	_	_
+8	għejun	_	NOUN	NOUN	_	7	nsubj	_	_
+9	gravitazzjonali	_	ADJ	ADJ	_	8	amod	_	_
+10	"	_	PUNCT	X_PUN	_	11	punct	_	SpaceAfter=No
+11	addizzjonali	_	ADJ	ADJ	_	8	amod	_	SpaceAfter=No
+12	"	_	PUNCT	X_PUN	_	11	punct	_	_
+13	fil-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	kwadru	_	NOUN	NOUN	_	7	obl	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	teorija	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	iżjed	_	ADV	ADV	_	18	advmod	_	_
+18	ġenerali	_	ADJ	ADJ	_	16	amod	_	_
+19	tal-	_	ADP	GEN_DEF	_	20	case:det	_	SpaceAfter=No
+20	inerzja	_	NOUN	NOUN	_	16	nmod:poss	_	_
+21	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+22	tal-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No
+23	gravitazzjoni	_	NOUN	NOUN	_	20	conj	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 58_05N11:75
+# text = Il-forza gravitazzjonali tiddipendi infatti mhux mill-"massa gravitazzjonali" ta' Newton imma minn azzjoni komplessa ta' awtotarka eżerċitata fuq il-mases minn fluss ta' mikrokwanti (b'tul ta' mewġa daqs it-tul ta' Planck u enerġija żgħira ħafna) li jimlew l-univers.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	forza	_	NOUN	NOUN	_	4	nsubj	_	_
+3	gravitazzjonali	_	ADJ	ADJ	_	2	amod	_	_
+4	tiddipendi	_	VERB	VERB	_	0	root	_	_
+5	infatti	_	ADV	ADV	_	4	advmod	_	_
+6	mhux	_	PART	PRON_PERS_NEG	_	9	aux:neg	_	_
+7	mill-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+8	"	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+9	massa	_	NOUN	NOUN	_	4	obl:arg	_	_
+10	gravitazzjonali	_	ADJ	ADJ	_	9	amod	_	SpaceAfter=No
+11	"	_	PUNCT	X_PUN	_	9	punct	_	_
+12	ta'	_	ADP	GEN	_	13	case	_	_
+13	Newton	_	PROPN	NOUN_PROP	_	9	nmod:poss	_	_
+14	imma	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+15	minn	_	ADP	PREP	_	16	case	_	_
+16	azzjoni	_	NOUN	NOUN	_	9	conj	_	_
+17	komplessa	_	ADJ	ADJ	_	16	amod	_	_
+18	ta'	_	ADP	GEN	_	19	case	_	_
+19	awtotarka	_	NOUN	NOUN	_	16	nmod:poss	_	_
+20	eżerċitata	_	VERB	PART_PASS	_	16	acl	_	_
+21	fuq	_	ADP	PREP	_	23	case	_	_
+22	il-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	mases	_	NOUN	NOUN	_	20	obl	_	_
+24	minn	_	ADP	PREP	_	25	case	_	_
+25	fluss	_	NOUN	NOUN	_	20	obl:agent	_	_
+26	ta'	_	ADP	GEN	_	27	case	_	_
+27	mikrokwanti	_	NOUN	NOUN	_	25	nmod:poss	_	_
+28	(	_	PUNCT	X_PUN	_	30	punct	_	SpaceAfter=No
+29	b'	_	ADP	PREP	_	30	case	_	SpaceAfter=No
+30	tul	_	NOUN	NOUN	_	27	nmod	_	_
+31	ta'	_	ADP	GEN	_	32	case	_	_
+32	mewġa	_	NOUN	NOUN	_	30	nmod:poss	_	_
+33	daqs	_	ADP	PREP	_	35	case	_	_
+34	it-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	tul	_	NOUN	NOUN	_	30	nmod	_	_
+36	ta'	_	ADP	GEN	_	37	case	_	_
+37	Planck	_	PROPN	NOUN_PROP	_	35	nmod:poss	_	_
+38	u	_	CCONJ	CONJ_CORD	_	39	cc	_	_
+39	enerġija	_	NOUN	NOUN	_	30	conj	_	_
+40	żgħira	_	ADJ	ADJ	_	39	amod	_	_
+41	ħafna	_	ADV	ADV	_	40	advmod	_	SpaceAfter=No
+42	)	_	PUNCT	X_PUN	_	30	punct	_	_
+43	li	_	SCONJ	COMP	_	44	mark	_	_
+44	jimlew	_	VERB	VERB	_	27	acl	_	_
+45	l-	_	DET	DEF	_	46	det	_	SpaceAfter=No
+46	univers	_	NOUN	NOUN	_	44	obj	_	SpaceAfter=No
+47	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 58_05N11:76
+# text = Il-ħbit tal-mikrokwanti mal-materja jiġġenera qabel kollox il-forzi tal-inerzja relativistiċi.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ħbit	_	NOUN	NOUN	_	7	nsubj	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	mikrokwanti	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	mal-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	materja	_	NOUN	NOUN	_	2	nmod	_	_
+7	jiġġenera	_	VERB	VERB	_	0	root	_	_
+8	qabel	_	ADP	PREP	_	9	case	_	_
+9	kollox	_	PRON	PRON_INDEF	_	7	obl	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	forzi	_	NOUN	NOUN	_	7	obj	_	_
+12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	inerzja	_	NOUN	NOUN	_	11	nmod:poss	_	_
+14	relativistiċi	_	ADJ	ADJ	_	11	amod	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 58_05N11:77
+# text = Barra minn hekk, fl-intern tal-korpi ċelesti superdensi il-mikrokwanti jġarrbu għadd kbir ħafna ta' ħabtiet, jitilfu ftit mill-enerġija tagħhom u jiġġeneraw forza gravitazzjonali addizzjonali.
+1	Barra	_	ADV	ADV	_	3	advmod	_	_
+2	minn	_	ADP	PREP	_	3	case	_	_
+3	hekk	_	ADV	ADV	_	13	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	3	punct	_	_
+5	fl-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	intern	_	NOUN	NOUN	_	13	obl	_	_
+7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	korpi	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	ċelesti	_	ADJ	ADJ	_	8	amod	_	_
+10	superdensi	_	ADJ	ADJ	_	8	amod	_	_
+11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	mikrokwanti	_	NOUN	NOUN	_	13	nsubj	_	_
+13	jġarrbu	_	VERB	VERB	_	0	root	_	_
+14	għadd	_	NOUN	NOUN	_	13	obj	_	_
+15	kbir	_	ADJ	ADJ	_	14	amod	_	_
+16	ħafna	_	ADV	ADV	_	15	advmod	_	_
+17	ta'	_	ADP	GEN	_	18	case	_	_
+18	ħabtiet	_	NOUN	NOUN	_	14	nmod:poss	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	13	punct	_	_
+20	jitilfu	_	VERB	VERB	_	13	conj	_	_
+21	ftit	_	DET	QUAN	_	20	obj	_	_
+22	mill-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	enerġija	_	NOUN	NOUN	_	21	nmod	_	_
+24	tagħhom	_	PRON	GEN_PRON	_	23	case	_	_
+25	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
+26	jiġġeneraw	_	VERB	VERB	_	13	conj	_	_
+27	forza	_	NOUN	NOUN	_	26	obj	_	_
+28	gravitazzjonali	_	ADJ	ADJ	_	27	amod	_	_
+29	addizzjonali	_	ADJ	ADJ	_	27	amod	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 58_05N11:78
+# text = Pereżempju, il-kostanti tal-gravitazzjoni tal-istilel ta' newtroni hu daqs 200 - 300 darba għal G.
+1	Pereżempju	_	INTJ	INT	_	16	discourse	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	kostanti	_	NOUN	NOUN	_	16	nsubj	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	gravitazzjoni	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	istilel	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	ta'	_	ADP	GEN	_	10	case	_	_
+10	newtroni	_	NOUN	NOUN	_	8	nmod:poss	_	_
+11	hu	_	PRON	PRON_PERS	_	16	cop	_	_
+12	daqs	_	ADP	PREP	_	13	case	_	_
+13	200	_	NUM	X_DIG	_	16	nummod	_	_
+14	-	_	PUNCT	X_PUN	_	13	punct	_	_
+15	300	_	NUM	X_DIG	_	13	list	_	_
+16	darba	_	NOUN	NOUN	_	0	root	_	_
+17	għal	_	ADP	PREP	_	18	case	_	_
+18	G	_	NOUN	X_ABV	_	16	nmod	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	16	punct	_	_
+
+# sent_id = 58_05N11:79
+# text = Ġaladarba l-istilel ta' newtroni huma mifruxin mal-galassji, jista' jkun biżżejjed li jirappreżentaw 2 - 3 % tal-massa totali biex jagħmlu effett gravitazzjonali biżżejjed biex jispjega (flimkien mal-kontribut tal-popolazzjonijiet ta' nani kanella) il-veloċitajiet ta' rotazzjoni għolja li jiġu osservati.
+1	Ġaladarba	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	istilel	_	NOUN	NOUN	_	7	nsubj	_	_
+4	ta'	_	ADP	GEN	_	5	case	_	_
+5	newtroni	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	huma	_	PRON	PRON_PERS	_	7	cop	_	_
+7	mifruxin	_	VERB	PART_PASS	_	11	advcl	_	_
+8	mal-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	galassji	_	NOUN	NOUN	_	7	obl	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	7	punct	_	_
+11	jista'	_	VERB	VERB	_	0	root	_	_
+12	jkun	_	AUX	KIEN	_	11	xcomp	_	_
+13	biżżejjed	_	ADV	ADV	_	12	xcomp	_	_
+14	li	_	SCONJ	COMP	_	15	mark	_	_
+15	jirappreżentaw	_	VERB	VERB	_	13	ccomp	_	_
+16	2	_	NUM	X_DIG	_	19	nummod	_	_
+17	-	_	PUNCT	X_PUN	_	16	punct	_	_
+18	3	_	NUM	X_DIG	_	16	nmod	_	_
+19	%	_	PUNCT	X_PUN	_	15	obj	_	_
+20	tal-	_	ADP	GEN_DEF	_	21	case:det	_	SpaceAfter=No
+21	massa	_	NOUN	NOUN	_	19	nmod:poss	_	_
+22	totali	_	ADJ	ADJ	_	21	amod	_	_
+23	biex	_	SCONJ	CONJ_SUB	_	24	mark	_	_
+24	jagħmlu	_	VERB	VERB	_	13	xcomp	_	_
+25	effett	_	NOUN	NOUN	_	24	obj	_	_
+26	gravitazzjonali	_	ADJ	ADJ	_	25	amod	_	_
+27	biżżejjed	_	ADV	ADV	_	26	advmod	_	_
+28	biex	_	SCONJ	CONJ_SUB	_	29	mark	_	_
+29	jispjega	_	VERB	VERB	_	27	xcomp	_	_
+30	(	_	PUNCT	X_PUN	_	33	punct	_	SpaceAfter=No
+31	flimkien	_	ADV	ADV	_	33	case:det	_	_
+32	mal-	_	ADP	PREP_DEF	_	31	fixed	_	SpaceAfter=No
+33	kontribut	_	NOUN	NOUN	_	29	obl	_	_
+34	tal-	_	ADP	GEN_DEF	_	35	case:det	_	SpaceAfter=No
+35	popolazzjonijiet	_	NOUN	NOUN	_	33	nmod:poss	_	_
+36	ta'	_	ADP	GEN	_	37	case	_	_
+37	nani	_	NOUN	NOUN	_	35	nmod:poss	_	_
+38	kanella	_	ADJ	ADJ	_	37	amod	_	SpaceAfter=No
+39	)	_	PUNCT	X_PUN	_	29	punct	_	_
+40	il-	_	DET	DEF	_	41	det	_	SpaceAfter=No
+41	veloċitajiet	_	NOUN	NOUN	_	29	obj	_	_
+42	ta'	_	ADP	GEN	_	43	case	_	_
+43	rotazzjoni	_	NOUN	NOUN	_	41	nmod:poss	_	_
+44	għolja	_	ADJ	ADJ	_	41	amod	_	_
+45	li	_	SCONJ	COMP	_	47	mark	_	_
+46	jiġu	_	VERB	VERB	_	47	aux:pass	_	_
+47	osservati	_	VERB	PART_PASS	_	41	acl	_	SpaceAfter=No
+48	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 58_05N11:80
+# text = Dragan Slavkov Hajdukovic, fiżiku mas-CERN ippropona teorija ġdida li tistħajjel il-materja skura bħala illużjoni maħluqa mill-polarizzazzjoni gravitazzjonali.
+1	Dragan	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+2	Slavkov	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	Hajdukovic	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	1	punct	_	_
+5	fiżiku	_	NOUN	NOUN	_	1	appos	_	_
+6	mas-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	CERN	_	NOUN	X_ABV	_	5	nmod	_	_
+8	ippropona	_	VERB	VERB	_	0	root	_	_
+9	teorija	_	NOUN	NOUN	_	8	obj	_	_
+10	ġdida	_	ADJ	ADJ	_	9	amod	_	_
+11	li	_	SCONJ	COMP	_	12	mark	_	_
+12	tistħajjel	_	VERB	VERB	_	9	acl	_	_
+13	il-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	materja	_	NOUN	NOUN	_	12	obj	_	_
+15	skura	_	ADJ	ADJ	_	14	amod	_	_
+16	bħala	_	ADP	PREP	_	17	case	_	_
+17	illużjoni	_	NOUN	NOUN	_	12	obl	_	_
+18	maħluqa	_	VERB	PART_PASS	_	17	acl	_	_
+19	mill-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	polarizzazzjoni	_	NOUN	NOUN	_	18	obl:agent	_	_
+21	gravitazzjonali	_	ADJ	ADJ	_	20	amod	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 58_05N11:81
+# text = Biex nieħdu eżempju jekk indaħħlu pjanċa dielettrika f'kapaċitur ċatt parallel imbagħad bħala riżultat ikollna tnaqqis fil-kamp elettriku bejn il-pjanċi.
+1	Biex	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	nieħdu	_	VERB	VERB	_	15	parataxis	_	_
+3	eżempju	_	NOUN	NOUN	_	2	obj	_	_
+4	jekk	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	indaħħlu	_	VERB	VERB	_	15	advcl	_	_
+6	pjanċa	_	NOUN	NOUN	_	5	obj	_	_
+7	dielettrika	_	ADJ	ADJ	_	6	amod	_	_
+8	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+9	kapaċitur	_	NOUN	NOUN	_	5	obl	_	_
+10	ċatt	_	ADJ	ADJ	_	9	amod	_	_
+11	parallel	_	ADJ	ADJ	_	9	amod	_	_
+12	imbagħad	_	ADV	ADV	_	15	advmod	_	_
+13	bħala	_	ADP	PREP	_	14	case	_	_
+14	riżultat	_	NOUN	NOUN	_	15	obl	_	_
+15	ikollna	_	VERB	VERB_PSEU	_	0	root	_	_
+16	tnaqqis	_	NOUN	NOUN	_	15	obj	_	_
+17	fil-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	kamp	_	NOUN	NOUN	_	16	nmod	_	_
+19	elettriku	_	ADJ	ADJ	_	18	amod	_	_
+20	bejn	_	ADP	PREP	_	22	case	_	_
+21	il-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	pjanċi	_	NOUN	NOUN	_	18	nmod	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	15	punct	_	_
+
+# sent_id = 58_05N11:82
+# text = Dan it-tnaqqis hu dovut għall-fatt li ċ-ċarġijiet elettriċi ta' sinjal oppost jattiraw lil xulxin, imma kieku ċ-ċarġijiet elettriċi ta' sinjal oppost kienu repulsivi, minflok attrattivi, il-kamp elettriku kien jiżdied.
+1	Dan	_	PRON	PRON_DEM	_	3	det	_	_
+2	it-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	tnaqqis	_	NOUN	NOUN	_	5	nsubj	_	_
+4	hu	_	PRON	PRON_PERS	_	5	cop	_	_
+5	dovut	_	ADJ	ADJ	_	0	root	_	_
+6	għall-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	fatt	_	NOUN	NOUN	_	5	obl	_	_
+8	li	_	SCONJ	COMP	_	15	mark	_	_
+9	ċ-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	ċarġijiet	_	NOUN	NOUN	_	15	nsubj	_	_
+11	elettriċi	_	ADJ	ADJ	_	10	amod	_	_
+12	ta'	_	ADP	GEN	_	13	case	_	_
+13	sinjal	_	NOUN	NOUN	_	10	nmod:poss	_	_
+14	oppost	_	ADJ	ADJ	_	13	amod	_	_
+15	jattiraw	_	VERB	VERB	_	7	acl	_	_
+16	lil	_	ADP	LIL	_	17	case	_	_
+17	xulxin	_	PRON	PRON_REC	_	15	obj	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	5	punct	_	_
+19	imma	_	CCONJ	CONJ_CORD	_	37	cc	_	_
+20	kieku	_	SCONJ	CONJ_SUB	_	28	mark	_	_
+21	ċ-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	ċarġijiet	_	NOUN	NOUN	_	28	nsubj	_	_
+23	elettriċi	_	ADJ	ADJ	_	22	amod	_	_
+24	ta'	_	ADP	GEN	_	25	case	_	_
+25	sinjal	_	NOUN	NOUN	_	22	nmod:poss	_	_
+26	oppost	_	ADJ	ADJ	_	25	amod	_	_
+27	kienu	_	AUX	KIEN	_	28	cop	_	_
+28	repulsivi	_	ADJ	ADJ	_	37	advcl	_	SpaceAfter=No
+29	,	_	PUNCT	X_PUN	_	31	punct	_	_
+30	minflok	_	ADP	PREP	_	31	case	_	_
+31	attrattivi	_	ADJ	ADJ	_	28	obl	_	SpaceAfter=No
+32	,	_	PUNCT	X_PUN	_	31	punct	_	_
+33	il-	_	DET	DEF	_	34	det	_	SpaceAfter=No
+34	kamp	_	NOUN	NOUN	_	37	nsubj	_	_
+35	elettriku	_	ADJ	ADJ	_	34	amod	_	_
+36	kien	_	AUX	KIEN	_	37	aux	_	_
+37	jiżdied	_	VERB	VERB	_	5	conj	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 58_05N11:83
+# text = La ċ-ċarġijiet gravitazzjonali ta' sinjal oppost huma repulsivi jiġri li l-kamp gravitazzjonali jiżdied u hekk il-materja skura tkun biss illużjoni.
+1	La	_	SCONJ	CONJ_SUB	_	9	mark	_	_
+2	ċ-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	ċarġijiet	_	NOUN	NOUN	_	9	nsubj	_	_
+4	gravitazzjonali	_	ADJ	ADJ	_	3	amod	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	sinjal	_	NOUN	NOUN	_	3	nmod:poss	_	_
+7	oppost	_	ADJ	ADJ	_	6	amod	_	_
+8	huma	_	PRON	PRON_PERS	_	9	cop	_	_
+9	repulsivi	_	ADJ	ADJ	_	10	advcl	_	_
+10	jiġri	_	VERB	VERB	_	0	root	_	_
+11	li	_	SCONJ	COMP	_	15	mark	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	kamp	_	NOUN	NOUN	_	15	nsubj	_	_
+14	gravitazzjonali	_	ADJ	ADJ	_	13	amod	_	_
+15	jiżdied	_	VERB	VERB	_	10	ccomp	_	_
+16	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+17	hekk	_	ADV	ADV	_	23	advmod	_	_
+18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	materja	_	NOUN	NOUN	_	23	nsubj	_	_
+20	skura	_	ADJ	ADJ	_	19	amod	_	_
+21	tkun	_	AUX	KIEN	_	23	cop	_	_
+22	biss	_	ADV	FOC	_	23	discourse	_	_
+23	illużjoni	_	NOUN	NOUN	_	10	conj	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 58_05N11:84
+# text = It-teoriji li jipproponu xi modifika tad-dipendenza tal-kamp gravitazzjonali fuq id-distanza intwerew li mhumiex adattati biex jispjegaw il-kurvi ta' rotazzjoni tal-galassji spirali, għax il-previżjonijiet tagħhom jirriżultaw f'kunflitt ma' xhieda osservattiva oħra li hi universalment aċċettata.
+1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	teoriji	_	NOUN	NOUN	_	15	nsubj:pass	_	_
+3	li	_	SCONJ	COMP	_	4	mark	_	_
+4	jipproponu	_	VERB	VERB	_	2	acl	_	_
+5	xi	_	DET	QUAN	_	6	det	_	_
+6	modifika	_	NOUN	NOUN	_	4	obj	_	_
+7	tad-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	dipendenza	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
+10	kamp	_	NOUN	NOUN	_	8	nmod:poss	_	_
+11	gravitazzjonali	_	ADJ	ADJ	_	10	amod	_	_
+12	fuq	_	ADP	PREP	_	14	case	_	_
+13	id-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	distanza	_	NOUN	NOUN	_	8	nmod	_	_
+15	intwerew	_	VERB	VERB	_	0	root	_	_
+16	li	_	SCONJ	COMP	_	18	mark	_	_
+17	mhumiex	_	PART	PRON_PERS_NEG	_	18	aux:neg	_	_
+18	adattati	_	VERB	PART_PASS	_	15	xcomp	_	_
+19	biex	_	SCONJ	CONJ_SUB	_	20	mark	_	_
+20	jispjegaw	_	VERB	VERB	_	18	xcomp	_	_
+21	il-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	kurvi	_	NOUN	NOUN	_	20	obj	_	_
+23	ta'	_	ADP	GEN	_	24	case	_	_
+24	rotazzjoni	_	NOUN	NOUN	_	22	nmod:poss	_	_
+25	tal-	_	ADP	GEN_DEF	_	26	case:det	_	SpaceAfter=No
+26	galassji	_	NOUN	NOUN	_	24	nmod:poss	_	_
+27	spirali	_	ADJ	ADJ	_	26	amod	_	SpaceAfter=No
+28	,	_	PUNCT	X_PUN	_	20	punct	_	_
+29	għax	_	SCONJ	CONJ_SUB	_	33	mark	_	_
+30	il-	_	DET	DEF	_	31	det	_	SpaceAfter=No
+31	previżjonijiet	_	NOUN	NOUN	_	33	nsubj	_	_
+32	tagħhom	_	PRON	GEN_PRON	_	31	case	_	_
+33	jirriżultaw	_	VERB	VERB	_	20	advcl	_	_
+34	f'	_	ADP	PREP	_	35	case	_	SpaceAfter=No
+35	kunflitt	_	NOUN	NOUN	_	33	obl:arg	_	_
+36	ma'	_	ADP	PREP	_	37	case	_	_
+37	xhieda	_	NOUN	NOUN	_	35	nmod	_	_
+38	osservattiva	_	ADJ	ADJ	_	37	amod	_	_
+39	oħra	_	ADJ	ADJ	_	37	amod	_	_
+40	li	_	SCONJ	COMP	_	43	mark	_	_
+41	hi	_	PRON	PRON_PERS	_	43	cop	_	_
+42	universalment	_	ADV	ADV	_	43	advmod	_	_
+43	aċċettata	_	VERB	PART_PASS	_	37	acl	_	SpaceAfter=No
+44	.	_	PUNCT	X_PUN	_	15	punct	_	_
+
+# sent_id = 58_05N11:85
+# text = S'issa l-ebda teorija mhi aċċettata għal kollox mill-komunità astronomika billi attwalment hu impossibbli li tiġi verifikata b'mod risoluttiv.
+1	S'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	issa	_	ADV	ADV	_	7	advmod	_	_
+3	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+4	ebda	_	DET	QUAN	_	5	amod	_	_
+5	teorija	_	NOUN	NOUN	_	7	nsubj	_	_
+6	mhi	_	PART	PRON_PERS_NEG	_	7	aux:neg	_	_
+7	aċċettata	_	VERB	PART_PASS	_	0	root	_	_
+8	għal	_	ADP	PREP	_	9	case	_	_
+9	kollox	_	PRON	PRON_INDEF	_	7	obl	_	_
+10	mill-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	komunità	_	NOUN	NOUN	_	7	obl:agent	_	_
+12	astronomika	_	ADJ	ADJ	_	11	amod	_	_
+13	billi	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+14	attwalment	_	ADV	ADV	_	16	advmod	_	_
+15	hu	_	PRON	PRON_PERS	_	16	expl	_	_
+16	impossibbli	_	ADJ	ADJ	_	7	advcl	_	_
+17	li	_	SCONJ	COMP	_	19	mark	_	_
+18	tiġi	_	VERB	VERB	_	19	aux:pass	_	_
+19	verifikata	_	VERB	PART_PASS	_	16	ccomp	_	_
+20	b'	_	ADP	PREP	_	21	case	_	SpaceAfter=No
+21	mod	_	NOUN	NOUN	_	19	obl	_	_
+22	risoluttiv	_	ADJ	ADJ	_	21	amod	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	7	punct	_	_
+

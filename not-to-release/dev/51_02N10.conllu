@@ -1,0 +1,767 @@
+# sent_id = 51_02N10:1
+# text = Fost il-Griegi u t-Torok
+1	Fost	_	ADP	PREP	_	3	case	_	_
+2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	Griegi	_	NOUN	NOUN	_	0	root	_	_
+4	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+5	t-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	Torok	_	NOUN	NOUN	_	3	conj	_	_
+
+# sent_id = 51_02N10:2
+# text = Qrib il-Palestina hemm il-gżira ta' Ċipru li sa mill-1878 ittieħdet minn idejn it-Torok u saret parti mill-Imperu.
+1	Qrib	_	ADP	PREP	_	3	case	_	_
+2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	Palestina	_	PROPN	NOUN_PROP	_	4	obl	_	_
+4	hemm	_	VERB	HEMM	_	0	root	_	_
+5	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	gżira	_	NOUN	NOUN	_	4	nsubj	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	Ċipru	_	PROPN	NOUN_PROP	_	6	nmod:poss	_	_
+9	li	_	SCONJ	COMP	_	13	mark	_	_
+10	sa	_	ADP	PREP	_	12	case	_	_
+11	mill-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	1878	_	NUM	X_DIG	_	13	obl	_	_
+13	ittieħdet	_	VERB	VERB	_	6	acl	_	_
+14	minn	_	ADP	PREP	_	15	case	_	_
+15	idejn	_	NOUN	NOUN	_	13	obl	_	_
+16	it-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	Torok	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+19	saret	_	VERB	VERB	_	13	conj	_	_
+20	parti	_	NOUN	NOUN	_	19	xcomp	_	_
+21	mill-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
+22	Imperu	_	NOUN	NOUN	_	20	nmod	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 51_02N10:3
+# text = Wara l-falliment ta' l-esperiment ta' l-1880 ftit kien hemm interess Malti f'Ċipru iżda fl-1927 ċertu Harman Grisewood xtara artijiet fl-inħawi ta' Margo u ried li f'din il-proprjetà jħaddem immigrati minn Malta.
+1	Wara	_	ADP	PREP	_	3	case	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	falliment	_	NOUN	NOUN	_	12	obl	_	_
+4	ta'	_	ADP	GEN	_	6	case	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	esperiment	_	NOUN	NOUN	_	3	nmod:poss	_	_
+7	ta'	_	ADP	GEN	_	9	case	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	1880	_	NUM	X_DIG	_	6	nmod:poss	_	_
+10	ftit	_	DET	QUAN	_	13	det	_	_
+11	kien	_	AUX	KIEN	_	12	aux	_	_
+12	hemm	_	VERB	HEMM	_	0	root	_	_
+13	interess	_	NOUN	NOUN	_	12	nsubj	_	_
+14	Malti	_	ADJ	ADJ	_	13	amod	_	_
+15	f'	_	ADP	PREP	_	16	case	_	SpaceAfter=No
+16	Ċipru	_	PROPN	NOUN_PROP	_	13	nmod	_	_
+17	iżda	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+18	fl-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
+19	1927	_	NUM	X_DIG	_	23	obl	_	_
+20	ċertu	_	ADJ	ADJ	_	21	amod	_	_
+21	Harman	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+22	Grisewood	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
+23	xtara	_	VERB	VERB	_	12	conj	_	_
+24	artijiet	_	NOUN	NOUN	_	23	obj	_	_
+25	fl-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
+26	inħawi	_	NOUN	NOUN	_	24	nmod	_	_
+27	ta'	_	ADP	GEN	_	28	case	_	_
+28	Margo	_	PROPN	NOUN_PROP	_	26	nmod:poss	_	_
+29	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
+30	ried	_	VERB	VERB	_	23	conj	_	_
+31	li	_	SCONJ	COMP	_	36	mark	_	_
+32	f'	_	ADP	PREP	_	35	case	_	SpaceAfter=No
+33	din	_	PRON	PRON_DEM	_	35	det	_	_
+34	il-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	proprjetà	_	NOUN	NOUN	_	36	obl	_	_
+36	jħaddem	_	VERB	VERB	_	30	ccomp	_	_
+37	immigrati	_	NOUN	NOUN	_	36	nsubj	_	_
+38	minn	_	ADP	PREP	_	39	case	_	_
+39	Malta	_	PROPN	NOUN_PROP	_	37	nmod	_	SpaceAfter=No
+40	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 51_02N10:4
+# text = Il-ħsieb kien li huwa jħajjar xi 2,000 Malti jgħixu u jaħdmu ġo Margo.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ħsieb	_	NOUN	NOUN	_	3	nsubj	_	_
+3	kien	_	AUX	KIEN	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	6	mark	_	_
+5	huwa	_	PRON	PRON_PERS	_	6	nsubj	_	_
+6	jħajjar	_	VERB	VERB	_	3	ccomp	_	_
+7	xi	_	DET	QUAN	_	9	det	_	_
+8	2,000	_	NUM	X_DIG	_	9	nummod	_	_
+9	Malti	_	NOUN	NOUN	_	6	obj	_	_
+10	jgħixu	_	VERB	VERB	_	6	xcomp	_	_
+11	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+12	jaħdmu	_	VERB	VERB	_	10	conj	_	_
+13	ġo	_	ADP	PREP	_	14	case	_	_
+14	Margo	_	PROPN	NOUN_PROP	_	10	obl	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 51_02N10:5
+# text = Harman ried jissellef £ 220,000 biex jagħti bidu għall-ħsieb tiegħu.
+1	Harman	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+2	ried	_	VERB	VERB	_	0	root	_	_
+3	jissellef	_	VERB	VERB	_	2	xcomp	_	_
+4	£	_	PUNCT	X_PUN	_	3	obj	_	_
+5	220,000	_	NUM	X_DIG	_	4	nummod	_	_
+6	biex	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+7	jagħti	_	VERB	VERB	_	3	advcl	_	_
+8	bidu	_	NOUN	NOUN	_	7	compound	_	_
+9	għall-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	ħsieb	_	NOUN	NOUN	_	7	obl:arg	_	_
+11	tiegħu	_	PRON	GEN_PRON	_	10	case	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 51_02N10:6
+# text = Il-Gvern ta' Lord Strickland ma riedx jissogra dak il-kapital, l-aktar meta l-Maltin saru jafu li viċin Margo kien hemm għadajjar li kienu l-kaġun tal-malarja.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Gvern	_	NOUN	NOUN	_	7	nsubj	_	_
+3	ta'	_	ADP	GEN	_	5	case	_	_
+4	Lord	_	PROPN	NOUN_PROP	_	5	compound	_	_
+5	Strickland	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+6	ma	_	PART	NEG	_	7	aux:neg	_	_
+7	riedx	_	VERB	VERB	_	0	root	_	_
+8	jissogra	_	VERB	VERB	_	7	xcomp	_	_
+9	dak	_	PRON	PRON_DEM	_	11	det	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	kapital	_	NOUN	NOUN	_	8	obj	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	7	punct	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	aktar	_	ADV	ADV	_	18	advmod	_	_
+15	meta	_	SCONJ	CONJ_SUB	_	18	mark	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	Maltin	_	NOUN	NOUN	_	18	nsubj	_	_
+18	saru	_	VERB	VERB	_	7	advcl	_	_
+19	jafu	_	VERB	VERB	_	18	xcomp	_	_
+20	li	_	SCONJ	COMP	_	24	mark	_	_
+21	viċin	_	ADP	PREP	_	22	case	_	_
+22	Margo	_	PROPN	NOUN_PROP	_	24	obl	_	_
+23	kien	_	AUX	KIEN	_	24	aux	_	_
+24	hemm	_	VERB	HEMM	_	19	ccomp	_	_
+25	għadajjar	_	NOUN	NOUN	_	24	nsubj	_	_
+26	li	_	SCONJ	COMP	_	29	mark	_	_
+27	kienu	_	AUX	KIEN	_	29	cop	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	kaġun	_	NOUN	NOUN	_	25	acl	_	_
+30	tal-	_	ADP	GEN_DEF	_	31	case:det	_	SpaceAfter=No
+31	malarja	_	NOUN	NOUN	_	29	nmod:poss	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 51_02N10:7
+# text = Kien hemm ukoll min irraġuna li ftit kien jagħmel sens li wieħed jemigra lejn Ċipru meta l-istess Ċiprijotti kienu ħerġin bi ħġarhom mill-gżira.
+1	Kien	_	AUX	KIEN	_	2	aux	_	_
+2	hemm	_	VERB	HEMM	_	0	root	_	_
+3	ukoll	_	ADV	FOC	_	2	discourse	_	_
+4	min	_	PRON	PRON_INT	_	2	nsubj	_	_
+5	irraġuna	_	VERB	VERB	_	4	acl	_	_
+6	li	_	SCONJ	COMP	_	9	mark	_	_
+7	ftit	_	DET	QUAN	_	9	advmod	_	_
+8	kien	_	AUX	KIEN	_	9	aux	_	_
+9	jagħmel	_	VERB	VERB	_	5	ccomp	_	_
+10	sens	_	NOUN	NOUN	_	9	compound	_	_
+11	li	_	SCONJ	COMP	_	13	mark	_	_
+12	wieħed	_	NUM	NUM_WHD	_	13	nsubj	_	_
+13	jemigra	_	VERB	VERB	_	9	csubj	_	_
+14	lejn	_	ADP	PREP	_	15	case	_	_
+15	Ċipru	_	PROPN	NOUN_PROP	_	13	obl	_	_
+16	meta	_	SCONJ	CONJ_SUB	_	21	mark	_	_
+17	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+18	istess	_	ADJ	ADJ	_	19	amod	_	_
+19	Ċiprijotti	_	NOUN	NOUN	_	21	nsubj	_	_
+20	kienu	_	AUX	KIEN	_	21	aux	_	_
+21	ħerġin	_	VERB	PART_ACT	_	9	advcl	_	_
+22	bi	_	ADP	PREP	_	23	case	_	_
+23	ħġarhom	_	NOUN	NOUN	_	21	obl	_	_
+24	mill-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
+25	gżira	_	NOUN	NOUN	_	21	obl	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 51_02N10:8
+# text = Minħabba dan id-dubju l-proġett ta' Grisewood qatt ma seħħ.
+1	Minħabba	_	ADP	PREP	_	4	case	_	_
+2	dan	_	PRON	PRON_DEM	_	4	det	_	_
+3	id-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	dubju	_	NOUN	NOUN	_	11	obl	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	proġett	_	NOUN	NOUN	_	11	nsubj	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	Grisewood	_	PROPN	NOUN_PROP	_	6	nmod:poss	_	_
+9	qatt	_	ADV	ADV	_	11	advmod	_	_
+10	ma	_	PART	NEG	_	11	aux:neg	_	_
+11	seħħ	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 51_02N10:9
+# text = L-aħħar darba li Ċipru ssemma fl-istorja ta' l-emigrazzjoni Maltija kien fis-snin ta' wara t-Tieni Gwerra Dinjija meta fl-1949 kien hemm erba' mitt persuna ta' nisel Malti rifuġjati fil-kamp ta' Dekhelia.
+1	L-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+2	aħħar	_	ADJ	ADJ	_	3	amod	_	_
+3	darba	_	NOUN	NOUN	_	15	obl	_	_
+4	li	_	SCONJ	COMP	_	6	mark	_	_
+5	Ċipru	_	PROPN	NOUN_PROP	_	6	nsubj:pass	_	_
+6	ssemma	_	VERB	VERB	_	3	acl	_	_
+7	fl-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	istorja	_	NOUN	NOUN	_	6	obl	_	_
+9	ta'	_	ADP	GEN	_	11	case	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	emigrazzjoni	_	NOUN	NOUN	_	8	nmod:poss	_	_
+12	Maltija	_	ADJ	ADJ	_	11	amod	_	_
+13	kien	_	AUX	KIEN	_	15	cop	_	_
+14	fis-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	snin	_	NOUN	NOUN	_	0	root	_	_
+16	ta'	_	ADP	GEN	_	20	mark	_	_
+17	wara	_	ADP	PREP	_	20	case	_	_
+18	t-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+19	Tieni	_	NUM	NUM_ORD	_	20	amod	_	_
+20	Gwerra	_	NOUN	NOUN	_	15	nmod:poss	_	_
+21	Dinjija	_	ADJ	ADJ	_	20	amod	_	_
+22	meta	_	SCONJ	CONJ_SUB	_	26	mark	_	_
+23	fl-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
+24	1949	_	NUM	X_DIG	_	26	obl	_	_
+25	kien	_	AUX	KIEN	_	26	aux	_	_
+26	hemm	_	VERB	HEMM	_	15	advcl	_	_
+27	erba'	_	NUM	NUM_CRD	_	29	nummod	_	_
+28	mitt	_	NUM	NUM_CRD	_	29	nummod	_	_
+29	persuna	_	NOUN	NOUN	_	26	nsubj	_	_
+30	ta'	_	ADP	GEN	_	31	case	_	_
+31	nisel	_	NOUN	NOUN	_	29	nmod:poss	_	_
+32	Malti	_	ADJ	ADJ	_	31	amod	_	_
+33	rifuġjati	_	NOUN	NOUN	_	29	appos	_	_
+34	fil-	_	ADP	PREP_DEF	_	35	case:det	_	SpaceAfter=No
+35	kamp	_	NOUN	NOUN	_	26	obl	_	_
+36	ta'	_	ADP	GEN	_	37	case	_	_
+37	Dekhelia	_	PROPN	NOUN_PROP	_	35	nmod:poss	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	15	punct	_	_
+
+# sent_id = 51_02N10:10
+# text = Dawn kienu ħarbu mill-Eritrea fl-1941 waqt li xi wħud kienu ħarbu mill-Greċja u mit-Turkija.
+1	Dawn	_	PRON	PRON_DEM	_	3	nsubj	_	_
+2	kienu	_	AUX	KIEN	_	3	aux	_	_
+3	ħarbu	_	VERB	VERB	_	0	root	_	_
+4	mill-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	Eritrea	_	PROPN	NOUN_PROP	_	3	obl	_	_
+6	fl-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	1941	_	NUM	X_DIG	_	3	obl	_	_
+8	waqt	_	ADP	PREP	_	13	case	_	_
+9	li	_	SCONJ	COMP	_	8	fixed	_	_
+10	xi	_	DET	QUAN	_	11	det	_	_
+11	wħud	_	NUM	NUM_WHD	_	13	nsubj	_	_
+12	kienu	_	AUX	KIEN	_	13	aux	_	_
+13	ħarbu	_	VERB	VERB	_	3	advcl	_	_
+14	mill-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	Greċja	_	PROPN	NOUN_PROP	_	13	obl	_	_
+16	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+17	mit-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	Turkija	_	PROPN	NOUN_PROP	_	15	conj	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 51_02N10:11
+# text = Dawn la kellhom qraba u lanqas ħbieb f'Malta u lanqas ma kellhom lil xi ħadd lest biex jaċċettahom fl-artijiet fejn kienu qed imorru l-Maltin.
+1	Dawn	_	PRON	PRON_DEM	_	3	nsubj	_	_
+2	la	_	PART	NEG	_	3	aux:neg	_	_
+3	kellhom	_	VERB	VERB_PSEU	_	0	root	_	_
+4	qraba	_	NOUN	NOUN	_	3	obj	_	_
+5	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+6	lanqas	_	ADV	FOC	_	7	discourse	_	_
+7	ħbieb	_	NOUN	NOUN	_	4	conj	_	_
+8	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+9	Malta	_	PROPN	NOUN_PROP	_	3	obl	_	_
+10	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+11	lanqas	_	ADV	FOC	_	13	discourse	_	_
+12	ma	_	PART	NEG	_	13	aux:neg	_	_
+13	kellhom	_	VERB	VERB_PSEU	_	3	conj	_	_
+14	lil	_	ADP	LIL	_	16	case	_	_
+15	xi	_	DET	QUAN	_	16	det	_	_
+16	ħadd	_	NUM	NUM_WHD	_	13	obj	_	_
+17	lest	_	ADJ	ADJ	_	16	amod	_	_
+18	biex	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+19	jaċċettahom	_	VERB	VERB	_	17	xcomp	_	_
+20	fl-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
+21	artijiet	_	NOUN	NOUN	_	19	obl	_	_
+22	fejn	_	PRON	PRON_INT	_	25	advmod	_	_
+23	kienu	_	AUX	KIEN	_	25	aux	_	_
+24	qed	_	AUX	PROG	_	25	aux:part	_	_
+25	imorru	_	VERB	VERB	_	21	acl	_	_
+26	l-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+27	Maltin	_	NOUN	NOUN	_	25	nsubj	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 51_02N10:12
+# text = Kien hemm xi ftit li rnexxielhom imorru l-Ingilterra u l-Awstralja, imma l-parti l-kbira tagħhom baqgħu f'Ċipru.
+1	Kien	_	AUX	KIEN	_	2	aux	_	_
+2	hemm	_	VERB	HEMM	_	0	root	_	_
+3	xi	_	DET	QUAN	_	4	det	_	_
+4	ftit	_	DET	QUAN	_	2	nsubj	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	rnexxielhom	_	VERB	VERB	_	4	acl	_	_
+7	imorru	_	VERB	VERB	_	6	xcomp	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	Ingilterra	_	PROPN	NOUN_PROP	_	7	obl	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	Awstralja	_	PROPN	NOUN_PROP	_	9	conj	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	2	punct	_	_
+14	imma	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	parti	_	NOUN	NOUN	_	20	nsubj	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	kbira	_	ADJ	ADJ	_	16	amod	_	_
+19	tagħhom	_	PRON	GEN_PRON	_	16	case	_	_
+20	baqgħu	_	VERB	VERB	_	2	conj	_	_
+21	f'	_	ADP	PREP	_	22	case	_	SpaceAfter=No
+22	Ċipru	_	PROPN	NOUN_PROP	_	20	obl	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 51_02N10:13
+# text = Ġo Korfu u l-gżejjer l-oħra fil-qrib nibtu xi komunitajiet żgħar ta' Maltin wara l-1815 meta dawn il-gżejjer saru protettorat Ingliż.
+1	Ġo	_	ADP	PREP	_	2	case	_	_
+2	Korfu	_	PROPN	NOUN_PROP	_	10	obl	_	_
+3	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	gżejjer	_	NOUN	NOUN	_	2	conj	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	oħra	_	ADJ	ADJ	_	5	amod	_	_
+8	fil-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	qrib	_	ADJ	ADJ	_	5	nmod	_	_
+10	nibtu	_	VERB	VERB	_	0	root	_	_
+11	xi	_	DET	QUAN	_	12	det	_	_
+12	komunitajiet	_	NOUN	NOUN	_	10	obj	_	_
+13	żgħar	_	ADJ	ADJ	_	12	amod	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	Maltin	_	NOUN	NOUN	_	12	nmod:poss	_	_
+16	wara	_	ADP	PREP	_	18	case	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	1815	_	NUM	X_DIG	_	10	obl	_	_
+19	meta	_	SCONJ	CONJ_SUB	_	23	mark	_	_
+20	dawn	_	PRON	PRON_DEM	_	22	det	_	_
+21	il-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	gżejjer	_	NOUN	NOUN	_	23	nsubj	_	_
+23	saru	_	VERB	VERB	_	10	advcl	_	_
+24	protettorat	_	NOUN	NOUN	_	23	xcomp	_	_
+25	Ingliż	_	ADJ	ADJ	_	24	amod	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 51_02N10:14
+# text = Iżda fl-1864 il-Greċja ħadet f'idejha l-Gżejjer Jonji u minħabba dan kien hemm bosta Maltin li telqu minn hemm.
+1	Iżda	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+2	fl-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+3	1864	_	NUM	X_DIG	_	6	obl	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Greċja	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+6	ħadet	_	VERB	VERB	_	0	root	_	_
+7	f'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
+8	idejha	_	NOUN	NOUN	_	6	obl	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	Gżejjer	_	NOUN	NOUN	_	6	obj	_	_
+11	Jonji	_	ADJ	ADJ	_	10	amod	_	_
+12	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+13	minħabba	_	ADP	PREP	_	14	case	_	_
+14	dan	_	PRON	PRON_DEM	_	16	obl	_	_
+15	kien	_	AUX	KIEN	_	16	aux	_	_
+16	hemm	_	VERB	HEMM	_	6	conj	_	_
+17	bosta	_	DET	QUAN	_	18	det	_	_
+18	Maltin	_	NOUN	NOUN	_	16	nsubj	_	_
+19	li	_	SCONJ	COMP	_	20	mark	_	_
+20	telqu	_	VERB	VERB	_	18	acl	_	_
+21	minn	_	ADP	PREP	_	22	case	_	_
+22	hemm	_	ADV	ADV	_	20	advmod	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 51_02N10:15
+# text = Iżda baqa' oħrajn li komplew bil-ħajja tagħhom taħt il-Griegi.
+1	Iżda	_	CCONJ	CONJ_CORD	_	2	cc	_	_
+2	baqa'	_	VERB	VERB	_	0	root	_	_
+3	oħrajn	_	NOUN	NOUN	_	2	nsubj	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	komplew	_	VERB	VERB	_	3	acl	_	_
+6	bil-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	ħajja	_	NOUN	NOUN	_	5	obl:arg	_	_
+8	tagħhom	_	PRON	GEN_PRON	_	7	case	_	_
+9	taħt	_	ADP	PREP	_	11	case	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	Griegi	_	NOUN	NOUN	_	5	obl	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 51_02N10:16
+# text = Fl-1907 grupp ta' sorijiet Maltin fetħu dar ġo Korfu biex jgħinu lill-komunità Maltija.
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	1907	_	NUM	X_DIG	_	7	obl	_	_
+3	grupp	_	NOUN	NOUN	_	7	nsubj	_	_
+4	ta'	_	ADP	GEN	_	5	case	_	_
+5	sorijiet	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	Maltin	_	ADJ	ADJ	_	5	amod	_	_
+7	fetħu	_	VERB	VERB	_	0	root	_	_
+8	dar	_	NOUN	NOUN	_	7	obj	_	_
+9	ġo	_	ADP	PREP	_	10	case	_	_
+10	Korfu	_	PROPN	NOUN_PROP	_	7	obl	_	_
+11	biex	_	SCONJ	CONJ_SUB	_	12	mark	_	_
+12	jgħinu	_	VERB	VERB	_	7	advcl	_	_
+13	lill-	_	ADP	LIL_DEF	_	14	case:det	_	SpaceAfter=No
+14	komunità	_	NOUN	NOUN	_	12	obj	_	_
+15	Maltija	_	ADJ	ADJ	_	14	amod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 51_02N10:17
+# text = Dawn għadhom hemm sa llum.
+1	Dawn	_	PRON	PRON_DEM	_	2	nsubj	_	_
+2	għadhom	_	VERB	VERB_PSEU	_	0	root	_	_
+3	hemm	_	ADV	ADV	_	2	advmod	_	_
+4	sa	_	ADP	PREP	_	5	case	_	_
+5	llum	_	ADV	ADV	_	2	advmod	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 51_02N10:18
+# text = Sa l-1930 Dun Spir Cilia kien jieħu ħsieb madwar elf Korfjot ta' nisel Malti.
+1	Sa	_	ADP	PREP	_	3	case	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	1930	_	NUM	X_DIG	_	8	obl	_	_
+4	Dun	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+5	Spir	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
+6	Cilia	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
+7	kien	_	AUX	KIEN	_	8	aux	_	_
+8	jieħu	_	VERB	VERB	_	0	root	_	_
+9	ħsieb	_	NOUN	NOUN	_	8	compound	_	_
+10	madwar	_	ADP	PREP	_	12	case	_	_
+11	elf	_	NUM	NUM_CRD	_	12	nummod	_	_
+12	Korfjot	_	PROPN	NOUN_PROP	_	8	obj	_	_
+13	ta'	_	ADP	GEN	_	14	case	_	_
+14	nisel	_	NOUN	NOUN	_	12	nmod:poss	_	_
+15	Malti	_	ADJ	ADJ	_	14	amod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 51_02N10:19
+# text = Bl-għajnuna ta' kontribuzzjonijiet minn Malta Dun Spir bena u fetaħ dar għax-xjuħ Maltin.
+1	Bl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	għajnuna	_	NOUN	NOUN	_	9	obl	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	kontribuzzjonijiet	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	minn	_	ADP	PREP	_	6	case	_	_
+6	Malta	_	PROPN	NOUN_PROP	_	4	nmod	_	_
+7	Dun	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
+8	Spir	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
+9	bena	_	VERB	VERB	_	0	root	_	_
+10	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+11	fetaħ	_	VERB	VERB	_	9	conj	_	_
+12	dar	_	NOUN	NOUN	_	9	obj	_	_
+13	għax-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	xjuħ	_	NOUN	NOUN	_	12	nmod	_	_
+15	Maltin	_	ADJ	ADJ	_	14	amod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 51_02N10:20
+# text = Illum il-Maltin ta' Korfu jitkellmu bil-Grieg u tħalltu sew man-nies tal-post.
+1	Illum	_	ADV	ADV	_	6	advmod	_	_
+2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	Maltin	_	NOUN	NOUN	_	6	nsubj	_	_
+4	ta'	_	ADP	GEN	_	5	case	_	_
+5	Korfu	_	PROPN	NOUN_PROP	_	3	nmod:poss	_	_
+6	jitkellmu	_	VERB	VERB	_	0	root	_	_
+7	bil-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	Grieg	_	NOUN	NOUN	_	6	obl:arg	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	tħalltu	_	VERB	VERB	_	6	conj	_	_
+11	sew	_	ADV	ADV	_	10	advmod	_	_
+12	man-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	nies	_	NOUN	NOUN	_	10	obl	_	_
+14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	post	_	NOUN	NOUN	_	13	nmod:poss	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 51_02N10:21
+# text = Oħrajn telqu lejn il-Greċja kontinentali, l-aktar lejn Atene.
+1	Oħrajn	_	NOUN	NOUN	_	2	nsubj	_	_
+2	telqu	_	VERB	VERB	_	0	root	_	_
+3	lejn	_	ADP	PREP	_	5	case	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Greċja	_	PROPN	NOUN_PROP	_	2	obl	_	_
+6	kontinentali	_	ADJ	ADJ	_	5	amod	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	5	punct	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	aktar	_	ADV	ADV	_	11	advmod	_	_
+10	lejn	_	ADP	PREP	_	11	case	_	_
+11	Atene	_	PROPN	NOUN_PROP	_	5	conj	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 51_02N10:22
+# text = Żammew r-reliġjon tagħhom u r-rabta sentimentali ma' Malta.
+1	Żammew	_	VERB	VERB	_	0	root	_	_
+2	r-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	reliġjon	_	NOUN	NOUN	_	1	obj	_	_
+4	tagħhom	_	PRON	GEN_PRON	_	3	case	_	_
+5	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+6	r-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	rabta	_	NOUN	NOUN	_	3	conj	_	_
+8	sentimentali	_	ADJ	ADJ	_	7	amod	_	_
+9	ma'	_	ADP	PREP	_	10	case	_	_
+10	Malta	_	PROPN	NOUN_PROP	_	7	nmod	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 51_02N10:23
+# text = Fil-bliet ewlenin ta' l-Ottomani bħalma huma Kostantinopli u Smyrna kien hemm komunitajiet żgħar Maltin sa mill-bidu tas-seklu għoxrin.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	bliet	_	NOUN	NOUN	_	13	obl	_	_
+3	ewlenin	_	ADJ	ADJ	_	2	amod	_	_
+4	ta'	_	ADP	GEN	_	6	case	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	Ottomani	_	NOUN	NOUN	_	2	nmod:poss	_	_
+7	bħalma	_	SCONJ	CONJ_SUB	_	9	mark	_	_
+8	huma	_	PRON	PRON_PERS	_	9	cop	_	_
+9	Kostantinopli	_	PROPN	NOUN_PROP	_	2	acl	_	_
+10	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+11	Smyrna	_	PROPN	NOUN_PROP	_	9	conj	_	_
+12	kien	_	AUX	KIEN	_	13	aux	_	_
+13	hemm	_	VERB	HEMM	_	0	root	_	_
+14	komunitajiet	_	NOUN	NOUN	_	13	nsubj	_	_
+15	żgħar	_	ADJ	ADJ	_	14	amod	_	_
+16	Maltin	_	ADJ	ADJ	_	14	amod	_	_
+17	sa	_	ADP	PREP	_	19	case	_	_
+18	mill-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
+19	bidu	_	NOUN	NOUN	_	13	obl	_	_
+20	tas-	_	ADP	GEN_DEF	_	21	case:det	_	SpaceAfter=No
+21	seklu	_	NOUN	NOUN	_	19	nmod:poss	_	_
+22	għoxrin	_	NUM	NUM_CRD	_	21	nummod	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 51_02N10:24
+# text = Ġo Kostantinopli l-għadd tal-Maltin ġie li wasal għal tliet elef ruħ.
+1	Ġo	_	ADP	PREP	_	2	case	_	_
+2	Kostantinopli	_	PROPN	NOUN_PROP	_	7	obl	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	għadd	_	NOUN	NOUN	_	7	nsubj	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	Maltin	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	ġie	_	VERB	VERB	_	0	root	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	wasal	_	VERB	VERB	_	7	xcomp	_	_
+10	għal	_	ADP	PREP	_	13	case	_	_
+11	tliet	_	NUM	NUM_CRD	_	13	nummod	_	_
+12	elef	_	NUM	NUM_CRD	_	13	nummod	_	_
+13	ruħ	_	NOUN	NOUN	_	9	obl:arg	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 51_02N10:25
+# text = Dawn kienu joqogħdu fid-distrett ta' Galata fejn kienu jinġabru l-Kristjani.
+1	Dawn	_	PRON	PRON_DEM	_	3	nsubj	_	_
+2	kienu	_	AUX	KIEN	_	3	aux	_	_
+3	joqogħdu	_	VERB	VERB	_	0	root	_	_
+4	fid-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	distrett	_	NOUN	NOUN	_	3	obl	_	_
+6	ta'	_	ADP	GEN	_	7	case	_	_
+7	Galata	_	PROPN	NOUN_PROP	_	5	nmod:poss	_	_
+8	fejn	_	PRON	PRON_INT	_	10	advmod	_	_
+9	kienu	_	AUX	KIEN	_	10	aux	_	_
+10	jinġabru	_	VERB	VERB	_	5	acl	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	Kristjani	_	NOUN	NOUN	_	10	nsubj:pass	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 51_02N10:26
+# text = Il-Maltin ta' Smyrna kienu jgħixu fid-distrett ta' Karsiyaka.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Maltin	_	NOUN	NOUN	_	6	nsubj	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	Smyrna	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+5	kienu	_	AUX	KIEN	_	6	aux	_	_
+6	jgħixu	_	VERB	VERB	_	0	root	_	_
+7	fid-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	distrett	_	NOUN	NOUN	_	6	obl	_	_
+9	ta'	_	ADP	GEN	_	10	case	_	_
+10	Karsiyaka	_	PROPN	NOUN_PROP	_	8	nmod:poss	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 51_02N10:27
+# text = Fl-1927 f'Karsiyaka kien hemm bħala kappillan Dun Dward Tonna li wara sar isqof ta' Smyrna.
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	1927	_	NUM	X_DIG	_	6	obl	_	_
+3	f'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
+4	Karsiyaka	_	PROPN	NOUN_PROP	_	6	obl	_	_
+5	kien	_	AUX	KIEN	_	6	aux	_	_
+6	hemm	_	VERB	HEMM	_	0	root	_	_
+7	bħala	_	ADP	PREP	_	8	case	_	_
+8	kappillan	_	NOUN	NOUN	_	6	obl	_	_
+9	Dun	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+10	Dward	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
+11	Tonna	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
+12	li	_	SCONJ	COMP	_	14	mark	_	_
+13	wara	_	ADV	ADV	_	14	advmod	_	_
+14	sar	_	VERB	VERB	_	9	acl	_	_
+15	isqof	_	NOUN	NOUN	_	14	xcomp	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	Smyrna	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 51_02N10:28
+# text = Fl-1995 patri Malti li trabba fl-Awstralja, Leonard Testa, sar kappillan ta' Karsiyaka.
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	1995	_	NUM	X_DIG	_	13	obl	_	_
+3	patri	_	NOUN	NOUN	_	13	nsubj	_	_
+4	Malti	_	ADJ	ADJ	_	3	amod	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	trabba	_	VERB	VERB	_	3	acl	_	_
+7	fl-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	Awstralja	_	PROPN	NOUN_PROP	_	6	obl	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	10	punct	_	_
+10	Leonard	_	PROPN	NOUN_PROP	_	3	appos	_	_
+11	Testa	_	PROPN	NOUN_PROP	_	10	flat:name	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	10	punct	_	_
+13	sar	_	VERB	VERB	_	0	root	_	_
+14	kappillan	_	NOUN	NOUN	_	13	xcomp	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	Karsiyaka	_	PROPN	NOUN_PROP	_	14	nmod:poss	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 51_02N10:29
+# text = Għal xi żmien il-komunità Maltija ta' Smyrna kienet tilħaq l-elfejn ruħ, iżda wara l-Armistizju ta' l-1918, ħafna mill-Maltin xterdu ma' naħat oħra fil-lvant tal-Mediterran.
+1	Għal	_	ADP	PREP	_	3	case	_	_
+2	xi	_	DET	QUAN	_	3	det	_	_
+3	żmien	_	NOUN	NOUN	_	10	obl	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	komunità	_	NOUN	NOUN	_	10	nsubj	_	_
+6	Maltija	_	ADJ	ADJ	_	5	amod	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	Smyrna	_	PROPN	NOUN_PROP	_	5	nmod:poss	_	_
+9	kienet	_	AUX	KIEN	_	10	aux	_	_
+10	tilħaq	_	VERB	VERB	_	0	root	_	_
+11	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+12	elfejn	_	NUM	NUM_CRD	_	13	nummod	_	_
+13	ruħ	_	NOUN	NOUN	_	10	obj	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	10	punct	_	_
+15	iżda	_	CCONJ	CONJ_CORD	_	26	cc	_	_
+16	wara	_	ADP	PREP	_	18	case	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	Armistizju	_	NOUN	NOUN	_	26	obl	_	_
+19	ta'	_	ADP	GEN	_	21	case	_	_
+20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	1918	_	NUM	X_DIG	_	18	nmod:poss	_	SpaceAfter=No
+22	,	_	PUNCT	X_PUN	_	18	punct	_	_
+23	ħafna	_	DET	QUAN	_	26	nsubj	_	_
+24	mill-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
+25	Maltin	_	NOUN	NOUN	_	23	nmod:poss	_	_
+26	xterdu	_	VERB	VERB	_	10	conj	_	_
+27	ma'	_	ADP	PREP	_	28	case	_	_
+28	naħat	_	NOUN	NOUN	_	26	obl	_	_
+29	oħra	_	ADJ	ADJ	_	28	amod	_	_
+30	fil-	_	ADP	PREP_DEF	_	31	case:det	_	SpaceAfter=No
+31	lvant	_	NOUN	NOUN	_	26	obl	_	_
+32	tal-	_	ADP	GEN_DEF	_	33	case:det	_	SpaceAfter=No
+33	Mediterran	_	PROPN	NOUN_PROP	_	31	nmod:poss	_	SpaceAfter=No
+34	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 51_02N10:30
+# text = Fl-1922 Malta laqgħet 1,300 rifuġjat minn Smyrna; fost dawn kien hemm xi ftit li kienu ta' oriġini Maltija.
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	1922	_	NUM	X_DIG	_	4	obl	_	_
+3	Malta	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+4	laqgħet	_	VERB	VERB	_	0	root	_	_
+5	1,300	_	NUM	X_DIG	_	6	nummod	_	_
+6	rifuġjat	_	NOUN	NOUN	_	4	obj	_	_
+7	minn	_	ADP	PREP	_	8	case	_	_
+8	Smyrna	_	PROPN	NOUN_PROP	_	4	obl	_	SpaceAfter=No
+9	;	_	PUNCT	X_PUN	_	4	punct	_	_
+10	fost	_	ADP	PREP	_	11	case	_	_
+11	dawn	_	PRON	PRON_DEM	_	13	obl	_	_
+12	kien	_	AUX	KIEN	_	13	aux	_	_
+13	hemm	_	VERB	HEMM	_	4	parataxis	_	_
+14	xi	_	DET	QUAN	_	15	det	_	_
+15	ftit	_	DET	QUAN	_	13	nsubj	_	_
+16	li	_	SCONJ	COMP	_	19	mark	_	_
+17	kienu	_	AUX	KIEN	_	19	cop	_	_
+18	ta'	_	ADP	GEN	_	19	case	_	_
+19	oriġini	_	NOUN	NOUN	_	15	acl	_	_
+20	Maltija	_	ADJ	ADJ	_	19	amod	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 51_02N10:31
+# text = Fil-21 ta' Mejju 1934 il-president tar-repubblika Torka, Kemal Ataturk, ħareġ liġi li biha saret ħaġa tista' tgħid impossibbli għal min ma kienx ċittadin Tork li jibqa' jaħdem fit-Turkija.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	21	_	NUM	X_DIG	_	15	obl	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	Mejju	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+5	1934	_	NUM	X_DIG	_	4	nummod	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	president	_	NOUN	NOUN	_	15	nsubj	_	_
+8	tar-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	repubblika	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	Torka	_	ADJ	ADJ	_	9	amod	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	12	punct	_	_
+12	Kemal	_	PROPN	NOUN_PROP	_	7	appos	_	_
+13	Ataturk	_	PROPN	NOUN_PROP	_	12	flat:name	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	12	punct	_	_
+15	ħareġ	_	VERB	VERB	_	0	root	_	_
+16	liġi	_	NOUN	NOUN	_	15	obj	_	_
+17	li	_	SCONJ	COMP	_	19	mark	_	_
+18	biha	_	PRON	PREP_PRON	_	19	obl	_	_
+19	saret	_	VERB	VERB	_	16	acl	_	_
+20	ħaġa	_	NOUN	NOUN	_	19	xcomp	_	_
+21	tista'	_	VERB	VERB	_	23	parataxis	_	_
+22	tgħid	_	VERB	VERB	_	21	xcomp	_	_
+23	impossibbli	_	ADJ	ADJ	_	20	amod	_	_
+24	għal	_	ADP	PREP	_	25	case	_	_
+25	min	_	PRON	PRON_INT	_	19	obl	_	_
+26	ma	_	PART	NEG	_	28	aux:neg	_	_
+27	kienx	_	AUX	KIEN	_	28	cop	_	_
+28	ċittadin	_	NOUN	NOUN	_	25	acl	_	_
+29	Tork	_	ADJ	ADJ	_	28	amod	_	_
+30	li	_	SCONJ	COMP	_	31	mark	_	_
+31	jibqa'	_	VERB	VERB	_	19	csubj	_	_
+32	jaħdem	_	VERB	VERB	_	31	xcomp	_	_
+33	fit-	_	ADP	PREP_DEF	_	34	case:det	_	SpaceAfter=No
+34	Turkija	_	PROPN	NOUN_PROP	_	32	obl	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	15	punct	_	_
+
+# sent_id = 51_02N10:32
+# text = Fl-1946 il-Gvern Ingliż ħa taħt il-ħarsien tiegħu seba' mitt persuna li kienu ta' nisel Malti u li kellhom passaport tar-Renju Unit.
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	1946	_	NUM	X_DIG	_	6	obl	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	Gvern	_	NOUN	NOUN	_	6	nsubj	_	_
+5	Ingliż	_	ADJ	ADJ	_	4	amod	_	_
+6	ħa	_	VERB	VERB	_	0	root	_	_
+7	taħt	_	ADP	PREP	_	9	case	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	ħarsien	_	NOUN	NOUN	_	6	obl	_	_
+10	tiegħu	_	PRON	GEN_PRON	_	9	case	_	_
+11	seba'	_	NUM	NUM_CRD	_	13	nummod	_	_
+12	mitt	_	NUM	NUM_CRD	_	13	nummod	_	_
+13	persuna	_	NOUN	NOUN	_	6	obj	_	_
+14	li	_	SCONJ	COMP	_	17	mark	_	_
+15	kienu	_	AUX	KIEN	_	17	cop	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	nisel	_	NOUN	NOUN	_	13	acl	_	_
+18	Malti	_	ADJ	ADJ	_	17	amod	_	_
+19	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+20	li	_	SCONJ	COMP	_	21	mark	_	_
+21	kellhom	_	VERB	VERB_PSEU	_	17	conj	_	_
+22	passaport	_	NOUN	NOUN	_	21	obj	_	_
+23	tar-	_	ADP	GEN_DEF	_	24	case:det	_	SpaceAfter=No
+24	Renju	_	NOUN	NOUN	_	22	nmod:poss	_	_
+25	Unit	_	ADJ	ADJ	_	24	amod	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 51_02N10:33
+# text = Dawn ġew megħjuna biex jemigraw lejn pajjiżi oħra.
+1	Dawn	_	PRON	PRON_DEM	_	3	nsubj:pass	_	_
+2	ġew	_	VERB	VERB	_	3	aux:pass	_	_
+3	megħjuna	_	VERB	PART_PASS	_	0	root	_	_
+4	biex	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	jemigraw	_	VERB	VERB	_	3	xcomp	_	_
+6	lejn	_	ADP	PREP	_	7	case	_	_
+7	pajjiżi	_	NOUN	NOUN	_	5	obl	_	_
+8	oħra	_	ADJ	ADJ	_	7	amod	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 51_02N10:34
+# text = B'hekk il-preżenza Maltija ġo Kostaninopli u Smyrna tista' tgħid li ġiet fix-xejn.
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	hekk	_	ADV	ADV	_	13	advmod	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	preżenza	_	NOUN	NOUN	_	13	nsubj	_	_
+5	Maltija	_	ADJ	ADJ	_	4	amod	_	_
+6	ġo	_	ADP	PREP	_	7	case	_	_
+7	Kostaninopli	_	PROPN	NOUN_PROP	_	4	nmod	_	_
+8	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+9	Smyrna	_	PROPN	NOUN_PROP	_	7	conj	_	_
+10	tista'	_	VERB	VERB	_	13	parataxis	_	_
+11	tgħid	_	VERB	VERB	_	10	xcomp	_	_
+12	li	_	SCONJ	COMP	_	13	mark	_	_
+13	ġiet	_	VERB	VERB	_	0	root	_	_
+14	fix-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	xejn	_	PRON	PRON_INDEF	_	13	obl	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	13	punct	_	_
+

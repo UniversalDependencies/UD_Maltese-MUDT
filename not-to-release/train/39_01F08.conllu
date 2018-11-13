@@ -1,0 +1,306 @@
+# sent_id = 39_01F08:1
+# text = JAKE JEW NATHAN?
+1	JAKE	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	JEW	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+3	NATHAN	_	PROPN	NOUN_PROP	_	1	conj	_	SpaceAfter=No
+4	?	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 39_01F08:2
+# text = Krista, tfajla ta' sittax-il sena, b'figura pulita, b'għajnejha żoroq u xagħarha iswed, din is-sena bdiet tattendi għall-ewwel darba ġo skola post- sekondarja.
+1	Krista	_	PROPN	NOUN_PROP	_	22	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	tfajla	_	NOUN	NOUN	_	1	appos	_	_
+4	ta'	_	ADP	GEN	_	6	case	_	_
+5	sittax-il	_	NUM	NUM_CRD	_	6	nummod	_	_
+6	sena	_	NOUN	NOUN	_	3	nmod:poss	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	3	punct	_	_
+8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+9	figura	_	NOUN	NOUN	_	3	nmod	_	_
+10	pulita	_	ADJ	ADJ	_	9	amod	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	9	punct	_	_
+12	b'	_	ADP	PREP	_	13	case	_	SpaceAfter=No
+13	għajnejha	_	NOUN	NOUN	_	9	conj	_	_
+14	żoroq	_	ADJ	ADJ	_	13	amod	_	_
+15	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+16	xagħarha	_	NOUN	NOUN	_	9	conj	_	_
+17	iswed	_	ADJ	ADJ	_	16	amod	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	16	punct	_	_
+19	din	_	PRON	PRON_DEM	_	21	det	_	_
+20	is-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	sena	_	NOUN	NOUN	_	22	obl	_	_
+22	bdiet	_	VERB	VERB	_	0	root	_	_
+23	tattendi	_	VERB	VERB	_	22	xcomp	_	_
+24	għall-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
+25	ewwel	_	NUM	NUM_ORD	_	26	amod	_	_
+26	darba	_	NOUN	NOUN	_	23	obl	_	_
+27	ġo	_	ADP	PREP	_	28	case	_	_
+28	skola	_	NOUN	NOUN	_	23	obl	_	_
+29	post-	_	ADV	ADV	_	30	advmod	_	_
+30	sekondarja	_	ADJ	ADJ	_	28	amod	_	SpaceAfter=No
+31	.	_	PUNCT	X_PUN	_	22	punct	_	_
+
+# sent_id = 39_01F08:3
+# text = Jake, ħabib kbir ta' Krista, huwa ġuvni gustuż ħafna, b'għajnejh ħodor u xagħru kannella ċar.
+1	Jake	_	PROPN	NOUN_PROP	_	9	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	3	punct	_	_
+3	ħabib	_	NOUN	NOUN	_	1	appos	_	_
+4	kbir	_	ADJ	ADJ	_	3	amod	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	Krista	_	PROPN	NOUN_PROP	_	3	nmod:poss	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	3	punct	_	_
+8	huwa	_	PRON	PRON_PERS	_	9	cop	_	_
+9	ġuvni	_	NOUN	NOUN	_	0	root	_	_
+10	gustuż	_	ADJ	ADJ	_	9	amod	_	_
+11	ħafna	_	ADV	ADV	_	10	advmod	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	9	punct	_	_
+13	b'	_	ADP	PREP	_	14	case	_	SpaceAfter=No
+14	għajnejh	_	NOUN	NOUN	_	9	nmod	_	_
+15	ħodor	_	ADJ	ADJ	_	14	amod	_	_
+16	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
+17	xagħru	_	NOUN	NOUN	_	14	conj	_	_
+18	kannella	_	ADJ	ADJ	_	17	amod	_	_
+19	ċar	_	ADJ	ADJ	_	17	amod	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 39_01F08:4
+# text = Huwa ġuvni qalbu tajba ħafna u jħobb jgħin lil kulħadd.
+1	Huwa	_	PRON	PRON_PERS	_	2	nsubj	_	_
+2	ġuvni	_	NOUN	NOUN	_	0	root	_	_
+3	qalbu	_	NOUN	NOUN	_	2	nmod	_	_
+4	tajba	_	ADJ	ADJ	_	3	amod	_	_
+5	ħafna	_	ADV	ADV	_	4	advmod	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	jħobb	_	VERB	VERB	_	2	conj	_	_
+8	jgħin	_	VERB	VERB	_	7	xcomp	_	_
+9	lil	_	ADP	LIL	_	10	case	_	_
+10	kulħadd	_	PRON	PRON_INDEF	_	8	obj	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 39_01F08:5
+# text = Min ma kienx jafhom sew lil Krista u lil Jake kien jgħid li huma għarajjes għax dejjem kont tarahom flimkien, f'kelma waħda, inseparabbli.
+1	Min	_	PRON	PRON_INT	_	12	nsubj	_	_
+2	ma	_	PART	NEG	_	4	aux:neg	_	_
+3	kienx	_	AUX	KIEN	_	4	aux	_	_
+4	jafhom	_	VERB	VERB	_	1	acl	_	_
+5	sew	_	ADV	ADV	_	4	advmod	_	_
+6	lil	_	ADP	LIL	_	7	case	_	_
+7	Krista	_	PROPN	NOUN_PROP	_	4	obj	_	_
+8	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+9	lil	_	ADP	LIL	_	10	case	_	_
+10	Jake	_	PROPN	NOUN_PROP	_	7	conj	_	_
+11	kien	_	AUX	KIEN	_	12	aux	_	_
+12	jgħid	_	VERB	VERB	_	0	root	_	_
+13	li	_	SCONJ	COMP	_	15	mark	_	_
+14	huma	_	PRON	PRON_PERS	_	15	nsubj	_	_
+15	għarajjes	_	NOUN	NOUN	_	12	ccomp	_	_
+16	għax	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+17	dejjem	_	ADV	ADV	_	19	advmod	_	_
+18	kont	_	AUX	KIEN	_	19	aux	_	_
+19	tarahom	_	VERB	VERB	_	12	advcl	_	_
+20	flimkien	_	ADV	ADV	_	19	advmod	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	20	punct	_	_
+22	f'	_	ADP	PREP	_	23	case	_	SpaceAfter=No
+23	kelma	_	NOUN	NOUN	_	26	obl	_	_
+24	waħda	_	NUM	NUM_WHD	_	23	det	_	SpaceAfter=No
+25	,	_	PUNCT	X_PUN	_	23	punct	_	_
+26	inseparabbli	_	ADJ	ADJ	_	20	appos	_	SpaceAfter=No
+27	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 39_01F08:6
+# text = Krista u Jake kienu jgħixu qrib xulxin u ilhom ħbieb sa minn ċkunithom.
+1	Krista	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
+2	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+3	Jake	_	PROPN	NOUN_PROP	_	1	conj	_	_
+4	kienu	_	AUX	KIEN	_	5	aux	_	_
+5	jgħixu	_	VERB	VERB	_	0	root	_	_
+6	qrib	_	ADP	PREP	_	7	case	_	_
+7	xulxin	_	PRON	PRON_REC	_	5	obl	_	_
+8	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+9	ilhom	_	VERB	VERB_PSEU	_	5	conj	_	_
+10	ħbieb	_	NOUN	NOUN	_	9	xcomp	_	_
+11	sa	_	ADP	PREP	_	13	case	_	_
+12	minn	_	ADP	PREP	_	13	case	_	_
+13	ċkunithom	_	NOUN	NOUN	_	9	obl	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 39_01F08:7
+# text = Meta bdew jattendu skola ġdida, għalkemm Krista u Jake għażlu xi suġġetti l-istess, ma nzertawx flimkien fil-klassijiet.
+1	Meta	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	bdew	_	VERB	VERB	_	18	advcl	_	_
+3	jattendu	_	VERB	VERB	_	2	xcomp	_	_
+4	skola	_	NOUN	NOUN	_	3	obj	_	_
+5	ġdida	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	11	punct	_	_
+7	għalkemm	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+8	Krista	_	PROPN	NOUN_PROP	_	11	nsubj	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	Jake	_	PROPN	NOUN_PROP	_	8	conj	_	_
+11	għażlu	_	VERB	VERB	_	18	advcl	_	_
+12	xi	_	DET	QUAN	_	13	det	_	_
+13	suġġetti	_	NOUN	NOUN	_	11	obj	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	istess	_	ADJ	ADJ	_	11	obl	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	11	punct	_	_
+17	ma	_	PART	NEG	_	18	aux:neg	_	_
+18	nzertawx	_	VERB	VERB	_	0	root	_	_
+19	flimkien	_	ADV	ADV	_	18	advmod	_	_
+20	fil-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
+21	klassijiet	_	NOUN	NOUN	_	18	obl	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	18	punct	_	_
+
+# sent_id = 39_01F08:8
+# text = Waqt lezzjoni tal-Malti Krista iltaqgħet ma' Nathan, ġuvni tal-istess età tagħha li tista' tgħid it-tfajliet kollha kienu ffissati fuqu.
+1	Waqt	_	ADP	PREP	_	2	case	_	_
+2	lezzjoni	_	NOUN	NOUN	_	6	obl	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	Malti	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	Krista	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+6	iltaqgħet	_	VERB	VERB	_	0	root	_	_
+7	ma'	_	ADP	PREP	_	8	case	_	_
+8	Nathan	_	PROPN	NOUN_PROP	_	6	obl:arg	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	8	punct	_	_
+10	ġuvni	_	NOUN	NOUN	_	8	appos	_	_
+11	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+12	istess	_	ADJ	ADJ	_	13	amod	_	_
+13	età	_	NOUN	NOUN	_	10	nmod:poss	_	_
+14	tagħha	_	PRON	GEN_PRON	_	13	case	_	_
+15	li	_	SCONJ	COMP	_	22	mark	_	_
+16	tista'	_	VERB	VERB	_	22	parataxis	_	_
+17	tgħid	_	VERB	VERB	_	16	xcomp	_	_
+18	it-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	tfajliet	_	NOUN	NOUN	_	22	nsubj	_	_
+20	kollha	_	DET	QUAN	_	19	det	_	_
+21	kienu	_	AUX	KIEN	_	22	cop	_	_
+22	ffissati	_	VERB	PART_PASS	_	8	acl	_	_
+23	fuqu	_	PRON	PREP_PRON	_	22	obl	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 39_01F08:9
+# text = Dawn it-tnejn malajr saru ħbieb.
+1	Dawn	_	PRON	PRON_DEM	_	3	det	_	_
+2	it-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	tnejn	_	NUM	NUM_CRD	_	5	nsubj	_	_
+4	malajr	_	ADV	ADV	_	5	advmod	_	_
+5	saru	_	VERB	VERB	_	0	root	_	_
+6	ħbieb	_	NOUN	NOUN	_	5	xcomp	_	SpaceAfter=No
+7	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 39_01F08:10
+# text = Wara ftit taż-żmien Nathan staqsa lil Krista biex toħroġ miegħu u hi aċċettat għax minbarra li kien jogħġobha fiżikament, il-karattru tiegħu laqatha mill-ewwel.
+1	Wara	_	ADP	PREP	_	2	case	_	_
+2	ftit	_	DET	QUAN	_	6	obl	_	_
+3	taż-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	żmien	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	Nathan	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+6	staqsa	_	VERB	VERB	_	0	root	_	_
+7	lil	_	ADP	LIL	_	8	case	_	_
+8	Krista	_	PROPN	NOUN_PROP	_	6	obj	_	_
+9	biex	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+10	toħroġ	_	VERB	VERB	_	6	xcomp	_	_
+11	miegħu	_	PRON	PREP_PRON	_	10	obl	_	_
+12	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+13	hi	_	PRON	PRON_PERS	_	14	nsubj	_	_
+14	aċċettat	_	VERB	VERB	_	6	conj	_	_
+15	għax	_	SCONJ	CONJ_SUB	_	25	mark	_	_
+16	minbarra	_	ADP	PREP	_	19	mark	_	_
+17	li	_	SCONJ	COMP	_	16	fixed	_	_
+18	kien	_	AUX	KIEN	_	19	aux	_	_
+19	jogħġobha	_	VERB	VERB	_	25	advcl	_	_
+20	fiżikament	_	ADV	ADV	_	19	advmod	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	19	punct	_	_
+22	il-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	karattru	_	NOUN	NOUN	_	25	nsubj	_	_
+24	tiegħu	_	PRON	GEN_PRON	_	23	case	_	_
+25	laqatha	_	VERB	VERB	_	14	advcl	_	_
+26	mill-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
+27	ewwel	_	NUM	NUM_ORD	_	25	obl	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 39_01F08:11
+# text = Meta Jake sar jaf li bdiet toħroġ ma' Nathan ma tantx ħa gost għax kien sama' xi tfajliet jitkellmu dwaru u ma tantx qalu kliem ta' tifħir.
+1	Meta	_	SCONJ	CONJ_SUB	_	3	mark	_	_
+2	Jake	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+3	sar	_	VERB	VERB	_	12	advcl	_	_
+4	jaf	_	VERB	VERB	_	3	xcomp	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	bdiet	_	VERB	VERB	_	4	ccomp	_	_
+7	toħroġ	_	VERB	VERB	_	6	xcomp	_	_
+8	ma'	_	ADP	PREP	_	9	case	_	_
+9	Nathan	_	PROPN	NOUN_PROP	_	7	obl	_	_
+10	ma	_	PART	NEG	_	12	aux:neg	_	_
+11	tantx	_	VERB	VERB_PSEU	_	12	aux	_	_
+12	ħa	_	VERB	VERB	_	0	root	_	_
+13	gost	_	NOUN	NOUN	_	12	compound	_	_
+14	għax	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+15	kien	_	AUX	KIEN	_	16	aux	_	_
+16	sama'	_	VERB	VERB	_	12	advcl	_	_
+17	xi	_	DET	QUAN	_	18	det	_	_
+18	tfajliet	_	NOUN	NOUN	_	19	nsubj	_	_
+19	jitkellmu	_	VERB	VERB	_	16	ccomp	_	_
+20	dwaru	_	PRON	PREP_PRON	_	19	obl:arg	_	_
+21	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+22	ma	_	PART	NEG	_	24	aux:neg	_	_
+23	tantx	_	VERB	VERB_PSEU	_	24	aux	_	_
+24	qalu	_	VERB	VERB	_	19	conj	_	_
+25	kliem	_	NOUN	NOUN	_	24	obj	_	_
+26	ta'	_	ADP	GEN	_	27	case	_	_
+27	tifħir	_	NOUN	NOUN	_	25	nmod:poss	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 39_01F08:12
+# text = Jum fost l-oħrajn, Krista u Jake kienu ftiehmu biex imorru passiġġata u hemm raw lil Nathan miexi ma' tfajla oħra.
+1	Jum	_	NOUN	NOUN	_	10	obl	_	_
+2	fost	_	ADP	PREP	_	4	case	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	oħrajn	_	ADJ	ADJ	_	1	nmod	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Krista	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	Jake	_	PROPN	NOUN_PROP	_	6	conj	_	_
+9	kienu	_	AUX	KIEN	_	10	aux	_	_
+10	ftiehmu	_	VERB	VERB	_	0	root	_	_
+11	biex	_	SCONJ	CONJ_SUB	_	12	mark	_	_
+12	imorru	_	VERB	VERB	_	10	xcomp	_	_
+13	passiġġata	_	NOUN	NOUN	_	12	obl	_	_
+14	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+15	hemm	_	ADV	ADV	_	16	advmod	_	_
+16	raw	_	VERB	VERB	_	12	conj	_	_
+17	lil	_	ADP	LIL	_	18	case	_	_
+18	Nathan	_	PROPN	NOUN_PROP	_	16	obj	_	_
+19	miexi	_	VERB	PART_ACT	_	16	xcomp	_	_
+20	ma'	_	ADP	PREP	_	21	case	_	_
+21	tfajla	_	NOUN	NOUN	_	19	obl	_	_
+22	oħra	_	ADJ	ADJ	_	21	amod	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 39_01F08:13
+# text = Krista ddispjaċiha ħafna għax ma setgħetx tifhem għaliex għamlilha hekk.
+1	Krista	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+2	ddispjaċiha	_	VERB	VERB	_	0	root	_	_
+3	ħafna	_	ADV	ADV	_	2	advmod	_	_
+4	għax	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+5	ma	_	PART	NEG	_	6	aux:neg	_	_
+6	setgħetx	_	VERB	VERB	_	2	advcl	_	_
+7	tifhem	_	VERB	VERB	_	6	xcomp	_	_
+8	għaliex	_	PRON	PRON_INT	_	9	advmod	_	_
+9	għamlilha	_	VERB	VERB	_	7	ccomp	_	_
+10	hekk	_	ADV	ADV	_	9	advmod	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 39_01F08:14
+# text = Jake sab il-kuraġġ biex jistqarrilha li jħobbha u staqsieha biex toħroġ miegħu …
+1	Jake	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+2	sab	_	VERB	VERB	_	0	root	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	kuraġġ	_	NOUN	NOUN	_	2	obj	_	_
+5	biex	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+6	jistqarrilha	_	VERB	VERB	_	4	acl	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	jħobbha	_	VERB	VERB	_	6	xcomp	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	staqsieha	_	VERB	VERB	_	6	conj	_	_
+11	biex	_	SCONJ	CONJ_SUB	_	12	mark	_	_
+12	toħroġ	_	VERB	VERB	_	10	xcomp	_	_
+13	miegħu	_	PRON	PREP_PRON	_	12	obl	_	_
+14	…	_	PUNCT	X_PUN	_	2	punct	_	_
+

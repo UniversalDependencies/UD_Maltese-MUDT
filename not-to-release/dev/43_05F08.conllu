@@ -1,0 +1,333 @@
+# sent_id = 43_05F08:1
+# text = IL-KUĠINA
+1	IL-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	KUĠINA	_	NOUN	NOUN	_	0	root	_	_
+
+# sent_id = 43_05F08:2
+# text = Il-kuġina kienet tiġi ta' spiss toqgħod miegħi meta ommi kienet tkun xogħol ta' billejl.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	kuġina	_	NOUN	NOUN	_	4	nsubj	_	_
+3	kienet	_	AUX	KIEN	_	4	aux	_	_
+4	tiġi	_	VERB	VERB	_	0	root	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	spiss	_	ADV	ADV	_	4	advmod	_	_
+7	toqgħod	_	VERB	VERB	_	4	xcomp	_	_
+8	miegħi	_	PRON	PREP_PRON	_	7	obl	_	_
+9	meta	_	SCONJ	CONJ_SUB	_	13	mark	_	_
+10	ommi	_	NOUN	NOUN	_	13	nsubj	_	_
+11	kienet	_	AUX	KIEN	_	13	aux	_	_
+12	tkun	_	AUX	KIEN	_	13	cop	_	_
+13	xogħol	_	NOUN	NOUN	_	4	advcl	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	billejl	_	ADV	ADV	_	13	nmod:poss	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 43_05F08:3
+# text = Kont nagħmel minn kollox biex noqgħod imqareb u ma nobdihiex.
+1	Kont	_	AUX	KIEN	_	2	aux	_	_
+2	nagħmel	_	VERB	VERB	_	0	root	_	_
+3	minn	_	ADP	PREP	_	4	case	_	_
+4	kollox	_	PRON	PRON_INDEF	_	2	obl:arg	_	_
+5	biex	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+6	noqgħod	_	VERB	VERB	_	2	advcl	_	_
+7	imqareb	_	VERB	PART_PASS	_	6	xcomp	_	_
+8	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+9	ma	_	PART	NEG	_	10	aux:neg	_	_
+10	nobdihiex	_	VERB	VERB	_	2	conj	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 43_05F08:4
+# text = Kienet l-akbar għadu tiegħi.
+1	Kienet	_	AUX	KIEN	_	3	cop	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	akbar	_	ADJ	ADJ	_	0	root	_	_
+4	għadu	_	VERB	VERB_PSEU	_	3	acl	_	_
+5	tiegħi	_	PRON	GEN_PRON	_	4	xcomp	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 43_05F08:5
+# text = Rebecca hija l-akbar fost il-kuġini.
+1	Rebecca	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+2	hija	_	PRON	PRON_PERS	_	4	cop	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	akbar	_	ADJ	ADJ	_	0	root	_	_
+5	fost	_	ADP	PREP	_	7	case	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	kuġini	_	NOUN	NOUN	_	4	obl	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 43_05F08:6
+# text = Kienet tiġi torqod għandna meta kienet tiġi tieħu ħsiebi.
+1	Kienet	_	AUX	KIEN	_	2	aux	_	_
+2	tiġi	_	VERB	VERB	_	0	root	_	_
+3	torqod	_	VERB	VERB	_	2	xcomp	_	_
+4	għandna	_	PRON	PREP_PRON	_	3	obl	_	_
+5	meta	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+6	kienet	_	AUX	KIEN	_	7	aux	_	_
+7	tiġi	_	VERB	VERB	_	2	advcl	_	_
+8	tieħu	_	VERB	VERB	_	7	xcomp	_	_
+9	ħsiebi	_	NOUN	NOUN	_	8	compound	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 43_05F08:7
+# text = Kienet iġġib il-kotba, iżda ma kontx inħalliha tiftaħhom.
+1	Kienet	_	AUX	KIEN	_	2	aux	_	_
+2	iġġib	_	VERB	VERB	_	0	root	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	kotba	_	NOUN	NOUN	_	2	obj	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	2	punct	_	_
+6	iżda	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+7	ma	_	PART	NEG	_	9	aux:neg	_	_
+8	kontx	_	AUX	KIEN	_	9	aux	_	_
+9	inħalliha	_	VERB	VERB	_	2	conj	_	_
+10	tiftaħhom	_	VERB	VERB	_	9	xcomp	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 43_05F08:8
+# text = Ma kontx norqod u kont niġrilha mad-dar kollha nagħmel storbju sħiħ.
+1	Ma	_	PART	NEG	_	3	aux:neg	_	_
+2	kontx	_	AUX	KIEN	_	3	aux	_	_
+3	norqod	_	VERB	VERB	_	0	root	_	_
+4	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+5	kont	_	AUX	KIEN	_	6	aux	_	_
+6	niġrilha	_	VERB	VERB	_	3	conj	_	_
+7	mad-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	dar	_	NOUN	NOUN	_	6	obl	_	_
+9	kollha	_	DET	QUAN	_	8	det	_	_
+10	nagħmel	_	VERB	VERB	_	6	xcomp	_	_
+11	storbju	_	NOUN	NOUN	_	10	obj	_	_
+12	sħiħ	_	ADJ	ADJ	_	11	amod	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 43_05F08:9
+# text = Darba minnhom sabitli tarf.
+1	Darba	_	NOUN	NOUN	_	3	obl	_	_
+2	minnhom	_	PRON	PREP_PRON	_	1	nmod	_	_
+3	sabitli	_	VERB	VERB	_	0	root	_	_
+4	tarf	_	NOUN	NOUN	_	3	obj	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 43_05F08:10
+# text = "Min jaf li kieku nilagħbu logħba ġdida?" qaltli filwaqt li minn ġo basket kbir ħarġet kostumi kkuluriti tal-karnival.
+1	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+2	Min	_	PRON	PRON_INT	_	3	nsubj	_	_
+3	jaf	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	6	mark	_	_
+5	kieku	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+6	nilagħbu	_	VERB	VERB	_	3	ccomp	_	_
+7	logħba	_	NOUN	NOUN	_	6	obj	_	_
+8	ġdida	_	ADJ	ADJ	_	7	amod	_	SpaceAfter=No
+9	?	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+10	"	_	PUNCT	X_PUN	_	3	punct	_	_
+11	qaltli	_	VERB	VERB	_	3	parataxis	_	_
+12	filwaqt	_	SCONJ	CONJ_SUB	_	18	mark	_	_
+13	li	_	SCONJ	COMP	_	12	fixed	_	_
+14	minn	_	ADP	PREP	_	16	case	_	_
+15	ġo	_	ADP	PREP	_	16	case	_	_
+16	basket	_	NOUN	NOUN	_	18	obl	_	_
+17	kbir	_	ADJ	ADJ	_	16	amod	_	_
+18	ħarġet	_	VERB	VERB	_	11	advcl	_	_
+19	kostumi	_	NOUN	NOUN	_	18	obj	_	_
+20	kkuluriti	_	VERB	PART_PASS	_	19	amod	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	karnival	_	NOUN	NOUN	_	19	nmod:poss	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 43_05F08:11
+# text = Kienu tagħha u ma kinux baqgħu jiġuha.
+1	Kienu	_	AUX	KIEN	_	2	cop	_	_
+2	tagħha	_	PRON	GEN_PRON	_	0	root	_	_
+3	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+4	ma	_	PART	NEG	_	6	aux:neg	_	_
+5	kinux	_	AUX	KIEN	_	6	aux	_	_
+6	baqgħu	_	VERB	VERB	_	2	conj	_	_
+7	jiġuha	_	VERB	VERB	_	6	xcomp	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 43_05F08:12
+# text = Ilbist kostum ta' pirata imma ftit li xejn domt bih.
+1	Ilbist	_	VERB	VERB	_	0	root	_	_
+2	kostum	_	NOUN	NOUN	_	1	obj	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	pirata	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	imma	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+6	ftit	_	ADV	ADV	_	9	advmod	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	xejn	_	PRON	PRON_INDEF	_	6	conj	_	_
+9	domt	_	VERB	VERB	_	1	conj	_	_
+10	bih	_	PRON	PREP_PRON	_	9	obl	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 43_05F08:13
+# text = Ippruvajt oħrajn u qlibt il-kamra ta' taħt fuq.
+1	Ippruvajt	_	VERB	VERB	_	0	root	_	_
+2	oħrajn	_	NOUN	NOUN	_	1	obj	_	_
+3	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+4	qlibt	_	VERB	VERB	_	1	conj	_	_
+5	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	kamra	_	NOUN	NOUN	_	4	obj	_	_
+7	ta'	_	ADP	GEN	_	9	case	_	_
+8	taħt	_	ADP	PREP	_	9	case	_	_
+9	fuq	_	ADV	ADV	_	4	advmod	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 43_05F08:14
+# text = Fl-aħħar Rebecca wrietni libsa ħafifa kollha frilli.
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	aħħar	_	NOUN	NOUN	_	4	obl	_	_
+3	Rebecca	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+4	wrietni	_	VERB	VERB	_	0	root	_	_
+5	libsa	_	NOUN	NOUN	_	4	obj	_	_
+6	ħafifa	_	ADJ	ADJ	_	5	amod	_	_
+7	kollha	_	DET	QUAN	_	8	det	_	_
+8	frilli	_	NOUN	NOUN	_	5	nmod:poss	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 43_05F08:15
+# text = "Din għadek ma ppruvajtx!"
+1	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+2	Din	_	PRON	PRON_DEM	_	5	obj	_	_
+3	għadek	_	VERB	VERB_PSEU	_	0	root	_	_
+4	ma	_	PART	NEG	_	5	aux:neg	_	_
+5	ppruvajtx	_	VERB	VERB	_	3	xcomp	_	SpaceAfter=No
+6	!	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+7	"	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 43_05F08:16
+# text = Niftakar jien u nilbisha ħassejtha tiżloq fuqi.
+1	Niftakar	_	VERB	VERB	_	0	root	_	_
+2	jien	_	PRON	PRON_PERS	_	4	mark	_	_
+3	u	_	CCONJ	CONJ_CORD	_	2	fixed	_	_
+4	nilbisha	_	VERB	VERB	_	1	advcl	_	_
+5	ħassejtha	_	VERB	VERB	_	1	xcomp	_	_
+6	tiżloq	_	VERB	VERB	_	5	xcomp	_	_
+7	fuqi	_	PRON	PREP_PRON	_	6	obl	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 43_05F08:17
+# text = Ridt nibqa' biha.
+1	Ridt	_	VERB	VERB	_	0	root	_	_
+2	nibqa'	_	VERB	VERB	_	1	xcomp	_	_
+3	biha	_	PRON	PREP_PRON	_	2	obl	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 43_05F08:18
+# text = Ħassejtni ħieles b'saqajja għerja.
+1	Ħassejtni	_	VERB	VERB	_	0	root	_	_
+2	ħieles	_	VERB	PART_ACT	_	1	xcomp	_	_
+3	b'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
+4	saqajja	_	NOUN	NOUN	_	2	obl	_	_
+5	għerja	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 43_05F08:19
+# text = Stħajjiltni ballerina u bdejt indur biha.
+1	Stħajjiltni	_	VERB	VERB	_	0	root	_	_
+2	ballerina	_	NOUN	NOUN	_	1	xcomp	_	_
+3	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+4	bdejt	_	VERB	VERB	_	1	conj	_	_
+5	indur	_	VERB	VERB	_	4	xcomp	_	_
+6	biha	_	PRON	PREP_PRON	_	5	obl	_	SpaceAfter=No
+7	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 43_05F08:20
+# text = Ma kinitx proprja libsa tal-"balet", kienet libsa li kienet ħarġet minnha.
+1	Ma	_	PART	NEG	_	4	aux:neg	_	_
+2	kinitx	_	AUX	KIEN	_	4	cop	_	_
+3	proprja	_	ADJ	ADJ	_	4	amod	_	_
+4	libsa	_	NOUN	NOUN	_	0	root	_	_
+5	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+6	"	_	PUNCT	X_PUN	_	7	punct	_	SpaceAfter=No
+7	balet	_	NOUN	NOUN	_	4	nmod:poss	_	SpaceAfter=No
+8	"	_	PUNCT	X_PUN	_	7	punct	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	4	punct	_	_
+10	kienet	_	AUX	KIEN	_	11	cop	_	_
+11	libsa	_	NOUN	NOUN	_	4	conj	_	_
+12	li	_	SCONJ	COMP	_	14	mark	_	_
+13	kienet	_	AUX	KIEN	_	14	cop	_	_
+14	ħarġet	_	VERB	VERB	_	11	acl	_	_
+15	minnha	_	PRON	PREP_PRON	_	14	obl	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 43_05F08:21
+# text = Qatt ma kont ilbist ħwejjeġ tal-bniet qabel għajr meta qabditni l-mamà nilbes tajtz minn tagħha.
+1	Qatt	_	ADV	ADV	_	4	advmod	_	_
+2	ma	_	PART	NEG	_	4	aux:neg	_	_
+3	kont	_	AUX	KIEN	_	4	aux	_	_
+4	ilbist	_	VERB	VERB	_	0	root	_	_
+5	ħwejjeġ	_	NOUN	NOUN	_	4	obj	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	bniet	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	qabel	_	ADV	ADV	_	4	advmod	_	_
+9	għajr	_	ADP	PREP	_	11	mark	_	_
+10	meta	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+11	qabditni	_	VERB	VERB	_	4	advcl	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	mamà	_	NOUN	NOUN	_	11	nsubj	_	_
+14	nilbes	_	VERB	VERB	_	11	xcomp	_	_
+15	tajtz	_	NOUN	NOUN	_	14	obj	_	_
+16	minn	_	ADP	PREP	_	17	case	_	_
+17	tagħha	_	PRON	GEN_PRON	_	15	nmod	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 43_05F08:22
+# text = Kienet għamlet plejtu għax qattajtulha.
+1	Kienet	_	AUX	KIEN	_	2	aux	_	_
+2	għamlet	_	VERB	VERB	_	0	root	_	_
+3	plejtu	_	NOUN	NOUN	_	2	obj	_	_
+4	għax	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	qattajtulha	_	VERB	VERB	_	2	advcl	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 43_05F08:23
+# text = Daż-żmien qed nixtri lbiesi raffinati biex nitla' fuq il-palk bihom.
+1	Daż-	_	PRON	PRON_DEM_DEF	_	2	det	_	SpaceAfter=No
+2	żmien	_	NOUN	NOUN	_	4	obl	_	_
+3	qed	_	AUX	PROG	_	4	aux:part	_	_
+4	nixtri	_	VERB	VERB	_	0	root	_	_
+5	lbiesi	_	NOUN	NOUN	_	4	obj	_	_
+6	raffinati	_	VERB	PART_PASS	_	5	amod	_	_
+7	biex	_	SCONJ	CONJ_SUB	_	8	mark	_	_
+8	nitla'	_	VERB	VERB	_	4	advcl	_	_
+9	fuq	_	ADP	PREP	_	11	case	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	palk	_	NOUN	NOUN	_	8	obl	_	_
+12	bihom	_	PRON	PREP_PRON	_	8	obl	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 43_05F08:24
+# text = Sirt l-aktar trans imħallas tal-gżira.
+1	Sirt	_	VERB	VERB	_	0	root	_	_
+2	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+3	aktar	_	ADJ	ADJ	_	5	advmod	_	_
+4	trans	_	NOUN	NOUN	_	1	xcomp	_	_
+5	imħallas	_	VERB	PART_PASS	_	4	amod	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	gżira	_	NOUN	NOUN	_	4	nmod:poss	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 43_05F08:25
+# text = U kull serata jkun hemm Rebecca tlibbisni u tagħmilli xagħri.
+1	U	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+2	kull	_	DET	QUAN	_	3	det	_	_
+3	serata	_	NOUN	NOUN	_	5	obl	_	_
+4	jkun	_	AUX	KIEN	_	5	cop	_	_
+5	hemm	_	ADV	ADV	_	0	root	_	_
+6	Rebecca	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
+7	tlibbisni	_	VERB	VERB	_	6	acl	_	_
+8	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+9	tagħmilli	_	VERB	VERB	_	7	conj	_	_
+10	xagħri	_	NOUN	NOUN	_	9	obj	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 43_05F08:26
+# text = Il-kuġina saret l-akbar ħabiba tiegħi.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	kuġina	_	NOUN	NOUN	_	3	nsubj	_	_
+3	saret	_	VERB	VERB	_	0	root	_	_
+4	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+5	akbar	_	ADJ	ADJ	_	6	amod	_	_
+6	ħabiba	_	NOUN	NOUN	_	3	xcomp	_	_
+7	tiegħi	_	PRON	GEN_PRON	_	6	case	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
