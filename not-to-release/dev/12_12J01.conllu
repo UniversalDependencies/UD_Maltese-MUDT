@@ -9,7 +9,7 @@
 7	biddel	_	VERB	VERB	_	0	root	_	_
 8	fehmtu	_	NOUN	NOUN	_	7	obj	_	_
 9	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
-10	mhux	_	PART	PRON_PERS_NEG	_	12	aux:neg	_	_
+10	mhux	_	AUX	PRON_PERS_NEG	_	12	aux:neg	_	_
 11	se	_	AUX	FUT	_	12	aux:part	_	_
 12	jintervjeni	_	VERB	VERB	_	7	conj	_	_
 13	dwar	_	ADP	PREP	_	15	case	_	_
@@ -91,7 +91,7 @@
 7	li	_	SCONJ	COMP	_	12	mark	_	_
 8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	Gvern	_	NOUN	NOUN	_	12	nsubj	_	_
-10	tiegħu	_	PRON	GEN_PRON	_	9	case	_	_
+10	tiegħu	_	PRON	GEN_PRON	_	9	nmod:poss	_	_
 11	qed	_	AUX	PROG	_	12	aux:part	_	_
 12	jikkunsidra	_	VERB	VERB	_	6	ccomp	_	_
 13	li	_	SCONJ	COMP	_	14	mark	_	_
@@ -117,7 +117,7 @@
 33	meta	_	SCONJ	CONJ_SUB	_	37	mark	_	_
 34	l-	_	DET	DEF	_	35	det	_	SpaceAfter=No
 35	prezz	_	NOUN	NOUN	_	37	nsubj	_	_
-36	tiegħu	_	PRON	GEN_PRON	_	35	case	_	_
+36	tiegħu	_	PRON	GEN_PRON	_	35	nmod:poss	_	_
 37	jiżdied	_	VERB	VERB	_	27	advcl	_	SpaceAfter=No
 38	,	_	PUNCT	X_PUN	_	37	punct	_	_
 39	biex	_	SCONJ	CONJ_SUB	_	43	mark	_	_
@@ -165,7 +165,7 @@
 28	lis-	_	ADP	LIL_DEF	_	29	case:det	_	SpaceAfter=No
 29	sewwieqa	_	NOUN	NOUN	_	27	obj	_	_
 30	biex	_	SCONJ	CONJ_SUB	_	32	mark	_	_
-31	ma	_	PART	NEG	_	32	aux:neg	_	_
+31	ma	_	PART	NEG	_	32	advmod:neg	_	_
 32	jittamawx	_	VERB	VERB	_	27	xcomp	_	_
 33	wisq	_	ADV	ADV	_	32	advmod	_	SpaceAfter=No
 34	.	_	PUNCT	X_PUN	_	9	punct	_	_
@@ -182,7 +182,7 @@
 8	biex	_	SCONJ	CONJ_SUB	_	9	mark	_	_
 9	jistudja	_	VERB	VERB	_	5	xcomp	_	_
 10	mezz	_	NOUN	NOUN	_	9	obj	_	_
-11	kif	_	PRON	PRON_INT	_	12	advmod	_	_
+11	kif	_	ADV	PRON_INT	_	12	advmod	_	_
 12	titwettaq	_	VERB	VERB	_	10	acl	_	_
 13	dik	_	PRON	PRON_DEM	_	12	nsubj	_	_
 14	li	_	SCONJ	COMP	_	16	mark	_	_
@@ -287,7 +287,7 @@
 10	żieda	_	NOUN	NOUN	_	7	obj	_	_
 11	f'	_	ADP	PREP	_	12	case	_	SpaceAfter=No
 12	ġurnata	_	NOUN	NOUN	_	10	nmod	_	_
-13	waħda	_	NUM	NUM_WHD	_	12	det	_	SpaceAfter=No
+13	waħda	_	NUM	NUM_WHD	_	12	nummod	_	SpaceAfter=No
 14	,	_	PUNCT	X_PUN	_	10	punct	_	_
 15	li	_	SCONJ	COMP	_	18	mark	_	_
 16	qatt	_	ADV	ADV	_	18	advmod	_	_
@@ -312,7 +312,7 @@
 9	jonfqu	_	VERB	VERB	_	4	ccomp	_	_
 10	mal-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
 11	10	_	NUM	X_DIG	_	12	compound	_	_
-12	miljun	_	NOUN	NOUN	_	13	nummod	_	_
+12	miljun	_	NUM	NOUN	_	13	nummod	_	_
 13	lira	_	NOUN	NOUN	_	15	obl	_	_
 14	sterlina	_	NOUN	NOUN	_	13	compound	_	_
 15	iktar	_	ADV	ADV	_	9	obj	_	_
@@ -416,10 +416,10 @@
 45	lejn	_	ADP	PREP	_	46	case	_	_
 46	punt	_	NOUN	NOUN	_	44	obl	_	_
 47	kritiku	_	ADJ	ADJ	_	46	amod	_	_
-48	fejn	_	PRON	PRON_INT	_	49	advmod	_	_
+48	fejn	_	ADV	PRON_INT	_	49	advmod	_	_
 49	jista'	_	VERB	VERB	_	46	acl	_	_
 50	jhedded	_	VERB	VERB	_	49	xcomp	_	_
-51	l-	_	DET	DEF	_	52	case	_	SpaceAfter=No
+51	l-	_	DET	DEF	_	52	det	_	SpaceAfter=No
 52	irkupru	_	NOUN	NOUN	_	50	obj	_	_
 53	ekonomiku	_	ADJ	ADJ	_	52	amod	_	_
 54	globali	_	ADJ	ADJ	_	52	amod	_	SpaceAfter=No

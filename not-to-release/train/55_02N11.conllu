@@ -103,9 +103,9 @@
 21	ordni	_	NOUN	NOUN	_	18	nmod:poss	_	_
 22	(	_	PUNCT	X_PUN	_	23	punct	_	SpaceAfter=No
 23	ax2	_	SYM	X_BOR	_	21	appos	_	_
-24	+	_	PUNCT	X_PUN	_	23	punct	_	_
+24	+	_	SYM	X_PUN	_	23	list	_	_
 25	bx	_	SYM	X_BOR	_	23	list	_	_
-26	+	_	PUNCT	X_PUN	_	23	punct	_	_
+26	+	_	SYM	X_PUN	_	23	list	_	_
 27	c	_	SYM	X_BOR	_	23	list	_	SpaceAfter=No
 28	)	_	PUNCT	X_PUN	_	23	punct	_	SpaceAfter=No
 29	,	_	PUNCT	X_PUN	_	7	punct	_	_
@@ -145,7 +145,7 @@
 8	loġika	_	NOUN	NOUN	_	6	nmod:poss	_	_
 9	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
 10	teknikament	_	ADV	ADV	_	12	advmod	_	_
-11	mhux	_	PART	PRON_PERS_NEG	_	12	aux:neg	_	_
+11	mhux	_	AUX	PRON_PERS_NEG	_	12	aux:neg	_	_
 12	fergħa	_	NOUN	NOUN	_	6	conj	_	_
 13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
 14	alġebra	_	NOUN	NOUN	_	12	nmod:poss	_	SpaceAfter=No
@@ -164,7 +164,7 @@
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
 4	għadd	_	NOUN	NOUN	_	2	nmod:poss	_	_
 5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
-6	+	_	PUNCT	X_PUN	_	4	appos	_	SpaceAfter=No
+6	+	_	SYM	X_PUN	_	4	appos	_	SpaceAfter=No
 7	)	_	PUNCT	X_PUN	_	6	punct	_	_
 8	nistgħu	_	VERB	VERB	_	0	root	_	_
 9	nagħmluha	_	VERB	VERB	_	8	xcomp	_	_
@@ -175,7 +175,7 @@
 14	operazzjoni	_	NOUN	NOUN	_	13	obj	_	_
 15	binarja	_	ADJ	ADJ	_	14	amod	_	SpaceAfter=No
 16	,	_	PUNCT	X_PUN	_	14	punct	_	_
-17	*	_	PUNCT	X_PUN	_	14	appos	_	_
+17	*	_	SYM	X_PUN	_	14	appos	_	_
 18	ngħidu	_	VERB	VERB	_	17	parataxis	_	_
 19	aħna	_	PRON	PRON_PERS	_	18	nsubj	_	SpaceAfter=No
 20	.	_	PUNCT	X_PUN	_	8	punct	_	_
@@ -187,11 +187,11 @@
 3	ta'	_	ADP	GEN	_	4	case	_	_
 4	operazzjoni	_	NOUN	NOUN	_	2	nmod:poss	_	_
 5	binarja	_	ADJ	ADJ	_	4	amod	_	_
-6	ma	_	PART	NEG	_	7	aux:neg	_	_
+6	ma	_	PART	NEG	_	7	advmod:neg	_	_
 7	jfisser	_	VERB	VERB	_	0	root	_	_
 8	xejn	_	PRON	PRON_INDEF	_	7	obj	_	_
 9	jekk	_	SCONJ	CONJ_SUB	_	11	mark	_	_
-10	ma	_	PART	NEG	_	11	aux:neg	_	_
+10	ma	_	PART	NEG	_	11	advmod:neg	_	_
 11	nagħtux	_	VERB	VERB	_	7	advcl	_	_
 12	is-	_	DET	DEF	_	13	det	_	SpaceAfter=No
 13	sett	_	NOUN	NOUN	_	11	obj	_	_
@@ -215,7 +215,7 @@
 8	sett	_	NOUN	NOUN	_	9	compound	_	_
 9	S	_	SYM	X_BOR	_	4	nmod	_	_
 10	a	_	SYM	X_BOR	_	13	nsubj	_	_
-11	*	_	PUNCT	X_PUN	_	10	punct	_	_
+11	*	_	SYM	X_PUN	_	10	list	_	_
 12	b	_	SYM	X_BOR	_	10	list	_	_
 13	ittina	_	VERB	VERB	_	0	root	_	_
 14	element	_	NOUN	NOUN	_	13	obj	_	_
@@ -239,26 +239,26 @@
 1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
 2	għadd	_	NOUN	NOUN	_	26	nsubj	_	_
 3	(	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
-4	+	_	PUNCT	X_PUN	_	2	appos	_	SpaceAfter=No
+4	+	_	SYM	X_PUN	_	2	appos	_	SpaceAfter=No
 5	)	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
 6	,	_	PUNCT	X_PUN	_	2	punct	_	_
 7	it-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 8	tnaqqis	_	NOUN	NOUN	_	2	conj	_	_
 9	(	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
-10	-	_	PUNCT	X_PUN	_	8	appos	_	SpaceAfter=No
+10	-	_	SYM	X_PUN	_	8	appos	_	SpaceAfter=No
 11	)	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
 12	,	_	PUNCT	X_PUN	_	2	punct	_	_
 13	il-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	moltiplikazzjoni	_	NOUN	NOUN	_	2	conj	_	_
 15	(	_	PUNCT	X_PUN	_	16	punct	_	SpaceAfter=No
-16	×	_	PUNCT	X_PUN	_	14	appos	_	SpaceAfter=No
+16	×	_	SYM	X_PUN	_	14	appos	_	SpaceAfter=No
 17	)	_	PUNCT	X_PUN	_	16	punct	_	SpaceAfter=No
 18	,	_	PUNCT	X_PUN	_	2	punct	_	_
 19	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
 20	d-	_	DET	DEF	_	21	det	_	SpaceAfter=No
 21	diviżjoni	_	NOUN	NOUN	_	2	conj	_	_
 22	(	_	PUNCT	X_PUN	_	23	punct	_	SpaceAfter=No
-23	÷	_	PUNCT	X_PUN	_	21	appos	_	SpaceAfter=No
+23	÷	_	SYM	X_PUN	_	21	appos	_	SpaceAfter=No
 24	)	_	PUNCT	X_PUN	_	23	punct	_	_
 25	huma	_	PRON	PRON_PERS	_	26	cop	_	_
 26	operazzjonijiet	_	NOUN	NOUN	_	0	root	_	_
@@ -337,7 +337,7 @@
 2	operazzjoni	_	NOUN	NOUN	_	5	compound	_	_
 3	binarja	_	ADJ	ADJ	_	2	amod	_	_
 4	ġenerali	_	ADJ	ADJ	_	2	amod	_	_
-5	*	_	PUNCT	X_PUN	_	11	punct	_	_
+5	*	_	SYM	X_PUN	_	11	obl	_	_
 6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	element	_	NOUN	NOUN	_	10	compound	_	_
 8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
@@ -346,15 +346,15 @@
 11	irid	_	VERB	VERB	_	0	root	_	_
 12	jissodisfa	_	VERB	VERB	_	11	xcomp	_	_
 13	a	_	SYM	X_BOR	_	12	obj	_	_
-14	*	_	PUNCT	X_PUN	_	13	punct	_	_
+14	*	_	SYM	X_PUN	_	13	list	_	_
 15	e	_	SYM	X_BOR	_	13	list	_	_
-16	=	_	PUNCT	X_PUN	_	13	punct	_	_
+16	=	_	SYM	X_PUN	_	13	list	_	_
 17	a	_	SYM	X_BOR	_	13	list	_	_
 18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
 19	e	_	SYM	X_BOR	_	13	conj	_	_
-20	*	_	PUNCT	X_PUN	_	19	punct	_	_
+20	*	_	SYM	X_PUN	_	19	list	_	_
 21	a	_	SYM	X_BOR	_	19	list	_	_
-22	=	_	PUNCT	X_PUN	_	19	punct	_	_
+22	=	_	SYM	X_PUN	_	19	list	_	_
 23	a	_	SYM	X_BOR	_	19	list	_	SpaceAfter=No
 24	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
@@ -367,15 +367,15 @@
 5	sodisfatta	_	VERB	PART_PASS	_	0	root	_	_
 6	billi	_	SCONJ	CONJ_SUB	_	7	mark	_	_
 7	a	_	SYM	X_BOR	_	5	advcl	_	_
-8	+	_	PUNCT	X_PUN	_	7	punct	_	_
+8	+	_	SYM	X_PUN	_	7	list	_	_
 9	0	_	NUM	X_DIG	_	7	list	_	_
-10	=	_	PUNCT	X_PUN	_	7	punct	_	_
+10	=	_	SYM	X_PUN	_	7	list	_	_
 11	a	_	SYM	X_BOR	_	7	list	_	_
 12	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 13	0	_	NUM	X_DIG	_	7	conj	_	_
-14	+	_	PUNCT	X_PUN	_	13	punct	_	_
+14	+	_	SYM	X_PUN	_	13	list	_	_
 15	a	_	SYM	X_BOR	_	13	list	_	_
-16	=	_	PUNCT	X_PUN	_	13	punct	_	_
+16	=	_	SYM	X_PUN	_	13	list	_	_
 17	a	_	SYM	X_BOR	_	13	list	_	_
 18	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
 19	għall-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
@@ -383,15 +383,15 @@
 21	wkoll	_	ADV	FOC	_	20	discourse	_	_
 22	għax	_	SCONJ	CONJ_SUB	_	23	mark	_	_
 23	a	_	SYM	X_BOR	_	20	advcl	_	_
-24	×	_	PUNCT	X_PUN	_	23	punct	_	_
+24	×	_	SYM	X_PUN	_	23	list	_	_
 25	1	_	NUM	X_DIG	_	23	list	_	_
-26	=	_	PUNCT	X_PUN	_	23	punct	_	_
+26	=	_	SYM	X_PUN	_	23	list	_	_
 27	a	_	SYM	X_BOR	_	23	list	_	_
 28	u	_	CCONJ	CONJ_CORD	_	29	cc	_	_
 29	1	_	NUM	X_DIG	_	23	conj	_	_
-30	×	_	PUNCT	X_PUN	_	29	punct	_	_
+30	×	_	SYM	X_PUN	_	29	list	_	_
 31	a	_	SYM	X_BOR	_	29	list	_	_
-32	=	_	PUNCT	X_PUN	_	29	punct	_	_
+32	=	_	SYM	X_PUN	_	29	list	_	_
 33	a	_	SYM	X_BOR	_	29	list	_	SpaceAfter=No
 34	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
@@ -411,7 +411,7 @@
 12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
 13	għadd	_	NOUN	NOUN	_	11	nmod:poss	_	SpaceAfter=No
 14	,	_	PUNCT	X_PUN	_	4	punct	_	_
-15	m'	_	PART	NEG	_	16	aux:neg	_	SpaceAfter=No
+15	m'	_	PART	NEG	_	16	advmod:neg	_	SpaceAfter=No
 16	hemmx	_	VERB	HEMM	_	0	root	_	_
 17	element	_	NOUN	NOUN	_	16	nsubj	_	_
 18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
@@ -479,19 +479,19 @@
 10	r-	_	DET	DEF	_	11	det	_	SpaceAfter=No
 11	relazzjoni	_	NOUN	NOUN	_	12	compound	_	_
 12	a	_	SYM	X_BOR	_	9	obj	_	_
-13	*	_	PUNCT	X_PUN	_	12	punct	_	_
+13	*	_	SYM	X_PUN	_	12	list	_	_
 14	a	_	SYM	X_BOR	_	12	list	_	_
-15	-	_	PUNCT	X_PUN	_	12	list	_	_
+15	-	_	SYM	X_PUN	_	12	list	_	_
 16	1	_	NUM	X_DIG	_	12	list	_	_
-17	=	_	PUNCT	X_PUN	_	12	punct	_	_
+17	=	_	SYM	X_PUN	_	12	list	_	_
 18	e	_	SYM	X_BOR	_	12	list	_	_
 19	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
 20	a	_	SYM	X_BOR	_	12	conj	_	_
-21	-	_	PUNCT	X_PUN	_	20	punct	_	_
+21	-	_	SYM	X_PUN	_	20	list	_	_
 22	1	_	NUM	X_DIG	_	20	list	_	_
-23	*	_	PUNCT	X_PUN	_	20	punct	_	_
+23	*	_	SYM	X_PUN	_	20	list	_	_
 24	a	_	SYM	X_BOR	_	20	list	_	_
-25	=	_	PUNCT	X_PUN	_	20	punct	_	_
+25	=	_	SYM	X_PUN	_	20	list	_	_
 26	e	_	SYM	X_BOR	_	20	list	_	SpaceAfter=No
 27	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
@@ -526,11 +526,11 @@
 8	nkunu	_	AUX	KIEN	_	10	aux	_	_
 9	qed	_	AUX	PROG	_	10	aux:part	_	_
 10	nogħdu	_	VERB	VERB	_	6	acl	_	_
-11	ma	_	PART	NEG	_	12	aux:neg	_	_
+11	ma	_	PART	NEG	_	12	advmod:neg	_	_
 12	tbiddilx	_	VERB	VERB	_	0	root	_	_
 13	is-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	somma	_	NOUN	NOUN	_	12	obj	_	_
-15	tagħhom	_	PRON	GEN_PRON	_	14	case	_	SpaceAfter=No
+15	tagħhom	_	PRON	GEN_PRON	_	14	nmod:poss	_	SpaceAfter=No
 16	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 55_02N11:25
@@ -542,17 +542,17 @@
 # text = (2 + 3) + 4 = 2 + (3 + 4).
 1	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
 2	2	_	NUM	X_DIG	_	0	root	_	_
-3	+	_	PUNCT	X_PUN	_	2	punct	_	_
+3	+	_	SYM	X_PUN	_	2	list	_	_
 4	3	_	NUM	X_DIG	_	2	list	_	SpaceAfter=No
 5	)	_	PUNCT	X_PUN	_	2	punct	_	_
-6	+	_	PUNCT	X_PUN	_	2	punct	_	_
+6	+	_	SYM	X_PUN	_	2	list	_	_
 7	4	_	NUM	X_DIG	_	2	list	_	_
-8	=	_	PUNCT	X_PUN	_	2	punct	_	_
+8	=	_	SYM	X_PUN	_	2	list	_	_
 9	2	_	NUM	X_DIG	_	2	list	_	_
-10	+	_	PUNCT	X_PUN	_	2	punct	_	_
+10	+	_	SYM	X_PUN	_	2	list	_	_
 11	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
 12	3	_	NUM	X_DIG	_	2	list	_	_
-13	+	_	PUNCT	X_PUN	_	2	punct	_	_
+13	+	_	SYM	X_PUN	_	2	list	_	_
 14	4	_	NUM	X_DIG	_	2	list	_	SpaceAfter=No
 15	)	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
 16	.	_	PUNCT	X_PUN	_	2	punct	_	_
@@ -567,17 +567,17 @@
 6	issir	_	VERB	VERB	_	0	root	_	_
 7	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
 8	a	_	SYM	X_BOR	_	6	xcomp	_	_
-9	*	_	PUNCT	X_PUN	_	8	punct	_	_
+9	*	_	SYM	X_PUN	_	8	list	_	_
 10	b	_	SYM	X_BOR	_	8	list	_	SpaceAfter=No
 11	)	_	PUNCT	X_PUN	_	8	punct	_	_
-12	*	_	PUNCT	X_PUN	_	8	punct	_	_
+12	*	_	SYM	X_PUN	_	8	list	_	_
 13	c	_	SYM	X_BOR	_	8	list	_	_
-14	=	_	PUNCT	X_PUN	_	8	punct	_	_
+14	=	_	SYM	X_PUN	_	8	list	_	_
 15	a	_	SYM	X_BOR	_	8	list	_	_
-16	*	_	PUNCT	X_PUN	_	8	punct	_	_
+16	*	_	SYM	X_PUN	_	8	list	_	_
 17	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
 18	b	_	SYM	X_BOR	_	8	list	_	_
-19	*	_	PUNCT	X_PUN	_	8	punct	_	_
+19	*	_	SYM	X_PUN	_	8	list	_	_
 20	c	_	SYM	X_BOR	_	8	list	_	SpaceAfter=No
 21	)	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
 22	.	_	PUNCT	X_PUN	_	6	punct	_	_
@@ -636,11 +636,11 @@
 8	nkunu	_	AUX	KIEN	_	10	aux	_	_
 9	qed	_	AUX	PROG	_	10	aux:part	_	_
 10	nogħdu	_	VERB	VERB	_	6	acl	_	_
-11	ma	_	PART	NEG	_	12	aux:neg	_	_
+11	ma	_	PART	NEG	_	12	advmod:neg	_	_
 12	tbiddilx	_	VERB	VERB	_	0	root	_	_
 13	is-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	somma	_	NOUN	NOUN	_	12	obj	_	_
-15	tagħhom	_	PRON	GEN_PRON	_	14	case	_	SpaceAfter=No
+15	tagħhom	_	PRON	GEN_PRON	_	14	nmod:poss	_	SpaceAfter=No
 16	.	_	PUNCT	X_PUN	_	12	punct	_	_
 
 # sent_id = 55_02N11:32
@@ -651,11 +651,11 @@
 # sent_id = 55_02N11:33
 # text = 2 + 3 = 3 + 2.
 1	2	_	NUM	X_DIG	_	0	root	_	_
-2	+	_	PUNCT	X_PUN	_	1	punct	_	_
+2	+	_	SYM	X_PUN	_	1	list	_	_
 3	3	_	NUM	X_DIG	_	1	list	_	_
-4	=	_	PUNCT	X_PUN	_	1	punct	_	_
+4	=	_	SYM	X_PUN	_	1	list	_	_
 5	3	_	NUM	X_DIG	_	1	list	_	_
-6	+	_	PUNCT	X_PUN	_	1	punct	_	_
+6	+	_	SYM	X_PUN	_	1	list	_	_
 7	2	_	NUM	X_DIG	_	1	list	_	SpaceAfter=No
 8	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
@@ -668,17 +668,17 @@
 5	din	_	PRON	PRON_DEM	_	6	nsubj	_	_
 6	issir	_	VERB	VERB	_	0	root	_	_
 7	a	_	SYM	X_BOR	_	6	xcomp	_	_
-8	*	_	PUNCT	X_PUN	_	7	punct	_	_
+8	*	_	SYM	X_PUN	_	7	list	_	_
 9	b	_	SYM	X_BOR	_	7	list	_	_
-10	=	_	PUNCT	X_PUN	_	7	punct	_	_
+10	=	_	SYM	X_PUN	_	7	list	_	_
 11	b	_	SYM	X_BOR	_	7	list	_	_
-12	*	_	PUNCT	X_PUN	_	7	punct	_	_
+12	*	_	SYM	X_PUN	_	7	list	_	_
 13	a	_	SYM	X_BOR	_	7	list	_	SpaceAfter=No
 14	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 # sent_id = 55_02N11:35
 # text = Mhux l-operazzjonijiet binarji kollha għandhom din il-proprjetà.
-1	Mhux	_	PART	PRON_PERS_NEG	_	3	aux:neg	_	_
+1	Mhux	_	AUX	PRON_PERS_NEG	_	3	aux:neg	_	_
 2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	operazzjonijiet	_	NOUN	NOUN	_	6	nsubj	_	_
 4	binarji	_	ADJ	ADJ	_	3	amod	_	_
@@ -719,7 +719,7 @@
 4	b'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
 5	operazzjoni	_	NOUN	NOUN	_	1	nmod	_	_
 6	binarja	_	ADJ	ADJ	_	5	amod	_	_
-7	waħda	_	NUM	NUM_WHD	_	5	det	_	_
+7	waħda	_	NUM	NUM_WHD	_	5	nummod	_	_
 
 # sent_id = 55_02N11:38
 # text = Meta niġbru flimkien il-kunċetti li rajna qabel, ikollna waħda mill-iżjed strutturi importanti fil-matematika: il-grupp.
@@ -754,14 +754,14 @@
 5	S	_	SYM	X_BOR	_	2	obl:arg	_	_
 6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 7	operazzjoni	_	NOUN	NOUN	_	5	conj	_	_
-8	waħda	_	NUM	NUM_WHD	_	7	det	_	_
+8	waħda	_	NUM	NUM_WHD	_	7	nummod	_	_
 9	li	_	SCONJ	COMP	_	10	mark	_	_
 10	rridu	_	VERB	VERB	_	7	acl	_	SpaceAfter=No
 11	,	_	PUNCT	X_PUN	_	10	punct	_	_
 12	li	_	SCONJ	COMP	_	13	mark	_	_
 13	niktbuha	_	VERB	VERB	_	10	conj	_	_
 14	'	_	PUNCT	X_PUN	_	15	punct	_	_
-15	*	_	PUNCT	X_PUN	_	13	xcomp	_	_
+15	*	_	SYM	X_PUN	_	13	xcomp	_	_
 16	'	_	PUNCT	X_PUN	_	15	punct	_	SpaceAfter=No
 17	,	_	PUNCT	X_PUN	_	10	punct	_	_
 18	imma	_	CCONJ	CONJ_CORD	_	20	cc	_	_
@@ -793,11 +793,11 @@
 16	S	_	SYM	X_BOR	_	14	nmod:poss	_	SpaceAfter=No
 17	,	_	PUNCT	X_PUN	_	14	punct	_	_
 18	e	_	SYM	X_BOR	_	28	dislocated	_	_
-19	*	_	PUNCT	X_PUN	_	18	punct	_	_
+19	*	_	SYM	X_PUN	_	18	list	_	_
 20	a	_	SYM	X_BOR	_	18	list	_	_
 21	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
 22	a	_	SYM	X_BOR	_	18	conj	_	_
-23	*	_	PUNCT	X_PUN	_	22	punct	_	_
+23	*	_	SYM	X_PUN	_	22	list	_	_
 24	e	_	SYM	X_BOR	_	22	list	_	_
 25	huma	_	PRON	PRON_PERS	_	28	nsubj	_	_
 26	t-	_	DET	DEF	_	27	det	_	SpaceAfter=No
@@ -831,7 +831,7 @@
 20	1	_	NUM	X_DIG	_	18	list	_	_
 21	sabiex	_	SCONJ	CONJ_SUB	_	36	mark	_	_
 22	a	_	SYM	X_BOR	_	36	nsubj	_	_
-23	*	_	PUNCT	X_PUN	_	22	punct	_	_
+23	*	_	SYM	X_PUN	_	22	list	_	_
 24	a	_	SYM	X_BOR	_	22	list	_	_
 25	-	_	PUNCT	X_PUN	_	22	punct	_	_
 26	1	_	NUM	X_DIG	_	22	list	_	_
@@ -839,7 +839,7 @@
 28	a	_	SYM	X_BOR	_	22	conj	_	_
 29	-	_	PUNCT	X_PUN	_	28	punct	_	_
 30	1	_	NUM	X_DIG	_	28	list	_	_
-31	*	_	PUNCT	X_PUN	_	28	punct	_	_
+31	*	_	SYM	X_PUN	_	28	list	_	_
 32	a	_	SYM	X_BOR	_	28	list	_	_
 33	huma	_	PRON	PRON_PERS	_	36	cop	_	_
 34	t-	_	DET	DEF	_	35	det	_	SpaceAfter=No
@@ -870,19 +870,19 @@
 15	,	_	PUNCT	X_PUN	_	7	punct	_	_
 16	(	_	PUNCT	X_PUN	_	17	punct	_	SpaceAfter=No
 17	a	_	SYM	X_BOR	_	24	nsubj	_	_
-18	*	_	PUNCT	X_PUN	_	17	punct	_	_
+18	*	_	SYM	X_PUN	_	17	list	_	_
 19	b	_	SYM	X_BOR	_	17	list	_	SpaceAfter=No
 20	)	_	PUNCT	X_PUN	_	17	punct	_	_
-21	*	_	PUNCT	X_PUN	_	17	punct	_	_
+21	*	_	SYM	X_PUN	_	17	list	_	_
 22	c	_	SYM	X_BOR	_	17	list	_	_
 23	hija	_	PRON	PRON_PERS	_	24	cop	_	_
 24	ugwali	_	ADJ	ADJ	_	4	ccomp	_	_
 25	għal	_	ADP	PREP	_	26	case	_	_
 26	a	_	SYM	X_BOR	_	24	obl	_	_
-27	*	_	PUNCT	X_PUN	_	26	punct	_	_
+27	*	_	SYM	X_PUN	_	26	list	_	_
 28	(	_	PUNCT	X_PUN	_	26	punct	_	SpaceAfter=No
 29	b	_	SYM	X_BOR	_	26	list	_	_
-30	*	_	PUNCT	X_PUN	_	26	punct	_	_
+30	*	_	SYM	X_PUN	_	26	list	_	_
 31	c	_	SYM	X_BOR	_	26	list	_	SpaceAfter=No
 32	)	_	PUNCT	X_PUN	_	26	punct	_	SpaceAfter=No
 33	.	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -908,13 +908,13 @@
 17	S	_	SYM	X_BOR	_	13	nmod:poss	_	SpaceAfter=No
 18	,	_	PUNCT	X_PUN	_	13	punct	_	_
 19	a	_	SYM	X_BOR	_	23	nsubj	_	_
-20	*	_	PUNCT	X_PUN	_	19	punct	_	_
+20	*	_	SYM	X_PUN	_	19	list	_	_
 21	b	_	SYM	X_BOR	_	19	list	_	_
 22	hija	_	PRON	PRON_PERS	_	23	cop	_	_
 23	ugwali	_	ADJ	ADJ	_	5	parataxis	_	_
 24	għal	_	ADP	PREP	_	25	case	_	_
 25	b	_	SYM	X_BOR	_	23	obl	_	_
-26	*	_	PUNCT	X_PUN	_	25	punct	_	_
+26	*	_	SYM	X_PUN	_	25	list	_	_
 27	a	_	SYM	X_BOR	_	25	list	_	_
 28	-	_	PUNCT	X_PUN	_	23	punct	_	_
 29	il-	_	DET	DEF	_	30	det	_	SpaceAfter=No
@@ -962,7 +962,7 @@
 16	huwa	_	PRON	PRON_PERS	_	18	cop	_	_
 17	n-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	negativ	_	NOUN	NOUN	_	8	conj	_	_
-19	tiegħu	_	PRON	GEN_PRON	_	18	case	_	SpaceAfter=No
+19	tiegħu	_	PRON	GEN_PRON	_	18	nmod:poss	_	SpaceAfter=No
 20	,	_	PUNCT	X_PUN	_	21	punct	_	_
 21	-a	_	SYM	X_BOR	_	18	appos	_	SpaceAfter=No
 22	.	_	PUNCT	X_PUN	_	8	punct	_	_
@@ -990,17 +990,17 @@
 19	,	_	PUNCT	X_PUN	_	14	punct	_	_
 20	(	_	PUNCT	X_PUN	_	21	punct	_	SpaceAfter=No
 21	a	_	SYM	X_BOR	_	6	advcl	_	_
-22	+	_	PUNCT	X_PUN	_	21	punct	_	_
+22	+	_	SYM	X_PUN	_	21	list	_	_
 23	b	_	SYM	X_BOR	_	21	list	_	SpaceAfter=No
 24	)	_	PUNCT	X_PUN	_	21	punct	_	_
-25	+	_	PUNCT	X_PUN	_	21	punct	_	_
+25	+	_	SYM	X_PUN	_	21	list	_	_
 26	c	_	SYM	X_BOR	_	21	list	_	_
-27	=	_	PUNCT	X_PUN	_	21	punct	_	_
+27	=	_	SYM	X_PUN	_	21	list	_	_
 28	a	_	SYM	X_BOR	_	21	list	_	_
-29	+	_	PUNCT	X_PUN	_	21	punct	_	_
+29	+	_	SYM	X_PUN	_	21	list	_	_
 30	(	_	PUNCT	X_PUN	_	21	punct	_	SpaceAfter=No
 31	b	_	SYM	X_BOR	_	21	list	_	_
-32	+	_	PUNCT	X_PUN	_	21	punct	_	_
+32	+	_	SYM	X_PUN	_	21	list	_	_
 33	c	_	SYM	X_BOR	_	21	list	_	SpaceAfter=No
 34	)	_	PUNCT	X_PUN	_	21	punct	_	SpaceAfter=No
 35	.	_	PUNCT	X_PUN	_	6	punct	_	_
@@ -1014,7 +1014,7 @@
 5	operazzjoni	_	NOUN	NOUN	_	3	nmod	_	_
 6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
 7	moltiplikazzjoni	_	NOUN	NOUN	_	5	nmod:poss	_	_
-8	ma	_	PART	NEG	_	9	aux:neg	_	_
+8	ma	_	PART	NEG	_	9	advmod:neg	_	_
 9	jiffurmawx	_	VERB	VERB	_	0	root	_	_
 10	grupp	_	NOUN	NOUN	_	9	obj	_	SpaceAfter=No
 11	.	_	PUNCT	X_PUN	_	9	punct	_	_
@@ -1034,7 +1034,7 @@
 11	ta'	_	ADP	GEN	_	12	case	_	_
 12	numru	_	NOUN	NOUN	_	9	nmod:poss	_	_
 13	interu	_	ADJ	ADJ	_	12	amod	_	_
-14	mhuwiex	_	PART	PRON_PERS_NEG	_	15	aux:neg	_	_
+14	mhuwiex	_	AUX	PRON_PERS_NEG	_	15	aux:neg	_	_
 15	interu	_	ADJ	ADJ	_	2	advcl	_	SpaceAfter=No
 16	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
@@ -1050,14 +1050,14 @@
 8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	invers	_	NOUN	NOUN	_	13	nsubj	_	_
 10	moltiplikattiv	_	ADJ	ADJ	_	9	amod	_	_
-11	tiegħu	_	PRON	GEN_PRON	_	9	case	_	_
+11	tiegħu	_	PRON	GEN_PRON	_	9	nmod:poss	_	_
 12	hu	_	PRON	PRON_PERS	_	13	cop	_	_
 13	1	_	NUM	X_DIG	_	5	conj	_	_
 14	/	_	PUNCT	X_PUN	_	13	punct	_	_
 15	4	_	NUM	X_DIG	_	13	list	_	SpaceAfter=No
 16	,	_	PUNCT	X_PUN	_	13	punct	_	_
 17	li	_	SCONJ	COMP	_	19	mark	_	_
-18	mhux	_	PART	PRON_PERS_NEG	_	19	aux:neg	_	_
+18	mhux	_	AUX	PRON_PERS_NEG	_	19	aux:neg	_	_
 19	interu	_	ADJ	ADJ	_	13	amod	_	SpaceAfter=No
 20	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
@@ -1097,8 +1097,8 @@
 19	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
 20	ikbar	_	ADJ	ADJ	_	21	amod	_	_
 21	parti	_	NOUN	NOUN	_	24	nsubj:pass	_	_
-22	tagħha	_	PRON	GEN_PRON	_	21	case	_	_
-23	ġiet	_	VERB	VERB	_	24	aux:pass	_	_
+22	tagħha	_	PRON	GEN_PRON	_	21	nmod:poss	_	_
+23	ġiet	_	AUX	VERB	_	24	aux:pass	_	_
 24	ippublikata	_	VERB	PART_PASS	_	13	acl	_	_
 25	bejn	_	ADP	PREP	_	28	case	_	_
 26	xi	_	DET	QUAN	_	28	det	_	_
@@ -1154,7 +1154,7 @@
 7	magħluqa	_	VERB	PART_PASS	_	5	amod	_	SpaceAfter=No
 8	,	_	PUNCT	X_PUN	_	1	punct	_	_
 9	imma	_	CCONJ	CONJ_CORD	_	11	cc	_	_
-10	ma	_	PART	NEG	_	11	aux:neg	_	_
+10	ma	_	PART	NEG	_	11	advmod:neg	_	_
 11	jissodisfawx	_	VERB	VERB	_	1	conj	_	_
 12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
 13	kondizzjonijiet	_	NOUN	NOUN	_	11	obj	_	_
@@ -1175,7 +1175,7 @@
 8	jista'	_	VERB	VERB	_	2	conj	_	_
 9	jkun	_	AUX	KIEN	_	8	xcomp	_	_
 10	li	_	SCONJ	COMP	_	12	mark	_	_
-11	m'	_	PART	NEG	_	12	aux:neg	_	SpaceAfter=No
+11	m'	_	PART	NEG	_	12	advmod:neg	_	SpaceAfter=No
 12	għandux	_	VERB	VERB_PSEU	_	9	xcomp	_	_
 13	element	_	NOUN	NOUN	_	12	obj	_	_
 14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
@@ -1194,7 +1194,7 @@
 8	jista'	_	VERB	VERB	_	5	conj	_	_
 9	jkun	_	AUX	KIEN	_	8	xcomp	_	_
 10	li	_	SCONJ	COMP	_	12	mark	_	_
-11	m'	_	PART	NEG	_	12	aux:neg	_	SpaceAfter=No
+11	m'	_	PART	NEG	_	12	advmod:neg	_	SpaceAfter=No
 12	għandux	_	VERB	VERB_PSEU	_	9	xcomp	_	_
 13	invers	_	NOUN	NOUN	_	12	obj	_	_
 14	għal	_	ADP	PREP	_	16	case	_	_
@@ -1230,7 +1230,7 @@
 24	jista'	_	VERB	VERB	_	8	conj	_	_
 25	jkun	_	AUX	KIEN	_	24	xcomp	_	_
 26	li	_	SCONJ	COMP	_	28	mark	_	_
-27	mhux	_	PART	PRON_PERS_NEG	_	28	aux:neg	_	_
+27	mhux	_	AUX	PRON_PERS_NEG	_	28	aux:neg	_	_
 28	assoċjattiva	_	ADJ	ADJ	_	25	xcomp	_	SpaceAfter=No
 29	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
@@ -1252,24 +1252,24 @@
 
 # sent_id = 55_02N11:59
 # text = Ċrieki u Kampi - strutturi ta' sett b'żewġ operazzjonijiet binarji, (+) u (×)
-1	Ċrieki	_	NOUN	NOUN	_	0	root	_	_
+1	Ċrieki	_	NOUN	NOUN	_	5	nsubj	_	_
 2	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
 3	Kampi	_	NOUN	NOUN	_	1	conj	_	_
-4	-	_	PUNCT	X_PUN	_	1	conj	_	_
-5	strutturi	_	NOUN	NOUN	_	1	conj	_	_
+4	-	_	PUNCT	X_PUN	_	1	punct	_	_
+5	strutturi	_	NOUN	NOUN	_	0	root	_	_
 6	ta'	_	ADP	GEN	_	7	case	_	_
-7	sett	_	NOUN	NOUN	_	1	nmod:poss	_	_
+7	sett	_	NOUN	NOUN	_	5	nmod:poss	_	_
 8	b'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
 9	żewġ	_	NUM	NUM_CRD	_	10	nummod	_	_
-10	operazzjonijiet	_	NOUN	NOUN	_	1	nmod	_	_
+10	operazzjonijiet	_	NOUN	NOUN	_	5	nmod	_	_
 11	binarji	_	ADJ	ADJ	_	10	amod	_	SpaceAfter=No
-12	,	_	PUNCT	X_PUN	_	1	punct	_	_
+12	,	_	PUNCT	X_PUN	_	10	punct	_	_
 13	(	_	PUNCT	X_PUN	_	14	punct	_	SpaceAfter=No
-14	+	_	PUNCT	X_PUN	_	1	appos	_	SpaceAfter=No
+14	+	_	SYM	X_PUN	_	10	appos	_	SpaceAfter=No
 15	)	_	PUNCT	X_PUN	_	14	punct	_	_
 16	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
 17	(	_	PUNCT	X_PUN	_	18	punct	_	SpaceAfter=No
-18	×	_	PUNCT	X_PUN	_	14	conj	_	SpaceAfter=No
+18	×	_	SYM	X_PUN	_	14	conj	_	SpaceAfter=No
 19	)	_	PUNCT	X_PUN	_	18	punct	_	_
 
 # sent_id = 55_02N11:60
@@ -1279,7 +1279,7 @@
 3	għandhom	_	VERB	VERB_PSEU	_	0	root	_	_
 4	operazzjoni	_	NOUN	NOUN	_	3	obj	_	_
 5	binarja	_	ADJ	ADJ	_	4	amod	_	_
-6	waħda	_	NUM	NUM_WHD	_	4	det	_	_
+6	waħda	_	NUM	NUM_WHD	_	4	nummod	_	_
 7	biss	_	ADV	FOC	_	4	discourse	_	SpaceAfter=No
 8	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
@@ -1355,44 +1355,44 @@
 2	interi	_	NOUN	NOUN	_	4	obl	_	_
 3	(	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
 4	a	_	SYM	X_BOR	_	0	root	_	_
-5	+	_	PUNCT	X_PUN	_	4	punct	_	_
+5	+	_	SYM	X_PUN	_	4	list	_	_
 6	b	_	SYM	X_BOR	_	4	list	_	SpaceAfter=No
 7	)	_	PUNCT	X_PUN	_	4	punct	_	_
-8	×	_	PUNCT	X_PUN	_	4	punct	_	_
+8	×	_	SYM	X_PUN	_	4	list	_	_
 9	c	_	SYM	X_BOR	_	4	list	_	_
-10	=	_	PUNCT	X_PUN	_	4	punct	_	_
+10	=	_	SYM	X_PUN	_	4	list	_	_
 11	a	_	SYM	X_BOR	_	4	list	_	_
-12	×	_	PUNCT	X_PUN	_	4	punct	_	_
+12	×	_	SYM	X_PUN	_	4	list	_	_
 13	c	_	SYM	X_BOR	_	4	list	_	_
-14	+	_	PUNCT	X_PUN	_	4	punct	_	_
+14	+	_	SYM	X_PUN	_	4	list	_	_
 15	b	_	SYM	X_BOR	_	4	list	_	_
-16	×	_	PUNCT	X_PUN	_	4	punct	_	_
+16	×	_	SYM	X_PUN	_	4	list	_	_
 17	c	_	SYM	X_BOR	_	4	list	_	_
 18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
 19	c	_	SYM	X_BOR	_	4	conj	_	_
-20	×	_	PUNCT	X_PUN	_	19	punct	_	_
+20	×	_	SYM	X_PUN	_	19	list	_	_
 21	(	_	PUNCT	X_PUN	_	19	punct	_	SpaceAfter=No
 22	a	_	SYM	X_BOR	_	19	list	_	_
-23	+	_	PUNCT	X_PUN	_	19	punct	_	_
+23	+	_	SYM	X_PUN	_	19	list	_	_
 24	b	_	SYM	X_BOR	_	19	list	_	SpaceAfter=No
 25	)	_	PUNCT	X_PUN	_	19	punct	_	_
-26	=	_	PUNCT	X_PUN	_	19	punct	_	_
+26	=	_	SYM	X_PUN	_	19	list	_	_
 27	c	_	SYM	X_BOR	_	19	list	_	_
-28	×	_	PUNCT	X_PUN	_	19	punct	_	_
+28	×	_	SYM	X_PUN	_	19	list	_	_
 29	a	_	SYM	X_BOR	_	19	list	_	_
-30	+	_	PUNCT	X_PUN	_	19	punct	_	_
+30	+	_	SYM	X_PUN	_	19	list	_	_
 31	c	_	SYM	X_BOR	_	19	list	_	_
-32	×	_	PUNCT	X_PUN	_	19	punct	_	_
+32	×	_	SYM	X_PUN	_	19	list	_	_
 33	b	_	SYM	X_BOR	_	19	list	_	SpaceAfter=No
 34	,	_	PUNCT	X_PUN	_	19	punct	_	_
 35	u	_	CCONJ	CONJ_CORD	_	36	cc	_	_
 36	ngħidu	_	VERB	VERB	_	4	conj	_	_
 37	li	_	SCONJ	COMP	_	40	mark	_	_
-38	×	_	PUNCT	X_PUN	_	40	nsubj	_	_
+38	×	_	SYM	X_PUN	_	40	nsubj	_	_
 39	hija	_	PRON	PRON_PERS	_	40	cop	_	_
 40	distributtiva	_	ADJ	ADJ	_	36	ccomp	_	_
 41	fuq	_	ADP	PREP	_	42	case	_	_
-42	+	_	PUNCT	X_PUN	_	40	obl	_	SpaceAfter=No
+42	+	_	SYM	X_PUN	_	40	obl	_	SpaceAfter=No
 43	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 55_02N11:65
@@ -1402,19 +1402,19 @@
 3	żewġ	_	NUM	NUM_CRD	_	4	nummod	_	_
 4	operazzjonijiet	_	NOUN	NOUN	_	2	obj	_	_
 5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
-6	+	_	PUNCT	X_PUN	_	4	appos	_	SpaceAfter=No
+6	+	_	SYM	X_PUN	_	4	appos	_	SpaceAfter=No
 7	)	_	PUNCT	X_PUN	_	6	punct	_	_
 8	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
 9	(	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
-10	×	_	PUNCT	X_PUN	_	6	conj	_	SpaceAfter=No
+10	×	_	SYM	X_PUN	_	6	conj	_	SpaceAfter=No
 11	)	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
 12	,	_	PUNCT	X_PUN	_	4	punct	_	_
-13	fejn	_	PRON	PRON_INT	_	16	advmod	_	_
-14	×	_	PUNCT	X_PUN	_	16	punct	_	_
+13	fejn	_	ADV	PRON_INT	_	16	advmod	_	_
+14	×	_	SYM	X_PUN	_	16	nsubj	_	_
 15	hu	_	PRON	PRON_PERS	_	16	cop	_	_
 16	distributtiv	_	ADJ	ADJ	_	4	acl	_	_
 17	fuq	_	ADP	PREP	_	18	case	_	_
-18	+	_	PUNCT	X_PUN	_	16	obl	_	SpaceAfter=No
+18	+	_	SYM	X_PUN	_	16	obl	_	SpaceAfter=No
 19	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 55_02N11:66
@@ -1424,7 +1424,7 @@
 3	ewwel	_	NUM	NUM_ORD	_	4	amod	_	_
 4	operazzjoni	_	NOUN	NOUN	_	8	obl	_	_
 5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
-6	+	_	PUNCT	X_PUN	_	8	nsubj	_	SpaceAfter=No
+6	+	_	SYM	X_PUN	_	8	nsubj	_	SpaceAfter=No
 7	)	_	PUNCT	X_PUN	_	6	punct	_	_
 8	jifforma	_	VERB	VERB	_	0	root	_	_
 9	grupp	_	NOUN	NOUN	_	8	obj	_	_
@@ -1438,13 +1438,13 @@
 3	tieni	_	NUM	NUM_ORD	_	4	amod	_	_
 4	operazzjoni	_	NOUN	NOUN	_	9	obl	_	_
 5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
-6	×	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+6	×	_	SYM	X_PUN	_	9	nsubj	_	SpaceAfter=No
 7	)	_	PUNCT	X_PUN	_	6	punct	_	_
 8	hu	_	PRON	PRON_PERS	_	9	cop	_	_
 9	assoċjattiv	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
 10	,	_	PUNCT	X_PUN	_	9	punct	_	_
 11	imma	_	CCONJ	CONJ_CORD	_	13	cc	_	_
-12	m'	_	PART	NEG	_	13	aux:neg	_	SpaceAfter=No
+12	m'	_	PART	NEG	_	13	advmod:neg	_	SpaceAfter=No
 13	hemmx	_	VERB	HEMM	_	9	conj	_	_
 14	bżonn	_	NOUN	NOUN	_	13	nsubj	_	_
 15	ta'	_	ADP	GEN	_	16	case	_	_
@@ -1455,7 +1455,7 @@
 20	,	_	PUNCT	X_PUN	_	13	punct	_	_
 21	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 22	allura	_	ADV	ADV	_	24	advmod	_	_
-23	ma	_	PART	NEG	_	24	aux:neg	_	_
+23	ma	_	PART	NEG	_	24	advmod:neg	_	_
 24	nistgħux	_	VERB	VERB	_	13	conj	_	_
 25	niddividu	_	VERB	VERB	_	24	xcomp	_	SpaceAfter=No
 26	.	_	PUNCT	X_PUN	_	9	punct	_	_
@@ -1469,7 +1469,7 @@
 5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
 6	għadd	_	NOUN	NOUN	_	4	nmod:poss	_	_
 7	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
-8	+	_	PUNCT	X_PUN	_	2	appos	_	SpaceAfter=No
+8	+	_	SYM	X_PUN	_	2	appos	_	SpaceAfter=No
 9	)	_	PUNCT	X_PUN	_	8	punct	_	_
 10	niktbuha	_	VERB	VERB	_	0	root	_	_
 11	bħala	_	ADP	PREP	_	12	case	_	_
@@ -1515,7 +1515,7 @@
 15	grupp	_	NOUN	NOUN	_	14	obj	_	_
 16	Abeljan	_	ADJ	ADJ	_	15	amod	_	_
 17	taħt	_	ADP	PREP	_	18	case	_	_
-18	×	_	PUNCT	X_PUN	_	14	obl	_	SpaceAfter=No
+18	×	_	SYM	X_PUN	_	14	obl	_	SpaceAfter=No
 19	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 # sent_id = 55_02N11:71
@@ -1524,7 +1524,7 @@
 2	identità	_	NOUN	NOUN	_	7	nsubj	_	_
 3	moltiplikattiva	_	ADJ	ADJ	_	2	amod	_	_
 4	(	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
-5	×	_	PUNCT	X_PUN	_	2	appos	_	SpaceAfter=No
+5	×	_	SYM	X_PUN	_	2	appos	_	SpaceAfter=No
 6	)	_	PUNCT	X_PUN	_	5	punct	_	_
 7	niktbuha	_	VERB	VERB	_	0	root	_	_
 8	bħala	_	ADP	PREP	_	9	case	_	_

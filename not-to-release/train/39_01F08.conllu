@@ -79,7 +79,7 @@
 # sent_id = 39_01F08:5
 # text = Min ma kienx jafhom sew lil Krista u lil Jake kien jgħid li huma għarajjes għax dejjem kont tarahom flimkien, f'kelma waħda, inseparabbli.
 1	Min	_	PRON	PRON_INT	_	12	nsubj	_	_
-2	ma	_	PART	NEG	_	4	aux:neg	_	_
+2	ma	_	PART	NEG	_	4	advmod:neg	_	_
 3	kienx	_	AUX	KIEN	_	4	aux	_	_
 4	jafhom	_	VERB	VERB	_	1	acl	_	_
 5	sew	_	ADV	ADV	_	4	advmod	_	_
@@ -101,7 +101,7 @@
 21	,	_	PUNCT	X_PUN	_	20	punct	_	_
 22	f'	_	ADP	PREP	_	23	case	_	SpaceAfter=No
 23	kelma	_	NOUN	NOUN	_	26	obl	_	_
-24	waħda	_	NUM	NUM_WHD	_	23	det	_	SpaceAfter=No
+24	waħda	_	NUM	NUM_WHD	_	23	nummod	_	SpaceAfter=No
 25	,	_	PUNCT	X_PUN	_	23	punct	_	_
 26	inseparabbli	_	ADJ	ADJ	_	20	appos	_	SpaceAfter=No
 27	.	_	PUNCT	X_PUN	_	12	punct	_	_
@@ -141,7 +141,7 @@
 14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 15	istess	_	ADJ	ADJ	_	11	obl	_	SpaceAfter=No
 16	,	_	PUNCT	X_PUN	_	11	punct	_	_
-17	ma	_	PART	NEG	_	18	aux:neg	_	_
+17	ma	_	PART	NEG	_	18	advmod:neg	_	_
 18	nzertawx	_	VERB	VERB	_	0	root	_	_
 19	flimkien	_	ADV	ADV	_	18	advmod	_	_
 20	fil-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
@@ -163,7 +163,7 @@
 11	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
 12	istess	_	ADJ	ADJ	_	13	amod	_	_
 13	età	_	NOUN	NOUN	_	10	nmod:poss	_	_
-14	tagħha	_	PRON	GEN_PRON	_	13	case	_	_
+14	tagħha	_	PRON	GEN_PRON	_	13	nmod:poss	_	_
 15	li	_	SCONJ	COMP	_	22	mark	_	_
 16	tista'	_	VERB	VERB	_	22	parataxis	_	_
 17	tgħid	_	VERB	VERB	_	16	xcomp	_	_
@@ -210,7 +210,7 @@
 21	,	_	PUNCT	X_PUN	_	19	punct	_	_
 22	il-	_	DET	DEF	_	23	det	_	SpaceAfter=No
 23	karattru	_	NOUN	NOUN	_	25	nsubj	_	_
-24	tiegħu	_	PRON	GEN_PRON	_	23	case	_	_
+24	tiegħu	_	PRON	GEN_PRON	_	23	nmod:poss	_	_
 25	laqatha	_	VERB	VERB	_	14	advcl	_	_
 26	mill-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
 27	ewwel	_	NUM	NUM_ORD	_	25	obl	_	SpaceAfter=No
@@ -227,8 +227,8 @@
 7	toħroġ	_	VERB	VERB	_	6	xcomp	_	_
 8	ma'	_	ADP	PREP	_	9	case	_	_
 9	Nathan	_	PROPN	NOUN_PROP	_	7	obl	_	_
-10	ma	_	PART	NEG	_	12	aux:neg	_	_
-11	tantx	_	VERB	VERB_PSEU	_	12	aux	_	_
+10	ma	_	PART	NEG	_	12	advmod:neg	_	_
+11	tantx	_	AUX	VERB_PSEU	_	12	aux	_	_
 12	ħa	_	VERB	VERB	_	0	root	_	_
 13	gost	_	NOUN	NOUN	_	12	compound	_	_
 14	għax	_	SCONJ	CONJ_SUB	_	16	mark	_	_
@@ -239,8 +239,8 @@
 19	jitkellmu	_	VERB	VERB	_	16	ccomp	_	_
 20	dwaru	_	PRON	PREP_PRON	_	19	obl:arg	_	_
 21	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
-22	ma	_	PART	NEG	_	24	aux:neg	_	_
-23	tantx	_	VERB	VERB_PSEU	_	24	aux	_	_
+22	ma	_	PART	NEG	_	24	advmod:neg	_	_
+23	tantx	_	AUX	VERB_PSEU	_	24	aux	_	_
 24	qalu	_	VERB	VERB	_	19	conj	_	_
 25	kliem	_	NOUN	NOUN	_	24	obj	_	_
 26	ta'	_	ADP	GEN	_	27	case	_	_
@@ -279,10 +279,10 @@
 2	ddispjaċiha	_	VERB	VERB	_	0	root	_	_
 3	ħafna	_	ADV	ADV	_	2	advmod	_	_
 4	għax	_	SCONJ	CONJ_SUB	_	6	mark	_	_
-5	ma	_	PART	NEG	_	6	aux:neg	_	_
+5	ma	_	PART	NEG	_	6	advmod:neg	_	_
 6	setgħetx	_	VERB	VERB	_	2	advcl	_	_
 7	tifhem	_	VERB	VERB	_	6	xcomp	_	_
-8	għaliex	_	PRON	PRON_INT	_	9	advmod	_	_
+8	għaliex	_	ADV	PRON_INT	_	9	advmod	_	_
 9	għamlilha	_	VERB	VERB	_	7	ccomp	_	_
 10	hekk	_	ADV	ADV	_	9	advmod	_	SpaceAfter=No
 11	.	_	PUNCT	X_PUN	_	2	punct	_	_

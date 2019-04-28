@@ -15,7 +15,7 @@
 6	meta	_	SCONJ	CONJ_SUB	_	10	mark	_	_
 7	f'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
 8	daqqa	_	NOUN	NOUN	_	10	obl	_	_
-9	waħda	_	NUM	NUM_WHD	_	8	det	_	_
+9	waħda	_	NUM	NUM_WHD	_	8	nummod	_	_
 10	tfaċċat	_	VERB	VERB	_	3	advcl	_	_
 11	is-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	sinjura	_	NOUN	NOUN	_	10	obj	_	SpaceAfter=No
@@ -51,7 +51,7 @@
 3	xulxin	_	PRON	PRON_REC	_	0	root	_	SpaceAfter=No
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
 5	mitfugħ	_	VERB	PART_PASS	_	3	conj	_	_
-6	kif	_	PRON	PRON_INT	_	7	advmod	_	_
+6	kif	_	ADV	PRON_INT	_	7	advmod	_	_
 7	ġie	_	VERB	VERB	_	5	advcl	_	_
 8	ġie	_	VERB	VERB	_	7	compound	_	SpaceAfter=No
 9	.	_	PUNCT	X_PUN	_	3	punct	_	_
@@ -103,7 +103,7 @@
 # sent_id = 42_04F09:8
 # text = Tgħidx kemm ħassejna sħana, qabadna l-għatx, saħansitra nxifna.
 1	Tgħidx	_	VERB	VERB	_	3	advcl	_	_
-2	kemm	_	PRON	PRON_INT	_	1	advmod	_	_
+2	kemm	_	ADV	PRON_INT	_	1	advmod	_	_
 3	ħassejna	_	VERB	VERB	_	0	root	_	_
 4	sħana	_	NOUN	NOUN	_	3	obj	_	SpaceAfter=No
 5	,	_	PUNCT	X_PUN	_	3	punct	_	_
@@ -119,7 +119,7 @@
 # text = Iżda ħadd ma tana nixorbu.
 1	Iżda	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 2	ħadd	_	PRON	PRON_INDEF	_	4	nsubj	_	_
-3	ma	_	PART	NEG	_	4	aux:neg	_	_
+3	ma	_	PART	NEG	_	4	advmod:neg	_	_
 4	tana	_	VERB	VERB	_	0	root	_	_
 5	nixorbu	_	VERB	VERB	_	4	xcomp	_	SpaceAfter=No
 6	.	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -155,7 +155,7 @@
 # text = Konna waħda ftit 'il bogħod mill-oħra nistennew iż-żmien għaddej.
 1	Konna	_	AUX	KIEN	_	8	aux	_	_
 2	waħda	_	NUM	NUM_WHD	_	8	obl	_	_
-3	ftit	_	DET	QUAN	_	5	advmod	_	_
+3	ftit	_	ADV	QUAN	_	5	advmod	_	_
 4	'il	_	ADP	PREP	_	5	case	_	_
 5	bogħod	_	NOUN	NOUN	_	2	nmod	_	_
 6	mill-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
@@ -182,7 +182,7 @@
 1	Erġajna	_	VERB	VERB	_	0	root	_	_
 2	bdejna	_	VERB	VERB	_	1	xcomp	_	_
 3	nitqawwew	_	VERB	VERB	_	2	xcomp	_	_
-4	xi	_	DET	QUAN	_	5	advmod	_	_
+4	xi	_	ADV	QUAN	_	5	advmod	_	_
 5	ftit	_	ADV	ADV	_	3	advmod	_	_
 6	sa	_	ADP	PREP	_	8	mark	_	_
 7	ma	_	SCONJ	COMP	_	6	fixed	_	_
@@ -238,7 +238,7 @@
 # text = Iżda qatt ma qtajna qalbna.
 1	Iżda	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 2	qatt	_	ADV	ADV	_	4	advmod	_	_
-3	ma	_	PART	NEG	_	4	aux:neg	_	_
+3	ma	_	PART	NEG	_	4	advmod:neg	_	_
 4	qtajna	_	VERB	VERB	_	0	root	_	_
 5	qalbna	_	NOUN	NOUN	_	4	obj	_	SpaceAfter=No
 6	.	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -338,7 +338,7 @@
 2	inkun	_	AUX	KIEN	_	4	cop	_	_
 3	fl-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
 4	aqwa	_	NOUN	NOUN	_	0	root	_	_
-5	tiegħi	_	PRON	GEN_PRON	_	4	case	_	SpaceAfter=No
+5	tiegħi	_	PRON	GEN_PRON	_	4	nmod:poss	_	SpaceAfter=No
 6	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 42_04F09:26

@@ -8,7 +8,7 @@
 6	kontra	_	ADP	PREP	_	8	case	_	_
 7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 8	mod	_	NOUN	NOUN	_	0	root	_	_
-9	kif	_	PRON	PRON_INT	_	10	advmod	_	_
+9	kif	_	ADV	PRON_INT	_	10	advmod	_	_
 10	twaqqaf	_	VERB	VERB	_	8	acl	_	_
 11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	MEUSAC	_	NOUN	X_ABV	_	10	nsubj:pass	_	_
@@ -20,11 +20,11 @@
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
 4	Kunsilli	_	NOUN	NOUN	_	2	nmod:poss	_	_
 5	Lokali	_	ADJ	ADJ	_	4	amod	_	_
-6	ma	_	PART	NEG	_	7	aux:neg	_	_
+6	ma	_	PART	NEG	_	7	advmod:neg	_	_
 7	taqbilx	_	VERB	VERB	_	0	root	_	_
 8	mal-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
 9	mod	_	NOUN	NOUN	_	7	obl:arg	_	_
-10	kif	_	PRON	PRON_INT	_	13	advmod	_	_
+10	kif	_	ADV	PRON_INT	_	13	advmod	_	_
 11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	Gvern	_	NOUN	NOUN	_	13	nsubj	_	_
 13	waqqaf	_	VERB	VERB	_	9	acl	_	_
@@ -73,7 +73,7 @@
 23	li	_	SCONJ	COMP	_	27	mark	_	_
 24	lill-	_	ADP	LIL_DEF	_	25	case:det	_	SpaceAfter=No
 25	Assoċjazzjoni	_	NOUN	NOUN	_	27	obj	_	_
-26	ma	_	PART	NEG	_	27	aux:neg	_	_
+26	ma	_	PART	NEG	_	27	advmod:neg	_	_
 27	jinvolvihiex	_	VERB	VERB	_	22	ccomp	_	_
 28	fil-	_	ADP	PREP_DEF	_	30	case:det	_	SpaceAfter=No
 29	core	_	ADJ	ADJ	_	30	amod	_	_
@@ -205,7 +205,7 @@
 # sent_id = 09_09J01:8
 # text = "Mhux aċċettabbli li l-Gvern ħa din il-pożizzjoni fil-konfront tal-Kunsilli Lokali," saħaq Magro.
 1	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
-2	Mhux	_	PART	PRON_PERS_NEG	_	3	aux:neg	_	_
+2	Mhux	_	AUX	PRON_PERS_NEG	_	3	aux:neg	_	_
 3	aċċettabbli	_	ADJ	ADJ	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	7	mark	_	_
 5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
@@ -245,17 +245,17 @@
 16	Core	_	ADJ	ADJ	_	17	amod	_	_
 17	Group	_	NOUN	NOUN	_	12	obl	_	_
 18	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
-19	mhux	_	PART	PRON_PERS_NEG	_	22	aux:neg	_	_
+19	mhux	_	AUX	PRON_PERS_NEG	_	22	aux:neg	_	_
 20	f'	_	ADP	PREP	_	22	case	_	SpaceAfter=No
 21	sempliċi	_	ADJ	ADJ	_	22	amod	_	_
 22	kumitat	_	NOUN	NOUN	_	17	conj	_	_
-23	wieħed	_	NUM	NUM_WHD	_	22	det	_	SpaceAfter=No
+23	wieħed	_	NUM	NUM_WHD	_	22	nummod	_	SpaceAfter=No
 24	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 09_09J01:10
 # text = Dan għaliex fil-MEUSEC jittieħdu deċiżjonijiet dwar proġetti kbar tal-Unjoni Ewropea li jolqtu direttament lill-lokalitajiet, " spjega Magro.
 1	Dan	_	PRON	PRON_DEM	_	0	root	_	_
-2	għaliex	_	PRON	PRON_INT	_	5	advmod	_	_
+2	għaliex	_	ADV	PRON_INT	_	5	advmod	_	_
 3	fil-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
 4	MEUSEC	_	NOUN	X_ABV	_	5	obl	_	_
 5	jittieħdu	_	VERB	VERB	_	1	advcl	_	_
@@ -334,7 +334,7 @@
 5	Chris	_	PROPN	NOUN_PROP	_	9	nsubj	_	_
 6	Said	_	PROPN	NOUN_PROP	_	5	flat:name	_	SpaceAfter=No
 7	,	_	PUNCT	X_PUN	_	5	punct	_	_
-8	għad	_	VERB	VERB_PSEU	_	9	aux	_	_
+8	għad	_	AUX	VERB_PSEU	_	9	aux	_	_
 9	għandu	_	VERB	VERB_PSEU	_	3	ccomp	_	_
 10	għal	_	ADP	PREP	_	11	case	_	_
 11	qalbu	_	NOUN	NOUN	_	9	obl	_	_
@@ -367,7 +367,7 @@
 # text = " Din mhix kwistjoni politika.
 1	"	_	PUNCT	X_PUN	_	4	punct	_	_
 2	Din	_	PRON	PRON_DEM	_	4	nsubj	_	_
-3	mhix	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
+3	mhix	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
 4	kwistjoni	_	NOUN	NOUN	_	0	root	_	_
 5	politika	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
 6	.	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -422,8 +422,8 @@
 17	fil-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
 18	core	_	ADJ	ADJ	_	19	amod	_	_
 19	group	_	NOUN	NOUN	_	16	obl	_	_
-20	mhux	_	PART	PRON_PERS_NEG	_	24	aux:neg	_	_
-21	biss	_	ADV	FOC	_	20	discourse	_	_
+20	mhux	_	AUX	PRON_PERS_NEG	_	24	aux:neg	_	_
+21	biss	_	ADV	FOC	_	24	discourse	_	_
 22	f'	_	ADP	PREP	_	24	case	_	SpaceAfter=No
 23	sotto	_	ADJ	ADJ	_	24	amod	_	_
 24	kumitat	_	NOUN	NOUN	_	19	conj	_	SpaceAfter=No
@@ -466,7 +466,7 @@
 
 # sent_id = 09_09J01:17
 # text = Mhix l-ewwel darba li l-Assoċjazzjoni tħalliet barra minn livelli ta' deċiżjonijiet importanti.
-1	Mhix	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
+1	Mhix	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
 2	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 3	ewwel	_	NUM	NUM_ORD	_	4	amod	_	_
 4	darba	_	NOUN	NOUN	_	0	root	_	_

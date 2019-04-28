@@ -19,11 +19,11 @@
 4	raqda	_	NOUN	NOUN	_	1	obl	_	_
 5	fonda	_	ADJ	ADJ	_	4	amod	_	_
 6	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
-7	ma	_	PART	NEG	_	9	aux:neg	_	_
+7	ma	_	PART	NEG	_	9	advmod:neg	_	_
 8	kontx	_	AUX	KIEN	_	9	aux	_	_
 9	naf	_	VERB	VERB	_	1	conj	_	_
 10	eżatt	_	ADV	ADV	_	9	advmod	_	_
-11	fejn	_	PRON	PRON_INT	_	12	advmod	_	_
+11	fejn	_	ADV	PRON_INT	_	12	advmod	_	_
 12	ninsab	_	VERB	VERB	_	9	ccomp	_	SpaceAfter=No
 13	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
@@ -37,9 +37,9 @@
 6	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
 7	bil-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
 8	kemm	_	PRON	PRON_INT	_	10	obl	_	_
-9	ma	_	PART	NEG	_	10	aux:neg	_	_
+9	ma	_	PART	NEG	_	10	advmod:neg	_	_
 10	ħassejtnix	_	VERB	VERB	_	2	conj	_	_
-11	xi	_	DET	QUAN	_	12	advmod	_	_
+11	xi	_	ADV	QUAN	_	12	advmod	_	_
 12	ftit	_	ADV	ADV	_	13	advmod	_	_
 13	imdardar	_	VERB	PART_PASS	_	10	xcomp	_	_
 14	ukoll	_	ADV	FOC	_	13	discourse	_	SpaceAfter=No
@@ -83,7 +83,7 @@
 
 # sent_id = 44_06F09:8
 # text = Ma kien hemm l-ebda sinjal ta' vjolenza la fuq id-dar u wisq anqas fuqi.
-1	Ma	_	PART	NEG	_	3	aux:neg	_	_
+1	Ma	_	PART	NEG	_	3	advmod:neg	_	_
 2	kien	_	AUX	KIEN	_	3	aux	_	_
 3	hemm	_	VERB	HEMM	_	0	root	_	_
 4	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
@@ -91,13 +91,13 @@
 6	sinjal	_	NOUN	NOUN	_	3	nsubj	_	_
 7	ta'	_	ADP	GEN	_	8	case	_	_
 8	vjolenza	_	NOUN	NOUN	_	6	nmod:poss	_	_
-9	la	_	PART	NEG	_	12	aux:neg	_	_
+9	la	_	PART	NEG	_	12	advmod:neg	_	_
 10	fuq	_	ADP	PREP	_	12	case	_	_
 11	id-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 12	dar	_	NOUN	NOUN	_	6	obl	_	_
 13	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 14	wisq	_	ADV	ADV	_	16	advmod	_	_
-15	anqas	_	ADV	FOC	_	16	aux:neg	_	_
+15	anqas	_	ADV	FOC	_	16	advmod:neg	_	_
 16	fuqi	_	PRON	PREP_PRON	_	12	conj	_	SpaceAfter=No
 17	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
@@ -144,9 +144,9 @@
 7	kwadru	_	ADJ	ADJ	_	6	amod	_	_
 8	tas-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
 9	salott	_	NOUN	NOUN	_	6	nmod:poss	_	_
-10	fejn	_	PRON	PRON_INT	_	11	advmod	_	_
+10	fejn	_	ADV	PRON_INT	_	11	advmod	_	_
 11	kont	_	AUX	KIEN	_	4	advcl	_	SpaceAfter=No
-12	,	_	PUNCT	X_PUN	_	4	punct	_	_
+12	,	_	PUNCT	X_PUN	_	14	punct	_	_
 13	li	_	SCONJ	COMP	_	14	mark	_	_
 14	kellu	_	VERB	VERB_PSEU	_	6	acl	_	_
 15	kantuniera	_	NOUN	NOUN	_	14	obj	_	_
@@ -160,7 +160,7 @@
 23	b'	_	ADP	PREP	_	24	case	_	SpaceAfter=No
 24	saqajh	_	NOUN	NOUN	_	22	obl	_	_
 25	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
-26	ma	_	PART	NEG	_	27	aux:neg	_	_
+26	ma	_	PART	NEG	_	27	advmod:neg	_	_
 27	qagħadx	_	VERB	VERB	_	22	conj	_	_
 28	jikkoppa	_	VERB	VERB	_	27	xcomp	_	_
 29	jerġa'	_	VERB	VERB	_	28	xcomp	_	_
@@ -264,36 +264,36 @@
 
 # sent_id = 44_06F09:18
 # text = La fil-kċina, la fil-kamra tal-banju u l-anqas fil-kamra tas-sodda ma sibt xejn u kollox kien kif ħallejtu jien.
-1	La	_	PART	NEG	_	3	aux:neg	_	_
+1	La	_	PART	NEG	_	3	advmod:neg	_	_
 2	fil-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 3	kċina	_	NOUN	NOUN	_	18	obl	_	SpaceAfter=No
 4	,	_	PUNCT	X_PUN	_	3	punct	_	_
-5	la	_	PART	NEG	_	7	aux:neg	_	_
+5	la	_	PART	NEG	_	7	advmod:neg	_	_
 6	fil-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
 7	kamra	_	NOUN	NOUN	_	3	conj	_	_
 8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
 9	banju	_	NOUN	NOUN	_	7	nmod:poss	_	_
 10	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
-11	l-	_	DET	DEF	_	14	aux:neg	_	SpaceAfter=No
-12	anqas	_	ADV	FOC	_	11	goeswith	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	anqas	_	ADV	FOC	_	14	advmod:neg	_	_
 13	fil-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
 14	kamra	_	NOUN	NOUN	_	3	conj	_	_
 15	tas-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
 16	sodda	_	NOUN	NOUN	_	14	nmod:poss	_	_
-17	ma	_	PART	NEG	_	18	aux:neg	_	_
+17	ma	_	PART	NEG	_	18	advmod:neg	_	_
 18	sibt	_	VERB	VERB	_	0	root	_	_
 19	xejn	_	PRON	PRON_INDEF	_	18	obj	_	_
 20	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
 21	kollox	_	PRON	PRON_INDEF	_	22	nsubj	_	_
 22	kien	_	AUX	KIEN	_	18	conj	_	_
-23	kif	_	PRON	PRON_INT	_	24	advmod	_	_
+23	kif	_	ADV	PRON_INT	_	24	advmod	_	_
 24	ħallejtu	_	VERB	VERB	_	22	advcl	_	_
 25	jien	_	PRON	PRON_PERS	_	24	nsubj	_	SpaceAfter=No
 26	.	_	PUNCT	X_PUN	_	18	punct	_	_
 
 # sent_id = 44_06F09:19
 # text = Kif kont aljenat naħseb u inkwetat nisma' brejk qawwi ta' żewġ karozzi u ħabta.
-1	Kif	_	PRON	PRON_INT	_	3	advmod	_	_
+1	Kif	_	ADV	PRON_INT	_	3	advmod	_	_
 2	kont	_	AUX	KIEN	_	3	cop	_	_
 3	aljenat	_	VERB	PART_PASS	_	4	advcl	_	_
 4	naħseb	_	VERB	VERB	_	0	root	_	_
@@ -338,7 +338,7 @@
 
 # sent_id = 44_06F09:23
 # text = Kif kont għaddej mis-salott tfixkilt fit-tapit li kont ħallejtu mgħawweġ u ħbatt rasi mat-tavolina tal-ħġieġ u din inqasmet.
-1	Kif	_	PRON	PRON_INT	_	3	advmod	_	_
+1	Kif	_	ADV	PRON_INT	_	3	advmod	_	_
 2	kont	_	AUX	KIEN	_	3	aux	_	_
 3	għaddej	_	VERB	PART_ACT	_	6	advcl	_	_
 4	mis-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No

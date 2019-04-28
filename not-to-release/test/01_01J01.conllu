@@ -234,7 +234,7 @@
 36	minn	_	ADP	PREP	_	37	case	_	_
 37	WasteServ	_	PROPN	NOUN_PROP	_	30	conj	_	_
 38	u	_	CCONJ	CONJ_CORD	_	41	cc	_	_
-39	ma	_	PART	NEG	_	41	aux:neg	_	_
+39	ma	_	PART	NEG	_	41	advmod:neg	_	_
 40	kienx	_	AUX	KIEN	_	41	aux	_	_
 41	hemm	_	VERB	HEMM	_	27	conj	_	_
 42	oġġezzjoni	_	NOUN	NOUN	_	41	nsubj	_	SpaceAfter=No
@@ -278,7 +278,7 @@
 15	iġib	_	VERB	VERB	_	11	xcomp	_	_
 16	assistent	_	NOUN	NOUN	_	15	obj	_	_
 17	personali	_	ADJ	ADJ	_	16	amod	_	_
-18	tiegħu	_	PRON	GEN_PRON	_	16	case	_	SpaceAfter=No
+18	tiegħu	_	PRON	GEN_PRON	_	16	nmod:poss	_	SpaceAfter=No
 19	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 01_01J01:9
@@ -312,9 +312,9 @@
 27	fl-	_	ADP	PREP_DEF	_	28	case:det	_	SpaceAfter=No
 28	4	_	NUM	X_DIG	_	20	nmod	_	_
 29	p	_	NOUN	X_ABV	_	28	appos	_	SpaceAfter=No
-30	.	_	PUNCT	X_PUN	_	29	list	_	_
-31	m	_	NOUN	X_ABV	_	30	list	_	SpaceAfter=No
-32	.	_	PUNCT	X_PUN	_	31	list	_	_
+30	.	_	PUNCT	X_PUN	_	29	punct	_	_
+31	m	_	NOUN	X_ABV	_	29	flat	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	31	punct	_	_
 
 # sent_id = 01_01J01:10
 # text = Joe Mizzi talab li jittellgħu dokumenti marbutin mat-tender.
@@ -336,7 +336,7 @@
 3	qal	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	7	mark	_	_
 5	hu	_	PRON	PRON_PERS	_	7	nsubj	_	_
-6	m'	_	PART	NEG	_	7	aux:neg	_	SpaceAfter=No
+6	m'	_	PART	NEG	_	7	advmod:neg	_	SpaceAfter=No
 7	għandux	_	VERB	VERB_PSEU	_	3	ccomp	_	_
 8	oġġezzjoni	_	NOUN	NOUN	_	7	obj	_	_
 9	għat-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
@@ -347,7 +347,7 @@
 14	qal	_	VERB	VERB	_	7	conj	_	_
 15	li	_	SCONJ	COMP	_	19	mark	_	_
 16	wieħed	_	NUM	NUM_WHD	_	19	nsubj	_	_
-17	m'	_	PART	NEG	_	19	aux:neg	_	SpaceAfter=No
+17	m'	_	PART	NEG	_	19	advmod:neg	_	SpaceAfter=No
 18	għandux	_	VERB	VERB_PSEU	_	19	ccomp	_	_
 19	jorbot	_	VERB	VERB	_	14	ccomp	_	_
 20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
@@ -378,7 +378,7 @@
 7	ċilindri	_	NOUN	NOUN	_	5	nmod:poss	_	_
 8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
 9	gass	_	NOUN	NOUN	_	7	nmod:poss	_	_
-10	m'	_	PART	NEG	_	11	aux:neg	_	SpaceAfter=No
+10	m'	_	PART	NEG	_	11	advmod:neg	_	SpaceAfter=No
 11	għandux	_	VERB	VERB_PSEU	_	2	ccomp	_	_
 12	x'	_	PRON	PRON_INT	_	11	obj	_	SpaceAfter=No
 13	jaqsam	_	VERB	VERB	_	12	acl	_	_
@@ -407,7 +407,7 @@
 12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
 13	kwistjoni	_	NOUN	NOUN	_	10	obl:arg	_	_
 14	ta'	_	ADP	GEN	_	16	mark	_	_
-15	kif	_	PRON	PRON_INT	_	16	advmod	_	_
+15	kif	_	ADV	PRON_INT	_	16	advmod	_	_
 16	inħaraq	_	VERB	VERB	_	13	acl	_	_
 17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	mercaptan	_	PROPN	NOUN_PROP	_	16	nsubj:pass	_	_
@@ -423,7 +423,7 @@
 28	it-	_	DET	DEF	_	29	det	_	SpaceAfter=No
 29	tenders	_	NOUN	NOUN	_	30	nsubj	_	_
 30	sarux	_	VERB	VERB	_	26	ccomp	_	_
-31	kif	_	PRON	PRON_INT	_	30	advmod	_	_
+31	kif	_	ADV	PRON_INT	_	30	advmod	_	_
 32	suppost	_	ADV	ADV	_	31	fixed	_	SpaceAfter=No
 33	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
@@ -465,7 +465,7 @@
 5	rapport	_	NOUN	NOUN	_	9	obl	_	_
 6	ta'	_	ADP	GEN	_	7	case	_	_
 7	inkjesta	_	NOUN	NOUN	_	5	nmod:poss	_	_
-8	ma	_	PART	NEG	_	9	aux:neg	_	_
+8	ma	_	PART	NEG	_	9	advmod:neg	_	_
 9	toħroġx	_	VERB	VERB	_	0	root	_	_
 10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
 11	verità	_	NOUN	NOUN	_	9	nsubj	_	SpaceAfter=No
@@ -553,7 +553,7 @@
 8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	mercaptan	_	PROPN	NOUN_PROP	_	6	obj	_	_
 10	imma	_	CCONJ	CONJ_CORD	_	12	cc	_	_
-11	ma	_	PART	NEG	_	12	aux:neg	_	_
+11	ma	_	PART	NEG	_	12	advmod:neg	_	_
 12	jirriżultax	_	VERB	VERB	_	6	conj	_	_
 13	li	_	SCONJ	COMP	_	19	mark	_	_
 14	f'	_	ADP	PREP	_	17	case	_	SpaceAfter=No

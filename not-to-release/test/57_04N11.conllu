@@ -50,7 +50,7 @@
 7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 8	kompjuters	_	NOUN	NOUN	_	4	nmod:poss	_	_
 9	qed	_	AUX	PROG	_	11	aux:part	_	_
-10	jiġu	_	VERB	VERB	_	11	aux:pass	_	_
+10	jiġu	_	AUX	VERB	_	11	aux:pass	_	_
 11	żviluppati	_	VERB	PART_PASS	_	23	advcl	_	_
 12	minn	_	ADP	PREP	_	13	case	_	_
 13	kelliema	_	NOUN	NOUN	_	11	obl:agent	_	_
@@ -76,7 +76,7 @@
 1	Sfortunatament	_	ADV	ADV	_	5	advmod	_	SpaceAfter=No
 2	,	_	PUNCT	X_PUN	_	1	punct	_	_
 3	din	_	PRON	PRON_DEM	_	5	nsubj	_	_
-4	ma	_	PART	NEG	_	5	aux:neg	_	_
+4	ma	_	PART	NEG	_	5	advmod:neg	_	_
 5	tinkludix	_	VERB	VERB	_	0	root	_	_
 6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	lingwa	_	NOUN	NOUN	_	5	obj	_	_
@@ -131,7 +131,7 @@
 17	tipi	_	NOUN	NOUN	_	22	nsubj	_	_
 18	li	_	SCONJ	COMP	_	19	mark	_	_
 19	ħolqu	_	VERB	VERB	_	17	acl	_	_
-20	ma	_	PART	NEG	_	22	aux:neg	_	_
+20	ma	_	PART	NEG	_	22	advmod:neg	_	_
 21	kinux	_	AUX	KIEN	_	22	aux	_	_
 22	jaqblu	_	VERB	VERB	_	4	conj	_	_
 23	bejniethom	_	PRON	PREP_PRON	_	22	obl	_	SpaceAfter=No
@@ -160,13 +160,13 @@
 19	jibgħat	_	VERB	VERB	_	7	advcl	_	_
 20	id-	_	DET	DEF	_	21	det	_	SpaceAfter=No
 21	dokumenti	_	NOUN	NOUN	_	19	obj	_	_
-22	tiegħu	_	PRON	GEN_PRON	_	21	case	_	_
+22	tiegħu	_	PRON	GEN_PRON	_	21	nmod:poss	_	_
 23	lil	_	ADP	LIL	_	24	case	_	_
 24	ħaddieħor	_	PRON	PRON_INDEF	_	19	iobj	_	SpaceAfter=No
 25	,	_	PUNCT	X_PUN	_	7	punct	_	_
 26	ħafna	_	DET	QUAN	_	27	det	_	_
 27	nies	_	NOUN	NOUN	_	30	nsubj	_	_
-28	ma	_	PART	NEG	_	30	aux:neg	_	_
+28	ma	_	PART	NEG	_	30	advmod:neg	_	_
 29	jkunux	_	AUX	KIEN	_	30	aux	_	_
 30	jistgħu	_	VERB	VERB	_	2	ccomp	_	_
 31	jaqrawhom	_	VERB	VERB	_	30	xcomp	_	_
@@ -186,7 +186,7 @@
 9	installati	_	VERB	PART_PASS	_	8	acl	_	_
 10	fis-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
 11	sistema	_	NOUN	NOUN	_	9	obl	_	_
-12	tiegħu	_	PRON	GEN_PRON	_	11	case	_	SpaceAfter=No
+12	tiegħu	_	PRON	GEN_PRON	_	11	nmod:poss	_	SpaceAfter=No
 13	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 57_04N11:10
@@ -208,13 +208,13 @@
 2	dokument	_	NOUN	NOUN	_	3	compound	_	_
 3	pdf	_	NOUN	X_ABV	_	8	obj	_	_
 4	għandek	_	VERB	VERB_PSEU	_	3	acl	_	_
-5	mnejn	_	PRON	PRON_INT	_	4	advmod	_	_
+5	mnejn	_	ADV	PRON_INT	_	4	advmod	_	_
 6	tkun	_	AUX	KIEN	_	8	aux	_	_
 7	tista'	_	VERB	VERB	_	0	root	_	_
 8	taqrah	_	VERB	VERB	_	7	xcomp	_	SpaceAfter=No
 9	,	_	PUNCT	X_PUN	_	8	punct	_	_
 10	imma	_	CCONJ	CONJ_CORD	_	13	cc	_	_
-11	ma	_	PART	NEG	_	13	aux:neg	_	_
+11	ma	_	PART	NEG	_	13	advmod:neg	_	_
 12	tkunx	_	AUX	KIEN	_	13	aux	_	_
 13	tista'	_	VERB	VERB	_	8	conj	_	_
 14	tikkopja	_	VERB	VERB	_	13	xcomp	_	_
@@ -231,7 +231,7 @@
 1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
 2	xorti	_	NOUN	NOUN	_	5	obl	_	_
 3	tajba	_	ADJ	ADJ	_	2	amod	_	_
-4	ma	_	PART	NEG	_	5	aux:neg	_	_
+4	ma	_	PART	NEG	_	5	advmod:neg	_	_
 5	damx	_	VERB	VERB	_	0	root	_	_
 6	ma	_	SCONJ	COMP	_	7	mark	_	_
 7	nħoloq	_	VERB	VERB	_	5	ccomp	_	_
@@ -374,7 +374,7 @@
 11	jibqa'	_	VERB	VERB	_	6	advcl	_	_
 12	kliem	_	NOUN	NOUN	_	11	xcomp	_	_
 13	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
-14	ma	_	PART	NEG	_	15	aux:neg	_	_
+14	ma	_	PART	NEG	_	15	advmod:neg	_	_
 15	jinqalibx	_	VERB	VERB	_	11	conj	_	_
 16	f'	_	ADP	PREP	_	17	case	_	SpaceAfter=No
 17	simboli	_	NOUN	NOUN	_	15	obl:arg	_	SpaceAfter=No

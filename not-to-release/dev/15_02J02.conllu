@@ -12,7 +12,7 @@
 # text = Minkejja li għad fadal madwar erba' snin u nofs, il-Partit Laburista bħalissa jinsab għaddej bi tħejjijiet intensivi għal elezzjoni ġenerali.
 1	Minkejja	_	ADP	PREP	_	4	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
-3	għad	_	VERB	VERB_PSEU	_	4	aux	_	_
+3	għad	_	AUX	VERB_PSEU	_	4	aux	_	_
 4	fadal	_	VERB	VERB	_	15	advcl	_	_
 5	madwar	_	ADP	PREP	_	7	case	_	_
 6	erba'	_	NUM	NUM_CRD	_	7	nummod	_	_
@@ -347,7 +347,7 @@
 23	Falzon	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
 24	fil-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
 25	ħidma	_	NOUN	NOUN	_	20	obl	_	_
-26	tiegħu	_	PRON	GEN_PRON	_	25	case	_	SpaceAfter=No
+26	tiegħu	_	PRON	GEN_PRON	_	25	nmod:poss	_	SpaceAfter=No
 27	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 # sent_id = 15_02J02:13
@@ -541,7 +541,7 @@
 37	li	_	SCONJ	COMP	_	41	mark	_	_
 38	Michael	_	PROPN	NOUN_PROP	_	41	nsubj	_	_
 39	Falzon	_	PROPN	NOUN_PROP	_	38	flat:name	_	_
-40	ma	_	PART	NEG	_	41	aux:neg	_	_
+40	ma	_	PART	NEG	_	41	advmod:neg	_	_
 41	jikkontestax	_	VERB	VERB	_	36	ccomp	_	_
 42	għall-	_	ADP	PREP_DEF	_	43	case:det	_	SpaceAfter=No
 43	kariga	_	NOUN	NOUN	_	41	obl:arg	_	_

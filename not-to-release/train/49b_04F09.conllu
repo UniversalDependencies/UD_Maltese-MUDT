@@ -22,7 +22,7 @@
 1	Temperatura	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
 2	:	_	PUNCT	X_PUN	_	1	punct	_	_
 3	16	_	NUM	X_DIG	_	4	nummod	_	_
-4	°	_	PUNCT	X_PUN	_	1	list	_	_
+4	°	_	SYM	X_PUN	_	1	list	_	_
 5	C	_	NOUN	X_ABV	_	4	nmod	_	_
 
 # sent_id = 49b_04F09:4
@@ -39,7 +39,7 @@
 
 # sent_id = 49b_04F09:5
 # text = Fej sibtha? staqsietu Elizabeth.
-1	Fej	_	PRON	PRON_INT	_	2	advmod	_	_
+1	Fej	_	ADV	PRON_INT	_	2	advmod	_	_
 2	sibtha	_	VERB	VERB	_	0	root	_	SpaceAfter=No
 3	?	_	PUNCT	X_PUN	_	2	punct	_	_
 4	staqsietu	_	VERB	VERB	_	2	parataxis	_	_
@@ -102,7 +102,7 @@
 14	qawwi	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
 15	,	_	PUNCT	X_PUN	_	18	punct	_	_
 16	jekk	_	SCONJ	CONJ_SUB	_	18	mark	_	_
-17	mhux	_	PART	PRON_PERS_NEG	_	18	aux:neg	_	_
+17	mhux	_	AUX	PRON_PERS_NEG	_	18	aux:neg	_	_
 18	iktar	_	ADV	ADV	_	14	conj	_	SpaceAfter=No
 19	,	_	PUNCT	X_PUN	_	18	punct	_	_
 20	daqs	_	ADP	PREP	_	21	case	_	_
@@ -112,7 +112,7 @@
 24	tħoss	_	VERB	VERB	_	21	acl	_	_
 25	meta	_	SCONJ	CONJ_SUB	_	28	mark	_	_
 26	kien	_	AUX	KIEN	_	28	aux	_	_
-27	għad	_	VERB	VERB_PSEU	_	28	aux	_	_
+27	għad	_	AUX	VERB_PSEU	_	28	aux	_	_
 28	kellha	_	VERB	VERB_PSEU	_	24	advcl	_	_
 29	biss	_	ADV	FOC	_	30	discourse	_	_
 30	seba'	_	NUM	NUM_CRD	_	33	nummod	_	_
@@ -183,7 +183,7 @@
 3	triq	_	NOUN	NOUN	_	2	obj	_	_
 4	b'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
 5	oħra	_	ADJ	ADJ	_	2	conj	_	orig_deprel=obj
-6	ma	_	PART	NEG	_	7	aux:neg	_	_
+6	ma	_	PART	NEG	_	7	advmod:neg	_	_
 7	ssibx	_	VERB	VERB	_	0	root	_	_
 8	irkaptu	_	NOUN	NOUN	_	7	obj	_	SpaceAfter=No
 9	.	_	PUNCT	X_PUN	_	7	punct	_	_
@@ -214,7 +214,7 @@
 
 # sent_id = 49b_04F09:22
 # text = Ma nistgħux immorru flimkien.
-1	Ma	_	PART	NEG	_	2	aux:neg	_	_
+1	Ma	_	PART	NEG	_	2	advmod:neg	_	_
 2	nistgħux	_	VERB	VERB	_	0	root	_	_
 3	immorru	_	VERB	VERB	_	2	xcomp	_	_
 4	flimkien	_	ADV	ADV	_	3	advmod	_	SpaceAfter=No
@@ -291,7 +291,7 @@
 # sent_id = 49b_04F09:30
 # text = Tiftakar fejn qiegħed?
 1	Tiftakar	_	VERB	VERB	_	0	root	_	_
-2	fejn	_	PRON	PRON_INT	_	3	advmod	_	_
+2	fejn	_	ADV	PRON_INT	_	3	advmod	_	_
 3	qiegħed	_	VERB	PART_ACT	_	1	ccomp	_	SpaceAfter=No
 4	?	_	PUNCT	X_PUN	_	1	punct	_	_
 
@@ -300,7 +300,7 @@
 1	Elizabeth	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
 2	f'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
 3	daqqa	_	NOUN	NOUN	_	5	obl	_	_
-4	waħda	_	NUM	NUM_WHD	_	3	det	_	_
+4	waħda	_	NUM	NUM_WHD	_	3	nummod	_	_
 5	ntebħet	_	VERB	VERB	_	0	root	_	_
 6	li	_	SCONJ	COMP	_	10	mark	_	_
 7	André	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
@@ -316,7 +316,7 @@
 
 # sent_id = 49b_04F09:32
 # text = Ma kienx qed jistidinha li jerġgħu jiltaqgħu fuq il-Magna, iżda li jiltaqgħu fil-verità.
-1	Ma	_	PART	NEG	_	4	aux:neg	_	_
+1	Ma	_	PART	NEG	_	4	advmod:neg	_	_
 2	kienx	_	AUX	KIEN	_	4	aux	_	_
 3	qed	_	AUX	PROG	_	4	aux:part	_	_
 4	jistidinha	_	VERB	VERB	_	0	root	_	_
@@ -343,7 +343,7 @@
 
 # sent_id = 49b_04F09:34
 # text = Kif nista' ninsa?
-1	Kif	_	PRON	PRON_INT	_	2	advmod	_	_
+1	Kif	_	ADV	PRON_INT	_	2	advmod	_	_
 2	nista'	_	VERB	VERB	_	0	root	_	_
 3	ninsa	_	VERB	VERB	_	2	xcomp	_	SpaceAfter=No
 4	?	_	PUNCT	X_PUN	_	2	punct	_	_

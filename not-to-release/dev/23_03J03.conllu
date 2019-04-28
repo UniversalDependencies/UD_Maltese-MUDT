@@ -1,6 +1,6 @@
 # sent_id = 23_03J03:1
 # text = Kif għazilt il-Powerlifting?
-1	Kif	_	PRON	PRON_INT	_	2	advmod	_	_
+1	Kif	_	ADV	PRON_INT	_	2	advmod	_	_
 2	għazilt	_	VERB	VERB	_	0	root	_	_
 3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	Powerlifting	_	NOUN	NOUN	_	2	obj	_	SpaceAfter=No
@@ -11,7 +11,7 @@
 1	Onestament	_	ADV	ADV	_	5	advmod	_	_
 2	jien	_	PRON	PRON_PERS	_	5	nsubj	_	_
 3	qatt	_	ADV	ADV	_	5	advmod	_	_
-4	ma	_	PART	NEG	_	5	aux:neg	_	_
+4	ma	_	PART	NEG	_	5	advmod:neg	_	_
 5	ħlomt	_	VERB	VERB	_	0	root	_	_
 6	li	_	SCONJ	COMP	_	12	mark	_	_
 7	xi	_	DET	QUAN	_	8	det	_	_
@@ -27,7 +27,7 @@
 17	aħseb	_	VERB	VERB	_	5	parataxis	_	_
 18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
 19	ara	_	VERB	VERB	_	17	conj	_	_
-20	kemm	_	PRON	PRON_INT	_	21	advmod	_	_
+20	kemm	_	ADV	PRON_INT	_	21	advmod	_	_
 21	nikkompeti	_	VERB	VERB	_	19	ccomp	_	_
 22	fih	_	PRON	PREP_PRON	_	21	obl	_	SpaceAfter=No
 23	.	_	PUNCT	X_PUN	_	5	punct	_	_
@@ -41,7 +41,7 @@
 5	kien	_	AUX	KIEN	_	6	aux	_	_
 6	hemm	_	VERB	HEMM	_	0	root	_	_
 7	ħabib	_	NOUN	NOUN	_	6	nsubj	_	_
-8	tiegħi	_	PRON	GEN_PRON	_	7	case	_	_
+8	tiegħi	_	PRON	GEN_PRON	_	7	nmod:poss	_	_
 9	li	_	SCONJ	COMP	_	11	mark	_	_
 10	huwa	_	PRON	PRON_PERS	_	11	cop	_	_
 11	kompetitur	_	NOUN	NOUN	_	7	acl	_	_
@@ -50,7 +50,7 @@
 14	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 15	wkoll	_	ADV	FOC	_	16	discourse	_	_
 16	kollega	_	NOUN	NOUN	_	11	conj	_	_
-17	tiegħi	_	PRON	GEN_PRON	_	16	case	_	_
+17	tiegħi	_	PRON	GEN_PRON	_	16	nmod:poss	_	_
 18	fuq	_	ADP	PREP	_	20	case	_	_
 19	ix-	_	DET	DEF	_	20	det	_	SpaceAfter=No
 20	xogħol	_	NOUN	NOUN	_	16	nmod	_	SpaceAfter=No
@@ -94,7 +94,7 @@
 15	dan	_	PRON	PRON_DEM	_	17	det	_	_
 16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 17	isport	_	NOUN	NOUN	_	19	nsubj	_	_
-18	ma	_	PART	NEG	_	19	aux:neg	_	_
+18	ma	_	PART	NEG	_	19	advmod:neg	_	_
 19	jogħġobnix	_	VERB	VERB	_	13	ccomp	_	SpaceAfter=No
 20	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
@@ -131,7 +131,7 @@
 8	li	_	SCONJ	COMP	_	10	mark	_	_
 9	huwa	_	PRON	PRON_PERS	_	10	cop	_	_
 10	ħabib	_	NOUN	NOUN	_	7	acl	_	_
-11	tiegħu	_	PRON	GEN_PRON	_	10	case	_	SpaceAfter=No
+11	tiegħu	_	PRON	GEN_PRON	_	10	nmod:poss	_	SpaceAfter=No
 12	,	_	PUNCT	X_PUN	_	4	punct	_	_
 13	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 14	bdejt	_	VERB	VERB	_	4	conj	_	_
@@ -145,7 +145,7 @@
 22	it-	_	DET	DEF	_	23	det	_	SpaceAfter=No
 23	teknika	_	NOUN	NOUN	_	15	obj	_	_
 24	ta'	_	ADP	GEN	_	26	mark	_	_
-25	kif	_	PRON	PRON_INT	_	26	advmod	_	_
+25	kif	_	ADV	PRON_INT	_	26	advmod	_	_
 26	issir	_	VERB	VERB	_	23	acl	_	_
 27	kull	_	DET	QUAN	_	28	det	_	_
 28	lift	_	NOUN	NOUN	_	26	nsubj	_	SpaceAfter=No
@@ -178,7 +178,7 @@
 23	li	_	SCONJ	COMP	_	24	mark	_	_
 24	hemm	_	VERB	HEMM	_	22	ccomp	_	_
 25	ħafna	_	DET	QUAN	_	24	nsubj	_	_
-26	x'	_	PRON	PRON_INT	_	27	mark	_	SpaceAfter=No
+26	x'	_	PRON	PRON_INT	_	27	obj	_	SpaceAfter=No
 27	titgħallem	_	VERB	VERB	_	25	acl	_	_
 28	għalkemm	_	SCONJ	CONJ_SUB	_	31	mark	_	_
 29	it-	_	DET	DEF	_	30	det	_	SpaceAfter=No
@@ -200,7 +200,7 @@
 5	bdilt	_	VERB	VERB	_	0	root	_	_
 6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	ħsieb	_	NOUN	NOUN	_	5	obj	_	_
-8	tiegħi	_	PRON	GEN_PRON	_	7	case	_	_
+8	tiegħi	_	PRON	GEN_PRON	_	7	nmod:poss	_	_
 9	fuq	_	ADP	PREP	_	11	case	_	_
 10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
 11	Powerlifting	_	NOUN	NOUN	_	7	nmod	_	_
@@ -219,7 +219,7 @@
 
 # sent_id = 23_03J03:9
 # text = Kemm titħarreġ fil-Powerlifting?
-1	Kemm	_	PRON	PRON_INT	_	2	advmod	_	_
+1	Kemm	_	ADV	PRON_INT	_	2	advmod	_	_
 2	titħarreġ	_	VERB	VERB	_	0	root	_	_
 3	fil-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
 4	Powerlifting	_	NOUN	NOUN	_	2	obj	_	SpaceAfter=No
@@ -239,7 +239,7 @@
 10	ngħixu	_	VERB	VERB	_	7	acl	_	_
 11	fiha	_	PRON	PREP_PRON	_	10	obl	_	_
 12	llum	_	ADV	ADV	_	10	advmod	_	_
-13	ma	_	PART	NEG	_	14	aux:neg	_	_
+13	ma	_	PART	NEG	_	14	advmod:neg	_	_
 14	nistax	_	VERB	VERB	_	2	conj	_	SpaceAfter=No
 15	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
@@ -369,7 +369,7 @@
 18	intejjeb	_	VERB	VERB	_	16	xcomp	_	_
 19	it-	_	DET	DEF	_	20	det	_	SpaceAfter=No
 20	total	_	NOUN	NOUN	_	18	obj	_	_
-21	tiegħi	_	PRON	GEN_PRON	_	20	case	_	_
+21	tiegħi	_	PRON	GEN_PRON	_	20	nmod:poss	_	_
 22	minn	_	ADP	PREP	_	23	case	_	_
 23	kompetizzjoni	_	NOUN	NOUN	_	18	obl	_	_
 24	għal	_	ADP	PREP	_	25	case	_	_

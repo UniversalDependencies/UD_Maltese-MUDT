@@ -69,9 +69,9 @@
 22	Ħamrun	_	PROPN	NOUN_PROP	_	18	nmod	_	SpaceAfter=No
 23	,	_	PUNCT	X_PUN	_	7	punct	_	_
 24	li	_	SCONJ	COMP	_	26	mark	_	_
-25	ma	_	PART	NEG	_	26	aux:neg	_	_
+25	ma	_	PART	NEG	_	26	advmod:neg	_	_
 26	qablu	_	VERB	VERB	_	4	acl	_	_
-27	xejn	_	PRON	PRON_INDEF	_	26	advmod	_	_
+27	xejn	_	ADV	PRON_INDEF	_	26	advmod	_	_
 28	li	_	SCONJ	COMP	_	30	mark	_	_
 29	Jason	_	PROPN	NOUN_PROP	_	30	nsubj:pass	_	_
 30	jitpoġġa	_	VERB	VERB	_	26	ccomp	_	_
@@ -104,7 +104,7 @@
 8	dik	_	PRON	PRON_DEM	_	10	det	_	_
 9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
 10	parti	_	NOUN	NOUN	_	6	obl	_	_
-11	fejn	_	PRON	PRON_INT	_	15	advmod	_	_
+11	fejn	_	ADV	PRON_INT	_	15	advmod	_	_
 12	is-	_	DET	DEF	_	13	det	_	SpaceAfter=No
 13	siġġijiet	_	NOUN	NOUN	_	15	nsubj:pass	_	_
 14	kienu	_	AUX	KIEN	_	15	cop	_	_
@@ -192,7 +192,7 @@
 9	li	_	SCONJ	COMP	_	16	mark	_	SpaceAfter=No
 10	,	_	PUNCT	X_PUN	_	12	punct	_	_
 11	fl-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
-12	aħħar	_	NOUN	NOUN	_	16	advmod	_	_
+12	aħħar	_	NOUN	NOUN	_	16	obl	_	_
 13	mill-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
 14	aħħar	_	NOUN	NOUN	_	12	nmod	_	SpaceAfter=No
 15	,	_	PUNCT	X_PUN	_	12	punct	_	_
@@ -285,7 +285,7 @@
 2	Muscat	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 3	kien	_	AUX	KIEN	_	4	cop	_	_
 4	ippumpjat	_	VERB	PART_PASS	_	0	root	_	_
-5	ħafna	_	DET	QUAN	_	4	advmod	_	_
+5	ħafna	_	ADV	QUAN	_	4	advmod	_	_
 6	mill-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
 7	media	_	NOUN	NOUN	_	4	obl:agent	_	_
 8	laburista	_	ADJ	ADJ	_	7	amod	_	_
@@ -338,7 +338,7 @@
 17	li	_	SCONJ	COMP	_	19	mark	_	_
 18	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	mara	_	NOUN	NOUN	_	24	nsubj	_	_
-20	tiegħu	_	PRON	GEN_PRON	_	19	case	_	_
+20	tiegħu	_	PRON	GEN_PRON	_	19	nmod:poss	_	_
 21	kienet	_	AUX	KIEN	_	24	cop	_	_
 22	il-	_	DET	DEF	_	24	det	_	SpaceAfter=No
 23	Viċi	_	ADJ	ADJ	_	24	amod	_	_
@@ -350,7 +350,7 @@
 29	Mosta	_	PROPN	NOUN_PROP	_	26	nmod:poss	_	_
 30	u	_	CCONJ	CONJ_CORD	_	33	cc	_	_
 31	li	_	SCONJ	COMP	_	33	mark	_	_
-32	ma	_	PART	NEG	_	33	aux:neg	_	_
+32	ma	_	PART	NEG	_	33	advmod:neg	_	_
 33	tħallietx	_	VERB	VERB	_	24	acl	_	_
 34	toħroġ	_	VERB	VERB	_	33	xcomp	_	_
 35	għall-	_	ADP	PREP_DEF	_	36	case:det	_	SpaceAfter=No
@@ -375,7 +375,7 @@
 14	imbotta	_	VERB	VERB	_	12	acl	_	_
 15	t-	_	DET	DEF	_	16	det	_	SpaceAfter=No
 16	tim	_	NOUN	NOUN	_	14	obj	_	_
-17	tiegħu	_	PRON	GEN_PRON	_	16	case	_	_
+17	tiegħu	_	PRON	GEN_PRON	_	16	nmod:poss	_	_
 18	fl-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
 19	elezzjoni	_	NOUN	NOUN	_	14	obl	_	_
 20	tal-	_	ADP	GEN_DEF	_	21	case:det	_	SpaceAfter=No
@@ -409,7 +409,7 @@
 19	jtella'	_	VERB	VERB	_	18	xcomp	_	_
 20	tliet	_	NUM	NUM_CRD	_	21	nummod	_	_
 21	canvassers	_	NOUN	NOUN	_	19	obj	_	_
-22	tiegħu	_	PRON	GEN_PRON	_	21	case	_	_
+22	tiegħu	_	PRON	GEN_PRON	_	21	nmod:poss	_	_
 23	f'	_	ADP	PREP	_	26	case	_	SpaceAfter=No
 24	dan	_	PRON	PRON_DEM	_	26	det	_	_
 25	il-	_	DET	DEF	_	26	det	_	SpaceAfter=No
@@ -496,7 +496,7 @@
 9	tibqa'	_	VERB	VERB	_	0	root	_	_
 10	-	_	PUNCT	X_PUN	_	15	punct	_	_
 11	Allura	_	ADV	ADV	_	15	advmod	_	_
-12	għaliex	_	PRON	PRON_INT	_	15	advmod	_	_
+12	għaliex	_	ADV	PRON_INT	_	15	advmod	_	_
 13	Muscat	_	PROPN	NOUN_PROP	_	15	nsubj	_	_
 14	qed	_	AUX	PROG	_	15	aux:part	_	_
 15	ikollu	_	VERB	VERB_PSEU	_	9	ccomp	_	_

@@ -10,7 +10,7 @@
 8	it-	_	DET	DEF	_	10	det	_	SpaceAfter=No
 9	tieni	_	NUM	NUM_ORD	_	10	amod	_	_
 10	lejl	_	NOUN	NOUN	_	7	obj	_	_
-11	tagħhom	_	PRON	GEN_PRON	_	10	case	_	_
+11	tagħhom	_	PRON	GEN_PRON	_	10	nmod:poss	_	_
 12	barra	_	ADV	ADV	_	7	advmod	_	_
 13	wara	_	ADP	PREP	_	15	case	_	_
 14	t-	_	DET	DEF	_	15	det	_	SpaceAfter=No
@@ -90,8 +90,8 @@
 11	pajjiżi	_	NOUN	NOUN	_	7	obl	_	_
 12	barranin	_	ADJ	ADJ	_	11	amod	_	_
 13	għat-	_	ADP	PREP_DEF	_	16	case	_	SpaceAfter=No
-14	tliet	_	NUM	NUM_CRD	_	16	nummod	_	_
-15	miljun	_	NOUN	NOUN	_	16	nummod	_	_
+14	tliet	_	NUM	NUM_CRD	_	15	compound	_	_
+15	miljun	_	NUM	NOUN	_	16	nummod	_	_
 16	persuna	_	NOUN	NOUN	_	8	nmod	_	_
 17	li	_	SCONJ	COMP	_	19	mark	_	_
 18	hu	_	PRON	PRON_PERS	_	19	expl	_	_
@@ -164,7 +164,7 @@
 13	jagħti	_	VERB	VERB	_	8	xcomp	_	_
 14	d-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 15	donazzjonijiet	_	NOUN	NOUN	_	13	obj	_	_
-16	tiegħu	_	PRON	GEN_PRON	_	15	case	_	_
+16	tiegħu	_	PRON	GEN_PRON	_	15	nmod:poss	_	_
 17	permezz	_	NOUN	NOUN	_	19	case	_	_
 18	ta'	_	ADP	GEN	_	17	fixed	_	_
 19	kontijiet	_	NOUN	NOUN	_	13	obl	_	_
@@ -240,7 +240,7 @@
 7	se	_	AUX	FUT	_	8	aux:part	_	_
 8	jinġabru	_	VERB	VERB	_	1	acl	_	_
 9	se	_	AUX	FUT	_	11	aux:part	_	_
-10	jiġu	_	VERB	VERB	_	11	aux:pass	_	_
+10	jiġu	_	AUX	VERB	_	11	aux:pass	_	_
 11	komunikati	_	VERB	PART_PASS	_	0	root	_	_
 12	aktar	_	ADV	ADV	_	13	advmod	_	_
 13	tard	_	ADV	ADV	_	11	advmod	_	SpaceAfter=No
@@ -280,7 +280,7 @@
 12	taw	_	VERB	VERB	_	0	root	_	_
 13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
 14	approvazzjoni	_	NOUN	NOUN	_	12	obj	_	_
-15	tagħhom	_	PRON	GEN_PRON	_	14	case	_	_
+15	tagħhom	_	PRON	GEN_PRON	_	14	nmod:poss	_	_
 16	għal	_	ADP	PREP	_	19	case	_	_
 17	din	_	PRON	PRON_DEM	_	19	det	_	_
 18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No

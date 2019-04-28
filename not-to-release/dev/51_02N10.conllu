@@ -99,14 +99,14 @@
 1	Harman	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
 2	ried	_	VERB	VERB	_	0	root	_	_
 3	jissellef	_	VERB	VERB	_	2	xcomp	_	_
-4	£	_	PUNCT	X_PUN	_	3	obj	_	_
+4	£	_	SYM	X_PUN	_	3	obj	_	_
 5	220,000	_	NUM	X_DIG	_	4	nummod	_	_
 6	biex	_	SCONJ	CONJ_SUB	_	7	mark	_	_
 7	jagħti	_	VERB	VERB	_	3	advcl	_	_
 8	bidu	_	NOUN	NOUN	_	7	compound	_	_
 9	għall-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
 10	ħsieb	_	NOUN	NOUN	_	7	obl:arg	_	_
-11	tiegħu	_	PRON	GEN_PRON	_	10	case	_	SpaceAfter=No
+11	tiegħu	_	PRON	GEN_PRON	_	10	nmod:poss	_	SpaceAfter=No
 12	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 51_02N10:6
@@ -116,7 +116,7 @@
 3	ta'	_	ADP	GEN	_	5	case	_	_
 4	Lord	_	PROPN	NOUN_PROP	_	5	compound	_	_
 5	Strickland	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
-6	ma	_	PART	NEG	_	7	aux:neg	_	_
+6	ma	_	PART	NEG	_	7	advmod:neg	_	_
 7	riedx	_	VERB	VERB	_	0	root	_	_
 8	jissogra	_	VERB	VERB	_	7	xcomp	_	_
 9	dak	_	PRON	PRON_DEM	_	11	det	_	_
@@ -152,7 +152,7 @@
 4	min	_	PRON	PRON_INT	_	2	nsubj	_	_
 5	irraġuna	_	VERB	VERB	_	4	acl	_	_
 6	li	_	SCONJ	COMP	_	9	mark	_	_
-7	ftit	_	DET	QUAN	_	9	advmod	_	_
+7	ftit	_	ADV	QUAN	_	9	advmod	_	_
 8	kien	_	AUX	KIEN	_	9	aux	_	_
 9	jagħmel	_	VERB	VERB	_	5	ccomp	_	_
 10	sens	_	NOUN	NOUN	_	9	compound	_	_
@@ -184,7 +184,7 @@
 7	ta'	_	ADP	GEN	_	8	case	_	_
 8	Grisewood	_	PROPN	NOUN_PROP	_	6	nmod:poss	_	_
 9	qatt	_	ADV	ADV	_	11	advmod	_	_
-10	ma	_	PART	NEG	_	11	aux:neg	_	_
+10	ma	_	PART	NEG	_	11	advmod:neg	_	_
 11	seħħ	_	VERB	VERB	_	0	root	_	SpaceAfter=No
 12	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
@@ -254,7 +254,7 @@
 # sent_id = 51_02N10:11
 # text = Dawn la kellhom qraba u lanqas ħbieb f'Malta u lanqas ma kellhom lil xi ħadd lest biex jaċċettahom fl-artijiet fejn kienu qed imorru l-Maltin.
 1	Dawn	_	PRON	PRON_DEM	_	3	nsubj	_	_
-2	la	_	PART	NEG	_	3	aux:neg	_	_
+2	la	_	PART	NEG	_	3	advmod:neg	_	_
 3	kellhom	_	VERB	VERB_PSEU	_	0	root	_	_
 4	qraba	_	NOUN	NOUN	_	3	obj	_	_
 5	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
@@ -264,7 +264,7 @@
 9	Malta	_	PROPN	NOUN_PROP	_	3	obl	_	_
 10	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 11	lanqas	_	ADV	FOC	_	13	discourse	_	_
-12	ma	_	PART	NEG	_	13	aux:neg	_	_
+12	ma	_	PART	NEG	_	13	advmod:neg	_	_
 13	kellhom	_	VERB	VERB_PSEU	_	3	conj	_	_
 14	lil	_	ADP	LIL	_	16	case	_	_
 15	xi	_	DET	QUAN	_	16	det	_	_
@@ -274,7 +274,7 @@
 19	jaċċettahom	_	VERB	VERB	_	17	xcomp	_	_
 20	fl-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
 21	artijiet	_	NOUN	NOUN	_	19	obl	_	_
-22	fejn	_	PRON	PRON_INT	_	25	advmod	_	_
+22	fejn	_	ADV	PRON_INT	_	25	advmod	_	_
 23	kienu	_	AUX	KIEN	_	25	aux	_	_
 24	qed	_	AUX	PROG	_	25	aux:part	_	_
 25	imorru	_	VERB	VERB	_	21	acl	_	_
@@ -302,7 +302,7 @@
 16	parti	_	NOUN	NOUN	_	20	nsubj	_	_
 17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	kbira	_	ADJ	ADJ	_	16	amod	_	_
-19	tagħhom	_	PRON	GEN_PRON	_	16	case	_	_
+19	tagħhom	_	PRON	GEN_PRON	_	16	nmod:poss	_	_
 20	baqgħu	_	VERB	VERB	_	2	conj	_	_
 21	f'	_	ADP	PREP	_	22	case	_	SpaceAfter=No
 22	Ċipru	_	PROPN	NOUN_PROP	_	20	obl	_	SpaceAfter=No
@@ -372,7 +372,7 @@
 5	komplew	_	VERB	VERB	_	3	acl	_	_
 6	bil-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
 7	ħajja	_	NOUN	NOUN	_	5	obl:arg	_	_
-8	tagħhom	_	PRON	GEN_PRON	_	7	case	_	_
+8	tagħhom	_	PRON	GEN_PRON	_	7	nmod:poss	_	_
 9	taħt	_	ADP	PREP	_	11	case	_	_
 10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
 11	Griegi	_	NOUN	NOUN	_	5	obl	_	SpaceAfter=No
@@ -483,7 +483,7 @@
 1	Żammew	_	VERB	VERB	_	0	root	_	_
 2	r-	_	DET	DEF	_	3	det	_	SpaceAfter=No
 3	reliġjon	_	NOUN	NOUN	_	1	obj	_	_
-4	tagħhom	_	PRON	GEN_PRON	_	3	case	_	_
+4	tagħhom	_	PRON	GEN_PRON	_	3	nmod:poss	_	_
 5	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
 6	r-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	rabta	_	NOUN	NOUN	_	3	conj	_	_
@@ -544,7 +544,7 @@
 5	distrett	_	NOUN	NOUN	_	3	obl	_	_
 6	ta'	_	ADP	GEN	_	7	case	_	_
 7	Galata	_	PROPN	NOUN_PROP	_	5	nmod:poss	_	_
-8	fejn	_	PRON	PRON_INT	_	10	advmod	_	_
+8	fejn	_	ADV	PRON_INT	_	10	advmod	_	_
 9	kienu	_	AUX	KIEN	_	10	aux	_	_
 10	jinġabru	_	VERB	VERB	_	5	acl	_	_
 11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
@@ -694,7 +694,7 @@
 23	impossibbli	_	ADJ	ADJ	_	20	amod	_	_
 24	għal	_	ADP	PREP	_	25	case	_	_
 25	min	_	PRON	PRON_INT	_	19	obl	_	_
-26	ma	_	PART	NEG	_	28	aux:neg	_	_
+26	ma	_	PART	NEG	_	28	advmod:neg	_	_
 27	kienx	_	AUX	KIEN	_	28	cop	_	_
 28	ċittadin	_	NOUN	NOUN	_	25	acl	_	_
 29	Tork	_	ADJ	ADJ	_	28	amod	_	_
@@ -716,7 +716,7 @@
 7	taħt	_	ADP	PREP	_	9	case	_	_
 8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	ħarsien	_	NOUN	NOUN	_	6	obl	_	_
-10	tiegħu	_	PRON	GEN_PRON	_	9	case	_	_
+10	tiegħu	_	PRON	GEN_PRON	_	9	nmod:poss	_	_
 11	seba'	_	NUM	NUM_CRD	_	13	nummod	_	_
 12	mitt	_	NUM	NUM_CRD	_	13	nummod	_	_
 13	persuna	_	NOUN	NOUN	_	6	obj	_	_
@@ -737,7 +737,7 @@
 # sent_id = 51_02N10:33
 # text = Dawn ġew megħjuna biex jemigraw lejn pajjiżi oħra.
 1	Dawn	_	PRON	PRON_DEM	_	3	nsubj:pass	_	_
-2	ġew	_	VERB	VERB	_	3	aux:pass	_	_
+2	ġew	_	AUX	VERB	_	3	aux:pass	_	_
 3	megħjuna	_	VERB	PART_PASS	_	0	root	_	_
 4	biex	_	SCONJ	CONJ_SUB	_	5	mark	_	_
 5	jemigraw	_	VERB	VERB	_	3	xcomp	_	_

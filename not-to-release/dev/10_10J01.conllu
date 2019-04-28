@@ -33,7 +33,7 @@
 3	ifisser	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	7	mark	_	_
 5	Għawdex	_	PROPN	NOUN_PROP	_	7	nsubj	_	_
-6	ma	_	PART	NEG	_	7	aux:neg	_	_
+6	ma	_	PART	NEG	_	7	advmod:neg	_	_
 7	jibqax	_	VERB	VERB	_	3	ccomp	_	_
 8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
 9	popolazzjoni	_	NOUN	NOUN	_	7	obl	_	_
@@ -118,7 +118,7 @@
 6	,	_	PUNCT	X_PUN	_	5	punct	_	_
 7	"	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
 8	Għawdex	_	PROPN	NOUN_PROP	_	10	nsubj:pass	_	_
-9	ma	_	PART	NEG	_	10	aux:neg	_	_
+9	ma	_	PART	NEG	_	10	advmod:neg	_	_
 10	jibqax	_	VERB	VERB	_	0	root	_	_
 11	żvantaġġjat	_	VERB	PART_PASS	_	10	xcomp	_	_
 12	mill-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
@@ -152,11 +152,11 @@
 21	biex	_	SCONJ	CONJ_SUB	_	25	mark	_	_
 22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
 23	Għawdxin	_	NOUN	NOUN	_	25	nsubj	_	_
-24	ma	_	PART	NEG	_	25	aux:neg	_	_
+24	ma	_	PART	NEG	_	25	advmod:neg	_	_
 25	jibqax	_	VERB	VERB	_	13	conj	_	_
 26	ikollhom	_	VERB	VERB_PSEU	_	25	xcomp	_	_
 27	raġuni	_	NOUN	NOUN	_	26	obj	_	_
-28	għalfejn	_	PRON	PRON_INT	_	29	advmod	_	_
+28	għalfejn	_	ADV	PRON_INT	_	29	advmod	_	_
 29	jirrilokaw	_	VERB	VERB	_	27	acl	_	_
 30	f'	_	ADP	PREP	_	31	case	_	SpaceAfter=No
 31	Malta	_	PROPN	NOUN_PROP	_	29	obl	_	SpaceAfter=No
@@ -193,7 +193,7 @@
 
 # sent_id = 10_10J01:8
 # text = Kien f'Jannar li għadda li l-proġett tal-mina ta' taħt il-baħar bejn Għawdex u Malta ħareġ mill-ġdid fil-beraħ wara suġġeriment li għamel l-eks ċermen tal-kumpanija Gozo Channel Joe Borg waqt żjara li l-Prim Ministru Dr Lawrence Gonzi għamel fil-fabbrika tiegħu, biex il-Gvern jibni "triq permanenti" bejn iż-żewġ gżejjer.
-1	Kien	_	AUX	KIEN	_	3	expl	_	_
+1	Kien	_	AUX	KIEN	_	3	cop:expl	_	_
 2	f'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
 3	Jannar	_	PROPN	NOUN_PROP	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	5	mark	_	_
@@ -241,7 +241,7 @@
 46	għamel	_	VERB	VERB	_	38	acl	_	_
 47	fil-	_	ADP	PREP_DEF	_	48	case:det	_	SpaceAfter=No
 48	fabbrika	_	NOUN	NOUN	_	46	obl	_	_
-49	tiegħu	_	PRON	GEN_PRON	_	48	case	_	SpaceAfter=No
+49	tiegħu	_	PRON	GEN_PRON	_	48	nmod:poss	_	SpaceAfter=No
 50	,	_	PUNCT	X_PUN	_	46	punct	_	_
 51	biex	_	SCONJ	CONJ_SUB	_	54	mark	_	_
 52	il-	_	DET	DEF	_	53	det	_	SpaceAfter=No
@@ -289,17 +289,17 @@
 28	għandu	_	VERB	VERB_PSEU	_	18	ccomp	_	_
 29	jiġi	_	VERB	VERB	_	28	xcomp	_	_
 30	jiswa	_	VERB	VERB	_	29	xcomp	_	_
-31	madwar	_	ADP	PREP	_	32	advmod	_	_
-32	€	_	PUNCT	X_PUN	_	30	obj	_	_
+31	madwar	_	ADP	PREP	_	32	case	_	_
+32	€	_	SYM	X_PUN	_	30	obj	_	_
 33	150	_	NUM	X_DIG	_	34	compound	_	_
-34	miljun	_	NOUN	NOUN	_	32	nummod	_	SpaceAfter=No
+34	miljun	_	NUM	NOUN	_	32	nummod	_	SpaceAfter=No
 35	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 # sent_id = 10_10J01:10
 # text = Mistoqsi dwar fejn wasal l-istudju li kellu jibda rigward il-possibbilità li tinbena din it-tunnel bejn Malta u Għawdex, il-kelliem għas-Segretarjat qal li Dr Chris Said kien ilu jiddiskuti din l-idea għal diversi xhur ma' għadd ta' imprendituri Għawdxin, membri tal-Gozo Business Chamber.
 1	Mistoqsi	_	VERB	PART_PASS	_	27	advcl	_	_
 2	dwar	_	ADP	PREP	_	4	mark	_	_
-3	fejn	_	PRON	PRON_INT	_	4	advmod	_	_
+3	fejn	_	ADV	PRON_INT	_	4	advmod	_	_
 4	wasal	_	VERB	VERB	_	1	ccomp	_	_
 5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
 6	istudju	_	NOUN	NOUN	_	4	nsubj	_	_
@@ -527,7 +527,7 @@
 14	għandu	_	VERB	VERB_PSEU	_	11	acl	_	_
 15	jidentifika	_	VERB	VERB	_	14	xcomp	_	_
 16	metodi	_	NOUN	NOUN	_	15	obj	_	_
-17	kif	_	PRON	PRON_INT	_	21	advmod	_	_
+17	kif	_	ADV	PRON_INT	_	21	advmod	_	_
 18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
 19	Gozo	_	PROPN	NOUN_PROP	_	21	nsubj	_	_
 20	Channel	_	NOUN	NOUN	_	19	flat:name	_	_
@@ -546,7 +546,7 @@
 2	li	_	SCONJ	COMP	_	6	mark	_	_
 3	t-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	tunnel	_	NOUN	NOUN	_	6	nsubj	_	_
-5	m'	_	PART	NEG	_	6	aux:neg	_	SpaceAfter=No
+5	m'	_	PART	NEG	_	6	advmod:neg	_	SpaceAfter=No
 6	għandux	_	VERB	VERB_PSEU	_	1	ccomp	_	_
 7	jitqies	_	VERB	VERB	_	6	xcomp	_	_
 8	bħala	_	ADP	PREP	_	9	case	_	_
@@ -643,7 +643,7 @@
 27	jagħtu	_	VERB	VERB	_	26	xcomp	_	_
 28	indikazzjoni	_	NOUN	NOUN	_	27	obj	_	_
 29	ta'	_	ADP	GEN	_	31	mark	_	_
-30	kemm	_	PRON	PRON_INT	_	31	advmod	_	_
+30	kemm	_	ADV	PRON_INT	_	31	advmod	_	_
 31	jiswew	_	VERB	VERB	_	28	acl	_	_
 32	dawn	_	PRON	PRON_DEM	_	34	det	_	_
 33	it-	_	DET	DEF	_	34	det	_	SpaceAfter=No
@@ -720,7 +720,7 @@
 20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
 21	baħar	_	NOUN	NOUN	_	19	nmod:poss	_	_
 22	innifsu	_	PRON	PRON_REF	_	19	nmod	_	_
-23	mhux	_	PART	PRON_PERS_NEG	_	25	aux:neg	_	_
+23	mhux	_	AUX	PRON_PERS_NEG	_	25	aux:neg	_	_
 24	se	_	AUX	FUT	_	25	aux:part	_	_
 25	jintmiss	_	VERB	VERB	_	12	conj	_	SpaceAfter=No
 26	.	_	PUNCT	X_PUN	_	2	punct	_	_
@@ -732,7 +732,7 @@
 2	jgħid	_	VERB	VERB	_	1	xcomp	_	_
 3	li	_	SCONJ	COMP	_	6	mark	_	_
 4	għaldaqstant	_	ADV	ADV	_	6	advmod	_	_
-5	mhux	_	PART	PRON_PERS_NEG	_	6	aux:neg	_	_
+5	mhux	_	AUX	PRON_PERS_NEG	_	6	aux:neg	_	_
 6	mistenni	_	VERB	PART_PASS	_	2	ccomp	_	_
 7	li	_	SCONJ	COMP	_	9	mark	_	_
 8	jkun	_	AUX	KIEN	_	9	aux	_	_
@@ -759,7 +759,7 @@
 3	li	_	SCONJ	COMP	_	5	mark	_	_
 4	dan	_	PRON	PRON_DEM	_	5	nsubj:pass	_	_
 5	jista'	_	VERB	VERB	_	2	ccomp	_	_
-6	jiġi	_	VERB	VERB	_	7	aux:pass	_	_
+6	jiġi	_	AUX	VERB	_	7	aux:pass	_	_
 7	stabbilit	_	VERB	PART_PASS	_	5	xcomp	_	_
 8	biss	_	ADV	FOC	_	10	discourse	_	_
 9	meta	_	SCONJ	CONJ_SUB	_	10	mark	_	_

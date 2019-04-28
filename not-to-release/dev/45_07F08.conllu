@@ -56,7 +56,7 @@
 16	swied	_	NOUN	NOUN	_	14	obj	_	_
 17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
 18	qalb	_	NOUN	NOUN	_	16	nmod:poss	_	_
-19	tiegħu	_	PRON	GEN_PRON	_	18	case	_	SpaceAfter=No
+19	tiegħu	_	PRON	GEN_PRON	_	18	nmod:poss	_	SpaceAfter=No
 20	.	_	PUNCT	X_PUN	_	14	punct	_	_
 
 # sent_id = 45_07F09:7
@@ -124,7 +124,7 @@
 19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
 20	istorja	_	NOUN	NOUN	_	18	obj	_	_
 21	partikolari	_	ADJ	ADJ	_	20	amod	_	_
-22	tiegħu	_	PRON	GEN_PRON	_	20	case	_	SpaceAfter=No
+22	tiegħu	_	PRON	GEN_PRON	_	20	nmod:poss	_	SpaceAfter=No
 23	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 # sent_id = 45_07F09:9
@@ -301,7 +301,7 @@
 29	frażijiet	_	NOUN	NOUN	_	14	conj	_	_
 30	oħra	_	ADJ	ADJ	_	29	amod	_	_
 31	li	_	SCONJ	COMP	_	35	mark	_	_
-32	mhux	_	PART	PRON_PERS_NEG	_	35	aux:neg	_	_
+32	mhux	_	AUX	PRON_PERS_NEG	_	35	aux:neg	_	_
 33	ta'	_	ADP	GEN	_	34	case	_	_
 34	min	_	PRON	PRON_INT	_	35	nsubj	_	_
 35	isemmihom	_	VERB	VERB	_	29	acl	_	_
@@ -353,11 +353,11 @@
 5	li	_	SCONJ	COMP	_	7	mark	_	_
 6	kienu	_	AUX	KIEN	_	7	aux	_	_
 7	għadhom	_	VERB	VERB_PSEU	_	4	acl	_	_
-8	kemm	_	PRON	PRON_INT	_	9	advmod	_	_
+8	kemm	_	ADV	PRON_INT	_	9	advmod	_	_
 9	semgħu	_	VERB	VERB	_	7	xcomp	_	_
-10	ma	_	PART	NEG	_	12	aux:neg	_	_
+10	ma	_	PART	NEG	_	12	advmod:neg	_	_
 11	kienet	_	AUX	KIEN	_	12	aux	_	_
 12	swiet	_	VERB	VERB	_	1	ccomp	_	_
-13	għalxejn	_	PRON	PRON_INDEF	_	12	advmod	_	SpaceAfter=No
+13	għalxejn	_	ADV	PRON_INDEF	_	12	advmod	_	SpaceAfter=No
 14	.	_	PUNCT	X_PUN	_	1	punct	_	_
 

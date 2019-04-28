@@ -1,6 +1,6 @@
 # sent_id = 40_02F08:1
 # text = MA KINITX KELMA
-1	MA	_	PART	NEG	_	3	aux:neg	_	_
+1	MA	_	PART	NEG	_	3	advmod:neg	_	_
 2	KINITX	_	AUX	KIEN	_	3	cop	_	_
 3	KELMA	_	NOUN	NOUN	_	0	root	_	_
 
@@ -35,7 +35,7 @@
 2	,	_	PUNCT	X_PUN	_	1	punct	_	_
 3	jinfixel	_	VERB	VERB	_	1	conj	_	_
 4	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
-5	ma	_	PART	NEG	_	6	aux:neg	_	_
+5	ma	_	PART	NEG	_	6	advmod:neg	_	_
 6	jsibx	_	VERB	VERB	_	1	conj	_	_
 7	kliem	_	NOUN	NOUN	_	6	obj	_	_
 8	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
@@ -48,7 +48,7 @@
 2	kien	_	AUX	KIEN	_	3	aux	_	_
 3	drah	_	VERB	VERB	_	0	root	_	_
 4	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
-5	mhux	_	PART	PRON_PERS_NEG	_	8	aux:neg	_	_
+5	mhux	_	AUX	PRON_PERS_NEG	_	8	aux:neg	_	_
 6	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 7	ewwel	_	NUM	NUM_ORD	_	8	amod	_	_
 8	darba	_	NOUN	NOUN	_	3	conj	_	_
@@ -100,12 +100,12 @@
 7	kien	_	AUX	KIEN	_	9	aux	_	_
 8	qed	_	AUX	PROG	_	9	aux:part	_	_
 9	jaqbad	_	VERB	VERB	_	3	conj	_	_
-10	ġmielu	_	NOUN	NOUN	_	9	advmod	_	SpaceAfter=No
+10	ġmielu	_	NOUN	NOUN	_	9	obl	_	SpaceAfter=No
 11	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 40_02F08:9
 # text = Darba kellu bżonn imur ma' missieru fuq qadja.
-1	Darba	_	NOUN	NOUN	_	2	advmod	_	_
+1	Darba	_	NOUN	NOUN	_	2	obl	_	_
 2	kellu	_	VERB	VERB_PSEU	_	0	root	_	_
 3	bżonn	_	NOUN	NOUN	_	2	compound	_	_
 4	imur	_	VERB	VERB	_	2	xcomp	_	_
@@ -127,14 +127,14 @@
 8	qrib	_	ADP	PREP	_	10	case	_	_
 9	iz-	_	DET	DEF	_	10	det	_	SpaceAfter=No
 10	zuntier	_	NOUN	NOUN	_	7	obl	_	_
-11	fejn	_	PRON	PRON_INT	_	15	advmod	_	_
+11	fejn	_	ADV	PRON_INT	_	15	advmod	_	_
 12	bħas-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
 13	soltu	_	NOUN	NOUN	_	15	obl	_	_
 14	kien	_	AUX	KIEN	_	15	aux	_	_
 15	hemm	_	VERB	HEMM	_	10	acl	_	_
 16	dawk	_	PRON	PRON_DEM	_	15	nsubj	_	_
 17	li	_	SCONJ	COMP	_	19	mark	_	_
-18	m'	_	PART	NEG	_	19	aux:neg	_	SpaceAfter=No
+18	m'	_	PART	NEG	_	19	advmod:neg	_	SpaceAfter=No
 19	għandhomx	_	VERB	VERB_PSEU	_	16	acl	_	_
 20	x'	_	PRON	PRON_INT	_	19	obj	_	SpaceAfter=No
 21	jagħmlu	_	VERB	VERB	_	20	acl	_	_
@@ -153,7 +153,7 @@
 5	ifisser	_	VERB	VERB	_	0	root	_	_
 6	lil	_	ADP	LIL	_	7	case	_	_
 7	missieru	_	NOUN	NOUN	_	5	iobj	_	_
-8	kemm	_	PRON	PRON_INT	_	9	advmod	_	_
+8	kemm	_	ADV	PRON_INT	_	9	advmod	_	_
 9	tgħallem	_	VERB	VERB	_	5	xcomp	_	_
 10	bit-	_	ADP	PREP_DEF	_	11	case	_	SpaceAfter=No
 11	Taljan	_	NOUN	NOUN	_	9	obl:arg	_	SpaceAfter=No
@@ -186,7 +186,7 @@
 5	juri	_	VERB	VERB	_	14	advcl	_	_
 6	lil	_	ADP	LIL	_	7	case	_	_
 7	missieru	_	NOUN	NOUN	_	5	iobj	_	_
-8	kemm	_	PRON	PRON_INT	_	9	advmod	_	_
+8	kemm	_	ADV	PRON_INT	_	9	advmod	_	_
 9	tgħallem	_	VERB	VERB	_	5	xcomp	_	_
 10	kliem	_	NOUN	NOUN	_	9	obj	_	_
 11	bit-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
@@ -290,7 +290,7 @@
 
 # sent_id = 40_02F08:19
 # text = Mhux lil missierek tgħidha hekk imma! "
-1	Mhux	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
+1	Mhux	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
 2	lil	_	ADP	LIL	_	3	case	_	_
 3	missierek	_	NOUN	NOUN	_	4	iobj	_	_
 4	tgħidha	_	VERB	VERB	_	0	root	_	_
@@ -311,10 +311,10 @@
 8	it-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	tifel	_	NOUN	NOUN	_	12	nsubj	_	_
 10	qatt	_	ADV	ADV	_	12	advmod	_	_
-11	ma	_	PART	NEG	_	12	aux:neg	_	_
+11	ma	_	PART	NEG	_	12	advmod:neg	_	_
 12	wera	_	VERB	VERB	_	0	root	_	_
 13	aktar	_	ADV	ADV	_	12	advmod	_	_
-14	kemm	_	PRON	PRON_INT	_	16	advmod	_	_
+14	kemm	_	ADV	PRON_INT	_	16	advmod	_	_
 15	kien	_	AUX	KIEN	_	16	aux	_	_
 16	tgħallem	_	VERB	VERB	_	12	xcomp	_	_
 17	bit-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No

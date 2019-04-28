@@ -44,11 +44,31 @@ The original treebank was annotated according to UDv1, this version was automati
 - all ToDo items were checked manually and fixed wherever necessary
 - all validation errors were fixed manually
 
-# To do (status as of 2018-10-11)
+
+̥# Update to UDv2.4
+With the introduction of stricter checks, the following updates to UPOS, XPOS and relations were implemented:
+- New relations:
+-- XPOS NEG ("ma") is now advmod:neg with UPOS ADV; same goes for XPOS FOC "lanqas" when negating a verbal clause
+-- in non-copular verbless clauses (Čéplö 2018: 104-108), XPOS KIEN that takes the place of the expletive pronoun is now attached as cop:expl
+- XPOS GEN_DEF (possessive pronouns) is now attached as nmod:poss (previously case)
+- XPOS PRON_PERS_NEG (negated personal pronouns which function as negators in copular and verbal clauses) is now aux:neg with UPOS AUX
+- in the same vein, interrogative pronouns "hux", "hix" etc. now have UPOS AUX as well
+- all tokens that are used as auxiliaries (XPOS KIEN, "għad" and "tantx") now have UPOS AUX
+- XPOS PRON_INT when used as advmod now have UPOS ADV
+- XPOS PRON_INT "kemm" and "kif" that function as coordinating conjunctions ("kemm ... kif", "kif ukoll") now have UPOS CCONJ
+- XPOS ADJ "ċertu/-a/i" and "iktar" modifying nouns are now attached as amod (previously det)
+- XPOS NUM_WHD when modifying nouns is now attached as nummod (previously det)
+- numerals like "miljun" attached as nummod now have UPOS NUM (previously NOUN)
+- "kemm-il" is now attached as det (previously nummod)
+- currency symbols and mathematical symbols now have UPOS SYM (previously PUNCT)
+
+
+# To do (status as of 2019-05-01)
 - doublecheck SpaceAfter=No in general, for \' and \" and in particular
 - doublecheck the attachment of ADPs to compounds
 - doublecheck nmods attached to a non-verbal predicate
 - doublecheck flats with X_ENG
+- doublecheck "ċertu/-a/i" and "iktar" and other candidates for determiners
 
 
 # Changelog
@@ -60,6 +80,8 @@ The original treebank was annotated according to UDv1, this version was automati
 	* Added the files converted to UDv2 (see above), updated README
 * 2018-11-08
 	* Changed the train-test-dev split per official guidelines, updated README accordingly; fixed tokenization errors
+* 2019-05-01
+	* Updated to UDv2.4, updated readme
 
 ## References
 **(Čéplö 2018)** Slavomír Čéplö. (2018) [Constituent order in Maltese: A quantitative analysis](http://www.bulbul.sk/phd/Text/Slavomir_Ceplo-text.pdf). Prague: Charles University.

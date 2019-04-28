@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>2074</sentences><tokens>44162</tokens><words>44162</words><fused>0</fused></total>
+    <train><sentences>1123</sentences><tokens>22880</tokens><words>22880</words><fused>0</fused></train>
+    <dev><sentences>433</sentences><tokens>10209</tokens><words>10209</words><fused>0</fused></dev>
+    <test><sentences>518</sentences><tokens>11073</tokens><words>11073</words><fused>0</fused></test>
   </size>
   <lemmas unique="0" /><!--  -->
   <forms unique="7813" /><!-- ., li, ,, l-, u, il-, ta', tal-, ", ma, kien, fil-, f', biex, minn -->
@@ -13,69 +16,71 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">2313</tag><!-- _ -->
-    <tag name="ADP">5374</tag><!-- _ -->
-    <tag name="ADV">1492</tag><!-- _ -->
-    <tag name="AUX">1427</tag><!-- _ -->
-    <tag name="CCONJ">1513</tag><!-- _ -->
-    <tag name="DET">3631</tag><!-- _ -->
+    <tag name="ADP">5370</tag><!-- _ -->
+    <tag name="ADV">1788</tag><!-- _ -->
+    <tag name="AUX">1684</tag><!-- _ -->
+    <tag name="CCONJ">1525</tag><!-- _ -->
+    <tag name="DET">3602</tag><!-- _ -->
     <tag name="INTJ">65</tag><!-- _ -->
-    <tag name="NOUN">8530</tag><!-- _ -->
-    <tag name="NUM">596</tag><!-- _ -->
-    <tag name="PART">624</tag><!-- _ -->
-    <tag name="PRON">2602</tag><!-- _ -->
+    <tag name="NOUN">8526</tag><!-- _ -->
+    <tag name="NUM">600</tag><!-- _ -->
+    <tag name="PART">479</tag><!-- _ -->
+    <tag name="PRON">2323</tag><!-- _ -->
     <tag name="PROPN">1545</tag><!-- _ -->
-    <tag name="PUNCT">4839</tag><!-- _ -->
-    <tag name="SCONJ">2650</tag><!-- _ -->
-    <tag name="SYM">131</tag><!-- _ -->
-    <tag name="VERB">6489</tag><!-- _ -->
-    <tag name="X">341</tag><!-- _ -->
+    <tag name="PUNCT">4729</tag><!-- _ -->
+    <tag name="SCONJ">2647</tag><!-- _ -->
+    <tag name="SYM">241</tag><!-- _ -->
+    <tag name="VERB">6386</tag><!-- _ -->
+    <tag name="X">339</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="45">
+  <deps unique="47">
     <dep name="acl">1317</dep>
     <dep name="advcl">844</dep>
-    <dep name="advmod">1397</dep>
-    <dep name="amod">2061</dep>
+    <dep name="advmod">1390</dep>
+    <dep name="advmod:neg">475</dep>
+    <dep name="amod">2069</dep>
     <dep name="appos">169</dep>
     <dep name="aux">647</dep>
-    <dep name="aux:neg">624</dep>
+    <dep name="aux:neg">148</dep>
     <dep name="aux:part">354</dep>
     <dep name="aux:pass">86</dep>
-    <dep name="case">3156</dep>
-    <dep name="case:det">2375</dep>
+    <dep name="case">2875</dep>
+    <dep name="case:det">2378</dep>
     <dep name="cc">1527</dep>
     <dep name="ccomp">684</dep>
-    <dep name="compound">214</dep>
-    <dep name="conj">1748</dep>
+    <dep name="compound">215</dep>
+    <dep name="conj">1746</dep>
     <dep name="cop">661</dep>
+    <dep name="cop:expl">9</dep>
     <dep name="csubj">23</dep>
-    <dep name="dep">2</dep>
-    <dep name="det">3983</dep>
+    <dep name="dep">4</dep>
+    <dep name="det">3949</dep>
     <dep name="discourse">312</dep>
-    <dep name="dislocated">9</dep>
-    <dep name="expl">21</dep>
+    <dep name="dislocated">10</dep>
+    <dep name="expl">12</dep>
     <dep name="fixed">188</dep>
-    <dep name="flat">196</dep>
+    <dep name="flat">200</dep>
     <dep name="flat:name">529</dep>
-    <dep name="goeswith">11</dep>
+    <dep name="goeswith">5</dep>
     <dep name="iobj">77</dep>
-    <dep name="list">178</dep>
-    <dep name="mark">2670</dep>
-    <dep name="nmod">959</dep>
-    <dep name="nmod:poss">1601</dep>
-    <dep name="nsubj">2215</dep>
+    <dep name="list">238</dep>
+    <dep name="mark">2663</dep>
+    <dep name="nmod">962</dep>
+    <dep name="nmod:poss">1872</dep>
+    <dep name="nsubj">2223</dep>
     <dep name="nsubj:pass">215</dep>
-    <dep name="nummod">226</dep>
-    <dep name="obj">1617</dep>
-    <dep name="obl">2407</dep>
+    <dep name="nummod">252</dep>
+    <dep name="obj">1622</dep>
+    <dep name="obl">2415</dep>
     <dep name="obl:agent">100</dep>
     <dep name="obl:arg">301</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">185</dep>
-    <dep name="punct">4791</dep>
+    <dep name="punct">4729</dep>
     <dep name="reparandum">1</dep>
     <dep name="root">2074</dep>
     <dep name="vocative">35</dep>

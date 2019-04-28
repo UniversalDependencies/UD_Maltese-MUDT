@@ -39,7 +39,7 @@
 5	iħabbar	_	VERB	VERB	_	4	xcomp	_	_
 6	id-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	deċiżjoni	_	NOUN	NOUN	_	5	obj	_	_
-8	tiegħu	_	PRON	GEN_PRON	_	7	case	_	_
+8	tiegħu	_	PRON	GEN_PRON	_	7	nmod:poss	_	_
 9	iżda	_	CCONJ	CONJ_CORD	_	13	cc	_	_
 10	issa	_	ADV	ADV	_	13	advmod	_	_
 11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
@@ -76,7 +76,7 @@
 9	lura	_	ADV	ADV	_	8	advmod	_	_
 10	għall-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
 11	ħatra	_	NOUN	NOUN	_	8	obl	_	_
-12	tiegħu	_	PRON	GEN_PRON	_	11	case	_	_
+12	tiegħu	_	PRON	GEN_PRON	_	11	nmod:poss	_	_
 13	ta'	_	ADP	GEN	_	15	case	_	_
 14	Prim	_	ADJ	ADJ	_	15	amod	_	_
 15	Ministru	_	NOUN	NOUN	_	11	nmod:poss	_	_
@@ -181,7 +181,7 @@
 30	issa	_	ADV	ADV	_	17	advmod	_	SpaceAfter=No
 31	,	_	PUNCT	X_PUN	_	14	punct	_	_
 32	u	_	CCONJ	CONJ_CORD	_	41	cc	_	_
-33	mhux	_	PART	PRON_PERS_NEG	_	41	aux:neg	_	_
+33	mhux	_	AUX	PRON_PERS_NEG	_	41	aux:neg	_	_
 34	wara	_	ADP	PREP	_	41	mark	_	_
 35	li	_	SCONJ	COMP	_	34	fixed	_	_
 36	l-	_	DET	DEF	_	37	det	_	SpaceAfter=No
@@ -364,7 +364,7 @@
 10	biex	_	SCONJ	CONJ_SUB	_	14	mark	_	_
 11	Dr.	_	NOUN	X_ABV	_	12	compound	_	_
 12	Frendo	_	PROPN	NOUN_PROP	_	14	nsubj:pass	_	_
-13	ma	_	PART	NEG	_	14	aux:neg	_	_
+13	ma	_	PART	NEG	_	14	advmod:neg	_	_
 14	jingħatax	_	VERB	VERB	_	9	acl	_	_
 15	ċans	_	NOUN	NOUN	_	14	obj	_	_
 16	ieħor	_	ADJ	ADJ	_	15	amod	_	SpaceAfter=No

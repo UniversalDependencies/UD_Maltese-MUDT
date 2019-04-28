@@ -54,7 +54,7 @@
 # sent_id = 41_03F08:6
 # text = Xejn ma kien iwaqqafha, avolja f'ħajjitha sabet ħafna ostakli.
 1	Xejn	_	PRON	PRON_INDEF	_	4	nsubj	_	_
-2	ma	_	PART	NEG	_	4	aux:neg	_	_
+2	ma	_	PART	NEG	_	4	advmod:neg	_	_
 3	kien	_	AUX	KIEN	_	4	aux	_	_
 4	iwaqqafha	_	VERB	VERB	_	0	root	_	SpaceAfter=No
 5	,	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -134,14 +134,14 @@
 10	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
 11	misħuta	_	VERB	PART_PASS	_	12	amod	_	_
 12	ġurnata	_	NOUN	NOUN	_	8	nsubj	_	_
-13	fejn	_	PRON	PRON_INT	_	14	advmod	_	_
+13	fejn	_	ADV	PRON_INT	_	14	advmod	_	_
 14	tmur	_	VERB	VERB	_	12	acl	_	_
 15	iżżur	_	VERB	VERB	_	14	xcomp	_	_
 16	kontra	_	ADP	PREP	_	17	case	_	_
 17	qalbha	_	NOUN	NOUN	_	15	obl	_	_
 18	lill-	_	ADP	LIL_DEF	_	19	case:det	_	SpaceAfter=No
 19	familjari	_	NOUN	NOUN	_	15	obj	_	_
-20	tagħha	_	PRON	GEN_PRON	_	19	case	_	SpaceAfter=No
+20	tagħha	_	PRON	GEN_PRON	_	19	nmod:poss	_	SpaceAfter=No
 21	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 # sent_id = 41_03F08:11
@@ -154,10 +154,10 @@
 6	tara	_	VERB	VERB	_	5	xcomp	_	_
 7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 8	ġenituri	_	NOUN	NOUN	_	6	obj	_	_
-9	tagħha	_	PRON	GEN_PRON	_	8	case	_	SpaceAfter=No
+9	tagħha	_	PRON	GEN_PRON	_	8	nmod:poss	_	SpaceAfter=No
 10	,	_	PUNCT	X_PUN	_	6	punct	_	_
 11	avolja	_	SCONJ	CONJ_SUB	_	13	mark	_	_
-12	ma	_	PART	NEG	_	13	aux:neg	_	_
+12	ma	_	PART	NEG	_	13	advmod:neg	_	_
 13	kellhiex	_	VERB	VERB_PSEU	_	6	advcl	_	_
 14	aptit	_	NOUN	NOUN	_	13	obj	_	_
 15	tisma'	_	VERB	VERB	_	14	acl	_	_
@@ -183,7 +183,7 @@
 # sent_id = 41_03F08:12
 # text = Infatti kif kien mistenni, il-kummenti did-darba ma naqsux.
 1	Infatti	_	ADV	ADV	_	11	advmod	_	_
-2	kif	_	PRON	PRON_INT	_	4	advmod	_	_
+2	kif	_	ADV	PRON_INT	_	4	advmod	_	_
 3	kien	_	AUX	KIEN	_	4	cop	_	_
 4	mistenni	_	VERB	PART_PASS	_	11	advcl	_	SpaceAfter=No
 5	,	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -191,14 +191,14 @@
 7	kummenti	_	NOUN	NOUN	_	11	nsubj	_	_
 8	did-	_	PRON	PRON_DEM_DEF	_	9	det	_	SpaceAfter=No
 9	darba	_	NOUN	NOUN	_	11	obl	_	_
-10	ma	_	PART	NEG	_	11	aux:neg	_	_
+10	ma	_	PART	NEG	_	11	advmod:neg	_	_
 11	naqsux	_	VERB	VERB	_	0	root	_	SpaceAfter=No
 12	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 # sent_id = 41_03F08:13
 # text = "Meta se tagħmilna nanniet?" saqsietha ommha.
 1	"	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
-2	Meta	_	SCONJ	CONJ_SUB	_	4	advmod	_	_
+2	Meta	_	ADV	PRON_INT	_	4	advmod	_	_
 3	se	_	AUX	FUT	_	4	aux:part	_	_
 4	tagħmilna	_	VERB	VERB	_	0	root	_	_
 5	nanniet	_	NOUN	NOUN	_	4	obj	_	SpaceAfter=No
@@ -244,12 +244,12 @@
 # text = "Dik mhux bħali ħija, dik mhux normali," kompliet oħtha.
 1	"	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
 2	Dik	_	PRON	PRON_DEM	_	4	nsubj	_	_
-3	mhux	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
+3	mhux	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
 4	bħali	_	PRON	PREP_PRON	_	0	root	_	_
 5	ħija	_	NOUN	NOUN	_	4	vocative	_	SpaceAfter=No
 6	,	_	PUNCT	X_PUN	_	4	punct	_	_
 7	dik	_	PRON	PRON_DEM	_	9	nsubj	_	_
-8	mhux	_	PART	PRON_PERS_NEG	_	9	aux:neg	_	_
+8	mhux	_	AUX	PRON_PERS_NEG	_	9	aux:neg	_	_
 9	normali	_	ADJ	ADJ	_	4	conj	_	SpaceAfter=No
 10	,	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
 11	"	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -262,7 +262,7 @@
 1	Din	_	PRON	PRON_DEM	_	8	obj	_	_
 2	li	_	SCONJ	COMP	_	5	mark	_	_
 3	hi	_	PRON	PRON_PERS	_	5	nsubj	_	_
-4	mhux	_	PART	PRON_PERS_NEG	_	5	aux:neg	_	_
+4	mhux	_	AUX	PRON_PERS_NEG	_	5	aux:neg	_	_
 5	normali	_	ADJ	ADJ	_	1	acl	_	_
 6	kienet	_	AUX	KIEN	_	7	aux	_	_
 7	ilha	_	VERB	VERB_PSEU	_	0	root	_	_
@@ -290,7 +290,7 @@
 8	noħbol	_	VERB	VERB	_	6	conj	_	_
 9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
 10	taraw	_	VERB	VERB	_	6	conj	_	_
-11	kemm	_	PRON	PRON_INT	_	13	advmod	_	_
+11	kemm	_	ADV	PRON_INT	_	13	advmod	_	_
 12	jien	_	PRON	PRON_PERS	_	13	nsubj	_	_
 13	normali	_	ADJ	ADJ	_	10	ccomp	_	SpaceAfter=No
 14	!	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
@@ -312,7 +312,7 @@
 4	Milied	_	NOUN	NOUN	_	8	obl	_	_
 5	li	_	SCONJ	COMP	_	6	mark	_	_
 6	ġej	_	VERB	PART_ACT	_	4	acl	_	_
-7	ma	_	PART	NEG	_	8	aux:neg	_	_
+7	ma	_	PART	NEG	_	8	advmod:neg	_	_
 8	terġax	_	VERB	VERB	_	1	ccomp	_	_
 9	iżżurhom	_	VERB	VERB	_	8	xcomp	_	SpaceAfter=No
 10	.	_	PUNCT	X_PUN	_	1	punct	_	_
@@ -331,7 +331,7 @@
 10	sadattant	_	ADV	FOC	_	14	discourse	_	SpaceAfter=No
 11	,	_	PUNCT	X_PUN	_	10	punct	_	_
 12	qatt	_	ADV	ADV	_	14	advmod	_	_
-13	ma	_	PART	NEG	_	14	aux:neg	_	_
+13	ma	_	PART	NEG	_	14	advmod:neg	_	_
 14	setgħet	_	VERB	VERB	_	4	conj	_	_
 15	tifhem	_	VERB	VERB	_	14	xcomp	_	_
 16	xi	_	PRON	PRON_INT	_	17	obj	_	_
