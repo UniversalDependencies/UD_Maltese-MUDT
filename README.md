@@ -38,7 +38,7 @@ The annotated sentences have been manually split into train, test and dev sets a
 # Conversion
 The original treebank was annotated according to UDv1, this version was automatically converted to UDv2 as follows:
 - UPOS were added by automatic conversion from XPOS using a conversion table
-- UDv1-specific relations where only the label was changed were automatically converted to UDv2 relations (e.g. dobj > obj or nmod:advmod > obl)
+- UDv1-specific relations where only the label was changed were automatically converted to UDv2 relations (e.g. `dobj` > `obj` or `nmod:advmod` > `obl`)
 - for all \*_DEF and DEF tokens, as well as for *b'*, *f'*, *m'*, *s'* and *t'*, SpaceAfter=No was added automatically
 - Udapi was used to convert those relations which involved changes in dependency relations (e.g. conj or flat) to UDv2, as well as to add SpaceAfter=No to punctuation
 - all ToDo items were checked manually and fixed wherever necessary
@@ -47,18 +47,18 @@ The original treebank was annotated according to UDv1, this version was automati
 
 ̥# Update to UDv2.4
 With the introduction of stricter checks, the following updates to UPOS, XPOS and relations were implemented:
-- NEW RELATION: XPOS NEG ("ma") is now advmod:neg with UPOS ADV; same goes for XPOS FOC "lanqas" when negating a verbal clause
-- NEW RELATION: in non-copular verbless clauses (Čéplö 2018: 104-108), XPOS KIEN that takes the place of the expletive pronoun is now attached as cop:expl
-- XPOS GEN_DEF (possessive pronouns) is now attached as nmod:poss (previously case)
-- XPOS PRON_PERS_NEG (negated personal pronouns which function as negators in copular and verbal clauses) is now aux:neg with UPOS AUX
-- in the same vein, interrogative pronouns "hux", "hix" etc. now have UPOS AUX as well
-- all tokens that are used as auxiliaries (XPOS KIEN, "għad" and "tantx") now have UPOS AUX
-- XPOS PRON_INT when used as advmod now have UPOS ADV
-- XPOS PRON_INT "kemm" and "kif" that function as coordinating conjunctions ("kemm ... kif", "kif ukoll") now have UPOS CCONJ
-- XPOS ADJ "ċertu/-a/i" and "iktar" modifying nouns are now attached as amod (previously det)
-- XPOS NUM_WHD when modifying nouns is now attached as nummod (previously det)
-- numerals like "miljun" attached as nummod now have UPOS NUM (previously NOUN)
-- "kemm-il" is now attached as det (previously nummod)
+- NEW RELATION: XPOS NEG (*ma*) is now `advmod:neg` with UPOS ADV; same goes for XPOS FOC *lanqas* when negating a verbal clause
+- NEW RELATION: in non-copular verbless clauses (Čéplö 2018: 104-108), XPOS KIEN that takes the place of the expletive pronoun is now attached as `cop:expl`
+- XPOS GEN_DEF (possessive pronouns) is now attached as `nmod:poss` (previously `case`)
+- XPOS PRON_PERS_NEG (negated personal pronouns which function as negators in copular and verbal clauses) is now `aux:neg` with UPOS AUX
+- in the same vein, interrogative pronouns *hux*, *hix* etc. now have UPOS AUX as well
+- all tokens that are used as auxiliaries (XPOS KIEN, *għad and *tantx*) now have UPOS AUX
+- XPOS PRON_INT when used as `advmod` now have UPOS ADV
+- XPOS PRON_INT *kemm* and *kif* that function as coordinating conjunctions (*kemm ... kif*, *kif ukoll*) now have UPOS CCONJ
+- XPOS ADJ *ċertu/-a/i* and *iktar* modifying nouns are now attached as `amod` (previously `det`)
+- XPOS NUM_WHD when modifying nouns is now attached as `nummod` (previously `det`)
+- numerals like "miljun" attached as `nummod` now have UPOS NUM (previously NOUN)
+- *kemm-il* is now attached as `det` (previously `nummod`)
 - currency symbols and mathematical symbols now have UPOS SYM (previously PUNCT)
 
 
