@@ -575,7 +575,7 @@
 8	,	_	PUNCT	X_PUN	_	5	punct	_	_
 9	iżda	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 10	ma	_	PART	NEG	_	14	advmod:neg	_	_
-11	tantx	_	AUX	VERB_PSEU	_	14	aux	_	_
+11	tantx	_	AUX	VERB_PSEU	_	14	aux:neg	_	_
 12	kien	_	AUX	KIEN	_	14	cop	_	_
 13	ta'	_	ADP	GEN	_	14	case	_	_
 14	sabar	_	NOUN	NOUN	_	5	conj	_	SpaceAfter=No

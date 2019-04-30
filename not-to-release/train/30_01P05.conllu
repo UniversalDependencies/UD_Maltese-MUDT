@@ -3209,7 +3209,7 @@
 9	li	_	SCONJ	COMP	_	10	mark	_	_
 10	hemm	_	VERB	HEMM	_	8	ccomp	_	_
 11	numru	_	NOUN	NOUN	_	10	nsubj	_	_
-12	ta'	_	PRON	GEN	_	10	dep	_	SpaceAfter=No
+12	ta'	_	ADP	GEN	_	10	dep	_	SpaceAfter=No
 13	.	_	PUNCT	X_PUN	_	11	punct	_	SpaceAfter=No
 14	.	_	PUNCT	X_PUN	_	13	punct	_	SpaceAfter=No
 15	.	_	PUNCT	X_PUN	_	13	punct	_	_
@@ -3700,7 +3700,7 @@
 # text = Le, mhijiex l-intenzjoni tagħna li nagħmlu diskussjoni f'forma ta' Second Reading fuq l-IIP.
 1	Le	_	INTJ	INT	_	3	discourse	_	SpaceAfter=No
 2	,	_	PUNCT	X_PUN	_	1	punct	_	_
-3	mhijiex	_	PART	PRON_PERS_NEG	_	0	root	_	_
+3	mhijiex	_	AUX	PRON_PERS_NEG	_	0	root	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	intenzjoni	_	NOUN	NOUN	_	3	nsubj	_	_
 6	tagħna	_	PRON	GEN_PRON	_	5	nmod:poss	_	_

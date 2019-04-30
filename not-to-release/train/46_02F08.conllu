@@ -243,7 +243,7 @@
 # sent_id = 46_02F08:15
 # text = Ma tantx kien jinteressah jiċċettja ma' nies li ma jafhomx.
 1	Ma	_	PART	NEG	_	4	advmod:neg	_	_
-2	tantx	_	AUX	VERB_PSEU	_	4	aux	_	_
+2	tantx	_	AUX	VERB_PSEU	_	4	aux:neg	_	_
 3	kien	_	AUX	KIEN	_	4	aux	_	_
 4	jinteressah	_	VERB	VERB	_	0	root	_	_
 5	jiċċettja	_	VERB	VERB	_	4	xcomp	_	_
@@ -1594,7 +1594,7 @@
 4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	kamra	_	NOUN	NOUN	_	1	nsubj	_	_
 6	riħa	_	NOUN	NOUN	_	1	appos	_	_
-7	ta'	_	PRON	GEN	_	6	dep	_	SpaceAfter=No
+7	ta'	_	ADP	GEN	_	6	dep	_	SpaceAfter=No
 8	.	_	PUNCT	X_PUN	_	7	punct	_	SpaceAfter=No
 9	.	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
 10	.	_	PUNCT	X_PUN	_	8	punct	_	_

@@ -735,7 +735,7 @@
 23	ċara	_	ADJ	ADJ	_	22	xcomp	_	_
 24	li	_	SCONJ	COMP	_	27	mark	_	_
 25	ma	_	PART	NEG	_	27	advmod:neg	_	_
-26	tantx	_	AUX	VERB_PSEU	_	27	aux	_	_
+26	tantx	_	AUX	VERB_PSEU	_	27	aux:neg	_	_
 27	jaqblu	_	VERB	VERB	_	23	xcomp	_	_
 28	li	_	SCONJ	COMP	_	32	mark	_	_
 29	nies	_	NOUN	NOUN	_	32	nsubj	_	_

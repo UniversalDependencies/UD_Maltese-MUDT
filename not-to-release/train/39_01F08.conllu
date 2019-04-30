@@ -228,7 +228,7 @@
 8	ma'	_	ADP	PREP	_	9	case	_	_
 9	Nathan	_	PROPN	NOUN_PROP	_	7	obl	_	_
 10	ma	_	PART	NEG	_	12	advmod:neg	_	_
-11	tantx	_	AUX	VERB_PSEU	_	12	aux	_	_
+11	tantx	_	AUX	VERB_PSEU	_	12	aux:neg	_	_
 12	ħa	_	VERB	VERB	_	0	root	_	_
 13	gost	_	NOUN	NOUN	_	12	compound	_	_
 14	għax	_	SCONJ	CONJ_SUB	_	16	mark	_	_
@@ -240,7 +240,7 @@
 20	dwaru	_	PRON	PREP_PRON	_	19	obl:arg	_	_
 21	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 22	ma	_	PART	NEG	_	24	advmod:neg	_	_
-23	tantx	_	AUX	VERB_PSEU	_	24	aux	_	_
+23	tantx	_	AUX	VERB_PSEU	_	24	aux:neg	_	_
 24	qalu	_	VERB	VERB	_	19	conj	_	_
 25	kliem	_	NOUN	NOUN	_	24	obj	_	_
 26	ta'	_	ADP	GEN	_	27	case	_	_

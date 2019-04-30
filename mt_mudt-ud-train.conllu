@@ -7357,7 +7357,7 @@
 9	li	_	SCONJ	COMP	_	10	mark	_	_
 10	hemm	_	VERB	HEMM	_	8	ccomp	_	_
 11	numru	_	NOUN	NOUN	_	10	nsubj	_	_
-12	ta'	_	PRON	GEN	_	10	dep	_	SpaceAfter=No
+12	ta'	_	ADP	GEN	_	10	dep	_	SpaceAfter=No
 13	.	_	PUNCT	X_PUN	_	11	punct	_	SpaceAfter=No
 14	.	_	PUNCT	X_PUN	_	13	punct	_	SpaceAfter=No
 15	.	_	PUNCT	X_PUN	_	13	punct	_	_
@@ -7848,7 +7848,7 @@
 # text = Le, mhijiex l-intenzjoni tagħna li nagħmlu diskussjoni f'forma ta' Second Reading fuq l-IIP.
 1	Le	_	INTJ	INT	_	3	discourse	_	SpaceAfter=No
 2	,	_	PUNCT	X_PUN	_	1	punct	_	_
-3	mhijiex	_	PART	PRON_PERS_NEG	_	0	root	_	_
+3	mhijiex	_	AUX	PRON_PERS_NEG	_	0	root	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	intenzjoni	_	NOUN	NOUN	_	3	nsubj	_	_
 6	tagħna	_	PRON	GEN_PRON	_	5	nmod:poss	_	_
@@ -11684,7 +11684,7 @@
 8	ma'	_	ADP	PREP	_	9	case	_	_
 9	Nathan	_	PROPN	NOUN_PROP	_	7	obl	_	_
 10	ma	_	PART	NEG	_	12	advmod:neg	_	_
-11	tantx	_	AUX	VERB_PSEU	_	12	aux	_	_
+11	tantx	_	AUX	VERB_PSEU	_	12	aux:neg	_	_
 12	ħa	_	VERB	VERB	_	0	root	_	_
 13	gost	_	NOUN	NOUN	_	12	compound	_	_
 14	għax	_	SCONJ	CONJ_SUB	_	16	mark	_	_
@@ -11696,7 +11696,7 @@
 20	dwaru	_	PRON	PREP_PRON	_	19	obl:arg	_	_
 21	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 22	ma	_	PART	NEG	_	24	advmod:neg	_	_
-23	tantx	_	AUX	VERB_PSEU	_	24	aux	_	_
+23	tantx	_	AUX	VERB_PSEU	_	24	aux:neg	_	_
 24	qalu	_	VERB	VERB	_	19	conj	_	_
 25	kliem	_	NOUN	NOUN	_	24	obj	_	_
 26	ta'	_	ADP	GEN	_	27	case	_	_
@@ -12005,7 +12005,7 @@
 # sent_id = 46_02F08:15
 # text = Ma tantx kien jinteressah jiċċettja ma' nies li ma jafhomx.
 1	Ma	_	PART	NEG	_	4	advmod:neg	_	_
-2	tantx	_	AUX	VERB_PSEU	_	4	aux	_	_
+2	tantx	_	AUX	VERB_PSEU	_	4	aux:neg	_	_
 3	kien	_	AUX	KIEN	_	4	aux	_	_
 4	jinteressah	_	VERB	VERB	_	0	root	_	_
 5	jiċċettja	_	VERB	VERB	_	4	xcomp	_	_
@@ -13356,7 +13356,7 @@
 4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	kamra	_	NOUN	NOUN	_	1	nsubj	_	_
 6	riħa	_	NOUN	NOUN	_	1	appos	_	_
-7	ta'	_	PRON	GEN	_	6	dep	_	SpaceAfter=No
+7	ta'	_	ADP	GEN	_	6	dep	_	SpaceAfter=No
 8	.	_	PUNCT	X_PUN	_	7	punct	_	SpaceAfter=No
 9	.	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
 10	.	_	PUNCT	X_PUN	_	8	punct	_	_
@@ -14097,7 +14097,7 @@
 8	,	_	PUNCT	X_PUN	_	5	punct	_	_
 9	iżda	_	CCONJ	CONJ_CORD	_	14	cc	_	_
 10	ma	_	PART	NEG	_	14	advmod:neg	_	_
-11	tantx	_	AUX	VERB_PSEU	_	14	aux	_	_
+11	tantx	_	AUX	VERB_PSEU	_	14	aux:neg	_	_
 12	kien	_	AUX	KIEN	_	14	cop	_	_
 13	ta'	_	ADP	GEN	_	14	case	_	_
 14	sabar	_	NOUN	NOUN	_	5	conj	_	SpaceAfter=No
@@ -20201,7 +20201,7 @@
 10	kwalità	_	NOUN	NOUN	_	8	nmod:poss	_	_
 11	żgur	_	ADJ	ADJ	_	5	conj	_	_
 12	li	_	SCONJ	COMP	_	13	mark	_	_
-13	mhijiex	_	PART	PRON_PERS_NEG	_	11	ccomp	_	SpaceAfter=No
+13	mhijiex	_	AUX	PRON_PERS_NEG	_	11	ccomp	_	SpaceAfter=No
 14	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 50_01N10:124

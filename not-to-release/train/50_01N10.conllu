@@ -3344,7 +3344,7 @@
 10	kwalità	_	NOUN	NOUN	_	8	nmod:poss	_	_
 11	żgur	_	ADJ	ADJ	_	5	conj	_	_
 12	li	_	SCONJ	COMP	_	13	mark	_	_
-13	mhijiex	_	PART	PRON_PERS_NEG	_	11	ccomp	_	SpaceAfter=No
+13	mhijiex	_	AUX	PRON_PERS_NEG	_	11	ccomp	_	SpaceAfter=No
 14	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 50_01N10:124
