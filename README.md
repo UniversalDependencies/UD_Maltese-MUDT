@@ -45,7 +45,7 @@ The original treebank was annotated according to UDv1, this version was automati
 - all validation errors were fixed manually
 
 
-̥# Update to UDv2.4
+# Update to UDv2.4
 With the introduction of stricter checks, the following updates to UPOS, XPOS and relations were implemented:
 - NEW RELATION: XPOS NEG (*ma*) is now `advmod:neg` with UPOS ADV; same goes for XPOS FOC *lanqas* when negating a verbal clause
 - NEW RELATION: in non-copular verbless clauses (Čéplö 2018: 104-108), XPOS KIEN that takes the place of the expletive pronoun is now attached as `cop:expl`
@@ -60,6 +60,8 @@ With the introduction of stricter checks, the following updates to UPOS, XPOS an
 - numerals like "miljun" attached as `nummod` now have UPOS NUM (previously NOUN)
 - *kemm-il* is now attached as `det` (previously `nummod`)
 - currency symbols and mathematical symbols now have UPOS SYM (previously PUNCT)
+General updates:
+- XPOS PRON_PERG_NEG previously attached as `cop` are now attached as `aux:neg` as per the MUDT guidelines
 
 
 # To do (status as of 2019-05-01)
