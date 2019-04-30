@@ -45,7 +45,7 @@
     <dep name="amod">2069</dep>
     <dep name="appos">169</dep>
     <dep name="aux">642</dep>
-    <dep name="aux:neg">153</dep>
+    <dep name="aux:neg">165</dep>
     <dep name="aux:part">354</dep>
     <dep name="aux:pass">86</dep>
     <dep name="case">2875</dep>
@@ -54,7 +54,7 @@
     <dep name="ccomp">684</dep>
     <dep name="compound">215</dep>
     <dep name="conj">1746</dep>
-    <dep name="cop">661</dep>
+    <dep name="cop">649</dep>
     <dep name="cop:expl">9</dep>
     <dep name="csubj">23</dep>
     <dep name="dep">4</dep>

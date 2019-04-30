@@ -19,7 +19,7 @@
 12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
 13	materja	_	NOUN	NOUN	_	10	nmod:poss	_	_
 14	li	_	SCONJ	COMP	_	16	mark	_	_
-15	mhuwiex	_	AUX	PRON_PERS_NEG	_	16	cop	_	_
+15	mhuwiex	_	AUX	PRON_PERS_NEG	_	16	aux:neg	_	_
 16	osservabbli	_	ADJ	ADJ	_	10	amod	_	_
 17	direttament	_	ADV	ADV	_	16	advmod	_	SpaceAfter=No
 18	,	_	PUNCT	X_PUN	_	16	punct	_	_
@@ -1541,7 +1541,7 @@
 23	partiċelli	_	NOUN	NOUN	_	11	conj	_	_
 24	oħra	_	ADJ	ADJ	_	23	amod	_	_
 25	li	_	SCONJ	COMP	_	27	mark	_	_
-26	mhuma	_	AUX	PRON_PERS_NEG	_	27	cop	_	_
+26	mhuma	_	AUX	PRON_PERS_NEG	_	27	aux:neg	_	_
 27	osservati	_	VERB	PART_PASS	_	23	acl	_	_
 28	qatt	_	ADV	ADV	_	27	advmod	_	_
 29	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
@@ -1709,7 +1709,7 @@
 7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
 8	materja	_	NOUN	NOUN	_	6	nmod:poss	_	_
 9	skura	_	ADJ	ADJ	_	8	amod	_	_
-10	mhijiex	_	AUX	PRON_PERS_NEG	_	11	cop	_	_
+10	mhijiex	_	AUX	PRON_PERS_NEG	_	11	aux:neg	_	_
 11	barjonika	_	ADJ	ADJ	_	1	ccomp	_	SpaceAfter=No
 12	.	_	PUNCT	X_PUN	_	1	punct	_	_
 

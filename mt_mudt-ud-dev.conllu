@@ -4839,7 +4839,7 @@
 # text = Iżda żgur mhix l-imħabba ġenwina ta' bejn żewġ persuni adulti li qegħdin jgħixu ħajja deċenti ta' mħabba mal-maħbub / maħbuba tagħhom tal-istess sess, mingħajr ma jagħtu l-ebda fastidju lil ħadd - u li jibqgħu solidi fid-dedikazzjoni tagħhom lejn xulxin minkejja l-kliem ta' mibegħda bħal dawk ta' min jinħeba wara psewdonimi simili.
 1	Iżda	_	CCONJ	CONJ_CORD	_	5	cc	_	_
 2	żgur	_	ADV	ADV	_	5	advmod	_	_
-3	mhix	_	AUX	PRON_PERS_NEG	_	5	cop	_	_
+3	mhix	_	AUX	PRON_PERS_NEG	_	5	aux:neg	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	imħabba	_	NOUN	NOUN	_	0	root	_	_
 6	ġenwina	_	ADJ	ADJ	_	5	amod	_	_
@@ -4917,7 +4917,7 @@
 16	atteġġament	_	NOUN	NOUN	_	21	nsubj	_	_
 17	pożittiv	_	ADJ	ADJ	_	16	amod	_	_
 18	tiegħu	_	PRON	GEN_PRON	_	16	nmod:poss	_	_
-19	mhux	_	AUX	PRON_PERS_NEG	_	21	cop	_	_
+19	mhux	_	AUX	PRON_PERS_NEG	_	21	aux:neg	_	_
 20	daqstant	_	ADV	ADV	_	21	advmod	_	_
 21	komuni	_	ADJ	ADJ	_	0	root	_	_
 22	fil-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No

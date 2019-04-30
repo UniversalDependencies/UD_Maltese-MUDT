@@ -958,7 +958,7 @@
 4	istramberija	_	NOUN	NOUN	_	9	nsubj	_	_
 5	ta'	_	ADP	GEN	_	6	case	_	_
 6	Żahra	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
-7	mhijiex	_	AUX	PRON_PERS_NEG	_	9	cop	_	_
+7	mhijiex	_	AUX	PRON_PERS_NEG	_	9	aux:neg	_	_
 8	sempliċiment	_	ADV	ADV	_	9	advmod	_	_
 9	stilistika	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
 10	;	_	PUNCT	X_PUN	_	9	punct	_	_
@@ -1076,7 +1076,7 @@
 29	temmen	_	VERB	VERB	_	28	xcomp	_	_
 30	li	_	SCONJ	COMP	_	33	mark	_	_
 31	din	_	PRON	PRON_DEM	_	33	nsubj	_	_
-32	mhijiex	_	AUX	PRON_PERS_NEG	_	33	cop	_	_
+32	mhijiex	_	AUX	PRON_PERS_NEG	_	33	aux:neg	_	_
 33	maltempata	_	NOUN	NOUN	_	29	ccomp	_	_
 34	kwalunkwe	_	ADJ	ADJ	_	33	amod	_	SpaceAfter=No
 35	.	_	PUNCT	X_PUN	_	24	punct	_	_
@@ -1380,7 +1380,7 @@
 # sent_id = 50_01N10:56
 # text = Din mhijiex eżattament xi ħaġa ġdida fl-opra tiegħu iżda hawn donnha sabet espressjoni aktar espliċita u sostenuta.
 1	Din	_	PRON	PRON_DEM	_	5	nsubj	_	_
-2	mhijiex	_	AUX	PRON_PERS_NEG	_	5	cop	_	_
+2	mhijiex	_	AUX	PRON_PERS_NEG	_	5	aux:neg	_	_
 3	eżattament	_	ADV	ADV	_	5	advmod	_	_
 4	xi	_	DET	QUAN	_	5	det	_	_
 5	ħaġa	_	NOUN	NOUN	_	0	root	_	_
@@ -1554,7 +1554,7 @@
 7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 8	ktieb	_	NOUN	NOUN	_	5	obl	_	_
 9	kollu	_	DET	QUAN	_	8	det	_	_
-10	mhijiex	_	AUX	PRON_PERS_NEG	_	12	cop	_	_
+10	mhijiex	_	AUX	PRON_PERS_NEG	_	12	aux:neg	_	_
 11	biss	_	ADV	FOC	_	12	discourse	_	_
 12	voraċi	_	ADJ	ADJ	_	0	root	_	_
 13	iżda	_	CCONJ	CONJ_CORD	_	15	cc	_	_
@@ -2984,7 +2984,7 @@
 6	li	_	SCONJ	COMP	_	10	mark	_	_
 7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
 8	fotografija	_	NOUN	NOUN	_	10	nsubj	_	_
-9	mhijiex	_	AUX	PRON_PERS_NEG	_	10	cop	_	_
+9	mhijiex	_	AUX	PRON_PERS_NEG	_	10	aux:neg	_	_
 10	fotokopja	_	NOUN	NOUN	_	5	ccomp	_	_
 11	tar-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
 12	realtà	_	NOUN	NOUN	_	10	nmod:poss	_	SpaceAfter=No

@@ -613,7 +613,7 @@
 31	fuq	_	ADP	PREP	_	32	case	_	_
 32	qasam	_	NOUN	NOUN	_	26	nmod	_	_
 33	li	_	SCONJ	COMP	_	35	mark	_	_
-34	mhux	_	AUX	PRON_PERS_NEG	_	35	cop	_	_
+34	mhux	_	AUX	PRON_PERS_NEG	_	35	aux:neg	_	_
 35	tiegħu	_	PRON	GEN_PRON	_	32	nmod:poss	_	SpaceAfter=No
 36	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
