@@ -5,7 +5,7 @@ MUDT was designed as a balanced corpus with four major genres (see Splitting bel
 # Introduction
 ## Origin
 This treebank is the product of the PhD thesis *Constituent order in Maltese: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
-The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.3 standard.
+The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.4 standard.
 
 ## Splitting
 MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) in the following text types:
