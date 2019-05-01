@@ -49,7 +49,7 @@ The original treebank was annotated according to UDv1, this version was automati
 With the introduction of stricter checks, the following updates to UPOS, XPOS and relations were implemented:
 - NEW RELATION: XPOS NEG (*ma*) is now `advmod:neg` with UPOS ADV; same goes for XPOS FOC *lanqas* when negating a verbal clause
 - NEW RELATION: in non-copular verbless clauses (Čéplö 2018: 104-108), XPOS KIEN that takes the place of the expletive pronoun is now attached as `cop:expl`
-- XPOS GEN_DEF (possessive pronouns) is now attached as `nmod:poss` (previously `case`)
+- XPOS GEN_PRON (possessive pronouns *tiegħi*, *tiegħek*, *tiegħu* etc.) is now attached as `nmod:poss` (previously `case`)
 - XPOS PRON_PERS_NEG (negated personal pronouns which function as negators in copular and verbal clauses) is now `aux:neg` with UPOS AUX
 - in the same vein, interrogative pronouns *hux*, *hix* etc. now have UPOS AUX as well
 - all tokens that are used as auxiliaries (XPOS KIEN, *għad and *tantx*) now have UPOS AUX
