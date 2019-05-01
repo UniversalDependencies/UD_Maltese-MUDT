@@ -40,7 +40,7 @@ The original treebank was annotated according to UDv1, this version was automati
 - UPOS were added by automatic conversion from XPOS using a conversion table
 - UDv1-specific relations where only the label was changed were automatically converted to UDv2 relations (e.g. `dobj` > `obj` or `nmod:advmod` > `obl`)
 - for all \*_DEF and DEF tokens, as well as for *b'*, *f'*, *m'*, *s'* and *t'*, SpaceAfter=No was added automatically
-- Udapi was used to convert those relations which involved changes in dependency relations (e.g. conj or flat) to UDv2, as well as to add SpaceAfter=No to punctuation
+- Udapi was used to convert those relations which involved changes in dependency relations (e.g. `conj` or `flat`) to UDv2, as well as to add `SpaceAfter=No` to punctuation
 - all ToDo items were checked manually and fixed wherever necessary
 - all validation errors were fixed manually
 
