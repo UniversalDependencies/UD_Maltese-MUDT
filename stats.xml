@@ -74,8 +74,8 @@
     <dep name="nsubj">2223</dep>
     <dep name="nsubj:pass">215</dep>
     <dep name="nummod">252</dep>
-    <dep name="obj">1622</dep>
-    <dep name="obl">2415</dep>
+    <dep name="obj">1623</dep>
+    <dep name="obl">2414</dep>
     <dep name="obl:agent">100</dep>
     <dep name="obl:arg">301</dep>
     <dep name="orphan">2</dep>
