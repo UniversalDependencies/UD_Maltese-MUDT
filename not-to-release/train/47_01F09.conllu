@@ -1,0 +1,1271 @@
+# sent_id = 47_01F09:1
+# text = Kienu ġabuh dahru mal-ħajt.
+1	Kienu	_	AUX	KIEN	_	2	aux	_	_
+2	ġabuh	_	VERB	VERB	_	0	root	_	_
+3	dahru	_	NOUN	NOUN	_	2	obl	_	_
+4	mal-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	ħajt	_	NOUN	NOUN	_	3	nmod	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:2
+# text = Daħak, għax fil-veru sens tal-kelma, kien jinsab bilqiegħda ma' l-art, dahru ma' blata kiesħa.
+1	Daħak	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	għax	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+4	fil-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+5	veru	_	ADJ	ADJ	_	6	amod	_	_
+6	sens	_	NOUN	NOUN	_	11	obl	_	_
+7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	kelma	_	NOUN	NOUN	_	6	nmod:poss	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	6	punct	_	_
+10	kien	_	AUX	KIEN	_	11	aux	_	_
+11	jinsab	_	VERB	VERB	_	1	advcl	_	_
+12	bilqiegħda	_	ADV	ADV	_	11	advmod	_	_
+13	ma'	_	ADP	PREP	_	15	case	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	art	_	NOUN	NOUN	_	11	obl	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	15	punct	_	_
+17	dahru	_	NOUN	NOUN	_	15	conj	_	_
+18	ma'	_	ADP	PREP	_	19	case	_	_
+19	blata	_	NOUN	NOUN	_	17	nmod	_	_
+20	kiesħa	_	ADJ	ADJ	_	19	amod	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:3
+# text = Fuq ħoġru kellu ħatar iswed, b'ras tonda.
+1	Fuq	_	ADP	PREP	_	2	case	_	_
+2	ħoġru	_	NOUN	NOUN	_	3	obl	_	_
+3	kellu	_	VERB	VERB_PSEU	_	0	root	_	_
+4	ħatar	_	NOUN	NOUN	_	3	obj	_	_
+5	iswed	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	4	punct	_	_
+7	b'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
+8	ras	_	NOUN	NOUN	_	4	nmod	_	_
+9	tonda	_	ADJ	ADJ	_	8	amod	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:4
+# text = Idejh imċappsa bid-demm, mhux minn tiegħu, iżda minn ta' sid il-ħatar.
+1	Idejh	_	NOUN	NOUN	_	2	nsubj	_	_
+2	imċappsa	_	VERB	PART_PASS	_	0	root	_	_
+3	bid-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	demm	_	NOUN	NOUN	_	2	obl	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	4	punct	_	_
+6	mhux	_	AUX	PRON_PERS_NEG	_	8	aux:neg	_	_
+7	minn	_	ADP	PREP	_	8	case	_	_
+8	tiegħu	_	PRON	GEN_PRON	_	4	nmod	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	8	punct	_	_
+10	iżda	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+11	minn	_	ADP	PREP	_	13	case	_	_
+12	ta'	_	ADP	GEN	_	13	case	_	_
+13	sid	_	NOUN	NOUN	_	8	conj	_	_
+14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	ħatar	_	NOUN	NOUN	_	13	nmod:poss	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:5
+# text = Ħwejġu kienu mċarrtin, kien migruf minn fuq s'isfel, il-kaxxa ta' sidru tuġgħu bid-daqqiet li kien qala' fil-ġlieda.
+1	Ħwejġu	_	NOUN	NOUN	_	3	nsubj	_	_
+2	kienu	_	AUX	KIEN	_	3	cop	_	_
+3	mċarrtin	_	VERB	PART_PASS	_	0	root	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	3	punct	_	_
+5	kien	_	AUX	KIEN	_	6	cop	_	_
+6	migruf	_	VERB	PART_PASS	_	3	conj	_	_
+7	minn	_	ADP	PREP	_	8	case	_	_
+8	fuq	_	ADV	ADV	_	6	advmod	_	_
+9	s'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
+10	isfel	_	ADV	ADV	_	8	advmod	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	3	punct	_	_
+12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	kaxxa	_	NOUN	NOUN	_	16	nsubj	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	sidru	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	tuġgħu	_	VERB	VERB	_	3	conj	_	_
+17	bid-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	daqqiet	_	NOUN	NOUN	_	16	obl	_	_
+19	li	_	SCONJ	COMP	_	21	mark	_	_
+20	kien	_	AUX	KIEN	_	21	aux	_	_
+21	qala'	_	VERB	VERB	_	18	acl	_	_
+22	fil-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	ġlieda	_	NOUN	NOUN	_	21	obl	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:6
+# text = Kellu siequ l-leminija misluħa u taħarqu kull darba li l-għaraq beda jaqa' fil-ġerħa.
+1	Kellu	_	VERB	VERB_PSEU	_	0	root	_	_
+2	siequ	_	NOUN	NOUN	_	1	obj	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	leminija	_	ADJ	ADJ	_	2	amod	_	_
+5	misluħa	_	VERB	PART_PASS	_	1	xcomp	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	taħarqu	_	VERB	VERB	_	1	conj	_	_
+8	kull	_	DET	QUAN	_	9	det	_	_
+9	darba	_	NOUN	NOUN	_	7	obl	_	_
+10	li	_	SCONJ	COMP	_	13	mark	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	għaraq	_	NOUN	NOUN	_	13	nsubj	_	_
+13	beda	_	VERB	VERB	_	9	acl	_	_
+14	jaqa'	_	VERB	VERB	_	13	xcomp	_	_
+15	fil-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	ġerħa	_	NOUN	NOUN	_	14	obl	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:7
+# text = "Ġejjin mgħallem!" għajjat Damjan li kien bilwieqfa ftit passi 'l bogħod, jittawwal lejn l-għelieqi ta' taħthom.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Ġejjin	_	VERB	PART_ACT	_	0	root	_	_
+3	mgħallem	_	NOUN	NOUN	_	2	vocative	_	SpaceAfter=No
+4	!	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+5	"	_	PUNCT	X_PUN	_	2	punct	_	_
+6	għajjat	_	VERB	VERB	_	2	parataxis	_	_
+7	Damjan	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+8	li	_	SCONJ	COMP	_	10	mark	_	_
+9	kien	_	AUX	KIEN	_	10	cop	_	_
+10	bilwieqfa	_	ADV	ADV	_	7	acl	_	_
+11	ftit	_	DET	QUAN	_	12	det	_	_
+12	passi	_	NOUN	NOUN	_	10	obl	_	_
+13	'l	_	ADP	PREP	_	14	case	_	_
+14	bogħod	_	NOUN	NOUN	_	12	nmod	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	10	punct	_	_
+16	jittawwal	_	VERB	VERB	_	10	conj	_	_
+17	lejn	_	ADP	PREP	_	19	case	_	_
+18	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	għelieqi	_	NOUN	NOUN	_	16	obl:arg	_	_
+20	ta'	_	ADP	GEN	_	21	case	_	_
+21	taħthom	_	PRON	PREP_PRON	_	19	nmod:poss	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:8
+# text = Kuġinuh, Sa-marin, kien bilqiegħda fuq blata oħra faċċata tagħhom, dahru lejhom u jħares in-naħa l-oħra.
+1	Kuġinuh	_	NOUN	NOUN	_	6	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	3	punct	_	_
+3	Sa-marin	_	PROPN	NOUN_PROP	_	1	appos	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	3	punct	_	_
+5	kien	_	AUX	KIEN	_	6	cop	_	_
+6	bilqiegħda	_	ADV	ADV	_	0	root	_	_
+7	fuq	_	ADP	PREP	_	8	case	_	_
+8	blata	_	NOUN	NOUN	_	6	obl	_	_
+9	oħra	_	ADJ	ADJ	_	8	amod	_	_
+10	faċċata	_	VERB	PART_PASS	_	8	acl	_	_
+11	tagħhom	_	PRON	GEN_PRON	_	10	nmod:poss	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	8	punct	_	_
+13	dahru	_	NOUN	NOUN	_	8	conj	_	_
+14	lejhom	_	PRON	PREP_PRON	_	13	nmod	_	_
+15	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+16	jħares	_	VERB	VERB	_	8	conj	_	_
+17	in-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	naħa	_	NOUN	NOUN	_	16	obl	_	_
+19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	oħra	_	ADJ	ADJ	_	18	amod	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 47_01F09:9
+# text = Kull ma huma iżgħar minni ftit snin, u xorta jsejħuli mgħallem.
+1	Kull	_	DET	QUAN	_	4	mark	_	_
+2	ma	_	SCONJ	COMP	_	1	fixed	_	_
+3	huma	_	PRON	PRON_PERS	_	4	cop	_	_
+4	iżgħar	_	ADJ	ADJ	_	11	advcl	_	_
+5	minni	_	PRON	PREP_PRON	_	4	obl	_	_
+6	ftit	_	DET	QUAN	_	7	det	_	_
+7	snin	_	NOUN	NOUN	_	4	obl	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	4	punct	_	_
+9	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+10	xorta	_	NOUN	NOUN	_	11	obl	_	_
+11	jsejħuli	_	VERB	VERB	_	0	root	_	_
+12	mgħallem	_	NOUN	NOUN	_	11	obl:arg	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 47_01F09:10
+# text = Imma żgur kienu iżgħar?
+1	Imma	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+2	żgur	_	ADV	ADV	_	4	advmod	_	_
+3	kienu	_	AUX	KIEN	_	4	cop	_	_
+4	iżgħar	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+5	?	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:11
+# text = Kienu ħafna ikbar!
+1	Kienu	_	AUX	KIEN	_	3	cop	_	_
+2	ħafna	_	ADV	ADV	_	3	advmod	_	_
+3	ikbar	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+4	!	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:12
+# text = Daħħal idu fil-but tal-ġlekk skur li kien liebes, u ħareġ mazz karti, mqattgħin minn naħa waħda.
+1	Daħħal	_	VERB	VERB	_	0	root	_	_
+2	idu	_	NOUN	NOUN	_	1	obj	_	_
+3	fil-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	but	_	NOUN	NOUN	_	1	obl	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	ġlekk	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	skur	_	ADJ	ADJ	_	6	amod	_	_
+8	li	_	SCONJ	COMP	_	10	mark	_	_
+9	kien	_	AUX	KIEN	_	10	aux	_	_
+10	liebes	_	VERB	PART_ACT	_	6	acl	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	1	punct	_	_
+12	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+13	ħareġ	_	VERB	VERB	_	1	conj	_	_
+14	mazz	_	NOUN	NOUN	_	13	obj	_	_
+15	karti	_	NOUN	NOUN	_	14	nmod:poss	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	14	punct	_	_
+17	mqattgħin	_	VERB	PART_PASS	_	14	acl	_	_
+18	minn	_	ADP	PREP	_	19	case	_	_
+19	naħa	_	NOUN	NOUN	_	17	obl	_	_
+20	waħda	_	NUM	NUM_WHD	_	19	nummod	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:13
+# text = Kienu diġà mċappsin sew bid-demm, għax kien ilu triq sħiħa jdaħħal idu fil-but biex ikun żgur li għadhom hemm.
+1	Kienu	_	AUX	KIEN	_	3	cop	_	_
+2	diġà	_	ADV	ADV	_	3	advmod	_	_
+3	mċappsin	_	VERB	PART_PASS	_	0	root	_	_
+4	sew	_	ADV	ADV	_	3	advmod	_	_
+5	bid-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	demm	_	NOUN	NOUN	_	3	obl	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	3	punct	_	_
+8	għax	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+9	kien	_	AUX	KIEN	_	10	aux	_	_
+10	ilu	_	VERB	VERB_PSEU	_	3	advcl	_	_
+11	triq	_	NOUN	NOUN	_	10	obl	_	_
+12	sħiħa	_	ADJ	ADJ	_	11	amod	_	_
+13	jdaħħal	_	VERB	VERB	_	10	xcomp	_	_
+14	idu	_	NOUN	NOUN	_	13	obj	_	_
+15	fil-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	but	_	NOUN	NOUN	_	13	obl	_	_
+17	biex	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+18	ikun	_	AUX	KIEN	_	19	cop	_	_
+19	żgur	_	ADJ	ADJ	_	13	advcl	_	_
+20	li	_	SCONJ	COMP	_	21	mark	_	_
+21	għadhom	_	VERB	VERB_PSEU	_	19	ccomp	_	_
+22	hemm	_	VERB	HEMM	_	21	xcomp	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:14
+# text = Ħares lejhom u tbissem.
+1	Ħares	_	VERB	VERB	_	0	root	_	_
+2	lejhom	_	PRON	PREP_PRON	_	1	obl	_	_
+3	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+4	tbissem	_	VERB	VERB	_	1	conj	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:15
+# text = Kull karta kienet miksija b'kitba rqiqa sabiħa, isem wara isem, wieħed wara l-ieħor.
+1	Kull	_	DET	QUAN	_	2	det	_	_
+2	karta	_	NOUN	NOUN	_	4	nsubj:pass	_	_
+3	kienet	_	AUX	KIEN	_	4	cop	_	_
+4	miksija	_	VERB	PART_PASS	_	0	root	_	_
+5	b'	_	ADP	PREP	_	6	case	_	SpaceAfter=No
+6	kitba	_	NOUN	NOUN	_	4	obl	_	_
+7	rqiqa	_	ADJ	ADJ	_	6	amod	_	_
+8	sabiħa	_	ADJ	ADJ	_	6	amod	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	10	punct	_	_
+10	isem	_	NOUN	NOUN	_	6	appos	_	_
+11	wara	_	ADP	PREP	_	12	case	_	_
+12	isem	_	NOUN	NOUN	_	10	nmod	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	10	punct	_	_
+14	wieħed	_	NUM	NUM_WHD	_	10	conj	_	_
+15	wara	_	ADP	PREP	_	17	case	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	ieħor	_	NOUN	NOUN	_	14	nmod	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:16
+# text = Tewa l-karti f'erbgħa u deffishom fiż-żarbuna.
+1	Tewa	_	VERB	VERB	_	0	root	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	karti	_	NOUN	NOUN	_	1	obj	_	_
+4	f'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
+5	erbgħa	_	NUM	NUM_CRD	_	1	obl	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	deffishom	_	VERB	VERB	_	1	conj	_	_
+8	fiż-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	żarbuna	_	NOUN	NOUN	_	7	obl	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:17
+# text = Issa li kien irnexxielu jakkwistahom, kien se jagħmel li jista' biex ma jitlifhomx.
+1	Issa	_	ADV	ADV	_	9	advmod	_	_
+2	li	_	SCONJ	COMP	_	4	mark	_	_
+3	kien	_	AUX	KIEN	_	4	aux	_	_
+4	irnexxielu	_	VERB	VERB	_	1	ccomp	_	_
+5	jakkwistahom	_	VERB	VERB	_	4	xcomp	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	1	punct	_	_
+7	kien	_	AUX	KIEN	_	9	aux	_	_
+8	se	_	AUX	FUT	_	9	aux:part	_	_
+9	jagħmel	_	VERB	VERB	_	0	root	_	_
+10	li	_	SCONJ	COMP	_	11	mark	_	_
+11	jista'	_	VERB	VERB	_	9	xcomp	_	_
+12	biex	_	SCONJ	CONJ_SUB	_	14	mark	_	_
+13	ma	_	PART	NEG	_	14	advmod:neg	_	_
+14	jitlifhomx	_	VERB	VERB	_	11	xcomp	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 47_01F09:18
+# text = Min jaf kemm se jinkorla la jsib il-paġni mqattgħin!
+1	Min	_	PRON	PRON_INT	_	2	nsubj	_	_
+2	jaf	_	VERB	VERB	_	0	root	_	_
+3	kemm	_	ADV	PRON_INT	_	5	advmod	_	_
+4	se	_	AUX	FUT	_	5	aux:part	_	_
+5	jinkorla	_	VERB	VERB	_	2	ccomp	_	_
+6	la	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+7	jsib	_	VERB	VERB	_	5	advcl	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	paġni	_	NOUN	NOUN	_	7	obj	_	_
+10	mqattgħin	_	VERB	PART_PASS	_	7	xcomp	_	SpaceAfter=No
+11	!	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:19
+# text = Ħallieh ħa jinkorla.
+1	Ħallieh	_	VERB	VERB	_	0	root	_	_
+2	ħa	_	AUX	FUT	_	3	aux:part	_	_
+3	jinkorla	_	VERB	VERB	_	1	xcomp	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:20
+# text = Iċ-ċuċata li ma stajtx nisraq il-ktejjeb sħiħ.
+1	Iċ-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ċuċata	_	NOUN	NOUN	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	5	mark	_	_
+4	ma	_	PART	NEG	_	5	advmod:neg	_	_
+5	stajtx	_	VERB	VERB	_	2	ccomp	_	_
+6	nisraq	_	VERB	VERB	_	5	xcomp	_	_
+7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	ktejjeb	_	NOUN	NOUN	_	6	obj	_	_
+9	sħiħ	_	ADJ	ADJ	_	8	amod	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:21
+# text = U kieku qatt iżjed attent, kien ikolli l-imfetaħ ukoll!
+1	U	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+2	kieku	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+3	qatt	_	ADV	ADV	_	5	advmod	_	_
+4	iżjed	_	ADV	ADV	_	5	advmod	_	_
+5	attent	_	ADJ	ADJ	_	8	advcl	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	5	punct	_	_
+7	kien	_	AUX	KIEN	_	8	aux	_	_
+8	ikolli	_	VERB	VERB_PSEU	_	0	root	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	imfetaħ	_	NOUN	NOUN	_	8	obj	_	_
+11	ukoll	_	ADV	FOC	_	10	discourse	_	SpaceAfter=No
+12	!	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 47_01F09:22
+# text = Issa kellu l-ħatar x'jieħu ħsieb.
+1	Issa	_	ADV	ADV	_	2	advmod	_	_
+2	kellu	_	VERB	VERB_PSEU	_	0	root	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	ħatar	_	NOUN	NOUN	_	2	obj	_	_
+5	x'	_	PRON	PRON_INT	_	6	obj	_	SpaceAfter=No
+6	jieħu	_	VERB	VERB	_	4	acl	_	_
+7	ħsieb	_	NOUN	NOUN	_	6	compound	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:23
+# text = "Ersaq 'l hawn Damjan."
+1	"	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Ersaq	_	VERB	VERB	_	0	root	_	_
+3	'l	_	ADP	PREP	_	4	case	_	_
+4	hawn	_	ADV	ADV	_	2	advmod	_	_
+5	Damjan	_	PROPN	NOUN_PROP	_	2	vocative	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+7	"	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:24
+# text = It-tifel, boċċu boċċu, b'wiċċu mfaqqa', ruxxan mill-ġiri kollu li kienu ġrew, resaq maġenbu u l-Anġlu nġibed miegħu u qam bilwieqfa.
+1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	tifel	_	NOUN	NOUN	_	19	nsubj	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	boċċu	_	ADV	ADV	_	19	advmod	_	_
+5	boċċu	_	ADV	ADV	_	4	advmod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	4	punct	_	_
+7	b'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
+8	wiċċu	_	NOUN	NOUN	_	4	conj	_	_
+9	mfaqqa'	_	VERB	PART_PASS	_	8	amod	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	4	punct	_	_
+11	ruxxan	_	ADJ	ADJ	_	4	conj	_	_
+12	mill-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	ġiri	_	NOUN	NOUN	_	11	nmod	_	_
+14	kollu	_	DET	QUAN	_	13	det	_	_
+15	li	_	SCONJ	COMP	_	17	mark	_	_
+16	kienu	_	AUX	KIEN	_	17	aux	_	_
+17	ġrew	_	VERB	VERB	_	13	acl	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	11	punct	_	_
+19	resaq	_	VERB	VERB	_	0	root	_	_
+20	maġenbu	_	PRON	PREP_PRON	_	19	obl	_	_
+21	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	Anġlu	_	PROPN	NOUN_PROP	_	24	nsubj	_	_
+24	nġibed	_	VERB	VERB	_	19	conj	_	_
+25	miegħu	_	PRON	PREP_PRON	_	24	obl	_	_
+26	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+27	qam	_	VERB	VERB	_	24	conj	_	_
+28	bilwieqfa	_	ADV	ADV	_	27	advmod	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	19	punct	_	_
+
+# sent_id = 47_01F09:25
+# text = Kien għajjien.
+1	Kien	_	AUX	KIEN	_	2	cop	_	_
+2	għajjien	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:26
+# text = Kien ilhom sitt sigħat jiġru bla waqfien, u issa kien ilhom ma jorqdu jumejn.
+1	Kien	_	AUX	KIEN	_	2	aux	_	_
+2	ilhom	_	VERB	VERB_PSEU	_	0	root	_	_
+3	sitt	_	NUM	NUM_CRD	_	4	nummod	_	_
+4	sigħat	_	NOUN	NOUN	_	5	obl	_	_
+5	jiġru	_	VERB	VERB	_	2	xcomp	_	_
+6	bla	_	ADP	PREP	_	7	case	_	_
+7	waqfien	_	NOUN	NOUN	_	5	obl	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	2	punct	_	_
+9	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+10	issa	_	ADV	ADV	_	12	advmod	_	_
+11	kien	_	AUX	KIEN	_	12	aux	_	_
+12	ilhom	_	VERB	VERB_PSEU	_	2	conj	_	_
+13	ma	_	PART	NEG	_	14	advmod:neg	_	_
+14	jorqdu	_	VERB	VERB	_	12	xcomp	_	_
+15	jumejn	_	NOUN	NOUN	_	14	obl	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:27
+# text = Ħali iċ-ċinturin u fetaħ il-buttuna tal-qalziet.
+1	Ħali	_	VERB	VERB	_	0	root	_	_
+2	iċ-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	ċinturin	_	NOUN	NOUN	_	1	obj	_	_
+4	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+5	fetaħ	_	VERB	VERB	_	1	conj	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	buttuna	_	NOUN	NOUN	_	5	obj	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	qalziet	_	NOUN	NOUN	_	7	nmod:poss	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:28
+# text = Daħħal il-ħatar fil-qalza maġenb siequ l-leminija, u reġa' qafel kollox.
+1	Daħħal	_	VERB	VERB	_	0	root	_	_
+2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	ħatar	_	NOUN	NOUN	_	1	obj	_	_
+4	fil-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	qalza	_	NOUN	NOUN	_	1	obl	_	_
+6	maġenb	_	ADP	PREP	_	7	case	_	_
+7	siequ	_	NOUN	NOUN	_	5	nmod	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	leminija	_	ADJ	ADJ	_	7	amod	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	1	punct	_	_
+11	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+12	reġa'	_	VERB	VERB	_	1	conj	_	_
+13	qafel	_	VERB	VERB	_	12	xcomp	_	_
+14	kollox	_	PRON	PRON_INDEF	_	13	obj	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:29
+# text = Imbagħad ħareġ maktur mimli demm mill-but u qattgħu biċċiet u rabathom ma' siequ.
+1	Imbagħad	_	ADV	ADV	_	2	advmod	_	_
+2	ħareġ	_	VERB	VERB	_	0	root	_	_
+3	maktur	_	NOUN	NOUN	_	2	obj	_	_
+4	mimli	_	VERB	PART_PASS	_	3	acl	_	_
+5	demm	_	NOUN	NOUN	_	4	obl:arg	_	_
+6	mill-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	but	_	NOUN	NOUN	_	2	obl	_	_
+8	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+9	qattgħu	_	VERB	VERB	_	2	conj	_	_
+10	biċċiet	_	NOUN	NOUN	_	9	obl:arg	_	_
+11	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+12	rabathom	_	VERB	VERB	_	9	conj	_	_
+13	ma'	_	ADP	PREP	_	14	case	_	_
+14	siequ	_	NOUN	NOUN	_	12	obl	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:30
+# text = Mexa żewġ passi biex jara kif iħossu.
+1	Mexa	_	VERB	VERB	_	0	root	_	_
+2	żewġ	_	NUM	NUM_CRD	_	3	nummod	_	_
+3	passi	_	NOUN	NOUN	_	1	obj	_	_
+4	biex	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	jara	_	VERB	VERB	_	1	advcl	_	_
+6	kif	_	ADV	PRON_INT	_	7	advmod	_	_
+7	iħossu	_	VERB	VERB	_	5	xcomp	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:31
+# text = Min jarah jgħid li weġġa' siequ u ma jistax jimxi sew fuqha.
+1	Min	_	PRON	PRON_INT	_	3	nsubj	_	_
+2	jarah	_	VERB	VERB	_	1	acl	_	_
+3	jgħid	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	weġġa'	_	VERB	VERB	_	3	xcomp	_	_
+6	siequ	_	NOUN	NOUN	_	5	obj	_	_
+7	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+8	ma	_	PART	NEG	_	9	advmod:neg	_	_
+9	jistax	_	VERB	VERB	_	5	conj	_	_
+10	jimxi	_	VERB	VERB	_	9	xcomp	_	_
+11	sew	_	ADV	ADV	_	10	advmod	_	_
+12	fuqha	_	PRON	PREP_PRON	_	10	obl	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:32
+# text = "Reskin mgħallem!" reġa' sejjaħ Damjan, li kien reġa' ħa postu jħares 'l isfel.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Reskin	_	VERB	PART_ACT	_	0	root	_	_
+3	mgħallem	_	NOUN	NOUN	_	2	vocative	_	SpaceAfter=No
+4	!	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+5	"	_	PUNCT	X_PUN	_	2	punct	_	_
+6	reġa'	_	VERB	VERB	_	2	parataxis	_	_
+7	sejjaħ	_	VERB	VERB	_	6	xcomp	_	_
+8	Damjan	_	PROPN	NOUN_PROP	_	7	nsubj	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	8	punct	_	_
+10	li	_	SCONJ	COMP	_	12	mark	_	_
+11	kien	_	AUX	KIEN	_	12	aux	_	_
+12	reġa'	_	VERB	VERB	_	8	acl	_	_
+13	ħa	_	VERB	VERB	_	12	xcomp	_	_
+14	postu	_	NOUN	NOUN	_	13	obj	_	_
+15	jħares	_	VERB	VERB	_	13	xcomp	_	_
+16	'l	_	ADP	PREP	_	17	case	_	_
+17	isfel	_	ADV	ADV	_	15	obl:arg	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:33
+# text = "X'ħa nagħmlu?"
+1	"	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+2	X'	_	PRON	PRON_INT	_	4	obj	_	SpaceAfter=No
+3	ħa	_	AUX	FUT	_	4	aux:part	_	_
+4	nagħmlu	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+5	?	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+6	"	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:34
+# text = " Ma nistgħux naħarbu iżjed.
+1	"	_	PUNCT	X_PUN	_	3	punct	_	_
+2	Ma	_	PART	NEG	_	3	advmod:neg	_	_
+3	nistgħux	_	VERB	VERB	_	0	root	_	_
+4	naħarbu	_	VERB	VERB	_	3	xcomp	_	_
+5	iżjed	_	ADV	ADV	_	4	advmod	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:35
+# text = Ħallihom jaqbduna. "
+1	Ħallihom	_	VERB	VERB	_	0	root	_	_
+2	jaqbduna	_	VERB	VERB	_	1	xcomp	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	1	punct	_	_
+4	"	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:36
+# text = Iż-żewġt itfal daru jħarsu lejh b'għajnejhom mimlija biża'.
+1	Iż-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+2	żewġt	_	NUM	NUM_CRD	_	3	nummod	_	_
+3	itfal	_	NOUN	NOUN	_	4	nsubj	_	_
+4	daru	_	VERB	VERB	_	0	root	_	_
+5	jħarsu	_	VERB	VERB	_	4	xcomp	_	_
+6	lejh	_	PRON	PREP_PRON	_	5	obl:arg	_	_
+7	b'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
+8	għajnejhom	_	NOUN	NOUN	_	5	obl	_	_
+9	mimlija	_	VERB	PART_PASS	_	8	acl	_	_
+10	biża'	_	NOUN	NOUN	_	9	obl:arg	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:37
+# text = "Tinkwetawx," qalilhom bi tbissima, iżda ma tantx kien ta' sabar, lanqas għalih innifsu.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Tinkwetawx	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+4	"	_	PUNCT	X_PUN	_	2	punct	_	_
+5	qalilhom	_	VERB	VERB	_	2	parataxis	_	_
+6	bi	_	ADP	PREP	_	7	case	_	_
+7	tbissima	_	NOUN	NOUN	_	5	obl	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	5	punct	_	_
+9	iżda	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+10	ma	_	PART	NEG	_	14	advmod:neg	_	_
+11	tantx	_	AUX	VERB_PSEU	_	14	aux:neg	_	_
+12	kien	_	AUX	KIEN	_	14	cop	_	_
+13	ta'	_	ADP	GEN	_	14	case	_	_
+14	sabar	_	NOUN	NOUN	_	5	conj	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	14	punct	_	_
+16	lanqas	_	ADV	FOC	_	17	discourse	_	_
+17	għalih	_	PRON	PREP_PRON	_	14	obl	_	_
+18	innifsu	_	PRON	PRON_REF	_	17	nmod	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:38
+# text = Kien jaf x'ser jagħmlulhom, dawn in-nies ma kellhom stonku joqtlu lil ħadd.
+1	Kien	_	AUX	KIEN	_	2	aux	_	_
+2	jaf	_	VERB	VERB	_	0	root	_	_
+3	x'	_	PRON	PRON_INT	_	5	obj	_	SpaceAfter=No
+4	ser	_	AUX	FUT	_	5	aux:part	_	_
+5	jagħmlulhom	_	VERB	VERB	_	2	ccomp	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	dawn	_	PRON	PRON_DEM	_	9	det	_	_
+8	in-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	nies	_	NOUN	NOUN	_	11	nsubj	_	_
+10	ma	_	PART	NEG	_	11	advmod:neg	_	_
+11	kellhom	_	VERB	VERB_PSEU	_	2	parataxis	_	_
+12	stonku	_	NOUN	NOUN	_	11	obj	_	_
+13	joqtlu	_	VERB	VERB	_	11	xcomp	_	_
+14	lil	_	ADP	LIL	_	15	case	_	_
+15	ħadd	_	PRON	PRON_INDEF	_	13	obj	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:39
+# text = Jista' jkun li lit-tfal jeħduhomlu, jżommuhom hawn, iżda lilu jibagħtuh lura żgur.
+1	Jista'	_	VERB	VERB	_	0	root	_	_
+2	jkun	_	AUX	KIEN	_	1	xcomp	_	_
+3	li	_	SCONJ	COMP	_	6	mark	_	_
+4	lit-	_	ADP	LIL_DEF	_	5	case:det	_	SpaceAfter=No
+5	tfal	_	NOUN	NOUN	_	6	obj	_	_
+6	jeħduhomlu	_	VERB	VERB	_	2	ccomp	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	6	punct	_	_
+8	jżommuhom	_	VERB	VERB	_	6	conj	_	_
+9	hawn	_	ADV	ADV	_	8	advmod	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	6	punct	_	_
+11	iżda	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+12	lilu	_	PRON	LIL_PRON	_	13	obj	_	_
+13	jibagħtuh	_	VERB	VERB	_	6	conj	_	_
+14	lura	_	ADV	ADV	_	13	advmod	_	_
+15	żgur	_	ADV	ADV	_	13	advmod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:40
+# text = Illum stess.
+1	Illum	_	ADV	ADV	_	0	root	_	_
+2	stess	_	PRON	PRON_REF	_	1	obl	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:41
+# text = Ħamsa u għoxrin kienu wisq għalihom it-tlieta.
+1	Ħamsa	_	NUM	NUM_CRD	_	5	nsubj	_	_
+2	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+3	għoxrin	_	NUM	NUM_CRD	_	1	conj	_	_
+4	kienu	_	AUX	KIEN	_	5	cop	_	_
+5	wisq	_	ADV	ADV	_	0	root	_	_
+6	għalihom	_	PRON	PREP_PRON	_	5	obl	_	_
+7	it-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	tlieta	_	NUM	NUM_CRD	_	6	appos	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 47_01F09:42
+# text = Ma kienx jiddubita miż-żewġt itfal, kienu wrewh diġà xi jsarrfu.
+1	Ma	_	PART	NEG	_	3	advmod:neg	_	_
+2	kienx	_	AUX	KIEN	_	3	aux	_	_
+3	jiddubita	_	VERB	VERB	_	0	root	_	_
+4	miż-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+5	żewġt	_	NUM	NUM_CRD	_	6	nummod	_	_
+6	itfal	_	NOUN	NOUN	_	3	obl:arg	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	6	punct	_	_
+8	kienu	_	AUX	KIEN	_	9	aux	_	_
+9	wrewh	_	VERB	VERB	_	6	parataxis	_	_
+10	diġà	_	ADV	ADV	_	9	advmod	_	_
+11	xi	_	PRON	PRON_INT	_	9	obj	_	_
+12	jsarrfu	_	VERB	VERB	_	11	acl	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:43
+# text = Iżda mhux kontra ħamsa u għoxrin f'daqqa.
+1	Iżda	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+2	mhux	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
+3	kontra	_	ADP	PREP	_	4	case	_	_
+4	ħamsa	_	NUM	NUM_CRD	_	0	root	_	_
+5	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+6	għoxrin	_	NUM	NUM_CRD	_	4	conj	_	_
+7	f'	_	ADP	PREP	_	8	case	_	SpaceAfter=No
+8	daqqa	_	NOUN	NOUN	_	4	obl	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:44
+# text = Issa nħallihom jaqbduni, x'aktarx jagħmluli xi diskursata l-Kunsill tad-disgħa ... tat-tmienja issa! ... u jitfgħuni 'il barra.
+1	Issa	_	ADV	ADV	_	2	advmod	_	_
+2	nħallihom	_	VERB	VERB	_	0	root	_	_
+3	jaqbduni	_	VERB	VERB	_	2	xcomp	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	2	punct	_	_
+5	x'	_	ADV	PRON_INT	_	7	advmod	_	SpaceAfter=No
+6	aktarx	_	ADV	ADV	_	5	fixed	_	_
+7	jagħmluli	_	VERB	VERB	_	2	parataxis	_	_
+8	xi	_	DET	QUAN	_	9	det	_	_
+9	diskursata	_	NOUN	NOUN	_	7	obj	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	Kunsill	_	NOUN	NOUN	_	7	nsubj	_	_
+12	tad-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	disgħa	_	NUM	NUM_CRD	_	11	nmod:poss	_	_
+14	...	_	PUNCT	X_PUN	_	16	punct	_	_
+15	tat-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
+16	tmienja	_	NUM	NUM_CRD	_	13	appos	_	_
+17	issa	_	ADV	ADV	_	16	advmod	_	SpaceAfter=No
+18	!	_	PUNCT	X_PUN	_	16	punct	_	_
+19	...	_	PUNCT	X_PUN	_	16	punct	_	_
+20	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+21	jitfgħuni	_	VERB	VERB	_	7	conj	_	_
+22	'il	_	ADP	PREP	_	23	case	_	_
+23	barra	_	ADV	ADV	_	21	advmod	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:45
+# text = Ix-xemx kien għadha kif niżlet xi ftit waqtiet ilu u x-xefaq kien għadu ħamrani.
+1	Ix-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	xemx	_	NOUN	NOUN	_	4	nsubj	_	_
+3	kien	_	AUX	KIEN	_	4	aux	_	_
+4	għadha	_	VERB	VERB_PSEU	_	0	root	_	_
+5	kif	_	ADV	PRON_INT	_	6	advmod	_	_
+6	niżlet	_	VERB	VERB	_	4	xcomp	_	_
+7	xi	_	DET	QUAN	_	9	det	_	_
+8	ftit	_	DET	QUAN	_	9	det	_	_
+9	waqtiet	_	NOUN	NOUN	_	6	obl	_	_
+10	ilu	_	ADP	PREP	_	9	case	_	_
+11	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+12	x-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	xefaq	_	NOUN	NOUN	_	15	nsubj	_	_
+14	kien	_	AUX	KIEN	_	15	aux	_	_
+15	għadu	_	VERB	VERB_PSEU	_	4	conj	_	_
+16	ħamrani	_	ADJ	ADJ	_	15	xcomp	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:46
+# text = Kienu jinsabu fuq Ras il-Pellegrin, moħbija bejn erba' blatiet kbar weqfin, donnhom snien ippuntati telgħin 'il fuq lejn is-sema.
+1	Kienu	_	AUX	KIEN	_	2	aux	_	_
+2	jinsabu	_	VERB	VERB	_	0	root	_	_
+3	fuq	_	ADP	PREP	_	4	case	_	_
+4	Ras	_	NOUN	NOUN	_	2	obl	_	_
+5	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	Pellegrin	_	NOUN	NOUN	_	4	nmod:poss	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	2	punct	_	_
+8	moħbija	_	VERB	PART_PASS	_	2	xcomp	_	_
+9	bejn	_	ADP	PREP	_	11	case	_	_
+10	erba'	_	NUM	NUM_CRD	_	11	nummod	_	_
+11	blatiet	_	NOUN	NOUN	_	8	obl	_	_
+12	kbar	_	ADJ	ADJ	_	11	amod	_	_
+13	weqfin	_	VERB	PART_ACT	_	11	amod	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	11	punct	_	_
+15	donnhom	_	VERB	VERB_PSEU	_	11	acl	_	_
+16	snien	_	NOUN	NOUN	_	15	xcomp	_	_
+17	ippuntati	_	VERB	PART_PASS	_	16	amod	_	_
+18	telgħin	_	VERB	PART_ACT	_	16	acl	_	_
+19	'il	_	ADP	PREP	_	20	case	_	_
+20	fuq	_	ADV	ADV	_	18	advmod	_	_
+21	lejn	_	ADP	PREP	_	23	case	_	_
+22	is-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	sema	_	NOUN	NOUN	_	18	obl	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:47
+# text = Ma kellhomx fejn jaħarbu iżjed.
+1	Ma	_	PART	NEG	_	2	advmod:neg	_	_
+2	kellhomx	_	VERB	VERB_PSEU	_	0	root	_	_
+3	fejn	_	ADV	PRON_INT	_	4	advmod	_	_
+4	jaħarbu	_	VERB	VERB	_	2	xcomp	_	_
+5	iżjed	_	ADV	ADV	_	4	advmod	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:48
+# text = " Damjan, Sa-marin, isimgħuni.
+1	"	_	PUNCT	X_PUN	_	6	punct	_	_
+2	Damjan	_	PROPN	NOUN_PROP	_	6	vocative	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	Sa-marin	_	PROPN	NOUN_PROP	_	2	conj	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	2	punct	_	_
+6	isimgħuni	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+7	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 47_01F09:49
+# text = M'għandniex ċans kontrihom illum.
+1	M'	_	PART	NEG	_	2	advmod:neg	_	SpaceAfter=No
+2	għandniex	_	VERB	VERB_PSEU	_	0	root	_	_
+3	ċans	_	NOUN	NOUN	_	2	obj	_	_
+4	kontrihom	_	PRON	PREP_PRON	_	3	nmod	_	_
+5	illum	_	ADV	ADV	_	2	advmod	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:50
+# text = Ħalluhom jiġu.
+1	Ħalluhom	_	VERB	VERB	_	0	root	_	_
+2	jiġu	_	VERB	VERB	_	1	xcomp	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:51
+# text = Jasal iż-żmien meta nkunu aktar lesti, u nieħdu lura dak li hu tagħna.
+1	Jasal	_	VERB	VERB	_	0	root	_	_
+2	iż-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	żmien	_	NOUN	NOUN	_	1	nsubj	_	_
+4	meta	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+5	nkunu	_	AUX	KIEN	_	7	cop	_	_
+6	aktar	_	ADV	ADV	_	7	advmod	_	_
+7	lesti	_	ADJ	ADJ	_	3	acl	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	7	punct	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	nieħdu	_	VERB	VERB	_	7	conj	_	_
+11	lura	_	ADV	ADV	_	10	advmod	_	_
+12	dak	_	PRON	PRON_DEM	_	10	obj	_	_
+13	li	_	SCONJ	COMP	_	15	mark	_	_
+14	hu	_	PRON	PRON_PERS	_	15	cop	_	_
+15	tagħna	_	PRON	GEN_PRON	_	12	acl	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:52
+# text = Issa agħtuni daqqa t'id, żommuni ħalli nagħmel ta' bir-ruħi li ma nistax nimxi sew, b'hekk ma jiħdulix dak li ġġilidt għalih. "
+1	Issa	_	ADV	ADV	_	2	advmod	_	_
+2	agħtuni	_	VERB	VERB	_	0	root	_	_
+3	daqqa	_	NOUN	NOUN	_	2	obj	_	_
+4	t'	_	ADP	GEN	_	5	case	_	SpaceAfter=No
+5	id	_	NOUN	NOUN	_	3	nmod:poss	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	żommuni	_	VERB	VERB	_	2	conj	_	_
+8	ħalli	_	SCONJ	CONJ_SUB	_	9	mark	_	_
+9	nagħmel	_	VERB	VERB	_	7	advcl	_	_
+10	ta'	_	ADP	GEN	_	12	case	_	_
+11	bir-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	ruħi	_	NOUN	NOUN	_	9	obl:arg	_	_
+13	li	_	SCONJ	COMP	_	15	mark	_	_
+14	ma	_	PART	NEG	_	15	advmod:neg	_	_
+15	nistax	_	VERB	VERB	_	9	xcomp	_	_
+16	nimxi	_	VERB	VERB	_	15	xcomp	_	_
+17	sew	_	ADV	ADV	_	16	advmod	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	9	punct	_	_
+19	b'	_	ADP	PREP	_	20	case	_	SpaceAfter=No
+20	hekk	_	ADV	ADV	_	22	advmod	_	_
+21	ma	_	PART	NEG	_	22	advmod:neg	_	_
+22	jiħdulix	_	VERB	VERB	_	9	conj	_	_
+23	dak	_	PRON	PRON_DEM	_	22	obj	_	_
+24	li	_	SCONJ	COMP	_	25	mark	_	_
+25	ġġilidt	_	VERB	VERB	_	23	acl	_	_
+26	għalih	_	PRON	PREP_PRON	_	25	obl:arg	_	SpaceAfter=No
+27	.	_	PUNCT	X_PUN	_	2	punct	_	_
+28	"	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:53
+# text = Damjan u Sa-marin resqu qribu, wieħed kull naħa u straħ magħhom, imbagħad baqgħu jistennew hemm.
+1	Damjan	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+2	u	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+3	Sa-marin	_	PROPN	NOUN_PROP	_	1	conj	_	_
+4	resqu	_	VERB	VERB	_	0	root	_	_
+5	qribu	_	PRON	PREP_PRON	_	4	obl	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	5	punct	_	_
+7	wieħed	_	NUM	NUM_WHD	_	9	nsubj	_	_
+8	kull	_	DET	QUAN	_	9	det	_	_
+9	naħa	_	NOUN	NOUN	_	4	parataxis	_	_
+10	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+11	straħ	_	VERB	VERB	_	4	conj	_	_
+12	magħhom	_	PRON	PREP_PRON	_	11	obl	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	4	punct	_	_
+14	imbagħad	_	ADV	ADV	_	15	advmod	_	_
+15	baqgħu	_	VERB	VERB	_	4	conj	_	_
+16	jistennew	_	VERB	VERB	_	15	xcomp	_	_
+17	hemm	_	ADV	ADV	_	16	advmod	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:54
+# text = F'daqqa waħda ħass leħen f'moħħu, leħen li kien sar jagħraf u jistmerr.
+1	F'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	daqqa	_	NOUN	NOUN	_	4	obl	_	_
+3	waħda	_	NUM	NUM_WHD	_	2	nummod	_	_
+4	ħass	_	VERB	VERB	_	0	root	_	_
+5	leħen	_	NOUN	NOUN	_	4	obj	_	_
+6	f'	_	ADP	PREP	_	7	case	_	SpaceAfter=No
+7	moħħu	_	NOUN	NOUN	_	5	nmod	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	5	punct	_	_
+9	leħen	_	NOUN	NOUN	_	5	appos	_	_
+10	li	_	SCONJ	COMP	_	12	mark	_	_
+11	kien	_	AUX	KIEN	_	12	aux	_	_
+12	sar	_	VERB	VERB	_	9	acl	_	_
+13	jagħraf	_	VERB	VERB	_	12	xcomp	_	_
+14	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+15	jistmerr	_	VERB	VERB	_	13	conj	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:55
+# text = " Oħroġ minn hemm!
+1	"	_	PUNCT	X_PUN	_	2	punct	_	_
+2	Oħroġ	_	VERB	VERB	_	0	root	_	_
+3	minn	_	ADP	PREP	_	4	case	_	_
+4	hemm	_	ADV	ADV	_	2	advmod	_	SpaceAfter=No
+5	!	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:56
+# text = Nafu fejn kiegħed tinħeba, m'għandekx fejn taħrab iżjed.
+1	Nafu	_	VERB	VERB	_	0	root	_	_
+2	fejn	_	ADV	PRON_INT	_	4	advmod	_	_
+3	kiegħed	_	AUX	PROG	_	4	aux:part	_	_
+4	tinħeba	_	VERB	VERB	_	1	xcomp	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	4	punct	_	_
+6	m'	_	PART	NEG	_	7	advmod:neg	_	SpaceAfter=No
+7	għandekx	_	VERB	VERB_PSEU	_	1	parataxis	_	_
+8	fejn	_	ADV	PRON_INT	_	9	advmod	_	_
+9	taħrab	_	VERB	VERB	_	7	xcomp	_	_
+10	iżjed	_	ADV	ADV	_	9	advmod	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:57
+# text = Xerridt id-demm fejn katt ma kien nxteredt, żrajt il-mibegħda fejn kien hemm l-imħabba, skejtna l-għira u dewwaktna l-ħażen.
+1	Xerridt	_	VERB	VERB	_	0	root	_	_
+2	id-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	demm	_	NOUN	NOUN	_	1	obj	_	_
+4	fejn	_	ADV	PRON_INT	_	8	advmod	_	_
+5	katt	_	ADV	ADV	_	8	advmod	_	_
+6	ma	_	PART	NEG	_	8	advmod:neg	_	_
+7	kien	_	AUX	KIEN	_	8	aux	_	_
+8	nxteredt	_	VERB	VERB	_	1	advcl	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	1	punct	_	_
+10	żrajt	_	VERB	VERB	_	1	conj	_	_
+11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	mibegħda	_	NOUN	NOUN	_	10	obj	_	_
+13	fejn	_	ADV	PRON_INT	_	15	advmod	_	_
+14	kien	_	AUX	KIEN	_	15	aux	_	_
+15	hemm	_	VERB	HEMM	_	10	advcl	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	imħabba	_	NOUN	NOUN	_	15	nsubj	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	1	punct	_	_
+19	skejtna	_	VERB	VERB	_	1	conj	_	_
+20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	għira	_	NOUN	NOUN	_	19	obj	_	_
+22	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+23	dewwaktna	_	VERB	VERB	_	1	conj	_	_
+24	l-	_	DET	DEF	_	25	det	_	SpaceAfter=No
+25	ħażen	_	NOUN	NOUN	_	23	obj	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:58
+# text = Oħroġ ja assassin. "
+1	Oħroġ	_	VERB	VERB	_	0	root	_	_
+2	ja	_	INTJ	INT	_	3	discourse	_	_
+3	assassin	_	NOUN	NOUN	_	1	vocative	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	1	punct	_	_
+5	"	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:59
+# text = Ftit wara, leħen oħxon u qawwi nstema' jidwi mal-blat tal-Ġnejna minn taħthom.
+1	Ftit	_	DET	QUAN	_	2	det	_	_
+2	wara	_	ADV	ADV	_	8	advmod	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	leħen	_	NOUN	NOUN	_	8	nsubj:pass	_	_
+5	oħxon	_	ADJ	ADJ	_	4	amod	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	qawwi	_	ADJ	ADJ	_	5	conj	_	_
+8	nstema'	_	VERB	VERB	_	0	root	_	_
+9	jidwi	_	VERB	VERB	_	8	xcomp	_	_
+10	mal-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	blat	_	NOUN	NOUN	_	9	obl	_	_
+12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	Ġnejna	_	PROPN	NOUN_PROP	_	11	nmod:poss	_	_
+14	minn	_	ADP	PREP	_	15	case	_	_
+15	taħthom	_	PRON	PREP_PRON	_	11	nmod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 47_01F09:60
+# text = " Il-ħin tagħkom wasal.
+1	"	_	PUNCT	X_PUN	_	5	punct	_	_
+2	Il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	ħin	_	NOUN	NOUN	_	5	nsubj	_	_
+4	tagħkom	_	PRON	GEN_PRON	_	3	nmod:poss	_	_
+5	wasal	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 47_01F09:61
+# text = Oħorġu fil-beraħ. "
+1	Oħorġu	_	VERB	VERB	_	0	root	_	_
+2	fil-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+3	beraħ	_	NOUN	NOUN	_	1	obl	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	1	punct	_	_
+5	"	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:62
+# text = Mikiel taptap tnejn fuq spallet it-tfal.
+1	Mikiel	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+2	taptap	_	VERB	VERB	_	0	root	_	_
+3	tnejn	_	NUM	NUM_CRD	_	2	obj	_	_
+4	fuq	_	ADP	PREP	_	5	case	_	_
+5	spallet	_	NOUN	NOUN	_	2	obl	_	_
+6	it-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	tfal	_	NOUN	NOUN	_	5	nmod:poss	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:63
+# text = "Imxu," u t-tlieta li huma ħarġu minn wara l-blata wieqfa li kienet qed taħbihom.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Imxu	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+4	"	_	PUNCT	X_PUN	_	2	punct	_	_
+5	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+6	t-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	tlieta	_	NUM	NUM_CRD	_	10	nsubj	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	huma	_	PRON	PRON_PERS	_	7	acl	_	_
+10	ħarġu	_	VERB	VERB	_	2	conj	_	_
+11	minn	_	ADP	PREP	_	14	case	_	_
+12	wara	_	ADV	ADV	_	14	advmod	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	blata	_	NOUN	NOUN	_	10	obl	_	_
+15	wieqfa	_	VERB	PART_ACT	_	14	amod	_	_
+16	li	_	SCONJ	COMP	_	19	mark	_	_
+17	kienet	_	AUX	KIEN	_	19	aux	_	_
+18	qed	_	AUX	PROG	_	19	aux:part	_	_
+19	taħbihom	_	VERB	VERB	_	14	acl	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 47_01F09:64
+# text = Waqfu hemm jistennew.
+1	Waqfu	_	VERB	VERB	_	0	root	_	_
+2	hemm	_	ADV	ADV	_	1	advmod	_	_
+3	jistennew	_	VERB	VERB	_	1	xcomp	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:65
+# text = Mingħajr ma ntqalet kelma oħra, il-ħamsa u għoxrin għassies daru dawra mejt magħhom u bla kliem u bla sliem ġagħluhom jimxu 'l isfel lejn il-wied, minn fejn bdew telgħin bil-mod il-mod lejn Wied is-Santi.
+1	Mingħajr	_	ADP	PREP	_	3	mark	_	_
+2	ma	_	SCONJ	COMP	_	1	fixed	_	_
+3	ntqalet	_	VERB	VERB	_	12	advcl	_	_
+4	kelma	_	NOUN	NOUN	_	3	nsubj:pass	_	_
+5	oħra	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	3	punct	_	_
+7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	ħamsa	_	NUM	NUM_CRD	_	11	nummod	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	għoxrin	_	NUM	NUM_CRD	_	8	conj	_	_
+11	għassies	_	NOUN	NOUN	_	12	nsubj	_	_
+12	daru	_	VERB	VERB	_	0	root	_	_
+13	dawra	_	NOUN	NOUN	_	12	obj	_	_
+14	mejt	_	NOUN	NOUN	_	13	nmod	_	_
+15	magħhom	_	PRON	PREP_PRON	_	13	obl	_	_
+16	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
+17	bla	_	ADP	PREP	_	18	case	_	_
+18	kliem	_	NOUN	NOUN	_	22	obl	_	_
+19	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+20	bla	_	ADP	PREP	_	21	case	_	_
+21	sliem	_	NOUN	NOUN	_	18	conj	_	_
+22	ġagħluhom	_	VERB	VERB	_	12	conj	_	_
+23	jimxu	_	VERB	VERB	_	22	xcomp	_	_
+24	'l	_	ADP	PREP	_	25	case	_	_
+25	isfel	_	ADV	ADV	_	23	advmod	_	_
+26	lejn	_	ADP	PREP	_	28	case	_	_
+27	il-	_	DET	DEF	_	28	det	_	SpaceAfter=No
+28	wied	_	NOUN	NOUN	_	23	obl	_	SpaceAfter=No
+29	,	_	PUNCT	X_PUN	_	28	punct	_	_
+30	minn	_	ADP	PREP	_	31	case	_	_
+31	fejn	_	PRON	PRON_INT	_	32	obl	_	_
+32	bdew	_	VERB	VERB	_	28	acl	_	_
+33	telgħin	_	VERB	PART_ACT	_	32	xcomp	_	_
+34	bil-	_	ADP	PREP_DEF	_	35	case:det	_	SpaceAfter=No
+35	mod	_	NOUN	NOUN	_	33	obl	_	_
+36	il-	_	DET	DEF	_	37	det	_	SpaceAfter=No
+37	mod	_	NOUN	NOUN	_	35	nmod	_	_
+38	lejn	_	ADP	PREP	_	39	case	_	_
+39	Wied	_	NOUN	NOUN	_	33	obl	_	_
+40	is-	_	DET	DEF	_	41	det	_	SpaceAfter=No
+41	Santi	_	PROPN	NOUN_PROP	_	39	nmod:poss	_	SpaceAfter=No
+42	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 47_01F09:66
+# text = Baqgħu mexjin għalkemm kien beda jidlam, b'Mikiel miexi bejn Damjan u Sa-marin izappap.
+1	Baqgħu	_	VERB	VERB	_	0	root	_	_
+2	mexjin	_	VERB	PART_ACT	_	1	xcomp	_	_
+3	għalkemm	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+4	kien	_	AUX	KIEN	_	5	aux	_	_
+5	beda	_	VERB	VERB	_	2	advcl	_	_
+6	jidlam	_	VERB	VERB	_	5	xcomp	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	2	punct	_	_
+8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+9	Mikiel	_	PROPN	NOUN_PROP	_	2	obl	_	_
+10	miexi	_	VERB	PART_ACT	_	9	acl	_	_
+11	bejn	_	ADP	PREP	_	12	case	_	_
+12	Damjan	_	PROPN	NOUN_PROP	_	10	obl	_	_
+13	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+14	Sa-marin	_	PROPN	NOUN_PROP	_	12	conj	_	_
+15	izappap	_	VERB	VERB	_	10	xcomp	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 47_01F09:67
+# text = Il-qamar tela' nofsu mixgħul, nofsu mudlam, u fid-dawl fiddien tiegħu imxew fis-skiet lejn Ħaġar Qim.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	qamar	_	NOUN	NOUN	_	3	nsubj	_	_
+3	tela'	_	VERB	VERB	_	0	root	_	_
+4	nofsu	_	NUM	NUM_FRC	_	5	nsubj	_	_
+5	mixgħul	_	VERB	PART_PASS	_	3	advcl	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	5	punct	_	_
+7	nofsu	_	NUM	NUM_FRC	_	8	nsubj	_	_
+8	mudlam	_	VERB	PART_PASS	_	5	conj	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	5	punct	_	_
+10	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+11	fid-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	dawl	_	NOUN	NOUN	_	15	obl	_	_
+13	fiddien	_	ADJ	ADJ	_	12	amod	_	_
+14	tiegħu	_	PRON	GEN_PRON	_	12	nmod:poss	_	_
+15	imxew	_	VERB	VERB	_	3	conj	_	_
+16	fis-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	skiet	_	NOUN	NOUN	_	15	obl	_	_
+18	lejn	_	ADP	PREP	_	19	case	_	_
+19	Ħaġar	_	PROPN	NOUN_PROP	_	15	obl	_	_
+20	Qim	_	PROPN	NOUN_PROP	_	19	flat:name	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:68
+# text = Fuq barra tal-Maqdes l-għassiesa waqfu, imbagħad ħames għassiesa daħħlu lil Mikiel ġewwa ċirku tal-ġebel impoġġi fl-art, kull ġebla tiddi lewn il-qamar, u waqa' għarkupptejh fin-nofs taċ-ċirku.
+1	Fuq	_	ADP	PREP	_	2	case	_	_
+2	barra	_	ADV	ADV	_	7	advmod	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	Maqdes	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	għassiesa	_	NOUN	NOUN	_	7	nsubj	_	_
+7	waqfu	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	7	punct	_	_
+9	imbagħad	_	ADV	ADV	_	12	advmod	_	_
+10	ħames	_	NUM	NUM_CRD	_	11	nummod	_	_
+11	għassiesa	_	NOUN	NOUN	_	12	nsubj	_	_
+12	daħħlu	_	VERB	VERB	_	7	conj	_	_
+13	lil	_	ADP	LIL	_	14	case	_	_
+14	Mikiel	_	PROPN	NOUN_PROP	_	12	obj	_	_
+15	ġewwa	_	ADP	PREP	_	16	case	_	_
+16	ċirku	_	NOUN	NOUN	_	12	obl	_	_
+17	tal-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	ġebel	_	NOUN	NOUN	_	16	nmod:poss	_	_
+19	impoġġi	_	VERB	PART_PASS	_	16	acl	_	_
+20	fl-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
+21	art	_	NOUN	NOUN	_	19	obl	_	SpaceAfter=No
+22	,	_	PUNCT	X_PUN	_	25	punct	_	_
+23	kull	_	DET	QUAN	_	24	det	_	_
+24	ġebla	_	NOUN	NOUN	_	25	nsubj	_	_
+25	tiddi	_	VERB	VERB	_	16	parataxis	_	_
+26	lewn	_	NOUN	NOUN	_	25	obj	_	_
+27	il-	_	DET	DEF	_	28	det	_	SpaceAfter=No
+28	qamar	_	NOUN	NOUN	_	26	nmod:poss	_	SpaceAfter=No
+29	,	_	PUNCT	X_PUN	_	25	punct	_	_
+30	u	_	CCONJ	CONJ_CORD	_	31	cc	_	_
+31	waqa'	_	VERB	VERB	_	12	conj	_	_
+32	għarkupptejh	_	ADV	ADV	_	31	advmod	_	_
+33	fin-	_	ADP	PREP_DEF	_	34	case:det	_	SpaceAfter=No
+34	nofs	_	NUM	NUM_FRC	_	31	obl	_	_
+35	taċ-	_	ADP	GEN_DEF	_	36	case:det	_	SpaceAfter=No
+36	ċirku	_	NOUN	NOUN	_	34	nmod:poss	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 47_01F09:69
+# text = Iż-żewġt itfal ħarbu minn idejn l-għassiesa l-oħra li kienu waqfu barra u daħlu fiċ-ċirku maġenbu.
+1	Iż-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+2	żewġt	_	NUM	NUM_CRD	_	3	nummod	_	_
+3	itfal	_	NOUN	NOUN	_	4	nsubj	_	_
+4	ħarbu	_	VERB	VERB	_	0	root	_	_
+5	minn	_	ADP	PREP	_	6	case	_	_
+6	idejn	_	NOUN	NOUN	_	4	obl	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	għassiesa	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	oħra	_	ADJ	ADJ	_	8	amod	_	_
+11	li	_	SCONJ	COMP	_	13	mark	_	_
+12	kienu	_	AUX	KIEN	_	13	aux	_	_
+13	waqfu	_	VERB	VERB	_	8	acl	_	_
+14	barra	_	ADV	ADV	_	13	advmod	_	_
+15	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+16	daħlu	_	VERB	VERB	_	4	conj	_	_
+17	fiċ-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	ċirku	_	NOUN	NOUN	_	16	obl	_	_
+19	maġenbu	_	PRON	PREP_PRON	_	16	obl	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:70
+# text = " Damjan, Sa-marin, ejjew lura.
+1	"	_	PUNCT	X_PUN	_	6	punct	_	_
+2	Damjan	_	PROPN	NOUN_PROP	_	6	vocative	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	Sa-marin	_	PROPN	NOUN_PROP	_	2	conj	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	2	punct	_	_
+6	ejjew	_	VERB	VERB	_	0	root	_	_
+7	lura	_	ADV	ADV	_	6	advmod	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 47_01F09:71
+# text = Dik mhux il-ħajja li tridu!, " għajjat Abram.
+1	Dik	_	PRON	PRON_DEM	_	4	nsubj	_	_
+2	mhux	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	ħajja	_	NOUN	NOUN	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	tridu	_	VERB	VERB	_	4	acl	_	SpaceAfter=No
+7	!	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	4	punct	_	_
+9	"	_	PUNCT	X_PUN	_	4	punct	_	_
+10	għajjat	_	VERB	VERB	_	4	parataxis	_	_
+11	Abram	_	PROPN	NOUN_PROP	_	10	nsubj	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 47_01F09:72
+# text = Iżda t-tfal kull ma għamlu xenglu tnejn rashom, imbagħad poġġew idejhom fuq spallet Mikiel, biex juruhom x'fiħsiebhom jagħmlu.
+1	Iżda	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+2	t-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	tfal	_	NOUN	NOUN	_	7	dislocated	_	_
+4	kull	_	DET	QUAN	_	7	dislocated	_	_
+5	ma	_	SCONJ	COMP	_	6	mark	_	_
+6	għamlu	_	VERB	VERB	_	4	acl	_	_
+7	xenglu	_	VERB	VERB	_	0	root	_	_
+8	tnejn	_	NUM	NUM_CRD	_	7	nsubj	_	_
+9	rashom	_	NOUN	NOUN	_	7	obj	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	7	punct	_	_
+11	imbagħad	_	ADV	ADV	_	12	advmod	_	_
+12	poġġew	_	VERB	VERB	_	7	parataxis	_	_
+13	idejhom	_	NOUN	NOUN	_	12	obj	_	_
+14	fuq	_	ADP	PREP	_	15	case	_	_
+15	spallet	_	NOUN	NOUN	_	12	obl	_	_
+16	Mikiel	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	12	punct	_	_
+18	biex	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+19	juruhom	_	VERB	VERB	_	12	advcl	_	_
+20	x'	_	PRON	PRON_INT	_	22	obj	_	SpaceAfter=No
+21	fiħsiebhom	_	VERB	VERB_PSEU	_	19	xcomp	_	_
+22	jagħmlu	_	VERB	VERB	_	21	xcomp	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 47_01F09:73
+# text = Ix-Xiħ mexa lejn il-Bieb u daħħal il-muftieħ f'postu, imbagħad mexa lura u wieħed mill-għassiesa li kien hemm ġewwa ċ-ċirku dawwar il-muftieħ.
+1	Ix-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Xiħ	_	NOUN	NOUN	_	3	nsubj	_	_
+3	mexa	_	VERB	VERB	_	0	root	_	_
+4	lejn	_	ADP	PREP	_	6	case	_	_
+5	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	Bieb	_	NOUN	NOUN	_	3	obl	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	daħħal	_	VERB	VERB	_	3	conj	_	_
+9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	muftieħ	_	NOUN	NOUN	_	8	obj	_	_
+11	f'	_	ADP	PREP	_	12	case	_	SpaceAfter=No
+12	postu	_	NOUN	NOUN	_	8	obl	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	3	punct	_	_
+14	imbagħad	_	ADV	ADV	_	15	advmod	_	_
+15	mexa	_	VERB	VERB	_	3	parataxis	_	_
+16	lura	_	ADV	ADV	_	15	advmod	_	_
+17	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+18	wieħed	_	NUM	NUM_WHD	_	27	nsubj	_	_
+19	mill-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	għassiesa	_	NOUN	NOUN	_	18	nmod	_	_
+21	li	_	SCONJ	COMP	_	23	mark	_	_
+22	kien	_	AUX	KIEN	_	23	aux	_	_
+23	hemm	_	VERB	HEMM	_	20	acl	_	_
+24	ġewwa	_	ADP	PREP	_	26	case	_	_
+25	ċ-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	ċirku	_	NOUN	NOUN	_	23	obl	_	_
+27	dawwar	_	VERB	VERB	_	15	conj	_	_
+28	il-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	muftieħ	_	NOUN	NOUN	_	27	obj	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:74
+# text = Dawl qawwi feġġ quddiemhom mis-smewwiet.
+1	Dawl	_	NOUN	NOUN	_	3	nsubj	_	_
+2	qawwi	_	ADJ	ADJ	_	1	amod	_	_
+3	feġġ	_	VERB	VERB	_	0	root	_	_
+4	quddiemhom	_	PRON	PREP_PRON	_	3	obl	_	_
+5	mis-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	smewwiet	_	NOUN	NOUN	_	3	obl	_	SpaceAfter=No
+7	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:75
+# text = Ix-Xiħ ħares lejhom.
+1	Ix-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Xiħ	_	NOUN	NOUN	_	3	nsubj	_	_
+3	ħares	_	VERB	VERB	_	0	root	_	_
+4	lejhom	_	PRON	PREP_PRON	_	3	obl:arg	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 47_01F09:76
+# text = "Morru u terġgħux tiġu 'l hawn."
+1	"	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Morru	_	VERB	VERB	_	0	root	_	_
+3	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+4	terġgħux	_	VERB	VERB	_	2	conj	_	_
+5	tiġu	_	VERB	VERB	_	4	xcomp	_	_
+6	'l	_	ADP	PREP	_	7	case	_	_
+7	hawn	_	ADV	ADV	_	5	advmod	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+9	"	_	PUNCT	X_PUN	_	2	punct	_	_
+

@@ -1,0 +1,493 @@
+# sent_id = 13_13J01:1
+# text = Filwaqt li Malta qatt ma setgħet tinjora r-relazzjonijiet mal-Libja, pajjiż ġar tagħha, meta ġie l-mument tal-verita' ma qagħditx lura milli tgħid li hu abjad, abjad u iswed, iswed.
+1	Filwaqt	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+2	li	_	SCONJ	COMP	_	1	fixed	_	_
+3	Malta	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+4	qatt	_	ADV	ADV	_	6	advmod	_	_
+5	ma	_	PART	NEG	_	6	advmod:neg	_	_
+6	setgħet	_	VERB	VERB	_	24	advcl	_	_
+7	tinjora	_	VERB	VERB	_	6	xcomp	_	_
+8	r-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	relazzjonijiet	_	NOUN	NOUN	_	7	obj	_	_
+10	mal-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	Libja	_	PROPN	NOUN_PROP	_	9	nmod	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	13	punct	_	_
+13	pajjiż	_	NOUN	NOUN	_	11	appos	_	_
+14	ġar	_	NOUN	NOUN	_	13	acl	_	_
+15	tagħha	_	PRON	GEN_PRON	_	14	nmod:poss	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	13	punct	_	_
+17	meta	_	SCONJ	CONJ_SUB	_	18	mark	_	_
+18	ġie	_	VERB	VERB	_	7	advcl	_	_
+19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	mument	_	NOUN	NOUN	_	18	nsubj	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	verita'	_	NOUN	NOUN	_	20	nmod:poss	_	_
+23	ma	_	PART	NEG	_	24	advmod:neg	_	_
+24	qagħditx	_	VERB	VERB	_	0	root	_	_
+25	lura	_	ADV	ADV	_	24	advmod	_	_
+26	milli	_	SCONJ	CONJ_SUB	_	27	mark	_	_
+27	tgħid	_	VERB	VERB	_	24	advcl	_	_
+28	li	_	SCONJ	COMP	_	32	mark	_	_
+29	hu	_	PRON	PRON_PERS	_	32	cop	_	_
+30	abjad	_	ADJ	ADJ	_	32	nsubj	_	SpaceAfter=No
+31	,	_	PUNCT	X_PUN	_	32	punct	_	_
+32	abjad	_	ADJ	ADJ	_	27	ccomp	_	_
+33	u	_	CCONJ	CONJ_CORD	_	36	cc	_	_
+34	iswed	_	ADJ	ADJ	_	36	nsubj	_	SpaceAfter=No
+35	,	_	PUNCT	X_PUN	_	36	punct	_	_
+36	iswed	_	ADJ	ADJ	_	32	conj	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	24	punct	_	_
+
+# sent_id = 13_13J01:2
+# text = Il-qtil bl-addoċċ tal-popolazzjoni ċivili, fi protesti paċifiċi qabel ma l-kunflitt iddeġenera fi gwerra, hu inaċċettabbli.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	qtil	_	NOUN	NOUN	_	21	nsubj	_	_
+3	bl-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	addoċċ	_	NOUN	NOUN	_	2	nmod	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	popolazzjoni	_	NOUN	NOUN	_	2	nmod:poss	_	_
+7	ċivili	_	ADJ	ADJ	_	6	amod	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	2	punct	_	_
+9	fi	_	ADP	PREP	_	10	case	_	_
+10	protesti	_	NOUN	NOUN	_	21	obl	_	_
+11	paċifiċi	_	ADJ	ADJ	_	10	amod	_	_
+12	qabel	_	ADP	PREP	_	16	mark	_	_
+13	ma	_	SCONJ	COMP	_	12	fixed	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	kunflitt	_	NOUN	NOUN	_	16	nsubj	_	_
+16	iddeġenera	_	VERB	VERB	_	21	advcl	_	_
+17	fi	_	ADP	PREP	_	18	case	_	_
+18	gwerra	_	NOUN	NOUN	_	16	obl	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	16	punct	_	_
+20	hu	_	PRON	PRON_PERS	_	21	cop	_	_
+21	inaċċettabbli	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	21	punct	_	_
+
+# sent_id = 13_13J01:3
+# text = Hekk sostna l-Viċi Prim Ministru u Ministru tal-Affarijiet Barranin Tonio Borg meta fetaħ il-laqgha tal-Core Group tal-Meusac, li kellu fuq l-aġenda is-sitwazzjoni fil-Libja.
+1	Hekk	_	ADV	ADV	_	2	advmod	_	_
+2	sostna	_	VERB	VERB	_	0	root	_	_
+3	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+4	Viċi	_	ADJ	ADJ	_	6	amod	_	_
+5	Prim	_	ADJ	ADJ	_	6	amod	_	_
+6	Ministru	_	NOUN	NOUN	_	12	compound	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	Ministru	_	NOUN	NOUN	_	6	conj	_	_
+9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
+10	Affarijiet	_	NOUN	NOUN	_	8	nmod:poss	_	_
+11	Barranin	_	ADJ	ADJ	_	10	amod	_	_
+12	Tonio	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+13	Borg	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
+14	meta	_	SCONJ	CONJ_SUB	_	15	mark	_	_
+15	fetaħ	_	VERB	VERB	_	2	advcl	_	_
+16	il-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	laqgha	_	NOUN	NOUN	_	15	obj	_	_
+18	tal-	_	ADP	GEN_DEF	_	20	case:det	_	SpaceAfter=No
+19	Core	_	ADJ	ADJ	_	20	amod	_	_
+20	Group	_	NOUN	NOUN	_	17	nmod:poss	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	Meusac	_	NOUN	X_ABV	_	20	nmod:poss	_	SpaceAfter=No
+23	,	_	PUNCT	X_PUN	_	17	punct	_	_
+24	li	_	SCONJ	COMP	_	25	mark	_	_
+25	kellu	_	VERB	VERB_PSEU	_	17	acl	_	_
+26	fuq	_	ADP	PREP	_	28	case	_	_
+27	l-	_	DET	DEF	_	28	det	_	SpaceAfter=No
+28	aġenda	_	NOUN	NOUN	_	25	obl	_	_
+29	is-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	sitwazzjoni	_	NOUN	NOUN	_	25	obj	_	_
+31	fil-	_	ADP	PREP_DEF	_	32	case:det	_	SpaceAfter=No
+32	Libja	_	PROPN	NOUN_PROP	_	30	nmod	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 13_13J01:4
+# text = " Il-Libja hu pajjiż viċin wisq biex jiġi injorat, ikun min ikun fil-Gvern.
+1	"	_	PUNCT	X_PUN	_	5	punct	_	_
+2	Il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	Libja	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
+4	hu	_	PRON	PRON_PERS	_	5	cop	_	_
+5	pajjiż	_	NOUN	NOUN	_	0	root	_	_
+6	viċin	_	ADJ	ADJ	_	5	amod	_	_
+7	wisq	_	ADV	ADV	_	6	advmod	_	_
+8	biex	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+9	jiġi	_	AUX	VERB	_	10	aux:pass	_	_
+10	injorat	_	VERB	PART_PASS	_	6	advcl	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	10	punct	_	_
+12	ikun	_	AUX	KIEN	_	16	cop	_	_
+13	min	_	PRON	PRON_INT	_	16	nsubj	_	_
+14	ikun	_	AUX	KIEN	_	13	acl	_	_
+15	fil-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	Gvern	_	NOUN	NOUN	_	10	advcl	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 13_13J01:5
+# text = Iżda Gvern li joqtol lil niesu stess mhux biss jitlef il-kredibilta' iżda wkoll il-leġittimita' ", tenna Tonio Borg.
+1	Iżda	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+2	Gvern	_	NOUN	NOUN	_	10	nsubj	_	_
+3	li	_	SCONJ	COMP	_	4	mark	_	_
+4	joqtol	_	VERB	VERB	_	2	acl	_	_
+5	lil	_	ADP	LIL	_	6	case	_	_
+6	niesu	_	NOUN	NOUN	_	4	obj	_	_
+7	stess	_	PRON	PRON_REF	_	6	nmod	_	_
+8	mhux	_	AUX	PRON_PERS_NEG	_	10	aux:neg	_	_
+9	biss	_	ADV	FOC	_	10	discourse	_	_
+10	jitlef	_	VERB	VERB	_	0	root	_	_
+11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	kredibilta'	_	NOUN	NOUN	_	10	obj	_	_
+13	iżda	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+14	wkoll	_	ADV	FOC	_	16	discourse	_	_
+15	il-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	leġittimita'	_	NOUN	NOUN	_	12	conj	_	_
+17	"	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	10	punct	_	_
+19	tenna	_	VERB	VERB	_	10	parataxis	_	_
+20	Tonio	_	PROPN	NOUN_PROP	_	19	nsubj	_	_
+21	Borg	_	PROPN	NOUN_PROP	_	20	flat:name	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 13_13J01:6
+# text = Tonio Borg qal li l-ewwel prijorita' kienet li jsir kuntatt mal-Maltin fil-Libja li għalkemm kien numru żgħir ta' ftit inqas minn 350, dan ma kienx mingħajr diffikultajiet għaliex dawn il-Maltin kienu sparpaljati mal-Libja kollha inkluż f'rigs taż-żejt fil-baħar u fid-deżert.
+1	Tonio	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Borg	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	qal	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	8	mark	_	_
+5	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+6	ewwel	_	NUM	NUM_ORD	_	7	amod	_	_
+7	prijorita'	_	NOUN	NOUN	_	8	nsubj	_	_
+8	kienet	_	AUX	KIEN	_	3	ccomp	_	_
+9	li	_	SCONJ	COMP	_	10	mark	_	_
+10	jsir	_	VERB	VERB	_	8	ccomp	_	_
+11	kuntatt	_	NOUN	NOUN	_	10	nsubj	_	_
+12	mal-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	Maltin	_	NOUN	NOUN	_	11	nmod	_	_
+14	fil-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	Libja	_	PROPN	NOUN_PROP	_	13	nmod	_	_
+16	li	_	SCONJ	COMP	_	31	mark	_	_
+17	għalkemm	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+18	kien	_	AUX	KIEN	_	19	cop	_	_
+19	numru	_	NOUN	NOUN	_	31	advcl	_	_
+20	żgħir	_	ADJ	ADJ	_	19	amod	_	_
+21	ta'	_	ADP	GEN	_	25	case	_	_
+22	ftit	_	ADV	QUAN	_	23	advmod	_	_
+23	inqas	_	ADV	ADV	_	25	advmod	_	_
+24	minn	_	ADP	PREP	_	23	fixed	_	_
+25	350	_	NUM	X_DIG	_	19	nmod:poss	_	SpaceAfter=No
+26	,	_	PUNCT	X_PUN	_	19	punct	_	_
+27	dan	_	PRON	PRON_DEM	_	31	nsubj	_	_
+28	ma	_	PART	NEG	_	31	advmod:neg	_	_
+29	kienx	_	AUX	KIEN	_	31	cop	_	_
+30	mingħajr	_	ADP	PREP	_	31	case	_	_
+31	diffikultajiet	_	NOUN	NOUN	_	11	acl	_	_
+32	għaliex	_	ADV	PRON_INT	_	37	advmod	_	_
+33	dawn	_	PRON	PRON_DEM	_	35	det	_	_
+34	il-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	Maltin	_	NOUN	NOUN	_	37	nsubj:pass	_	_
+36	kienu	_	AUX	KIEN	_	37	cop	_	_
+37	sparpaljati	_	VERB	PART_PASS	_	31	advcl	_	_
+38	mal-	_	ADP	PREP_DEF	_	39	case:det	_	SpaceAfter=No
+39	Libja	_	PROPN	NOUN_PROP	_	37	obl	_	_
+40	kollha	_	DET	QUAN	_	39	det	_	_
+41	inkluż	_	VERB	PART_PASS	_	43	case	_	_
+42	f'	_	ADP	PREP	_	43	case	_	SpaceAfter=No
+43	rigs	_	NOUN	NOUN	_	39	nmod	_	_
+44	taż-	_	ADP	GEN_DEF	_	45	case:det	_	SpaceAfter=No
+45	żejt	_	NOUN	NOUN	_	43	nmod:poss	_	_
+46	fil-	_	ADP	PREP_DEF	_	47	case:det	_	SpaceAfter=No
+47	baħar	_	NOUN	NOUN	_	43	nmod	_	_
+48	u	_	CCONJ	CONJ_CORD	_	50	cc	_	_
+49	fid-	_	ADP	PREP_DEF	_	50	case:det	_	SpaceAfter=No
+50	deżert	_	NOUN	NOUN	_	47	conj	_	SpaceAfter=No
+51	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 13_13J01:7
+# text = Hu rrifjuta l-akkużi li l-Gvern Malti qed jimxi bi djufija.
+1	Hu	_	PRON	PRON_PERS	_	2	nsubj	_	_
+2	rrifjuta	_	VERB	VERB	_	0	root	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	akkużi	_	NOUN	NOUN	_	2	obj	_	_
+5	li	_	SCONJ	COMP	_	10	mark	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	Gvern	_	NOUN	NOUN	_	10	nsubj	_	_
+8	Malti	_	ADJ	ADJ	_	7	amod	_	_
+9	qed	_	AUX	PROG	_	10	aux:part	_	_
+10	jimxi	_	VERB	VERB	_	4	acl	_	_
+11	bi	_	ADP	PREP	_	12	case	_	_
+12	djufija	_	NOUN	NOUN	_	10	obl	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 13_13J01:8
+# text = Malta ma qgħaditx lura u kienet fost tal-ewwel li nkorporat is-sanzjonijiet tan-Nazzjonijiet Uniti u l-Unjoni Ewropea fil-leġislazzjoni tagħha.
+1	Malta	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	ma	_	PART	NEG	_	3	advmod:neg	_	_
+3	qgħaditx	_	VERB	VERB	_	0	root	_	_
+4	lura	_	ADV	ADV	_	3	advmod	_	_
+5	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+6	kienet	_	AUX	KIEN	_	9	cop	_	_
+7	fost	_	ADP	PREP	_	9	case	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	ewwel	_	NUM	NUM_ORD	_	3	conj	_	_
+10	li	_	SCONJ	COMP	_	11	mark	_	_
+11	nkorporat	_	VERB	VERB	_	9	acl	_	_
+12	is-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	sanzjonijiet	_	NOUN	NOUN	_	11	obj	_	_
+14	tan-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	Nazzjonijiet	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	Uniti	_	ADJ	ADJ	_	15	amod	_	_
+17	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+18	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	Unjoni	_	NOUN	NOUN	_	15	conj	_	_
+20	Ewropea	_	ADJ	ADJ	_	19	amod	_	_
+21	fil-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
+22	leġislazzjoni	_	NOUN	NOUN	_	11	obl	_	_
+23	tagħha	_	PRON	GEN_PRON	_	22	nmod:poss	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 13_13J01:9
+# text = Tonio Borg sostna li Malta osservat l-obbligi tagħha billi tat l-għajnuna li ġiet mitluba lilha mill-koalizzjoni, iżda bħalma għamlu pajjiżi oħra, Malta għamlet għażla ħielsa biex ma tipparteċipax attivament f'din l-operazzjoni.
+1	Tonio	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Borg	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	sostna	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	6	mark	_	_
+5	Malta	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+6	osservat	_	VERB	VERB	_	3	ccomp	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	obbligi	_	NOUN	NOUN	_	6	obj	_	_
+9	tagħha	_	PRON	GEN_PRON	_	8	nmod:poss	_	_
+10	billi	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+11	tat	_	VERB	VERB	_	6	advcl	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	għajnuna	_	NOUN	NOUN	_	11	obj	_	_
+14	li	_	SCONJ	COMP	_	16	mark	_	_
+15	ġiet	_	AUX	VERB	_	16	aux:pass	_	_
+16	mitluba	_	VERB	PART_PASS	_	13	acl	_	_
+17	lilha	_	PRON	LIL_PRON	_	16	obj	_	_
+18	mill-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
+19	koalizzjoni	_	NOUN	NOUN	_	16	obl:agent	_	SpaceAfter=No
+20	,	_	PUNCT	X_PUN	_	11	punct	_	_
+21	iżda	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+22	bħalma	_	SCONJ	CONJ_SUB	_	23	mark	_	_
+23	għamlu	_	VERB	VERB	_	28	advcl	_	_
+24	pajjiżi	_	NOUN	NOUN	_	23	nsubj	_	_
+25	oħra	_	ADJ	ADJ	_	24	amod	_	SpaceAfter=No
+26	,	_	PUNCT	X_PUN	_	23	punct	_	_
+27	Malta	_	PROPN	NOUN_PROP	_	28	nsubj	_	_
+28	għamlet	_	VERB	VERB	_	11	conj	_	_
+29	għażla	_	NOUN	NOUN	_	28	obj	_	_
+30	ħielsa	_	VERB	PART_ACT	_	29	amod	_	_
+31	biex	_	SCONJ	CONJ_SUB	_	33	mark	_	_
+32	ma	_	PART	NEG	_	33	advmod:neg	_	_
+33	tipparteċipax	_	VERB	VERB	_	29	acl	_	_
+34	attivament	_	ADV	ADV	_	33	advmod	_	_
+35	f'	_	ADP	PREP	_	38	case	_	SpaceAfter=No
+36	din	_	PRON	PRON_DEM	_	38	det	_	_
+37	l-	_	DET	DEF	_	38	det	_	SpaceAfter=No
+38	operazzjoni	_	NOUN	NOUN	_	33	obl	_	SpaceAfter=No
+39	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 13_13J01:10
+# text = Mhux dgħufija li wieħed ikun prudenti, kompla Tonio Borg.
+1	Mhux	_	AUX	PRON_PERS_NEG	_	2	aux:neg	_	_
+2	dgħufija	_	NOUN	NOUN	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	6	mark	_	_
+4	wieħed	_	NUM	NUM_WHD	_	6	nsubj	_	_
+5	ikun	_	AUX	KIEN	_	6	cop	_	_
+6	prudenti	_	ADJ	ADJ	_	2	acl	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	2	punct	_	_
+8	kompla	_	VERB	VERB	_	2	parataxis	_	_
+9	Tonio	_	PROPN	NOUN_PROP	_	8	nsubj	_	_
+10	Borg	_	PROPN	NOUN_PROP	_	9	flat:name	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 13_13J01:11
+# text = L-ajruport hu l-uniku assi, importantissimu, biex Malta ma tkunx maqtugħha mill-bqija tad-dinja.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ajruport	_	NOUN	NOUN	_	6	nsubj	_	_
+3	hu	_	PRON	PRON_PERS	_	6	cop	_	_
+4	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+5	uniku	_	ADJ	ADJ	_	6	amod	_	_
+6	assi	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	8	punct	_	_
+8	importantissimu	_	ADJ	ADJ	_	6	amod	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	8	punct	_	_
+10	biex	_	SCONJ	CONJ_SUB	_	14	mark	_	_
+11	Malta	_	PROPN	NOUN_PROP	_	14	nsubj:pass	_	_
+12	ma	_	PART	NEG	_	14	advmod:neg	_	_
+13	tkunx	_	AUX	KIEN	_	14	cop	_	_
+14	maqtugħha	_	VERB	PART_PASS	_	6	acl	_	_
+15	mill-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	bqija	_	NOUN	NOUN	_	14	obl	_	_
+17	tad-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	dinja	_	NOUN	NOUN	_	16	nmod:poss	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 13_13J01:12
+# text = Kif iddikjara wkoll il-Prim Ministru Lawrence Gonzi, Malta hi 300 km biss 'il bogħod mill-Libja u l-prijorita' tibqa' s-sigurta' tal-pajjiż u tal-poplu Malti.
+1	Kif	_	ADV	PRON_INT	_	2	advmod	_	_
+2	iddikjara	_	VERB	VERB	_	16	advcl	_	_
+3	wkoll	_	ADV	FOC	_	6	discourse	_	_
+4	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+5	Prim	_	ADJ	ADJ	_	6	amod	_	_
+6	Ministru	_	NOUN	NOUN	_	7	compound	_	_
+7	Lawrence	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+8	Gonzi	_	PROPN	NOUN_PROP	_	7	flat:name	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	2	punct	_	_
+10	Malta	_	PROPN	NOUN_PROP	_	16	nsubj	_	_
+11	hi	_	PRON	PRON_PERS	_	16	cop	_	_
+12	300	_	NUM	X_DIG	_	13	nummod	_	_
+13	km	_	NOUN	X_ABV	_	16	nmod	_	_
+14	biss	_	ADV	FOC	_	13	discourse	_	_
+15	'il	_	ADP	PREP	_	16	case	_	_
+16	bogħod	_	NOUN	NOUN	_	0	root	_	_
+17	mill-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	Libja	_	PROPN	NOUN_PROP	_	16	obl	_	_
+19	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
+20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	prijorita'	_	NOUN	NOUN	_	22	nsubj	_	_
+22	tibqa'	_	VERB	VERB	_	16	conj	_	_
+23	s-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+24	sigurta'	_	NOUN	NOUN	_	22	xcomp	_	_
+25	tal-	_	ADP	GEN_DEF	_	26	case:det	_	SpaceAfter=No
+26	pajjiż	_	NOUN	NOUN	_	24	nmod:poss	_	_
+27	u	_	CCONJ	CONJ_CORD	_	29	cc	_	_
+28	tal-	_	ADP	GEN_DEF	_	29	case:det	_	SpaceAfter=No
+29	poplu	_	NOUN	NOUN	_	26	conj	_	_
+30	Malti	_	ADJ	ADJ	_	29	amod	_	SpaceAfter=No
+31	.	_	PUNCT	X_PUN	_	16	punct	_	_
+
+# sent_id = 13_13J01:13
+# text = Dan minbarra li hemm diversi ajruporti militari ftit 'il bogħod minn Malta li qed jaqdu l-funzjoni biex jinfurzaw in-No Fly Zone.
+1	Dan	_	PRON	PRON_DEM	_	0	root	_	_
+2	minbarra	_	ADP	PREP	_	4	mark	_	_
+3	li	_	SCONJ	COMP	_	2	fixed	_	_
+4	hemm	_	VERB	HEMM	_	1	advcl	_	_
+5	diversi	_	ADJ	ADJ	_	6	amod	_	_
+6	ajruporti	_	NOUN	NOUN	_	4	nsubj	_	_
+7	militari	_	ADJ	ADJ	_	6	amod	_	_
+8	ftit	_	ADV	QUAN	_	10	advmod	_	_
+9	'il	_	ADP	PREP	_	10	case	_	_
+10	bogħod	_	NOUN	NOUN	_	4	obl	_	_
+11	minn	_	ADP	PREP	_	12	case:det	_	_
+12	Malta	_	PROPN	NOUN_PROP	_	10	obl	_	_
+13	li	_	SCONJ	COMP	_	15	mark	_	_
+14	qed	_	AUX	PROG	_	15	aux:part	_	_
+15	jaqdu	_	VERB	VERB	_	6	acl	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	funzjoni	_	NOUN	NOUN	_	15	obj	_	_
+18	biex	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+19	jinfurzaw	_	VERB	VERB	_	17	acl	_	_
+20	in-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	No	_	X	X_ENG	_	19	obj	_	_
+22	Fly	_	X	X_ENG	_	21	flat	_	_
+23	Zone	_	X	X_ENG	_	21	flat	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 13_13J01:14
+# text = Tonio Borg qal li jekk wieħed iħares 'il quddiem, hemm tliet xenarji possibbli fil-Libja, rebħa għar-ribelli b'bidla fil-Gvern, rebħa għar-reġim attwali li jkun riformat jew li l-pajjiż ikun de facto maqsum u jkun hemm kunflitt iffriżat.
+1	Tonio	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Borg	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	qal	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	11	mark	_	_
+5	jekk	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+6	wieħed	_	NUM	NUM_WHD	_	7	nsubj	_	_
+7	iħares	_	VERB	VERB	_	11	advcl	_	_
+8	'il	_	ADP	PREP	_	9	case	_	_
+9	quddiem	_	ADV	ADV	_	7	advmod	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	11	punct	_	_
+11	hemm	_	VERB	HEMM	_	3	ccomp	_	_
+12	tliet	_	NUM	NUM_CRD	_	13	nummod	_	_
+13	xenarji	_	NOUN	NOUN	_	11	nsubj	_	_
+14	possibbli	_	ADJ	ADJ	_	13	amod	_	_
+15	fil-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	Libja	_	PROPN	NOUN_PROP	_	11	obl	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	18	punct	_	_
+18	rebħa	_	NOUN	NOUN	_	13	appos	_	_
+19	għar-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	ribelli	_	NOUN	NOUN	_	18	nmod	_	_
+21	b'	_	ADP	PREP	_	22	case	_	SpaceAfter=No
+22	bidla	_	NOUN	NOUN	_	18	nmod	_	_
+23	fil-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
+24	Gvern	_	NOUN	NOUN	_	22	nmod	_	SpaceAfter=No
+25	,	_	PUNCT	X_PUN	_	26	punct	_	_
+26	rebħa	_	NOUN	NOUN	_	18	conj	_	_
+27	għar-	_	ADP	PREP_DEF	_	28	case:det	_	SpaceAfter=No
+28	reġim	_	NOUN	NOUN	_	26	nmod	_	_
+29	attwali	_	ADJ	ADJ	_	28	amod	_	_
+30	li	_	SCONJ	COMP	_	32	mark	_	_
+31	jkun	_	AUX	KIEN	_	32	cop	_	_
+32	riformat	_	VERB	PART_PASS	_	28	acl	_	_
+33	jew	_	CCONJ	CONJ_CORD	_	40	cc	_	_
+34	li	_	SCONJ	COMP	_	40	cc	_	_
+35	l-	_	DET	DEF	_	36	det	_	SpaceAfter=No
+36	pajjiż	_	NOUN	NOUN	_	40	nsubj:pass	_	_
+37	ikun	_	AUX	KIEN	_	40	cop	_	_
+38	de	_	ADV	X_FOR	_	40	advmod	_	_
+39	facto	_	X	X_FOR	_	38	flat	_	_
+40	maqsum	_	VERB	PART_PASS	_	18	conj	_	_
+41	u	_	CCONJ	CONJ_CORD	_	43	cc	_	_
+42	jkun	_	AUX	KIEN	_	43	aux	_	_
+43	hemm	_	VERB	HEMM	_	40	conj	_	_
+44	kunflitt	_	NOUN	NOUN	_	43	nsubj	_	_
+45	iffriżat	_	VERB	PART_PASS	_	44	amod	_	SpaceAfter=No
+46	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 13_13J01:15
+# text = F'dan ir-rigward, il-Gvern Malti se jibqa' josserva u japplika is-sanzjonijiet kollha iżda Tonio Borg iddikjara li l-Gvern mhux se jindaħal lil min ikompli b'kummerċ mal-Libja li ma jkunx milqut mis-sanzjonijiet.
+1	F'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
+2	dan	_	PRON	PRON_DEM	_	4	det	_	_
+3	ir-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	rigward	_	NOUN	NOUN	_	10	obl	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	4	punct	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	Gvern	_	NOUN	NOUN	_	10	nsubj	_	_
+8	Malti	_	ADJ	ADJ	_	7	amod	_	_
+9	se	_	AUX	FUT	_	10	aux:part	_	_
+10	jibqa'	_	VERB	VERB	_	0	root	_	_
+11	josserva	_	VERB	VERB	_	10	xcomp	_	_
+12	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+13	japplika	_	VERB	VERB	_	11	conj	_	_
+14	is-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	sanzjonijiet	_	NOUN	NOUN	_	13	obj	_	_
+16	kollha	_	DET	QUAN	_	15	det	_	_
+17	iżda	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+18	Tonio	_	PROPN	NOUN_PROP	_	20	nsubj	_	_
+19	Borg	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
+20	iddikjara	_	VERB	VERB	_	10	conj	_	_
+21	li	_	SCONJ	COMP	_	26	mark	_	_
+22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	Gvern	_	NOUN	NOUN	_	26	nsubj	_	_
+24	mhux	_	AUX	PRON_PERS_NEG	_	26	aux:neg	_	_
+25	se	_	AUX	FUT	_	26	aux:part	_	_
+26	jindaħal	_	VERB	VERB	_	20	ccomp	_	_
+27	lil	_	ADP	LIL	_	28	case	_	_
+28	min	_	PRON	PRON_INT	_	26	obj	_	_
+29	ikompli	_	VERB	VERB	_	28	acl	_	_
+30	b'	_	ADP	PREP	_	31	case	_	SpaceAfter=No
+31	kummerċ	_	NOUN	NOUN	_	29	obl:arg	_	_
+32	mal-	_	ADP	PREP_DEF	_	33	case:det	_	SpaceAfter=No
+33	Libja	_	PROPN	NOUN_PROP	_	31	nmod	_	_
+34	li	_	SCONJ	COMP	_	37	mark	_	_
+35	ma	_	PART	NEG	_	37	advmod:neg	_	_
+36	jkunx	_	AUX	KIEN	_	37	cop	_	_
+37	milqut	_	VERB	PART_PASS	_	28	acl	_	_
+38	mis-	_	ADP	PREP_DEF	_	39	case:det	_	SpaceAfter=No
+39	sanzjonijiet	_	NOUN	NOUN	_	37	obl:agent	_	SpaceAfter=No
+40	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 13_13J01:16
+# text = Skont l-aħħar ċifri, l-esportazzjoni lejn il-Libja tammonta għal 80 miljun ewro.
+1	Skont	_	ADP	PREP	_	4	case	_	_
+2	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+3	aħħar	_	ADJ	ADJ	_	4	amod	_	_
+4	ċifri	_	NOUN	NOUN	_	11	obl	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	4	punct	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	esportazzjoni	_	NOUN	NOUN	_	11	nsubj	_	_
+8	lejn	_	ADP	PREP	_	10	case	_	_
+9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	Libja	_	PROPN	NOUN_PROP	_	7	nmod	_	_
+11	tammonta	_	VERB	VERB	_	0	root	_	_
+12	għal	_	ADP	PREP	_	15	case	_	_
+13	80	_	NUM	X_DIG	_	14	compound	_	_
+14	miljun	_	NUM	NOUN	_	15	nummod	_	_
+15	ewro	_	NOUN	NOUN	_	11	obl:arg	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	11	punct	_	_
+

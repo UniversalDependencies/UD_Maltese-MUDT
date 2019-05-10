@@ -1,0 +1,406 @@
+# sent_id = 23_03J03:1
+# text = Kif għazilt il-Powerlifting?
+1	Kif	_	ADV	PRON_INT	_	2	advmod	_	_
+2	għazilt	_	VERB	VERB	_	0	root	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	Powerlifting	_	NOUN	NOUN	_	2	obj	_	SpaceAfter=No
+5	?	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23_03J03:2
+# text = Onestament jien qatt ma ħlomt li xi darba ħa nkun qed nipprattikah dan l-isport, aħseb u ara kemm nikkompeti fih.
+1	Onestament	_	ADV	ADV	_	5	advmod	_	_
+2	jien	_	PRON	PRON_PERS	_	5	nsubj	_	_
+3	qatt	_	ADV	ADV	_	5	advmod	_	_
+4	ma	_	PART	NEG	_	5	advmod:neg	_	_
+5	ħlomt	_	VERB	VERB	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	12	mark	_	_
+7	xi	_	DET	QUAN	_	8	det	_	_
+8	darba	_	NOUN	NOUN	_	12	obl	_	_
+9	ħa	_	AUX	FUT	_	12	aux:part	_	_
+10	nkun	_	AUX	KIEN	_	12	aux	_	_
+11	qed	_	AUX	PROG	_	12	aux:part	_	_
+12	nipprattikah	_	VERB	VERB	_	5	xcomp	_	_
+13	dan	_	PRON	PRON_DEM	_	15	det	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	isport	_	NOUN	NOUN	_	12	obj	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	5	punct	_	_
+17	aħseb	_	VERB	VERB	_	5	parataxis	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+19	ara	_	VERB	VERB	_	17	conj	_	_
+20	kemm	_	ADV	PRON_INT	_	21	advmod	_	_
+21	nikkompeti	_	VERB	VERB	_	19	ccomp	_	_
+22	fih	_	PRON	PREP_PRON	_	21	obl	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23_03J03:3
+# text = F'Settembru 2011, kien hemm ħabib tiegħi li huwa kompetitur tal-Powerlifting u wkoll kollega tiegħi fuq ix-xogħol, li kien spiss jiġi ħdejja u l-kliem kien dejjem jaqa' fuq il-gym, taħriġ u dieti.
+1	F'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	Settembru	_	PROPN	NOUN_PROP	_	6	obl	_	_
+3	2011	_	NUM	X_DIG	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	6	punct	_	_
+5	kien	_	AUX	KIEN	_	6	aux	_	_
+6	hemm	_	VERB	HEMM	_	0	root	_	_
+7	ħabib	_	NOUN	NOUN	_	6	nsubj	_	_
+8	tiegħi	_	PRON	GEN_PRON	_	7	nmod:poss	_	_
+9	li	_	SCONJ	COMP	_	11	mark	_	_
+10	huwa	_	PRON	PRON_PERS	_	11	cop	_	_
+11	kompetitur	_	NOUN	NOUN	_	7	acl	_	_
+12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	Powerlifting	_	NOUN	NOUN	_	11	nmod:poss	_	_
+14	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+15	wkoll	_	ADV	FOC	_	16	discourse	_	_
+16	kollega	_	NOUN	NOUN	_	11	conj	_	_
+17	tiegħi	_	PRON	GEN_PRON	_	16	nmod:poss	_	_
+18	fuq	_	ADP	PREP	_	20	case	_	_
+19	ix-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	xogħol	_	NOUN	NOUN	_	16	nmod	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	11	punct	_	_
+22	li	_	SCONJ	COMP	_	25	mark	_	_
+23	kien	_	AUX	KIEN	_	25	aux	_	_
+24	spiss	_	ADV	ADV	_	25	advmod	_	_
+25	jiġi	_	VERB	VERB	_	11	acl	_	_
+26	ħdejja	_	PRON	PREP_PRON	_	25	obl	_	_
+27	u	_	CCONJ	CONJ_CORD	_	32	cc	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	kliem	_	NOUN	NOUN	_	32	nsubj	_	_
+30	kien	_	AUX	KIEN	_	32	aux	_	_
+31	dejjem	_	ADV	ADV	_	32	advmod	_	_
+32	jaqa'	_	VERB	VERB	_	25	conj	_	_
+33	fuq	_	ADP	PREP	_	35	case	_	_
+34	il-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	gym	_	NOUN	NOUN	_	32	obl	_	SpaceAfter=No
+36	,	_	PUNCT	X_PUN	_	35	punct	_	_
+37	taħriġ	_	NOUN	NOUN	_	35	conj	_	_
+38	u	_	CCONJ	CONJ_CORD	_	39	cc	_	_
+39	dieti	_	NOUN	NOUN	_	35	conj	_	SpaceAfter=No
+40	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 23_03J03:4
+# text = Dan dejjem ħajjarni biex nipprova il-Powerlifting, iżda jien dejjem kont ngħidlu li dan l-isport ma jogħġobnix.
+1	Dan	_	PRON	PRON_DEM	_	3	nsubj	_	_
+2	dejjem	_	ADV	ADV	_	3	advmod	_	_
+3	ħajjarni	_	VERB	VERB	_	0	root	_	_
+4	biex	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	nipprova	_	VERB	VERB	_	3	xcomp	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	Powerlifting	_	NOUN	NOUN	_	5	obj	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	3	punct	_	_
+9	iżda	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+10	jien	_	PRON	PRON_PERS	_	13	nsubj	_	_
+11	dejjem	_	ADV	ADV	_	13	advmod	_	_
+12	kont	_	AUX	KIEN	_	13	aux	_	_
+13	ngħidlu	_	VERB	VERB	_	3	conj	_	_
+14	li	_	SCONJ	COMP	_	19	mark	_	_
+15	dan	_	PRON	PRON_DEM	_	17	det	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	isport	_	NOUN	NOUN	_	19	nsubj	_	_
+18	ma	_	PART	NEG	_	19	advmod:neg	_	_
+19	jogħġobnix	_	VERB	VERB	_	13	ccomp	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23_03J03:5
+# text = Però darba fost l-oħrajn, ġieni f'mohhi biex nibagħtlu sms u nieħu dan iċ-ċans.
+1	Però	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+2	darba	_	NOUN	NOUN	_	7	obl	_	_
+3	fost	_	ADP	PREP	_	5	case	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	oħrajn	_	NOUN	NOUN	_	2	nmod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	ġieni	_	VERB	VERB	_	0	root	_	_
+8	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+9	mohhi	_	NOUN	NOUN	_	7	obl	_	_
+10	biex	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+11	nibagħtlu	_	VERB	VERB	_	7	csubj	_	_
+12	sms	_	NOUN	NOUN	_	11	obj	_	_
+13	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+14	nieħu	_	VERB	VERB	_	11	conj	_	_
+15	dan	_	PRON	PRON_DEM	_	17	det	_	_
+16	iċ-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	ċans	_	NOUN	NOUN	_	14	obj	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 23_03J03:6
+# text = Minn hemmhekk huwa qabbadni ma' xi ħaddiehor li huwa ħabib tiegħu, u bdejt nitħarreġ u nitgħallem bil-mod il-mod it-teknika ta' kif issir kull lift.
+1	Minn	_	ADP	PREP	_	2	case	_	_
+2	hemmhekk	_	ADV	ADV	_	4	advmod	_	_
+3	huwa	_	PRON	PRON_PERS	_	4	nsubj	_	_
+4	qabbadni	_	VERB	VERB	_	0	root	_	_
+5	ma'	_	ADP	PREP	_	7	case	_	_
+6	xi	_	DET	QUAN	_	7	det	_	_
+7	ħaddiehor	_	PRON	PRON_INDEF	_	4	obl	_	_
+8	li	_	SCONJ	COMP	_	10	mark	_	_
+9	huwa	_	PRON	PRON_PERS	_	10	cop	_	_
+10	ħabib	_	NOUN	NOUN	_	7	acl	_	_
+11	tiegħu	_	PRON	GEN_PRON	_	10	nmod:poss	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	4	punct	_	_
+13	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+14	bdejt	_	VERB	VERB	_	4	conj	_	_
+15	nitħarreġ	_	VERB	VERB	_	14	xcomp	_	_
+16	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
+17	nitgħallem	_	VERB	VERB	_	15	conj	_	_
+18	bil-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
+19	mod	_	NOUN	NOUN	_	15	obl	_	_
+20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	mod	_	NOUN	NOUN	_	19	nmod	_	_
+22	it-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	teknika	_	NOUN	NOUN	_	15	obj	_	_
+24	ta'	_	ADP	GEN	_	26	mark	_	_
+25	kif	_	ADV	PRON_INT	_	26	advmod	_	_
+26	issir	_	VERB	VERB	_	23	acl	_	_
+27	kull	_	DET	QUAN	_	28	det	_	_
+28	lift	_	NOUN	NOUN	_	26	nsubj	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23_03J03:7
+# text = Li kelli favur tiegħi, li kont għamilt sitt snin nittrenja l-Bodybuilding u meta tagħmel bidla bħal din, tibda tinnota li hemm ħafna x'titgħallem għalkemm it-tnejn għandhom ħafna minn xulxin bħala sport.
+1	Li	_	SCONJ	COMP	_	2	mark	_	_
+2	kelli	_	VERB	VERB_PSEU	_	0	root	_	_
+3	favur	_	ADP	PREP	_	2	obl:arg	_	_
+4	tiegħi	_	PRON	GEN_PRON	_	3	fixed	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	2	punct	_	_
+6	li	_	SCONJ	COMP	_	8	mark	_	_
+7	kont	_	AUX	KIEN	_	8	aux	_	_
+8	għamilt	_	VERB	VERB	_	2	ccomp	_	_
+9	sitt	_	NUM	NUM_CRD	_	10	nummod	_	_
+10	snin	_	NOUN	NOUN	_	8	obl	_	_
+11	nittrenja	_	VERB	VERB	_	8	xcomp	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	Bodybuilding	_	NOUN	NOUN	_	11	obj	_	_
+14	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+15	meta	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+16	tagħmel	_	VERB	VERB	_	21	advcl	_	_
+17	bidla	_	NOUN	NOUN	_	16	obj	_	_
+18	bħal	_	ADP	PREP	_	19	case	_	_
+19	din	_	PRON	PRON_DEM	_	17	nmod	_	SpaceAfter=No
+20	,	_	PUNCT	X_PUN	_	16	punct	_	_
+21	tibda	_	VERB	VERB	_	2	conj	_	_
+22	tinnota	_	VERB	VERB	_	21	xcomp	_	_
+23	li	_	SCONJ	COMP	_	24	mark	_	_
+24	hemm	_	VERB	HEMM	_	22	ccomp	_	_
+25	ħafna	_	DET	QUAN	_	24	nsubj	_	_
+26	x'	_	PRON	PRON_INT	_	27	obj	_	SpaceAfter=No
+27	titgħallem	_	VERB	VERB	_	25	acl	_	_
+28	għalkemm	_	SCONJ	CONJ_SUB	_	31	mark	_	_
+29	it-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	tnejn	_	NUM	NUM_CRD	_	31	nsubj	_	_
+31	għandhom	_	VERB	VERB_PSEU	_	24	advcl	_	_
+32	ħafna	_	DET	QUAN	_	31	obj	_	_
+33	minn	_	ADP	PREP	_	34	case	_	_
+34	xulxin	_	PRON	PRON_REC	_	32	nmod	_	_
+35	bħala	_	ADP	PREP	_	36	case	_	_
+36	sport	_	NOUN	NOUN	_	34	nmod	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23_03J03:8
+# text = F'kemm ili ngħidlek bdilt il-ħsieb tiegħi fuq il-Powerlifting għax aktar ma beda jgħaddi ż-żmien, aktar beda jogħġobni.
+1	F'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	kemm	_	PRON	PRON_INT	_	3	obl	_	_
+3	ili	_	VERB	VERB_PSEU	_	5	advcl	_	_
+4	ngħidlek	_	VERB	VERB	_	3	xcomp	_	_
+5	bdilt	_	VERB	VERB	_	0	root	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	ħsieb	_	NOUN	NOUN	_	5	obj	_	_
+8	tiegħi	_	PRON	GEN_PRON	_	7	nmod:poss	_	_
+9	fuq	_	ADP	PREP	_	11	case	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	Powerlifting	_	NOUN	NOUN	_	7	nmod	_	_
+12	għax	_	SCONJ	CONJ_SUB	_	21	mark	_	_
+13	aktar	_	ADV	ADV	_	15	mark	_	_
+14	ma	_	SCONJ	COMP	_	13	fixed	_	_
+15	beda	_	VERB	VERB	_	21	advcl	_	_
+16	jgħaddi	_	VERB	VERB	_	15	xcomp	_	_
+17	ż-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	żmien	_	NOUN	NOUN	_	16	nsubj	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	15	punct	_	_
+20	aktar	_	ADV	ADV	_	21	advmod	_	_
+21	beda	_	VERB	VERB	_	5	advcl	_	_
+22	jogħġobni	_	VERB	VERB	_	21	xcomp	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23_03J03:9
+# text = Kemm titħarreġ fil-Powerlifting?
+1	Kemm	_	ADV	PRON_INT	_	2	advmod	_	_
+2	titħarreġ	_	VERB	VERB	_	0	root	_	_
+3	fil-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	Powerlifting	_	NOUN	NOUN	_	2	obj	_	SpaceAfter=No
+5	?	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23_03J03:10
+# text = Kieku nista' kuljum iżda minħabba l-ħajja mgħaġġla li ngħixu fiha llum ma nistax.
+1	Kieku	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	nista'	_	VERB	VERB	_	0	root	_	_
+3	kuljum	_	ADV	ADV	_	2	advmod	_	_
+4	iżda	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+5	minħabba	_	ADP	PREP	_	7	case	_	_
+6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	ħajja	_	NOUN	NOUN	_	14	obl	_	_
+8	mgħaġġla	_	VERB	PART_PASS	_	7	amod	_	_
+9	li	_	SCONJ	COMP	_	10	mark	_	_
+10	ngħixu	_	VERB	VERB	_	7	acl	_	_
+11	fiha	_	PRON	PREP_PRON	_	10	obl	_	_
+12	llum	_	ADV	ADV	_	10	advmod	_	_
+13	ma	_	PART	NEG	_	14	advmod:neg	_	_
+14	nistax	_	VERB	VERB	_	2	conj	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23_03J03:11
+# text = Bejn wieħed u ieħor nikkalkula li qisni nitħarreġ minn tlieta sa erba' darbiet fil-ġimgħa.
+1	Bejn	_	ADP	PREP	_	2	case	_	_
+2	wieħed	_	NUM	NUM_WHD	_	5	obl	_	_
+3	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
+4	ieħor	_	ADJ	ADJ	_	2	conj	_	_
+5	nikkalkula	_	VERB	VERB	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	7	mark	_	_
+7	qisni	_	VERB	VERB_PSEU	_	5	xcomp	_	_
+8	nitħarreġ	_	VERB	VERB	_	7	xcomp	_	_
+9	minn	_	ADP	PREP	_	10	case	_	_
+10	tlieta	_	NUM	NUM_CRD	_	13	nummod	_	_
+11	sa	_	ADP	PREP	_	12	case	_	_
+12	erba'	_	NUM	NUM_CRD	_	13	nummod	_	_
+13	darbiet	_	NOUN	NOUN	_	8	obl	_	_
+14	fil-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	ġimgħa	_	NOUN	NOUN	_	13	nmod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23_03J03:12
+# text = Apparti minn hekk jien nipprova insib ħin ukoll biex inkompli insir naf dwar dan l-isport li nippratika, billi naqra artikli, kotba u nara diversi vidjows.
+1	Apparti	_	ADV	ADV	_	5	advmod	_	_
+2	minn	_	ADP	PREP	_	3	case	_	_
+3	hekk	_	ADV	ADV	_	1	advmod	_	_
+4	jien	_	PRON	PRON_PERS	_	5	nsubj	_	_
+5	nipprova	_	VERB	VERB	_	0	root	_	_
+6	insib	_	VERB	VERB	_	5	xcomp	_	_
+7	ħin	_	NOUN	NOUN	_	6	obj	_	_
+8	ukoll	_	ADV	FOC	_	10	discourse	_	_
+9	biex	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+10	inkompli	_	VERB	VERB	_	6	advcl	_	_
+11	insir	_	VERB	VERB	_	10	xcomp	_	_
+12	naf	_	VERB	VERB	_	11	xcomp	_	_
+13	dwar	_	ADP	PREP	_	16	case	_	_
+14	dan	_	PRON	PRON_DEM	_	16	det	_	_
+15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	isport	_	NOUN	NOUN	_	12	obl:arg	_	_
+17	li	_	SCONJ	COMP	_	18	mark	_	_
+18	nippratika	_	VERB	VERB	_	16	acl	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	12	punct	_	_
+20	billi	_	SCONJ	CONJ_SUB	_	21	mark	_	_
+21	naqra	_	VERB	VERB	_	12	advcl	_	_
+22	artikli	_	NOUN	NOUN	_	21	obj	_	SpaceAfter=No
+23	,	_	PUNCT	X_PUN	_	22	punct	_	_
+24	kotba	_	NOUN	NOUN	_	22	conj	_	_
+25	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
+26	nara	_	VERB	VERB	_	21	conj	_	_
+27	diversi	_	ADJ	ADJ	_	28	amod	_	_
+28	vidjows	_	NOUN	NOUN	_	26	obj	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23_03J03:13
+# text = Minn hawn u minn hemm dejjem irnexxieli nlaħħaq nagħmel kollox.
+1	Minn	_	ADP	PREP	_	2	case	_	_
+2	hawn	_	ADV	ADV	_	7	advmod	_	_
+3	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+4	minn	_	ADP	PREP	_	5	case	_	_
+5	hemm	_	ADV	ADV	_	2	conj	_	_
+6	dejjem	_	ADV	ADV	_	7	advmod	_	_
+7	irnexxieli	_	VERB	VERB	_	0	root	_	_
+8	nlaħħaq	_	VERB	VERB	_	7	xcomp	_	_
+9	nagħmel	_	VERB	VERB	_	8	xcomp	_	_
+10	kollox	_	PRON	PRON_INDEF	_	9	obj	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 23_03J03:14
+# text = F'liema kompetizzjonijiet lokali u jew internazzjonali ħadt sehem?
+1	F'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
+2	liema	_	PRON	PRON_INT	_	3	det	_	_
+3	kompetizzjonijiet	_	NOUN	NOUN	_	8	obl	_	_
+4	lokali	_	ADJ	ADJ	_	3	amod	_	_
+5	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+6	jew	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	internazzjonali	_	ADJ	ADJ	_	4	conj	_	_
+8	ħadt	_	VERB	VERB	_	0	root	_	_
+9	sehem	_	NOUN	NOUN	_	8	compound	_	SpaceAfter=No
+10	?	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 23_03J03:15
+# text = S'issa ħadt sehem f'kompetizzjonijiet lokali biss, però fil-futur viċin għandi f'moħħi li mmur barra minn Malta wkoll.
+1	S'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	issa	_	ADV	ADV	_	3	advmod	_	_
+3	ħadt	_	VERB	VERB	_	0	root	_	_
+4	sehem	_	NOUN	NOUN	_	3	compound	_	_
+5	f'	_	ADP	PREP	_	6	case	_	SpaceAfter=No
+6	kompetizzjonijiet	_	NOUN	NOUN	_	3	obl	_	_
+7	lokali	_	ADJ	ADJ	_	6	amod	_	_
+8	biss	_	ADV	FOC	_	6	discourse	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	3	punct	_	_
+10	però	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+11	fil-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	futur	_	NOUN	NOUN	_	14	obl	_	_
+13	viċin	_	ADJ	ADJ	_	12	amod	_	_
+14	għandi	_	VERB	VERB_PSEU	_	3	conj	_	_
+15	f'	_	ADP	PREP	_	16	case	_	SpaceAfter=No
+16	moħħi	_	NOUN	NOUN	_	14	obl	_	_
+17	li	_	SCONJ	COMP	_	18	mark	_	_
+18	mmur	_	VERB	VERB	_	14	xcomp	_	_
+19	barra	_	ADV	ADV	_	18	advmod	_	_
+20	minn	_	ADP	PREP	_	21	case	_	_
+21	Malta	_	PROPN	NOUN_PROP	_	19	obl	_	_
+22	wkoll	_	ADV	FOC	_	19	discourse	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23_03J03:16
+# text = Hawn Malta s'issa ħadt sehem f'Test Competitions u anke f'National Championships u rnexxieli dejjem intejjeb it-total tiegħi minn kompetizzjoni għal oħra.
+1	Hawn	_	ADV	ADV	_	5	advmod	_	_
+2	Malta	_	PROPN	NOUN_PROP	_	5	obl	_	_
+3	s'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
+4	issa	_	ADV	ADV	_	5	advmod	_	_
+5	ħadt	_	VERB	VERB	_	0	root	_	_
+6	sehem	_	NOUN	NOUN	_	5	compound	_	_
+7	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+8	Test	_	ADJ	ADJ	_	9	amod	_	_
+9	Competitions	_	NOUN	NOUN	_	5	obl	_	_
+10	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+11	anke	_	ADV	FOC	_	14	discourse	_	_
+12	f'	_	ADP	PREP	_	14	case	_	SpaceAfter=No
+13	National	_	ADJ	ADJ	_	14	amod	_	_
+14	Championships	_	NOUN	NOUN	_	9	conj	_	_
+15	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+16	rnexxieli	_	VERB	VERB	_	5	conj	_	_
+17	dejjem	_	ADV	ADV	_	18	advmod	_	_
+18	intejjeb	_	VERB	VERB	_	16	xcomp	_	_
+19	it-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	total	_	NOUN	NOUN	_	18	obj	_	_
+21	tiegħi	_	PRON	GEN_PRON	_	20	nmod:poss	_	_
+22	minn	_	ADP	PREP	_	23	case	_	_
+23	kompetizzjoni	_	NOUN	NOUN	_	18	obl	_	_
+24	għal	_	ADP	PREP	_	25	case	_	_
+25	oħra	_	ADJ	ADJ	_	18	conj	_	orig_deprel=obl|SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23_03J03:17
+# text = Fit-tieni parti tal-intervista li Newsbook. com. mt se jwasslilkom għada, Sean se jispjega d-differenza bejn Weightlifting u Powerlifting.
+1	Fit-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+2	tieni	_	NUM	NUM_ORD	_	3	amod	_	_
+3	parti	_	NOUN	NOUN	_	18	obl	_	_
+4	tal-	_	ADP	GEN_DEF	_	5	case:det	_	SpaceAfter=No
+5	intervista	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	li	_	SCONJ	COMP	_	13	mark	_	_
+7	Newsbook	_	PROPN	NOUN_PROP	_	13	nsubj	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	7	punct	_	_
+9	com	_	SYM	X_BOR	_	7	flat:name	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	7	punct	_	_
+11	mt	_	SYM	X_BOR	_	7	flat:name	_	_
+12	se	_	AUX	FUT	_	13	aux:part	_	_
+13	jwasslilkom	_	VERB	VERB	_	3	acl	_	_
+14	għada	_	ADV	ADV	_	13	advmod	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	3	punct	_	_
+16	Sean	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
+17	se	_	AUX	FUT	_	18	aux:part	_	_
+18	jispjega	_	VERB	VERB	_	0	root	_	_
+19	d-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	differenza	_	NOUN	NOUN	_	18	obj	_	_
+21	bejn	_	ADP	PREP	_	22	case	_	_
+22	Weightlifting	_	NOUN	NOUN	_	20	nmod	_	_
+23	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+24	Powerlifting	_	NOUN	NOUN	_	22	conj	_	SpaceAfter=No
+25	.	_	PUNCT	X_PUN	_	18	punct	_	_
+

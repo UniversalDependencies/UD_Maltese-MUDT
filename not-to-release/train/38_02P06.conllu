@@ -1,0 +1,1811 @@
+# sent_id = 38_02P06:1
+# text = MISTOQSIJIET - TWEĠIBIET ORALI
+1	MISTOQSIJIET	_	NOUN	NOUN	_	0	root	_	_
+2	-	_	PUNCT	X_PUN	_	1	punct	_	_
+3	TWEĠIBIET	_	NOUN	NOUN	_	1	list	_	_
+4	ORALI	_	ADJ	ADJ	_	3	amod	_	_
+
+# sent_id = 38_02P06:2
+# text = BAĦRIJA - VULTAĠĠ TA' DAWL BAXX
+1	BAĦRIJA	_	PROPN	NOUN_PROP	_	0	root	_	_
+2	-	_	PUNCT	X_PUN	_	1	punct	_	_
+3	VULTAĠĠ	_	NOUN	NOUN	_	1	list	_	_
+4	TA'	_	ADP	GEN	_	5	case	_	_
+5	DAWL	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	BAXX	_	ADJ	ADJ	_	5	amod	_	_
+
+# sent_id = 38_02P06:3
+# text = 32739.
+1	32739	_	NUM	X_DIG	_	0	root	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 38_02P06:4
+# text = L-ONOR. NOEL FARRUGIA staqsa lill-Ministru għas-Servizzi Ekonomiċi: Jista' l-Ministru jgħidli x'sar dwar il-kwestjoni ta' vultaġġ baxx fil-Baħrija?
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ONOR	_	NOUN	X_ABV	_	6	nsubj	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	2	punct	_	_
+4	NOEL	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
+5	FARRUGIA	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
+6	staqsa	_	VERB	VERB	_	0	root	_	_
+7	lill-	_	ADP	LIL_DEF	_	8	case:det	_	SpaceAfter=No
+8	Ministru	_	NOUN	NOUN	_	6	obj	_	_
+9	għas-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	Servizzi	_	NOUN	NOUN	_	8	nmod	_	_
+11	Ekonomiċi	_	ADJ	ADJ	_	10	amod	_	SpaceAfter=No
+12	:	_	PUNCT	X_PUN	_	6	punct	_	_
+13	Jista'	_	VERB	VERB	_	6	ccomp	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	Ministru	_	NOUN	NOUN	_	13	nsubj	_	_
+16	jgħidli	_	VERB	VERB	_	13	xcomp	_	_
+17	x'	_	PRON	PRON_INT	_	18	nsubj	_	SpaceAfter=No
+18	sar	_	VERB	VERB	_	16	ccomp	_	_
+19	dwar	_	ADP	PREP	_	21	case	_	_
+20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	kwestjoni	_	NOUN	NOUN	_	18	obl	_	_
+22	ta'	_	ADP	GEN	_	23	case	_	_
+23	vultaġġ	_	NOUN	NOUN	_	21	nmod:poss	_	_
+24	baxx	_	ADJ	ADJ	_	23	amod	_	_
+25	fil-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
+26	Baħrija	_	PROPN	NOUN_PROP	_	23	nmod	_	SpaceAfter=No
+27	?	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:5
+# text = ONOR. NINU ZAMMIT (Ministru għall-Agrikoltura u Sajd) (f'isem il-Ministru għas-Servizzi Ekonomiċi): F'dan l-istadju ma għandi xejn xi nżid mat-tweġiba li tajt għall-mistoqsija 31093.
+1	ONOR	_	NOUN	X_ABV	_	27	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	ZAMMIT	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+5	(	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
+6	Ministru	_	NOUN	NOUN	_	1	appos	_	_
+7	għall-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	Agrikoltura	_	NOUN	NOUN	_	6	nmod	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	Sajd	_	NOUN	NOUN	_	8	conj	_	SpaceAfter=No
+11	)	_	PUNCT	X_PUN	_	6	punct	_	_
+12	(	_	PUNCT	X_PUN	_	14	punct	_	SpaceAfter=No
+13	f'	_	ADP	PREP	_	14	case	_	SpaceAfter=No
+14	isem	_	NOUN	NOUN	_	1	nmod	_	_
+15	il-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	Ministru	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	għas-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	Servizzi	_	NOUN	NOUN	_	16	nmod	_	_
+19	Ekonomiċi	_	ADJ	ADJ	_	18	amod	_	SpaceAfter=No
+20	)	_	PUNCT	X_PUN	_	14	punct	_	SpaceAfter=No
+21	:	_	PUNCT	X_PUN	_	1	punct	_	_
+22	F'	_	ADP	PREP	_	25	case	_	SpaceAfter=No
+23	dan	_	PRON	PRON_DEM	_	25	det	_	_
+24	l-	_	DET	DEF	_	25	det	_	SpaceAfter=No
+25	istadju	_	NOUN	NOUN	_	27	obl	_	_
+26	ma	_	PART	NEG	_	27	advmod:neg	_	_
+27	għandi	_	VERB	VERB_PSEU	_	0	root	_	_
+28	xejn	_	PRON	PRON_INDEF	_	27	obj	_	_
+29	xi	_	PRON	PRON_INT	_	30	obj	_	_
+30	nżid	_	VERB	VERB	_	28	acl	_	_
+31	mat-	_	ADP	PREP_DEF	_	32	case:det	_	SpaceAfter=No
+32	tweġiba	_	NOUN	NOUN	_	30	obl	_	_
+33	li	_	SCONJ	COMP	_	34	mark	_	_
+34	tajt	_	VERB	VERB	_	32	acl	_	_
+35	għall-	_	ADP	PREP_DEF	_	36	case:det	_	SpaceAfter=No
+36	mistoqsija	_	NOUN	NOUN	_	34	obl	_	_
+37	31093	_	NUM	X_DIG	_	36	nummod	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	27	punct	_	_
+
+# sent_id = 38_02P06:6
+# text = MR SPEAKER: L-Onor. Farrugia, domanda supplimentari.
+1	MR	_	NOUN	X_ABV	_	9	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat:name	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Onor	_	NOUN	X_ABV	_	9	vocative	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+7	Farrugia	_	PROPN	NOUN_PROP	_	5	flat:name	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	5	punct	_	_
+9	domanda	_	NOUN	NOUN	_	0	root	_	_
+10	supplimentari	_	ADJ	ADJ	_	9	amod	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 38_02P06:7
+# text = ONOR. NOEL FARRUGIA: Ladarba l-Ministru qed iwieġeb għan-nom tal-ministru sieħbu, jista' jgħidilna x'se jiġri mill-management u mill-ħaddiema ta' l-IPSE, l-MDC u l-METCO, tliet aġenziji li skond ma tħabbar se jiġu amalgamati f'aġenzija waħda li suppost dalwaqt għandha tibda topera.
+1	ONOR	_	NOUN	X_ABV	_	17	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NOEL	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	FARRUGIA	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Ladarba	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	Ministru	_	NOUN	NOUN	_	10	nsubj	_	_
+9	qed	_	AUX	PROG	_	10	aux:part	_	_
+10	iwieġeb	_	VERB	VERB	_	17	advcl	_	_
+11	għan-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	nom	_	NOUN	NOUN	_	10	obl	_	_
+13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	ministru	_	NOUN	NOUN	_	12	nmod:poss	_	_
+15	sieħbu	_	NOUN	NOUN	_	14	nmod	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	10	punct	_	_
+17	jista'	_	VERB	VERB	_	0	root	_	_
+18	jgħidilna	_	VERB	VERB	_	17	xcomp	_	_
+19	x'	_	PRON	PRON_INT	_	21	nsubj	_	SpaceAfter=No
+20	se	_	AUX	FUT	_	21	aux:part	_	_
+21	jiġri	_	VERB	VERB	_	18	ccomp	_	_
+22	mill-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	management	_	NOUN	NOUN	_	21	obl	_	_
+24	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
+25	mill-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
+26	ħaddiema	_	NOUN	NOUN	_	23	conj	_	_
+27	ta'	_	ADP	GEN	_	29	case	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	IPSE	_	NOUN	X_ABV	_	23	nmod:poss	_	SpaceAfter=No
+30	,	_	PUNCT	X_PUN	_	29	punct	_	_
+31	l-	_	DET	DEF	_	32	det	_	SpaceAfter=No
+32	MDC	_	NOUN	X_ABV	_	29	conj	_	_
+33	u	_	CCONJ	CONJ_CORD	_	35	cc	_	_
+34	l-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	METCO	_	NOUN	X_ABV	_	29	conj	_	SpaceAfter=No
+36	,	_	PUNCT	X_PUN	_	29	punct	_	_
+37	tliet	_	NUM	NUM_CRD	_	38	nummod	_	_
+38	aġenziji	_	NOUN	NOUN	_	29	appos	_	_
+39	li	_	SCONJ	COMP	_	45	mark	_	_
+40	skond	_	ADP	PREP	_	42	mark	_	_
+41	ma	_	SCONJ	COMP	_	40	fixed	_	_
+42	tħabbar	_	VERB	VERB	_	45	advcl	_	_
+43	se	_	AUX	FUT	_	45	aux:part	_	_
+44	jiġu	_	AUX	VERB	_	45	aux:pass	_	_
+45	amalgamati	_	VERB	PART_PASS	_	38	acl	_	_
+46	f'	_	ADP	PREP	_	47	case	_	SpaceAfter=No
+47	aġenzija	_	NOUN	NOUN	_	45	obl	_	_
+48	waħda	_	NUM	NUM_WHD	_	47	nummod	_	_
+49	li	_	SCONJ	COMP	_	52	mark	_	_
+50	suppost	_	ADV	ADV	_	52	advmod	_	_
+51	dalwaqt	_	ADV	ADV	_	52	advmod	_	_
+52	għandha	_	VERB	VERB_PSEU	_	47	acl	_	_
+53	tibda	_	VERB	VERB	_	52	xcomp	_	_
+54	topera	_	VERB	VERB	_	53	xcomp	_	SpaceAfter=No
+55	.	_	PUNCT	X_PUN	_	17	punct	_	_
+
+# sent_id = 38_02P06:8
+# text = MR SPEAKER: Il-Ministru.
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat:name	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Ministru	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:9
+# text = ONOR. NINU ZAMMIT: Mr Speaker, ninforma lill-Kamra li l-Onor. Josef Bonnici qiegħed fuq xogħol ieħor tal-gvern u għal din ir-raġuni li jien qomt nirrispondi f'ismu.
+1	ONOR	_	NOUN	X_ABV	_	9	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	ZAMMIT	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Mr	_	X	X_ENG	_	9	vocative	_	_
+7	Speaker	_	X	X_ENG	_	6	flat	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	6	punct	_	_
+9	ninforma	_	VERB	VERB	_	0	root	_	_
+10	lill-	_	ADP	LIL_DEF	_	11	case:det	_	SpaceAfter=No
+11	Kamra	_	NOUN	NOUN	_	9	obj	_	_
+12	li	_	SCONJ	COMP	_	20	mark	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	Onor	_	NOUN	X_ABV	_	20	nsubj	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	14	punct	_	_
+16	Josef	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
+17	Bonnici	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
+18	qiegħed	_	AUX	PART_ACT	_	20	cop	_	_
+19	fuq	_	ADP	PREP	_	20	case	_	_
+20	xogħol	_	NOUN	NOUN	_	9	ccomp	_	_
+21	ieħor	_	ADJ	ADJ	_	20	amod	_	_
+22	tal-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No
+23	gvern	_	NOUN	NOUN	_	20	nmod:poss	_	_
+24	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+25	għal	_	ADP	PREP	_	28	case	_	_
+26	din	_	PRON	PRON_DEM	_	28	det	_	_
+27	ir-	_	DET	DEF	_	28	det	_	SpaceAfter=No
+28	raġuni	_	NOUN	NOUN	_	20	conj	_	_
+29	li	_	SCONJ	COMP	_	31	mark	_	_
+30	jien	_	PRON	PRON_PERS	_	31	nsubj	_	_
+31	qomt	_	VERB	VERB	_	28	ccomp	_	_
+32	nirrispondi	_	VERB	VERB	_	31	xcomp	_	_
+33	f'	_	ADP	PREP	_	34	case	_	SpaceAfter=No
+34	ismu	_	NOUN	NOUN	_	32	obl	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 38_02P06:10
+# text = Issa jekk l-Onor. Membru għandu xi domanda oħra x'jagħmel lill-Ministru Bonnici, nitolbu jagħmililu meta jkun preżenti fil-Kamra għax hu l-bniedem responsabbli.
+1	Issa	_	ADV	ADV	_	17	advmod	_	_
+2	jekk	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	Onor	_	NOUN	X_ABV	_	7	nsubj	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	4	punct	_	_
+6	Membru	_	NOUN	NOUN	_	4	compound	_	_
+7	għandu	_	VERB	VERB_PSEU	_	17	advcl	_	_
+8	xi	_	DET	QUAN	_	9	det	_	_
+9	domanda	_	NOUN	NOUN	_	7	obj	_	_
+10	oħra	_	ADJ	ADJ	_	9	amod	_	_
+11	x'	_	PRON	PRON_INT	_	12	obj	_	SpaceAfter=No
+12	jagħmel	_	VERB	VERB	_	9	acl	_	_
+13	lill-	_	ADP	LIL_DEF	_	14	case:det	_	SpaceAfter=No
+14	Ministru	_	NOUN	NOUN	_	15	compound	_	_
+15	Bonnici	_	PROPN	NOUN_PROP	_	12	iobj	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	7	punct	_	_
+17	nitolbu	_	VERB	VERB	_	0	root	_	_
+18	jagħmililu	_	VERB	VERB	_	17	xcomp	_	_
+19	meta	_	SCONJ	CONJ_SUB	_	21	mark	_	_
+20	jkun	_	AUX	KIEN	_	21	cop	_	_
+21	preżenti	_	ADJ	ADJ	_	18	amod	_	_
+22	fil-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	Kamra	_	NOUN	NOUN	_	21	obl	_	_
+24	għax	_	SCONJ	CONJ_SUB	_	27	mark	_	_
+25	hu	_	PRON	PRON_PERS	_	27	nsubj	_	_
+26	l-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+27	bniedem	_	NOUN	NOUN	_	18	advcl	_	_
+28	responsabbli	_	ADJ	ADJ	_	27	amod	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	17	punct	_	_
+
+# sent_id = 38_02P06:11
+# text = MR SPEAKER: L-Onor. Farrugia.
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Onor	_	NOUN	X_ABV	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+7	Farrugia	_	PROPN	NOUN_PROP	_	5	flat:name	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:12
+# text = ONOR. NOEL FARRUGIA: Jiena nirrispetta t-tweġiba tal-Ministru, imma ġaladarba affarijiet bħal dawn ikunu ġew approvati mill-kabinett u allura jkunu jagħmlu parti mill-policy tal-gvern, jista' l-Ministru jgħid jekk l-impjiegi tal-management u tal-ħaddiema fit-tliet aġenziji li semmejt humiex se jiġu ssalvagwardati?
+1	ONOR	_	NOUN	X_ABV	_	7	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NOEL	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	FARRUGIA	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Jiena	_	PRON	PRON_PERS	_	7	nsubj	_	_
+7	nirrispetta	_	VERB	VERB	_	0	root	_	_
+8	t-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	tweġiba	_	NOUN	NOUN	_	7	obj	_	_
+10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	Ministru	_	NOUN	NOUN	_	9	nmod:poss	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	7	punct	_	_
+13	imma	_	CCONJ	CONJ_CORD	_	33	cc	_	_
+14	ġaladarba	_	ADV	ADV	_	20	advmod	_	_
+15	affarijiet	_	NOUN	NOUN	_	20	nsubj	_	_
+16	bħal	_	ADP	PREP	_	17	case	_	_
+17	dawn	_	PRON	PRON_DEM	_	15	nmod	_	_
+18	ikunu	_	AUX	KIEN	_	20	aux	_	_
+19	ġew	_	AUX	VERB	_	20	aux:pass	_	_
+20	approvati	_	VERB	PART_PASS	_	33	advcl	_	_
+21	mill-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
+22	kabinett	_	NOUN	NOUN	_	20	obl:agent	_	_
+23	u	_	CCONJ	CONJ_CORD	_	26	cc	_	_
+24	allura	_	ADV	ADV	_	26	advmod	_	_
+25	jkunu	_	AUX	KIEN	_	26	aux	_	_
+26	jagħmlu	_	VERB	VERB	_	20	conj	_	_
+27	parti	_	NOUN	NOUN	_	26	obj	_	_
+28	mill-	_	ADP	PREP_DEF	_	29	case:det	_	SpaceAfter=No
+29	policy	_	NOUN	NOUN	_	27	nmod	_	_
+30	tal-	_	ADP	GEN_DEF	_	31	case:det	_	SpaceAfter=No
+31	gvern	_	NOUN	NOUN	_	29	nmod:poss	_	SpaceAfter=No
+32	,	_	PUNCT	X_PUN	_	26	punct	_	_
+33	jista'	_	VERB	VERB	_	7	conj	_	_
+34	l-	_	DET	DEF	_	35	det	_	SpaceAfter=No
+35	Ministru	_	NOUN	NOUN	_	33	nsubj	_	_
+36	jgħid	_	VERB	VERB	_	33	xcomp	_	_
+37	jekk	_	SCONJ	CONJ_SUB	_	53	mark	_	_
+38	l-	_	DET	DEF	_	39	det	_	SpaceAfter=No
+39	impjiegi	_	NOUN	NOUN	_	53	nsubj:pass	_	_
+40	tal-	_	ADP	GEN_DEF	_	41	case:det	_	SpaceAfter=No
+41	management	_	NOUN	NOUN	_	39	nmod:poss	_	_
+42	u	_	CCONJ	CONJ_CORD	_	44	cc	_	_
+43	tal-	_	ADP	GEN_DEF	_	44	case:det	_	SpaceAfter=No
+44	ħaddiema	_	NOUN	NOUN	_	41	conj	_	_
+45	fit-	_	ADP	PREP_DEF	_	47	case:det	_	SpaceAfter=No
+46	tliet	_	NUM	NUM_CRD	_	47	nummod	_	_
+47	aġenziji	_	NOUN	NOUN	_	39	nmod	_	_
+48	li	_	SCONJ	COMP	_	49	mark	_	_
+49	semmejt	_	VERB	VERB	_	47	acl	_	_
+50	humiex	_	AUX	PRON_PERS	_	53	aux:part	_	_
+51	se	_	AUX	FUT	_	53	aux:part	_	_
+52	jiġu	_	AUX	VERB	_	53	aux:pass	_	_
+53	ssalvagwardati	_	VERB	PART_PASS	_	36	ccomp	_	SpaceAfter=No
+54	?	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 38_02P06:13
+# text = Lill-Ministru m'iniex nistaqsih affarijiet tekniċi imma qed nagħmillu domanda wiesgħa fuq kwestjoni ta' impjiegi, u dan fuq kollox wara statement li sar fil-pubbliku ftit tal-ġimgħat ilu biss.
+1	Lill-	_	ADP	LIL_DEF	_	2	case:det	_	SpaceAfter=No
+2	Ministru	_	NOUN	NOUN	_	5	obj	_	_
+3	m'	_	PART	NEG	_	5	advmod:neg	_	SpaceAfter=No
+4	iniex	_	AUX	PRON_PERS_NEG	_	5	aux:neg	_	_
+5	nistaqsih	_	VERB	VERB	_	0	root	_	_
+6	affarijiet	_	NOUN	NOUN	_	5	obl:arg	_	_
+7	tekniċi	_	ADJ	ADJ	_	6	amod	_	_
+8	imma	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+9	qed	_	AUX	PROG	_	10	aux:part	_	_
+10	nagħmillu	_	VERB	VERB	_	5	conj	_	_
+11	domanda	_	NOUN	NOUN	_	10	obj	_	_
+12	wiesgħa	_	ADJ	ADJ	_	11	amod	_	_
+13	fuq	_	ADP	PREP	_	14	case	_	_
+14	kwestjoni	_	NOUN	NOUN	_	11	nmod	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	impjiegi	_	NOUN	NOUN	_	14	nmod:poss	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	11	punct	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+19	dan	_	PRON	PRON_DEM	_	10	conj	_	_
+20	fuq	_	ADP	PREP	_	21	case	_	_
+21	kollox	_	PRON	PRON_INDEF	_	19	obl	_	_
+22	wara	_	ADP	PREP	_	23	case	_	_
+23	statement	_	NOUN	NOUN	_	19	obl	_	_
+24	li	_	SCONJ	COMP	_	25	mark	_	_
+25	sar	_	VERB	VERB	_	23	acl	_	_
+26	fil-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
+27	pubbliku	_	NOUN	NOUN	_	25	obl	_	_
+28	ftit	_	DET	QUAN	_	27	obl	_	_
+29	tal-	_	ADP	GEN_DEF	_	30	case:det	_	SpaceAfter=No
+30	ġimgħat	_	NOUN	NOUN	_	28	nmod:poss	_	_
+31	ilu	_	ADP	PREP	_	28	case	_	_
+32	biss	_	ADV	FOC	_	28	discourse	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:14
+# text = MR SPEAKER: Il-Ministru.
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Ministru	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:15
+# text = ONOR. NINU ZAMMIT: Huwa ovvju li biex issir l-amalgamazzjoni jridu jsiru l-istudji u t-taħditiet neċessarji fid-diversi livelli.
+1	ONOR	_	NOUN	X_ABV	_	7	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	ZAMMIT	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Huwa	_	PRON	PRON_PERS	_	7	expl	_	_
+7	ovvju	_	ADJ	ADJ	_	0	root	_	_
+8	li	_	SCONJ	COMP	_	13	mark	_	_
+9	biex	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+10	issir	_	VERB	VERB	_	13	advcl	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	amalgamazzjoni	_	NOUN	NOUN	_	10	nsubj	_	_
+13	jridu	_	VERB	VERB	_	7	ccomp	_	_
+14	jsiru	_	VERB	VERB	_	13	xcomp	_	_
+15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	istudji	_	NOUN	NOUN	_	14	nsubj	_	_
+17	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+18	t-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	taħditiet	_	NOUN	NOUN	_	16	conj	_	_
+20	neċessarji	_	ADJ	ADJ	_	16	acl	_	_
+21	fid-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+22	diversi	_	ADJ	ADJ	_	23	amod	_	_
+23	livelli	_	NOUN	NOUN	_	16	nmod	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 38_02P06:16
+# text = F'dan ir-rigward m'hemmx dubju li n-nies tal-ministeru għas-servizzi ekonomiċi huma l-esperti u jekk ma jimpurtax, nitlob lill-Onor. Membru jkollu ftit tal-paċenzja u jistenna li jkun hawn preżenti l-Onor. Josef Bonnici biex jingħata l-informazzjoni li qed jitlob.
+1	F'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
+2	dan	_	PRON	PRON_DEM	_	4	det	_	_
+3	ir-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	rigward	_	NOUN	NOUN	_	6	obl	_	_
+5	m'	_	PART	NEG	_	6	advmod:neg	_	SpaceAfter=No
+6	hemmx	_	VERB	HEMM	_	0	root	_	_
+7	dubju	_	NOUN	NOUN	_	6	nsubj	_	_
+8	li	_	SCONJ	COMP	_	18	mark	_	_
+9	n-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	nies	_	NOUN	NOUN	_	18	nsubj	_	_
+11	tal-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
+12	ministeru	_	NOUN	NOUN	_	10	nmod:poss	_	_
+13	għas-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	servizzi	_	NOUN	NOUN	_	12	nmod	_	_
+15	ekonomiċi	_	ADJ	ADJ	_	14	amod	_	_
+16	huma	_	PRON	PRON_PERS	_	18	cop	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	esperti	_	NOUN	NOUN	_	6	ccomp	_	_
+19	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+20	jekk	_	SCONJ	CONJ_SUB	_	22	mark	_	_
+21	ma	_	PART	NEG	_	22	advmod:neg	_	_
+22	jimpurtax	_	VERB	VERB	_	24	advcl	_	SpaceAfter=No
+23	,	_	PUNCT	X_PUN	_	22	punct	_	_
+24	nitlob	_	VERB	VERB	_	6	conj	_	_
+25	lill-	_	ADP	LIL_DEF	_	26	case:det	_	SpaceAfter=No
+26	Onor	_	NOUN	X_ABV	_	24	obj	_	SpaceAfter=No
+27	.	_	PUNCT	X_PUN	_	26	punct	_	_
+28	Membru	_	NOUN	NOUN	_	26	compound	_	_
+29	jkollu	_	VERB	VERB_PSEU	_	24	xcomp	_	_
+30	ftit	_	DET	QUAN	_	29	obj	_	_
+31	tal-	_	ADP	GEN_DEF	_	32	case:det	_	SpaceAfter=No
+32	paċenzja	_	NOUN	NOUN	_	30	nmod:poss	_	_
+33	u	_	CCONJ	CONJ_CORD	_	34	cc	_	_
+34	jistenna	_	VERB	VERB	_	29	conj	_	_
+35	li	_	SCONJ	COMP	_	38	mark	_	_
+36	jkun	_	AUX	KIEN	_	38	cop	_	_
+37	hawn	_	ADV	ADV	_	38	advmod	_	_
+38	preżenti	_	ADJ	ADJ	_	34	ccomp	_	_
+39	l-	_	DET	DEF	_	40	det	_	SpaceAfter=No
+40	Onor	_	NOUN	X_ABV	_	38	nsubj	_	SpaceAfter=No
+41	.	_	PUNCT	X_PUN	_	40	punct	_	_
+42	Josef	_	PROPN	NOUN_PROP	_	40	flat:name	_	_
+43	Bonnici	_	PROPN	NOUN_PROP	_	40	flat:name	_	_
+44	biex	_	SCONJ	CONJ_SUB	_	45	mark	_	_
+45	jingħata	_	VERB	VERB	_	38	advcl	_	_
+46	l-	_	DET	DEF	_	47	det	_	SpaceAfter=No
+47	informazzjoni	_	NOUN	NOUN	_	45	nsubj:pass	_	_
+48	li	_	SCONJ	COMP	_	50	mark	_	_
+49	qed	_	AUX	PROG	_	50	aux:part	_	_
+50	jitlob	_	VERB	VERB	_	47	acl	_	SpaceAfter=No
+51	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:17
+# text = MR SPEAKER: L-Onor. Farrugia
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Onor	_	NOUN	X_ABV	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+7	Farrugia	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
+
+# sent_id = 38_02P06:18
+# text = ONOR. NOEL FARRUGIA: Sur President, jien allura neħodha li l-Ministru ma jafx x'inhi l-pożizzjoni dwar l-impjiegi tal-management u tal-ħaddiema inkwantu għal din l-amalgamazzjoni?
+1	ONOR	_	NOUN	X_ABV	_	11	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NOEL	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	FARRUGIA	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Sur	_	NOUN	NOUN	_	7	compound	_	_
+7	President	_	NOUN	NOUN	_	11	vocative	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	7	punct	_	_
+9	jien	_	PRON	PRON_PERS	_	11	nsubj	_	_
+10	allura	_	ADV	ADV	_	11	advmod	_	_
+11	neħodha	_	VERB	VERB	_	0	root	_	_
+12	li	_	SCONJ	COMP	_	16	mark	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	Ministru	_	NOUN	NOUN	_	16	nsubj	_	_
+15	ma	_	PART	NEG	_	16	advmod:neg	_	_
+16	jafx	_	VERB	VERB	_	11	ccomp	_	_
+17	x'	_	PRON	PRON_INT	_	16	ccomp	_	SpaceAfter=No
+18	inhi	_	PRON	PRON_INT	_	17	cop	_	_
+19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	pożizzjoni	_	NOUN	NOUN	_	17	nsubj	_	_
+21	dwar	_	ADP	PREP	_	23	case	_	_
+22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	impjiegi	_	NOUN	NOUN	_	20	nmod	_	_
+24	tal-	_	ADP	GEN_DEF	_	25	case:det	_	SpaceAfter=No
+25	management	_	NOUN	NOUN	_	23	nmod:poss	_	_
+26	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+27	tal-	_	ADP	GEN_DEF	_	28	case:det	_	SpaceAfter=No
+28	ħaddiema	_	NOUN	NOUN	_	25	conj	_	_
+29	inkwantu	_	ADP	PREP	_	33	case	_	_
+30	għal	_	ADP	PREP	_	33	case	_	_
+31	din	_	PRON	PRON_DEM	_	33	det	_	_
+32	l-	_	DET	DEF	_	33	det	_	SpaceAfter=No
+33	amalgamazzjoni	_	NOUN	NOUN	_	20	nmod	_	SpaceAfter=No
+34	?	_	PUNCT	X_PUN	_	33	punct	_	_
+
+# sent_id = 38_02P06:19
+# text = Nerġa' ngħid li mhux qed nistaqsi domandi tekniċi imma qiegħed nistaqsi biss jekk l-impjiegi tal-management u tal-ħaddiema f'dawn l-agenziji humiex mhedda.
+1	Nerġa'	_	VERB	VERB	_	0	root	_	_
+2	ngħid	_	VERB	VERB	_	1	xcomp	_	_
+3	li	_	SCONJ	COMP	_	6	mark	_	_
+4	mhux	_	AUX	PRON_PERS_NEG	_	6	aux:neg	_	_
+5	qed	_	AUX	PROG	_	6	aux:part	_	_
+6	nistaqsi	_	VERB	VERB	_	2	xcomp	_	_
+7	domandi	_	NOUN	NOUN	_	6	obj	_	_
+8	tekniċi	_	ADJ	ADJ	_	7	amod	_	_
+9	imma	_	CCONJ	CONJ_CORD	_	6	conj	_	_
+10	qiegħed	_	AUX	PROG	_	11	aux:part	_	_
+11	nistaqsi	_	VERB	VERB	_	6	conj	_	_
+12	biss	_	ADV	FOC	_	26	discourse	_	_
+13	jekk	_	SCONJ	CONJ_SUB	_	26	mark	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	impjiegi	_	NOUN	NOUN	_	26	nsubj	_	_
+16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	management	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+19	tal-	_	ADP	GEN_DEF	_	20	case:det	_	SpaceAfter=No
+20	ħaddiema	_	NOUN	NOUN	_	17	conj	_	_
+21	f'	_	ADP	PREP	_	24	case	_	SpaceAfter=No
+22	dawn	_	PRON	PRON_DEM	_	24	det	_	_
+23	l-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+24	agenziji	_	NOUN	NOUN	_	15	nmod	_	_
+25	humiex	_	PRON	PRON_PERS	_	26	cop	_	_
+26	mhedda	_	VERB	PART_PASS	_	11	ccomp	_	SpaceAfter=No
+27	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 38_02P06:20
+# text = MR SPEAKER: Il-Ministru.
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Ministru	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:21
+# text = ONOR. NINU ZAMMIT: Sur President, jien m'iniex acting b'mod formali għall-Onor. Bonnici.
+1	ONOR	_	NOUN	X_ABV	_	12	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	ZAMMIT	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Sur	_	NOUN	NOUN	_	7	compound	_	_
+7	President	_	NOUN	NOUN	_	12	vocative	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	7	punct	_	_
+9	jien	_	PRON	PRON_PERS	_	12	nsubj	_	_
+10	m'	_	PART	NEG	_	12	advmod:neg	_	SpaceAfter=No
+11	iniex	_	AUX	PRON_PERS_NEG	_	12	aux:neg	_	_
+12	acting	_	VERB	PART_ACT	_	0	root	_	_
+13	b'	_	ADP	PREP	_	14	case	_	SpaceAfter=No
+14	mod	_	NOUN	NOUN	_	12	obl	_	_
+15	formali	_	ADJ	ADJ	_	14	amod	_	_
+16	għall-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	Onor	_	NOUN	X_ABV	_	12	obl	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	17	punct	_	_
+19	Bonnici	_	PROPN	NOUN_PROP	_	17	flat:name	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	17	punct	_	_
+
+# sent_id = 38_02P06:22
+# text = Hu l-ministru responsabbli u hu jaf il-materja fuq ponot subgħajh.
+1	Hu	_	PRON	PRON_PERS	_	3	nsubj	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	ministru	_	NOUN	NOUN	_	0	root	_	_
+4	responsabbli	_	ADJ	ADJ	_	3	amod	_	_
+5	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+6	hu	_	PRON	PRON_PERS	_	7	nsubj	_	_
+7	jaf	_	VERB	VERB	_	3	conj	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	materja	_	NOUN	NOUN	_	7	obj	_	_
+10	fuq	_	ADP	PREP	_	11	case	_	_
+11	ponot	_	NOUN	NOUN	_	7	obl	_	_
+12	subgħajh	_	NOUN	NOUN	_	11	nmod:poss	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 38_02P06:23
+# text = Kieku kien hawn ċertament li kien jirrispondi għad-domanda ta' l-Onor. Interpellant.
+1	Kieku	_	SCONJ	CONJ_SUB	_	3	mark	_	_
+2	kien	_	AUX	KIEN	_	3	cop	_	_
+3	hawn	_	ADV	ADV	_	4	advcl	_	_
+4	ċertament	_	ADV	ADV	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	7	mark	_	_
+6	kien	_	AUX	KIEN	_	7	aux	_	_
+7	jirrispondi	_	VERB	VERB	_	4	ccomp	_	_
+8	għad-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	domanda	_	NOUN	NOUN	_	7	obl:arg	_	_
+10	ta'	_	ADP	GEN	_	14	case	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	Onor	_	NOUN	X_ABV	_	14	compound	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	12	punct	_	_
+14	Interpellant	_	NOUN	NOUN	_	9	nmod:poss	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 38_02P06:24
+# text = Irrid ngħid ukoll li ħadd m'għandu jippretendi li dak il-ministru li jqum biex jirrispondi fl-assenza ta' sieħbu, f'daqqa waħda jsir espert u informat f'kollox fuq qasam li mhux tiegħu.
+1	Irrid	_	VERB	VERB	_	0	root	_	_
+2	ngħid	_	VERB	VERB	_	1	xcomp	_	_
+3	ukoll	_	ADV	FOC	_	7	discourse	_	_
+4	li	_	SCONJ	COMP	_	7	mark	_	_
+5	ħadd	_	PRON	PRON_INDEF	_	7	nsubj	_	_
+6	m'	_	PART	NEG	_	7	advmod:neg	_	SpaceAfter=No
+7	għandu	_	VERB	VERB_PSEU	_	2	ccomp	_	_
+8	jippretendi	_	VERB	VERB	_	7	xcomp	_	_
+9	li	_	SCONJ	COMP	_	25	mark	_	_
+10	dak	_	PRON	PRON_DEM	_	12	det	_	_
+11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	ministru	_	NOUN	NOUN	_	25	nsubj	_	_
+13	li	_	SCONJ	COMP	_	14	mark	_	_
+14	jqum	_	VERB	VERB	_	12	acl	_	_
+15	biex	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+16	jirrispondi	_	VERB	VERB	_	14	advcl	_	_
+17	fl-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	assenza	_	NOUN	NOUN	_	16	obl	_	_
+19	ta'	_	ADP	GEN	_	20	case	_	_
+20	sieħbu	_	NOUN	NOUN	_	18	nmod:poss	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	12	punct	_	_
+22	f'	_	ADP	PREP	_	23	case	_	SpaceAfter=No
+23	daqqa	_	NOUN	NOUN	_	25	obl	_	_
+24	waħda	_	NUM	NUM_WHD	_	23	nummod	_	_
+25	jsir	_	VERB	VERB	_	8	ccomp	_	_
+26	espert	_	NOUN	NOUN	_	25	xcomp	_	_
+27	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+28	informat	_	VERB	PART_PASS	_	26	conj	_	_
+29	f'	_	ADP	PREP	_	30	case	_	SpaceAfter=No
+30	kollox	_	PRON	PRON_INDEF	_	28	obl	_	_
+31	fuq	_	ADP	PREP	_	32	case	_	_
+32	qasam	_	NOUN	NOUN	_	26	nmod	_	_
+33	li	_	SCONJ	COMP	_	35	mark	_	_
+34	mhux	_	AUX	PRON_PERS_NEG	_	35	aux:neg	_	_
+35	tiegħu	_	PRON	GEN_PRON	_	32	nmod:poss	_	SpaceAfter=No
+36	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 38_02P06:25
+# text = L-ewwel ħaġa mhix prudenza li jien nidħol fuq sieħbi u l-mistoqsija li donnu se jibqa' jinsisti fuqha l-Onor. Farrugia, hi fuq materja totalment differenti minn dik originali.
+1	L-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+2	ewwel	_	NUM	NUM_ORD	_	3	amod	_	_
+3	ħaġa	_	NOUN	NOUN	_	5	obl	_	_
+4	mhix	_	AUX	PRON_PERS_NEG	_	5	aux:neg	_	_
+5	prudenza	_	NOUN	NOUN	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	8	mark	_	_
+7	jien	_	PRON	PRON_PERS	_	8	nsubj	_	_
+8	nidħol	_	VERB	VERB	_	5	ccomp	_	_
+9	fuq	_	ADP	PREP	_	10	case	_	_
+10	sieħbi	_	NOUN	NOUN	_	8	obl	_	_
+11	u	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	mistoqsija	_	NOUN	NOUN	_	27	nsubj	_	_
+14	li	_	SCONJ	COMP	_	15	mark	_	_
+15	donnu	_	VERB	VERB_PSEU	_	13	acl	_	_
+16	se	_	AUX	FUT	_	17	aux:part	_	_
+17	jibqa'	_	VERB	VERB	_	15	xcomp	_	_
+18	jinsisti	_	VERB	VERB	_	17	xcomp	_	_
+19	fuqha	_	PRON	PREP_PRON	_	18	obl:arg	_	_
+20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	Onor	_	NOUN	X_ABV	_	18	nsubj	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	21	punct	_	_
+23	Farrugia	_	PROPN	NOUN_PROP	_	21	flat:name	_	SpaceAfter=No
+24	,	_	PUNCT	X_PUN	_	13	punct	_	_
+25	hi	_	PRON	PRON_PERS	_	27	cop	_	_
+26	fuq	_	ADP	PREP	_	27	case	_	_
+27	materja	_	NOUN	NOUN	_	5	conj	_	_
+28	totalment	_	ADV	ADV	_	29	advmod	_	_
+29	differenti	_	ADJ	ADJ	_	27	amod	_	_
+30	minn	_	ADP	PREP	_	31	case	_	_
+31	dik	_	PRON	PRON_DEM	_	29	nmod	_	_
+32	originali	_	ADJ	ADJ	_	31	amod	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:26
+# text = Jien mhux daqshekk prużuntuż li ndaħħal imnieħri f'kollox !
+1	Jien	_	PRON	PRON_PERS	_	4	nsubj	_	_
+2	mhux	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
+3	daqshekk	_	ADV	ADV	_	4	advmod	_	_
+4	prużuntuż	_	ADJ	ADJ	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	ndaħħal	_	VERB	VERB	_	4	xcomp	_	_
+7	imnieħri	_	NOUN	NOUN	_	6	obj	_	_
+8	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+9	kollox	_	PRON	PRON_INDEF	_	6	obl	_	_
+10	!	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 38_02P06:27
+# text = Jekk l-Onor. Farrugia jrid li nitkellmu fuq il-vultaġġ tad-dawl nista' nwieġbu sa ċertu punt għax għandi ftit esperjenza fuq dawn l-affarijiet, imma m'għandux jippretendi li nirrispondih għal kull domanda li jagħmilli.
+1	Jekk	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	Onor	_	NOUN	X_ABV	_	6	nsubj	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	3	punct	_	_
+5	Farrugia	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
+6	jrid	_	VERB	VERB	_	14	advcl	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	nitkellmu	_	VERB	VERB	_	6	xcomp	_	_
+9	fuq	_	ADP	PREP	_	11	case	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	vultaġġ	_	NOUN	NOUN	_	8	obl:arg	_	_
+12	tad-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	dawl	_	NOUN	NOUN	_	11	nmod:poss	_	_
+14	nista'	_	VERB	VERB	_	0	root	_	_
+15	nwieġbu	_	VERB	VERB	_	14	xcomp	_	_
+16	sa	_	ADP	PREP	_	18	case	_	_
+17	ċertu	_	DET	QUAN	_	18	det	_	_
+18	punt	_	NOUN	NOUN	_	15	obl	_	_
+19	għax	_	SCONJ	CONJ_SUB	_	20	mark	_	_
+20	għandi	_	VERB	VERB_PSEU	_	15	advcl	_	_
+21	ftit	_	DET	QUAN	_	22	det	_	_
+22	esperjenza	_	NOUN	NOUN	_	20	obj	_	_
+23	fuq	_	ADP	PREP	_	26	case	_	_
+24	dawn	_	PRON	PRON_DEM	_	26	det	_	_
+25	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	affarijiet	_	NOUN	NOUN	_	22	nmod	_	SpaceAfter=No
+27	,	_	PUNCT	X_PUN	_	14	punct	_	_
+28	imma	_	CCONJ	CONJ_CORD	_	30	cc	_	_
+29	m'	_	PART	NEG	_	30	advmod:neg	_	SpaceAfter=No
+30	għandux	_	VERB	VERB_PSEU	_	14	conj	_	_
+31	jippretendi	_	VERB	VERB	_	30	xcomp	_	_
+32	li	_	SCONJ	COMP	_	33	mark	_	_
+33	nirrispondih	_	VERB	VERB	_	31	ccomp	_	_
+34	għal	_	ADP	PREP	_	36	case	_	_
+35	kull	_	DET	QUAN	_	36	det	_	_
+36	domanda	_	NOUN	NOUN	_	33	obl:arg	_	_
+37	li	_	SCONJ	COMP	_	38	mark	_	_
+38	jagħmilli	_	VERB	VERB	_	36	acl	_	SpaceAfter=No
+39	.	_	PUNCT	X_PUN	_	14	punct	_	_
+
+# sent_id = 38_02P06:28
+# text = Diġa' għedtlu li l-Ministru Bonnici hu l-bniedem intiż fuq dawn l-affarijiet u nitolbu jistaqsi lilu.
+1	Diġa'	_	ADV	ADV	_	2	advmod	_	_
+2	għedtlu	_	VERB	VERB	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	9	mark	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Ministru	_	NOUN	NOUN	_	9	nsubj	_	_
+6	Bonnici	_	PROPN	NOUN_PROP	_	5	compound	_	_
+7	hu	_	PRON	PRON_PERS	_	9	cop	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	bniedem	_	NOUN	NOUN	_	2	ccomp	_	_
+10	intiż	_	ADJ	ADJ	_	9	amod	_	_
+11	fuq	_	ADP	PREP	_	14	case	_	_
+12	dawn	_	PRON	PRON_DEM	_	14	det	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	affarijiet	_	NOUN	NOUN	_	10	nmod	_	_
+15	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+16	nitolbu	_	VERB	VERB	_	2	conj	_	_
+17	jistaqsi	_	VERB	VERB	_	16	xcomp	_	_
+18	lilu	_	PRON	LIL_PRON	_	17	obj	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 38_02P06:29
+# text = Qomt jien nirrispondi l-mistoqsija oriġinali dwar vultaġġ peress li sieħbi jinsab impenjat fuq xogħol ieħor tal-gvern.
+1	Qomt	_	VERB	VERB	_	0	root	_	_
+2	jien	_	PRON	PRON_PERS	_	1	nsubj	_	_
+3	nirrispondi	_	VERB	VERB	_	1	xcomp	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	mistoqsija	_	NOUN	NOUN	_	3	obj	_	_
+6	oriġinali	_	ADJ	ADJ	_	5	amod	_	_
+7	dwar	_	ADP	PREP	_	8	case	_	_
+8	vultaġġ	_	NOUN	NOUN	_	5	nmod	_	_
+9	peress	_	ADP	PREP	_	12	mark	_	_
+10	li	_	SCONJ	COMP	_	9	fixed	_	_
+11	sieħbi	_	NOUN	NOUN	_	12	nsubj	_	_
+12	jinsab	_	VERB	VERB	_	1	advcl	_	_
+13	impenjat	_	VERB	PART_PASS	_	12	xcomp	_	_
+14	fuq	_	ADP	PREP	_	15	case	_	_
+15	xogħol	_	NOUN	NOUN	_	13	obl	_	_
+16	ieħor	_	ADJ	ADJ	_	15	amod	_	_
+17	tal-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	gvern	_	NOUN	NOUN	_	15	nmod:poss	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 38_02P06:30
+# text = Jekk l-Onor. Interpellant irid jagħmel aktar domandi, nitolbu jagħmilhom lil min għandu jagħmilhom.
+1	Jekk	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	Onor	_	NOUN	X_ABV	_	6	nsubj	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	3	punct	_	_
+5	Interpellant	_	NOUN	NOUN	_	3	compound	_	_
+6	irid	_	VERB	VERB	_	11	advcl	_	_
+7	jagħmel	_	VERB	VERB	_	6	xcomp	_	_
+8	aktar	_	ADJ	ADJ	_	9	amod	_	_
+9	domandi	_	NOUN	NOUN	_	7	obj	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	6	punct	_	_
+11	nitolbu	_	VERB	VERB	_	0	root	_	_
+12	jagħmilhom	_	VERB	VERB	_	11	xcomp	_	_
+13	lil	_	ADP	LIL	_	14	case	_	_
+14	min	_	PRON	PRON_INT	_	12	obj	_	_
+15	għandu	_	VERB	VERB_PSEU	_	14	acl	_	_
+16	jagħmilhom	_	VERB	VERB	_	15	xcomp	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 38_02P06:31
+# text = Naħseb li anke l-etika hekk titlob.
+1	Naħseb	_	VERB	VERB	_	0	root	_	_
+2	li	_	SCONJ	COMP	_	7	mark	_	_
+3	anke	_	ADV	FOC	_	5	discourse	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	etika	_	NOUN	NOUN	_	7	nsubj	_	_
+6	hekk	_	ADV	ADV	_	7	advmod	_	_
+7	titlob	_	VERB	VERB	_	1	ccomp	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 38_02P06:32
+# text = MR SPEAKER: L-Onor. Mizzi.
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Onor	_	NOUN	X_ABV	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+7	Mizzi	_	PROPN	NOUN_PROP	_	5	flat:name	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:33
+# text = ONOR. JOE MIZZI: Il-Ministru qed isemmi l-etika u jien ngħidlu li l-etika titlob li l-ministri jkunu qegħdin hawn preżenti fil-Kamra.
+1	ONOR	_	NOUN	X_ABV	_	9	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	JOE	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	MIZZI	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	Ministru	_	NOUN	NOUN	_	9	nsubj	_	_
+8	qed	_	AUX	PROG	_	9	aux:part	_	_
+9	isemmi	_	VERB	VERB	_	0	root	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	etika	_	NOUN	NOUN	_	9	obj	_	_
+12	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+13	jien	_	PRON	PRON_PERS	_	14	nsubj	_	_
+14	ngħidlu	_	VERB	VERB	_	9	conj	_	_
+15	li	_	SCONJ	COMP	_	18	mark	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	etika	_	NOUN	NOUN	_	18	nsubj	_	_
+18	titlob	_	VERB	VERB	_	14	ccomp	_	_
+19	li	_	SCONJ	COMP	_	25	mark	_	_
+20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	ministri	_	NOUN	NOUN	_	25	nsubj	_	_
+22	jkunu	_	AUX	KIEN	_	25	aux	_	_
+23	qegħdin	_	AUX	PART_ACT	_	25	cop	_	_
+24	hawn	_	ADV	ADV	_	25	advmod	_	_
+25	preżenti	_	ADJ	ADJ	_	18	ccomp	_	_
+26	fil-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
+27	Kamra	_	NOUN	NOUN	_	25	obl	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 38_02P06:34
+# text = Naħseb li jaqbel miegħi wkoll li dak il-ministru li lilu tiġi indirizzata l-ewwel interprellanza li tkun tidher fuq l-aġenda, għandu jkun preżenti biex jagħti t-tweġiba tiegħu.
+1	Naħseb	_	VERB	VERB	_	0	root	_	_
+2	li	_	SCONJ	COMP	_	3	mark	_	_
+3	jaqbel	_	VERB	VERB	_	1	ccomp	_	_
+4	miegħi	_	PRON	PREP_PRON	_	3	obl	_	_
+5	wkoll	_	ADV	FOC	_	4	discourse	_	_
+6	li	_	SCONJ	COMP	_	24	mark	_	_
+7	dak	_	PRON	PRON_DEM	_	9	det	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	ministru	_	NOUN	NOUN	_	24	nsubj	_	_
+10	li	_	SCONJ	COMP	_	13	mark	_	_
+11	lilu	_	PRON	LIL_PRON	_	13	iobj	_	_
+12	tiġi	_	AUX	VERB	_	13	aux:pass	_	_
+13	indirizzata	_	VERB	PART_PASS	_	9	acl	_	_
+14	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+15	ewwel	_	NUM	NUM_ORD	_	16	amod	_	_
+16	interprellanza	_	NOUN	NOUN	_	13	nsubj:pass	_	_
+17	li	_	SCONJ	COMP	_	19	mark	_	_
+18	tkun	_	AUX	KIEN	_	19	aux	_	_
+19	tidher	_	VERB	VERB	_	16	acl	_	_
+20	fuq	_	ADP	PREP	_	22	case	_	_
+21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	aġenda	_	NOUN	NOUN	_	19	obl	_	SpaceAfter=No
+23	,	_	PUNCT	X_PUN	_	9	punct	_	_
+24	għandu	_	VERB	VERB_PSEU	_	3	ccomp	_	_
+25	jkun	_	AUX	KIEN	_	26	aux	_	_
+26	preżenti	_	ADJ	ADJ	_	24	xcomp	_	_
+27	biex	_	SCONJ	CONJ_SUB	_	28	mark	_	_
+28	jagħti	_	VERB	VERB	_	26	advcl	_	_
+29	t-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	tweġiba	_	NOUN	NOUN	_	28	obj	_	_
+31	tiegħu	_	PRON	GEN_PRON	_	30	nmod:poss	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 38_02P06:35
+# text = (Interruzzjonijiet) Forsi xi ħadd jista' jispjegalna għaliex m'huwiex qiegħed hawn il-Ministru Josef Bonnici?
+1	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Interruzzjonijiet	_	NOUN	NOUN	_	7	list	_	SpaceAfter=No
+3	)	_	PUNCT	X_PUN	_	2	punct	_	_
+4	Forsi	_	ADV	ADV	_	7	advmod	_	_
+5	xi	_	DET	QUAN	_	6	det	_	_
+6	ħadd	_	PRON	PRON_INDEF	_	7	nsubj	_	_
+7	jista'	_	VERB	VERB	_	0	root	_	_
+8	jispjegalna	_	VERB	VERB	_	7	xcomp	_	_
+9	għaliex	_	ADV	PRON_INT	_	13	advmod	_	_
+10	m'	_	PART	NEG	_	13	advmod:neg	_	SpaceAfter=No
+11	huwiex	_	AUX	PRON_PERS_NEG	_	13	aux:neg	_	_
+12	qiegħed	_	AUX	PART_ACT	_	13	cop	_	_
+13	hawn	_	ADV	ADV	_	8	advcl	_	_
+14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	Ministru	_	NOUN	NOUN	_	16	compound	_	_
+16	Josef	_	PROPN	NOUN_PROP	_	13	nsubj	_	_
+17	Bonnici	_	PROPN	NOUN_PROP	_	16	flat:name	_	SpaceAfter=No
+18	?	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 38_02P06:36
+# text = Jista' jkun li għalih hemm ħaġa oħra li tiġi qabel l-ogħla istituzzjoni tal-pajjiż!
+1	Jista'	_	VERB	VERB	_	0	root	_	_
+2	jkun	_	AUX	KIEN	_	1	xcomp	_	_
+3	li	_	SCONJ	COMP	_	5	mark	_	_
+4	għalih	_	PRON	PREP_PRON	_	5	obl	_	_
+5	hemm	_	VERB	HEMM	_	2	ccomp	_	_
+6	ħaġa	_	NOUN	NOUN	_	5	nsubj	_	_
+7	oħra	_	ADJ	ADJ	_	6	amod	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	tiġi	_	VERB	VERB	_	7	acl	_	_
+10	qabel	_	ADP	PREP	_	13	case	_	_
+11	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+12	ogħla	_	ADJ	ADJ	_	13	amod	_	_
+13	istituzzjoni	_	NOUN	NOUN	_	9	obl	_	_
+14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	pajjiż	_	NOUN	NOUN	_	13	nmod:poss	_	SpaceAfter=No
+16	!	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 38_02P06:37
+# text = MR SPEAKER: Il-Ministru
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Ministru	_	NOUN	NOUN	_	0	root	_	_
+
+# sent_id = 38_02P06:38
+# text = ONOR. NINU ZAMMIT: Jiena nerġa' ngħid li l-ministru m'huwiex assenti b'kapriċċ imma qiegħed fuq xogħol ieħor tal-gvern.
+1	ONOR	_	NOUN	X_ABV	_	7	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	ZAMMIT	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Jiena	_	PRON	PRON_PERS	_	7	nsubj	_	_
+7	nerġa'	_	VERB	VERB	_	0	root	_	_
+8	ngħid	_	VERB	VERB	_	7	xcomp	_	_
+9	li	_	SCONJ	COMP	_	14	mark	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	ministru	_	NOUN	NOUN	_	14	nsubj	_	_
+12	m'	_	PART	NEG	_	14	advmod:neg	_	SpaceAfter=No
+13	huwiex	_	AUX	PRON_PERS_NEG	_	14	aux:neg	_	_
+14	assenti	_	ADJ	ADJ	_	8	ccomp	_	_
+15	b'	_	ADP	PREP	_	16	case	_	SpaceAfter=No
+16	kapriċċ	_	NOUN	NOUN	_	14	obl	_	_
+17	imma	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+18	qiegħed	_	AUX	PART_ACT	_	20	cop	_	_
+19	fuq	_	ADP	PREP	_	20	case	_	_
+20	xogħol	_	NOUN	NOUN	_	14	conj	_	_
+21	ieħor	_	ADJ	ADJ	_	20	amod	_	_
+22	tal-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No
+23	gvern	_	NOUN	NOUN	_	20	nmod:poss	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 38_02P06:39
+# text = (Interuzzjonijiet)
+1	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Interuzzjonijiet	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+3	)	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 38_02P06:40
+# text = Sur President, jien infakkar lill-Onor. Mizzi li meta huma kienu fuq din in-naħa tal-Kamra kien iqum hu jirrispondi f'isem kulħadd.
+1	Sur	_	NOUN	NOUN	_	2	compound	_	_
+2	President	_	NOUN	NOUN	_	5	vocative	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	jien	_	PRON	PRON_PERS	_	5	nsubj	_	_
+5	infakkar	_	VERB	VERB	_	0	root	_	_
+6	lill-	_	ADP	LIL_DEF	_	7	case:det	_	SpaceAfter=No
+7	Onor	_	NOUN	X_ABV	_	5	obj	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	7	punct	_	_
+9	Mizzi	_	PROPN	NOUN_PROP	_	7	flat:name	_	_
+10	li	_	SCONJ	COMP	_	21	mark	_	_
+11	meta	_	SCONJ	CONJ_SUB	_	17	mark	_	_
+12	huma	_	PRON	PRON_PERS	_	17	nsubj	_	_
+13	kienu	_	AUX	KIEN	_	17	cop	_	_
+14	fuq	_	ADP	PREP	_	17	case	_	_
+15	din	_	PRON	PRON_DEM	_	17	det	_	_
+16	in-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	naħa	_	NOUN	NOUN	_	21	advcl	_	_
+18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
+19	Kamra	_	NOUN	NOUN	_	17	nmod:poss	_	_
+20	kien	_	AUX	KIEN	_	21	aux	_	_
+21	iqum	_	VERB	VERB	_	7	ccomp	_	_
+22	hu	_	PRON	PRON_PERS	_	21	nsubj	_	_
+23	jirrispondi	_	VERB	VERB	_	21	xcomp	_	_
+24	f'	_	ADP	PREP	_	25	case	_	SpaceAfter=No
+25	isem	_	NOUN	NOUN	_	23	obl	_	_
+26	kulħadd	_	PRON	PRON_INDEF	_	25	nmod:poss	_	SpaceAfter=No
+27	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:41
+# text = Dak iż-żmien ma kienx jiġi ministru wieħed hawn ġew imma kienu jbellgħu kollox lilu u kien jieħu pjaċir iservi għal kulħadd!
+1	Dak	_	PRON	PRON_DEM	_	3	det	_	_
+2	iż-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	żmien	_	NOUN	NOUN	_	6	obl	_	_
+4	ma	_	PART	NEG	_	6	advmod:neg	_	_
+5	kienx	_	AUX	KIEN	_	6	aux	_	_
+6	jiġi	_	VERB	VERB	_	0	root	_	_
+7	ministru	_	NOUN	NOUN	_	6	nsubj	_	_
+8	wieħed	_	NUM	NUM_WHD	_	7	nummod	_	_
+9	hawn	_	ADV	ADV	_	6	advmod	_	_
+10	ġew	_	ADV	ADV	_	9	advmod	_	_
+11	imma	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+12	kienu	_	AUX	KIEN	_	13	aux	_	_
+13	jbellgħu	_	VERB	VERB	_	6	conj	_	_
+14	kollox	_	PRON	PRON_INDEF	_	13	obj	_	_
+15	lilu	_	PRON	LIL_PRON	_	13	iobj	_	_
+16	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+17	kien	_	AUX	KIEN	_	18	aux	_	_
+18	jieħu	_	VERB	VERB	_	13	conj	_	_
+19	pjaċir	_	NOUN	NOUN	_	18	compound	_	_
+20	iservi	_	VERB	VERB	_	18	xcomp	_	_
+21	għal	_	ADP	PREP	_	22	case	_	_
+22	kulħadd	_	PRON	PRON_INDEF	_	20	obl:arg	_	SpaceAfter=No
+23	!	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:42
+# text = MR SPEAKER: l-Onor. Mizzi.
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Onor	_	NOUN	X_ABV	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+7	Mizzi	_	PROPN	NOUN_PROP	_	5	flat:name	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:43
+# text = ONOR. JOE MIZZI: Meta jiena kont nirrispondi f'isem sħabi intom kontu takkużawna b'irresponsabbilta ', allavolja kontu tkunu tafu li sħabi kienu qegħdin fuq xogħol ieħor tal-gvern.
+1	ONOR	_	NOUN	X_ABV	_	15	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	JOE	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	MIZZI	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Meta	_	SCONJ	CONJ_SUB	_	9	mark	_	_
+7	jiena	_	PRON	PRON_PERS	_	9	nsubj	_	_
+8	kont	_	AUX	KIEN	_	9	aux	_	_
+9	nirrispondi	_	VERB	VERB	_	15	advcl	_	_
+10	f'	_	ADP	PREP	_	11	case	_	SpaceAfter=No
+11	isem	_	NOUN	NOUN	_	9	obl	_	_
+12	sħabi	_	NOUN	NOUN	_	11	nmod:poss	_	_
+13	intom	_	PRON	PRON_PERS	_	15	nsubj	_	_
+14	kontu	_	AUX	KIEN	_	15	aux	_	_
+15	takkużawna	_	VERB	VERB	_	0	root	_	_
+16	b'	_	ADP	PREP	_	17	case	_	SpaceAfter=No
+17	irresponsabbilta	_	NOUN	NOUN	_	15	obl	_	_
+18	'	_	PUNCT	X_PUN	_	17	punct	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	15	punct	_	_
+20	allavolja	_	SCONJ	CONJ_SUB	_	23	mark	_	_
+21	kontu	_	AUX	KIEN	_	23	aux	_	_
+22	tkunu	_	AUX	KIEN	_	23	aux	_	_
+23	tafu	_	VERB	VERB	_	15	advcl	_	_
+24	li	_	SCONJ	COMP	_	29	mark	_	_
+25	sħabi	_	NOUN	NOUN	_	29	nsubj	_	_
+26	kienu	_	AUX	KIEN	_	29	aux	_	_
+27	qegħdin	_	AUX	PART_ACT	_	29	cop	_	_
+28	fuq	_	ADP	PREP	_	29	case	_	_
+29	xogħol	_	NOUN	NOUN	_	23	ccomp	_	_
+30	ieħor	_	ADJ	ADJ	_	29	amod	_	_
+31	tal-	_	ADP	GEN_DEF	_	32	case:det	_	SpaceAfter=No
+32	gvern	_	NOUN	NOUN	_	29	nmod:poss	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	15	punct	_	_
+
+# sent_id = 38_02P06:44
+# text = Issa tistgħu tgħidulna fuq liema xogħol qiegħed l-Onor. Josef Bonnici?
+1	Issa	_	ADV	ADV	_	2	advmod	_	_
+2	tistgħu	_	VERB	VERB	_	0	root	_	_
+3	tgħidulna	_	VERB	VERB	_	2	xcomp	_	_
+4	fuq	_	ADP	PREP	_	6	case	_	_
+5	liema	_	PRON	PRON_INT	_	6	det	_	_
+6	xogħol	_	NOUN	NOUN	_	3	ccomp	_	_
+7	qiegħed	_	AUX	PART_ACT	_	6	cop	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	Onor	_	NOUN	X_ABV	_	6	nsubj	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	9	punct	_	_
+11	Josef	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
+12	Bonnici	_	PROPN	NOUN_PROP	_	9	flat:name	_	SpaceAfter=No
+13	?	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 38_02P06:45
+# text = Jien naħseb li l-Ministru qed jgħid li qiegħed fuq xogħol ieħor biex jgħattilu!
+1	Jien	_	PRON	PRON_PERS	_	2	nsubj	_	_
+2	naħseb	_	VERB	VERB	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	7	mark	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Ministru	_	NOUN	NOUN	_	7	nsubj	_	_
+6	qed	_	AUX	PROG	_	7	aux:part	_	_
+7	jgħid	_	VERB	VERB	_	2	ccomp	_	_
+8	li	_	SCONJ	COMP	_	11	mark	_	_
+9	qiegħed	_	AUX	PART_ACT	_	11	cop	_	_
+10	fuq	_	ADP	PREP	_	11	case	_	_
+11	xogħol	_	NOUN	NOUN	_	7	xcomp	_	_
+12	ieħor	_	ADJ	ADJ	_	11	amod	_	_
+13	biex	_	SCONJ	CONJ_SUB	_	14	mark	_	_
+14	jgħattilu	_	VERB	VERB	_	11	advcl	_	SpaceAfter=No
+15	!	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 38_02P06:46
+# text = MR SPEAKER: Il-Ministru.
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Ministru	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:47
+# text = ONOR. NINU ZAMMIT: Nerġa' niġbed l-attenzjoni ta' l-Onor. Mizzi li l-Ministru Josef Bonnici llum m'huwiex hawn preżenti minħabba li għandu xogħol ieħor.
+1	ONOR	_	NOUN	X_ABV	_	6	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	ZAMMIT	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Nerġa'	_	VERB	VERB	_	0	root	_	_
+7	niġbed	_	VERB	VERB	_	6	xcomp	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	attenzjoni	_	NOUN	NOUN	_	7	obj	_	_
+10	ta'	_	ADP	GEN	_	12	case	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	Onor	_	NOUN	X_ABV	_	9	nmod:poss	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	12	punct	_	_
+14	Mizzi	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
+15	li	_	SCONJ	COMP	_	24	mark	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	Ministru	_	NOUN	NOUN	_	18	compound	_	_
+18	Josef	_	PROPN	NOUN_PROP	_	24	nsubj	_	_
+19	Bonnici	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
+20	llum	_	ADV	ADV	_	24	advmod	_	_
+21	m'	_	PART	NEG	_	24	advmod:neg	_	SpaceAfter=No
+22	huwiex	_	AUX	PRON_PERS_NEG	_	24	aux:neg	_	_
+23	hawn	_	ADV	ADV	_	24	advmod	_	_
+24	preżenti	_	ADJ	ADJ	_	7	ccomp	_	_
+25	minħabba	_	ADP	PREP	_	27	mark	_	_
+26	li	_	SCONJ	COMP	_	25	fixed	_	_
+27	għandu	_	VERB	VERB_PSEU	_	24	advcl	_	_
+28	xogħol	_	NOUN	NOUN	_	27	obj	_	_
+29	ieħor	_	ADJ	ADJ	_	28	amod	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:48
+# text = (Interruzzjonijiet) Meta se nitgħallmu nirrispettaw lil xulxin hawnhekk?
+1	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Interruzzjonijiet	_	NOUN	NOUN	_	6	list	_	SpaceAfter=No
+3	)	_	PUNCT	X_PUN	_	2	punct	_	_
+4	Meta	_	ADV	PRON_INT	_	6	advmod	_	_
+5	se	_	AUX	FUT	_	6	aux:part	_	_
+6	nitgħallmu	_	VERB	VERB	_	0	root	_	_
+7	nirrispettaw	_	VERB	VERB	_	6	xcomp	_	_
+8	lil	_	ADP	LIL	_	9	case	_	_
+9	xulxin	_	PRON	PRON_REC	_	7	obj	_	_
+10	hawnhekk	_	ADV	ADV	_	6	advmod	_	SpaceAfter=No
+11	?	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:49
+# text = MR SPEAKER: Jekk jogħġobkom, inżommu l-ordni.
+1	MR	_	NOUN	X_ABV	_	7	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Jekk	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	jogħġobkom	_	VERB	VERB	_	7	parataxis	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	7	punct	_	_
+7	inżommu	_	VERB	VERB	_	0	root	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	ordni	_	NOUN	NOUN	_	7	obj	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 38_02P06:50
+# text = ONOR. NINU ZAMMIT: Nerġa' nfakkar li fl-amministazzjoni preċedenti, ta' kuljum preċett l-uniku ministru li kien jiġi hawnhekk biex jirrispondi għall-interpellanzi kien l-Onor. Joe Mizzi, ministru mingħajr portafoll.
+1	ONOR	_	NOUN	X_ABV	_	6	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NINU	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	ZAMMIT	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Nerġa'	_	VERB	VERB	_	0	root	_	_
+7	nfakkar	_	VERB	VERB	_	6	xcomp	_	_
+8	li	_	SCONJ	COMP	_	29	mark	_	_
+9	fl-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	amministazzjoni	_	NOUN	NOUN	_	29	obl	_	_
+11	preċedenti	_	ADJ	ADJ	_	10	amod	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	10	punct	_	_
+13	ta'	_	ADP	GEN	_	15	case	_	_
+14	kuljum	_	ADV	ADV	_	15	advmod	_	_
+15	preċett	_	NOUN	NOUN	_	29	obl	_	_
+16	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+17	uniku	_	ADJ	ADJ	_	18	amod	_	_
+18	ministru	_	NOUN	NOUN	_	29	nsubj	_	_
+19	li	_	SCONJ	COMP	_	21	mark	_	_
+20	kien	_	AUX	KIEN	_	21	aux	_	_
+21	jiġi	_	VERB	VERB	_	18	acl	_	_
+22	hawnhekk	_	ADV	ADV	_	21	advmod	_	_
+23	biex	_	SCONJ	CONJ_SUB	_	24	mark	_	_
+24	jirrispondi	_	VERB	VERB	_	21	advcl	_	_
+25	għall-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
+26	interpellanzi	_	NOUN	NOUN	_	24	obl:arg	_	_
+27	kien	_	AUX	KIEN	_	29	cop	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	Onor	_	NOUN	X_ABV	_	7	ccomp	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	29	punct	_	_
+31	Joe	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
+32	Mizzi	_	PROPN	NOUN_PROP	_	29	flat:name	_	SpaceAfter=No
+33	,	_	PUNCT	X_PUN	_	29	punct	_	_
+34	ministru	_	NOUN	NOUN	_	29	appos	_	_
+35	mingħajr	_	ADP	PREP	_	36	case	_	_
+36	portafoll	_	NOUN	NOUN	_	34	nmod	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:51
+# text = Kien iservi għall-ministri l-oħra kollha.
+1	Kien	_	AUX	KIEN	_	2	aux	_	_
+2	iservi	_	VERB	VERB	_	0	root	_	_
+3	għall-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	ministri	_	NOUN	NOUN	_	2	obl:arg	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	oħra	_	ADJ	ADJ	_	4	amod	_	_
+7	kollha	_	DET	QUAN	_	4	det	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 38_02P06:52
+# text = (Interruzzjonijiet) Ara x'jidħaq l-Onor. Farrugia!
+1	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Interruzzjonijiet	_	NOUN	NOUN	_	4	list	_	SpaceAfter=No
+3	)	_	PUNCT	X_PUN	_	2	punct	_	_
+4	Ara	_	VERB	VERB	_	0	root	_	_
+5	x'	_	PRON	PRON_INT	_	6	obj	_	SpaceAfter=No
+6	jidħaq	_	VERB	VERB	_	4	ccomp	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	Onor	_	NOUN	X_ABV	_	6	nsubj	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	8	punct	_	_
+10	Farrugia	_	PROPN	NOUN_PROP	_	8	flat:name	_	SpaceAfter=No
+11	!	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 38_02P06:53
+# text = MR SPEAKER: L-Onor. Farrugia.
+1	MR	_	NOUN	X_ABV	_	5	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	L-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Onor	_	NOUN	X_ABV	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+7	Farrugia	_	PROPN	NOUN_PROP	_	5	flat:name	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:54
+# text = ONOR. NOEL FARRUGIA: Qed nidħak għax il-Ministru qed jikkonferma li almenu kien jirrispondi l-Onor. Joe Mizzi!
+1	ONOR	_	NOUN	X_ABV	_	7	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	NOEL	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	FARRUGIA	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Qed	_	AUX	PROG	_	7	aux:part	_	_
+7	nidħak	_	VERB	VERB	_	0	root	_	_
+8	għax	_	SCONJ	CONJ_SUB	_	12	mark	_	_
+9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	Ministru	_	NOUN	NOUN	_	12	nsubj	_	_
+11	qed	_	AUX	PROG	_	12	aux:part	_	_
+12	jikkonferma	_	VERB	VERB	_	7	advcl	_	_
+13	li	_	SCONJ	COMP	_	16	mark	_	_
+14	almenu	_	ADV	ADV	_	16	advmod	_	_
+15	kien	_	AUX	KIEN	_	16	aux	_	_
+16	jirrispondi	_	VERB	VERB	_	12	xcomp	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	Onor	_	NOUN	X_ABV	_	16	obj	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	18	punct	_	_
+20	Joe	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
+21	Mizzi	_	PROPN	NOUN_PROP	_	18	flat:name	_	SpaceAfter=No
+22	!	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 38_02P06:55
+# text = (Interruzzjonijiet) Lili ħadd m'hu qed jirrispondini, allavolja qed inkun prudenti fil-mistoqsijiet li nagħmel.
+1	(	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Interruzzjonijiet	_	NOUN	NOUN	_	9	list	_	SpaceAfter=No
+3	)	_	PUNCT	X_PUN	_	2	punct	_	_
+4	Lili	_	PRON	LIL_PRON	_	9	obj	_	_
+5	ħadd	_	PRON	PRON_INDEF	_	9	nsubj	_	_
+6	m'	_	PART	NEG	_	9	advmod:neg	_	SpaceAfter=No
+7	hu	_	AUX	PRON_PERS	_	9	aux:neg	_	_
+8	qed	_	AUX	PROG	_	9	aux:part	_	_
+9	jirrispondini	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	9	punct	_	_
+11	allavolja	_	SCONJ	CONJ_SUB	_	14	mark	_	_
+12	qed	_	AUX	PROG	_	14	aux:part	_	_
+13	inkun	_	AUX	KIEN	_	14	cop	_	_
+14	prudenti	_	ADJ	ADJ	_	9	advcl	_	_
+15	fil-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	mistoqsijiet	_	NOUN	NOUN	_	14	obl	_	_
+17	li	_	SCONJ	COMP	_	18	mark	_	_
+18	nagħmel	_	VERB	VERB	_	16	acl	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 38_02P06:56
+# text = Nerġa' ngħid li tliet ġimgħat ilu tħabbar li l-MDC, l-IPSE u l-METCO kellhom jingħaqdu f'organizzazzjoni waħda u jien nixtieq li xi ħadd jgħidli x'se tkun il-pożizzjoni tal-management u tal-ħaddiema!
+1	Nerġa'	_	VERB	VERB	_	0	root	_	_
+2	ngħid	_	VERB	VERB	_	1	xcomp	_	_
+3	li	_	SCONJ	COMP	_	7	mark	_	_
+4	tliet	_	NUM	NUM_CRD	_	5	nummod	_	_
+5	ġimgħat	_	NOUN	NOUN	_	7	obl	_	_
+6	ilu	_	ADP	PREP	_	5	case	_	_
+7	tħabbar	_	VERB	VERB	_	2	ccomp	_	_
+8	li	_	SCONJ	COMP	_	17	mark	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	MDC	_	NOUN	X_ABV	_	17	nsubj	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	10	punct	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	IPSE	_	NOUN	X_ABV	_	10	conj	_	_
+14	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	METCO	_	NOUN	X_ABV	_	10	conj	_	_
+17	kellhom	_	VERB	VERB_PSEU	_	7	ccomp	_	_
+18	jingħaqdu	_	VERB	VERB	_	17	xcomp	_	_
+19	f'	_	ADP	PREP	_	20	case	_	SpaceAfter=No
+20	organizzazzjoni	_	NOUN	NOUN	_	18	obl	_	_
+21	waħda	_	NUM	NUM_WHD	_	20	nummod	_	_
+22	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+23	jien	_	PRON	PRON_PERS	_	24	nsubj	_	_
+24	nixtieq	_	VERB	VERB	_	7	conj	_	_
+25	li	_	SCONJ	COMP	_	28	mark	_	_
+26	xi	_	DET	QUAN	_	27	det	_	_
+27	ħadd	_	PRON	PRON_INDEF	_	28	nsubj	_	_
+28	jgħidli	_	VERB	VERB	_	24	ccomp	_	_
+29	x'	_	PRON	PRON_INT	_	33	nsubj	_	SpaceAfter=No
+30	se	_	AUX	FUT	_	33	aux:part	_	_
+31	tkun	_	AUX	KIEN	_	33	cop	_	_
+32	il-	_	DET	DEF	_	33	det	_	SpaceAfter=No
+33	pożizzjoni	_	NOUN	NOUN	_	28	ccomp	_	_
+34	tal-	_	ADP	GEN_DEF	_	35	case:det	_	SpaceAfter=No
+35	management	_	NOUN	NOUN	_	33	nmod:poss	_	_
+36	u	_	CCONJ	CONJ_CORD	_	38	cc	_	_
+37	tal-	_	ADP	GEN_DEF	_	38	case:det	_	SpaceAfter=No
+38	ħaddiema	_	NOUN	NOUN	_	35	conj	_	SpaceAfter=No
+39	!	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 38_02P06:57
+# text = L-impjieg tagħhom se jkun imħares u ssalvagwardat taħt din l-intrapriża l-ġdida?
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	impjieg	_	NOUN	NOUN	_	6	nsubj:pass	_	_
+3	tagħhom	_	PRON	GEN_PRON	_	2	nmod:poss	_	_
+4	se	_	AUX	FUT	_	6	aux:part	_	_
+5	jkun	_	AUX	KIEN	_	6	cop	_	_
+6	imħares	_	VERB	PART_PASS	_	0	root	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	ssalvagwardat	_	VERB	PART_PASS	_	6	conj	_	_
+9	taħt	_	ADP	PREP	_	12	case	_	_
+10	din	_	PRON	PRON_DEM	_	12	det	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	intrapriża	_	NOUN	NOUN	_	6	obl	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	ġdida	_	ADJ	ADJ	_	12	amod	_	SpaceAfter=No
+15	?	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:58
+# text = Din hija xi ħaġa li jkun jafha kull ministru għax nifhem li d-deċiżjoni tkun ġiet approvata mill-kabinett.
+1	Din	_	PRON	PRON_DEM	_	4	nsubj	_	_
+2	hija	_	PRON	PRON_PERS	_	4	cop	_	_
+3	xi	_	DET	QUAN	_	4	det	_	_
+4	ħaġa	_	NOUN	NOUN	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	7	mark	_	_
+6	jkun	_	AUX	KIEN	_	7	aux	_	_
+7	jafha	_	VERB	VERB	_	4	acl	_	_
+8	kull	_	DET	QUAN	_	9	det	_	_
+9	ministru	_	NOUN	NOUN	_	7	nsubj	_	_
+10	għax	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+11	nifhem	_	VERB	VERB	_	4	advcl	_	_
+12	li	_	SCONJ	COMP	_	17	mark	_	_
+13	d-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	deċiżjoni	_	NOUN	NOUN	_	17	nsubj:pass	_	_
+15	tkun	_	AUX	KIEN	_	17	aux	_	_
+16	ġiet	_	AUX	VERB	_	17	aux:pass	_	_
+17	approvata	_	VERB	PART_PASS	_	11	ccomp	_	_
+18	mill-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
+19	kabinett	_	NOUN	NOUN	_	17	obl:agent	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 38_02P06:59
+# text = Jekk il-Ministru m'għandux din l-informazzjoni jgħidli li ma jafx, imma peress li hawn qed nitkellmu fuq kwestjoni ta' natura ġenerali, kont nippretendi li dawn l-affarijiet ikun jafhom fuq ponot subgħajh!
+1	Jekk	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	Ministru	_	NOUN	NOUN	_	5	nsubj	_	_
+4	m'	_	PART	NEG	_	5	advmod:neg	_	SpaceAfter=No
+5	għandux	_	VERB	VERB_PSEU	_	9	advcl	_	_
+6	din	_	PRON	PRON_DEM	_	8	det	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	informazzjoni	_	NOUN	NOUN	_	5	obj	_	_
+9	jgħidli	_	VERB	VERB	_	0	root	_	_
+10	li	_	SCONJ	COMP	_	12	mark	_	_
+11	ma	_	PART	NEG	_	12	advmod:neg	_	_
+12	jafx	_	VERB	VERB	_	9	xcomp	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	9	punct	_	_
+14	imma	_	CCONJ	CONJ_CORD	_	27	cc	_	_
+15	peress	_	ADP	PREP	_	19	mark	_	_
+16	li	_	SCONJ	COMP	_	15	fixed	_	_
+17	hawn	_	ADV	ADV	_	19	advmod	_	_
+18	qed	_	AUX	PROG	_	19	aux:part	_	_
+19	nitkellmu	_	VERB	VERB	_	27	advcl	_	_
+20	fuq	_	ADP	PREP	_	21	case	_	_
+21	kwestjoni	_	NOUN	NOUN	_	19	obl:arg	_	_
+22	ta'	_	ADP	GEN	_	23	case	_	_
+23	natura	_	NOUN	NOUN	_	21	nmod:poss	_	_
+24	ġenerali	_	ADJ	ADJ	_	23	amod	_	SpaceAfter=No
+25	,	_	PUNCT	X_PUN	_	19	punct	_	_
+26	kont	_	AUX	KIEN	_	27	aux	_	_
+27	nippretendi	_	VERB	VERB	_	9	conj	_	_
+28	li	_	SCONJ	COMP	_	33	mark	_	_
+29	dawn	_	PRON	PRON_DEM	_	31	det	_	_
+30	l-	_	DET	DEF	_	31	det	_	SpaceAfter=No
+31	affarijiet	_	NOUN	NOUN	_	33	obj	_	_
+32	ikun	_	AUX	KIEN	_	33	aux	_	_
+33	jafhom	_	VERB	VERB	_	27	xcomp	_	_
+34	fuq	_	ADP	PREP	_	35	case	_	_
+35	ponot	_	NOUN	NOUN	_	33	obl	_	_
+36	subgħajh	_	NOUN	NOUN	_	35	nmod:poss	_	SpaceAfter=No
+37	!	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 38_02P06:60
+# text = MR SPEAKER: Il-Viċi Prim Ministru.
+1	MR	_	NOUN	X_ABV	_	7	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+5	Viċi	_	ADJ	ADJ	_	7	amod	_	_
+6	Prim	_	ADJ	ADJ	_	7	amod	_	_
+7	Ministru	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 38_02P06:61
+# text = ONOR. LAWRENCE GONZI (Viċi Prim Ministru u Ministru għall-Politika Soċjali): L-ewwelnett il-Ministru Bonnici m'huwiex qiegħed hawn għax għandu mpenji oħra, bħalma nimmaġina li għandhom impenji oħra l-Kap ta' l-Oppożizzjoni li m'huwiex qiegħed hawn, l-Onor. Charles Buhagiar, l-Onor. John Attard Montalto, l-Onor. Joe Cuschieri, l-Onor. Helena Dall u l-Onor. Carmelo Vella.
+1	ONOR	_	NOUN	X_ABV	_	24	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	LAWRENCE	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	GONZI	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+5	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+6	Viċi	_	ADJ	ADJ	_	8	amod	_	_
+7	Prim	_	ADJ	ADJ	_	8	amod	_	_
+8	Ministru	_	NOUN	NOUN	_	1	appos	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	Ministru	_	NOUN	NOUN	_	8	conj	_	_
+11	għall-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	Politika	_	NOUN	NOUN	_	10	nmod	_	_
+13	Soċjali	_	ADJ	ADJ	_	12	amod	_	SpaceAfter=No
+14	)	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
+15	:	_	PUNCT	X_PUN	_	1	punct	_	_
+16	L-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	ewwelnett	_	ADV	ADV	_	24	advmod	_	_
+18	il-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	Ministru	_	NOUN	NOUN	_	20	compound	_	_
+20	Bonnici	_	PROPN	NOUN_PROP	_	24	nsubj	_	_
+21	m'	_	PART	NEG	_	24	advmod:neg	_	SpaceAfter=No
+22	huwiex	_	AUX	PRON_PERS_NEG	_	24	aux:neg	_	_
+23	qiegħed	_	AUX	PART_ACT	_	24	cop	_	_
+24	hawn	_	ADV	ADV	_	0	root	_	_
+25	għax	_	SCONJ	CONJ_SUB	_	26	mark	_	_
+26	għandu	_	VERB	VERB_PSEU	_	24	advcl	_	_
+27	mpenji	_	NOUN	NOUN	_	26	obj	_	_
+28	oħra	_	ADJ	ADJ	_	27	amod	_	SpaceAfter=No
+29	,	_	PUNCT	X_PUN	_	26	punct	_	_
+30	bħalma	_	SCONJ	CONJ_SUB	_	31	mark	_	_
+31	nimmaġina	_	VERB	VERB	_	26	advcl	_	_
+32	li	_	SCONJ	COMP	_	33	mark	_	_
+33	għandhom	_	VERB	VERB_PSEU	_	31	ccomp	_	_
+34	impenji	_	NOUN	NOUN	_	33	obj	_	_
+35	oħra	_	ADJ	ADJ	_	34	amod	_	_
+36	l-	_	DET	DEF	_	37	det	_	SpaceAfter=No
+37	Kap	_	NOUN	NOUN	_	33	nsubj	_	_
+38	ta'	_	ADP	GEN	_	40	case	_	_
+39	l-	_	DET	DEF	_	40	det	_	SpaceAfter=No
+40	Oppożizzjoni	_	NOUN	NOUN	_	37	nmod:poss	_	_
+41	li	_	SCONJ	COMP	_	45	mark	_	_
+42	m'	_	PART	NEG	_	45	advmod:neg	_	SpaceAfter=No
+43	huwiex	_	AUX	PRON_PERS_NEG	_	45	aux:neg	_	_
+44	qiegħed	_	AUX	PART_ACT	_	45	cop	_	_
+45	hawn	_	ADV	ADV	_	37	acl	_	SpaceAfter=No
+46	,	_	PUNCT	X_PUN	_	37	punct	_	_
+47	l-	_	DET	DEF	_	48	det	_	SpaceAfter=No
+48	Onor	_	NOUN	X_ABV	_	37	conj	_	SpaceAfter=No
+49	.	_	PUNCT	X_PUN	_	48	punct	_	_
+50	Charles	_	PROPN	NOUN_PROP	_	48	flat:name	_	_
+51	Buhagiar	_	PROPN	NOUN_PROP	_	48	flat:name	_	SpaceAfter=No
+52	,	_	PUNCT	X_PUN	_	37	punct	_	_
+53	l-	_	DET	DEF	_	54	det	_	SpaceAfter=No
+54	Onor	_	NOUN	X_ABV	_	37	conj	_	SpaceAfter=No
+55	.	_	PUNCT	X_PUN	_	54	punct	_	_
+56	John	_	PROPN	NOUN_PROP	_	54	flat:name	_	_
+57	Attard	_	PROPN	NOUN_PROP	_	54	flat:name	_	_
+58	Montalto	_	PROPN	NOUN_PROP	_	54	flat:name	_	SpaceAfter=No
+59	,	_	PUNCT	X_PUN	_	37	punct	_	_
+60	l-	_	DET	DEF	_	61	det	_	SpaceAfter=No
+61	Onor	_	NOUN	X_ABV	_	37	conj	_	SpaceAfter=No
+62	.	_	PUNCT	X_PUN	_	61	punct	_	_
+63	Joe	_	PROPN	NOUN_PROP	_	61	flat:name	_	_
+64	Cuschieri	_	PROPN	NOUN_PROP	_	61	flat:name	_	SpaceAfter=No
+65	,	_	PUNCT	X_PUN	_	37	punct	_	_
+66	l-	_	DET	DEF	_	67	det	_	SpaceAfter=No
+67	Onor	_	NOUN	X_ABV	_	37	conj	_	SpaceAfter=No
+68	.	_	PUNCT	X_PUN	_	67	punct	_	_
+69	Helena	_	PROPN	NOUN_PROP	_	67	flat:name	_	_
+70	Dall	_	PROPN	NOUN_PROP	_	67	flat:name	_	_
+71	u	_	CCONJ	CONJ_CORD	_	73	cc	_	_
+72	l-	_	DET	DEF	_	73	det	_	SpaceAfter=No
+73	Onor	_	NOUN	X_ABV	_	37	conj	_	SpaceAfter=No
+74	.	_	PUNCT	X_PUN	_	73	punct	_	_
+75	Carmelo	_	PROPN	NOUN_PROP	_	73	flat:name	_	_
+76	Vella	_	PROPN	NOUN_PROP	_	73	flat:name	_	SpaceAfter=No
+77	.	_	PUNCT	X_PUN	_	24	punct	_	_
+
+# sent_id = 38_02P06:62
+# text = Fi kliem ieħor l-oppożizzjoni kollha m'hijiex hawn ħlief għall-Onor. Noel Farrugia u l-Onor. Joe Mizzi!
+1	Fi	_	ADP	PREP	_	2	case	_	_
+2	kliem	_	NOUN	NOUN	_	9	obl	_	_
+3	ieħor	_	ADJ	ADJ	_	2	amod	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	oppożizzjoni	_	NOUN	NOUN	_	9	nsubj	_	_
+6	kollha	_	DET	QUAN	_	5	det	_	_
+7	m'	_	PART	NEG	_	9	advmod:neg	_	SpaceAfter=No
+8	hijiex	_	AUX	PRON_PERS_NEG	_	9	aux:neg	_	_
+9	hawn	_	ADV	ADV	_	0	root	_	_
+10	ħlief	_	ADP	PREP	_	12	case	_	_
+11	għall-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	Onor	_	NOUN	X_ABV	_	9	obl	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	12	punct	_	_
+14	Noel	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
+15	Farrugia	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
+16	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	Onor	_	NOUN	X_ABV	_	12	conj	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	18	punct	_	_
+20	Joe	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
+21	Mizzi	_	PROPN	NOUN_PROP	_	18	flat:name	_	SpaceAfter=No
+22	!	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 38_02P06:63
+# text = MR SPEAKER: On a point of order, l-Onor. Mizzi.
+1	MR	_	NOUN	X_ABV	_	4	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	On	_	X	X_ENG	_	0	root	_	_
+5	a	_	X	X_ENG	_	4	flat	_	_
+6	point	_	X	X_ENG	_	4	flat	_	_
+7	of	_	X	X_ENG	_	4	flat	_	_
+8	order	_	X	X_ENG	_	7	flat	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	4	punct	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	Onor	_	NOUN	X_ABV	_	4	flat:name	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	11	punct	_	_
+13	Mizzi	_	PROPN	NOUN_PROP	_	4	flat:name	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 38_02P06:64
+# text = ONOR. JOE MIZZI: Filwaqt li l-mistoqsijiet isiru minn din in-naħa għalkemm jista' jagħmilhom ħaddieħor ukoll, il-Viċi Prim Ministru m'huwiex qed jgħid li l-prim ministru, li huwa responsabbli mill-kabinett u allura jista' jirrispondi f'isem kulħadd, lanqas m'hu qiegħed hawn preżenti.
+1	ONOR	_	NOUN	X_ABV	_	28	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	JOE	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	MIZZI	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Filwaqt	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+7	li	_	SCONJ	COMP	_	6	fixed	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	mistoqsijiet	_	NOUN	NOUN	_	10	nsubj	_	_
+10	isiru	_	VERB	VERB	_	28	advcl	_	_
+11	minn	_	ADP	PREP	_	14	case	_	_
+12	din	_	PRON	PRON_DEM	_	14	det	_	_
+13	in-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	naħa	_	NOUN	NOUN	_	10	obl	_	_
+15	għalkemm	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+16	jista'	_	VERB	VERB	_	28	advcl	_	_
+17	jagħmilhom	_	VERB	VERB	_	16	xcomp	_	_
+18	ħaddieħor	_	PRON	PRON_INDEF	_	17	nsubj	_	_
+19	ukoll	_	ADV	FOC	_	18	discourse	_	SpaceAfter=No
+20	,	_	PUNCT	X_PUN	_	16	punct	_	_
+21	il-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+22	Viċi	_	ADJ	ADJ	_	24	amod	_	_
+23	Prim	_	ADJ	ADJ	_	24	amod	_	_
+24	Ministru	_	NOUN	NOUN	_	28	nsubj	_	_
+25	m'	_	PART	NEG	_	28	advmod:neg	_	SpaceAfter=No
+26	huwiex	_	AUX	PRON_PERS_NEG	_	28	aux:neg	_	_
+27	qed	_	AUX	PROG	_	28	aux:part	_	_
+28	jgħid	_	VERB	VERB	_	0	root	_	_
+29	li	_	SCONJ	COMP	_	36	mark	_	_
+30	l-	_	DET	DEF	_	32	det	_	SpaceAfter=No
+31	prim	_	ADJ	ADJ	_	32	amod	_	_
+32	ministru	_	NOUN	NOUN	_	36	nsubj	_	SpaceAfter=No
+33	,	_	PUNCT	X_PUN	_	32	punct	_	_
+34	li	_	SCONJ	COMP	_	35	mark	_	_
+35	huwa	_	PRON	PRON_PERS	_	32	reparandum	_	_
+36	responsabbli	_	ADJ	ADJ	_	28	ccomp	_	_
+37	mill-	_	ADP	PREP_DEF	_	38	case:det	_	SpaceAfter=No
+38	kabinett	_	NOUN	NOUN	_	36	obl	_	_
+39	u	_	CCONJ	CONJ_CORD	_	41	cc	_	_
+40	allura	_	ADV	ADV	_	41	advmod	_	_
+41	jista'	_	VERB	VERB	_	36	conj	_	_
+42	jirrispondi	_	VERB	VERB	_	41	xcomp	_	_
+43	f'	_	ADP	PREP	_	44	case	_	SpaceAfter=No
+44	isem	_	NOUN	NOUN	_	42	obl	_	_
+45	kulħadd	_	PRON	PRON_INDEF	_	44	nmod:poss	_	SpaceAfter=No
+46	,	_	PUNCT	X_PUN	_	41	punct	_	_
+47	lanqas	_	ADV	FOC	_	52	discourse	_	_
+48	m'	_	PART	NEG	_	52	advmod:neg	_	SpaceAfter=No
+49	hu	_	AUX	PRON_PERS	_	52	aux:neg	_	_
+50	qiegħed	_	AUX	PART_ACT	_	52	cop	_	_
+51	hawn	_	ADV	ADV	_	52	advmod	_	_
+52	preżenti	_	ADJ	ADJ	_	41	advcl	_	SpaceAfter=No
+53	.	_	PUNCT	X_PUN	_	28	punct	_	_
+
+# sent_id = 38_02P06:65
+# text = Biex nuri l-irresponsabbilta' tan-naħa tal-gvern li lanqas għandhom membri biżżejjed biex iżommu l-parlament għaddej, qed ngħajjat għal quorum, Sur President.
+1	Biex	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	nuri	_	VERB	VERB	_	21	advcl	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	irresponsabbilta'	_	NOUN	NOUN	_	2	obj	_	_
+5	tan-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	naħa	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	gvern	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	li	_	SCONJ	COMP	_	11	mark	_	_
+10	lanqas	_	ADV	FOC	_	11	discourse	_	_
+11	għandhom	_	VERB	VERB_PSEU	_	8	acl	_	_
+12	membri	_	NOUN	NOUN	_	11	obj	_	_
+13	biżżejjed	_	ADV	ADV	_	12	advmod	_	_
+14	biex	_	SCONJ	CONJ_SUB	_	15	mark	_	_
+15	iżommu	_	VERB	VERB	_	11	advcl	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	parlament	_	NOUN	NOUN	_	15	obj	_	_
+18	għaddej	_	VERB	PART_ACT	_	15	xcomp	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	2	punct	_	_
+20	qed	_	AUX	PROG	_	21	aux:part	_	_
+21	ngħajjat	_	VERB	VERB	_	0	root	_	_
+22	għal	_	ADP	PREP	_	23	case	_	_
+23	quorum	_	NOUN	NOUN	_	21	obl:arg	_	SpaceAfter=No
+24	,	_	PUNCT	X_PUN	_	21	punct	_	_
+25	Sur	_	NOUN	NOUN	_	26	compound	_	_
+26	President	_	NOUN	NOUN	_	21	vocative	_	SpaceAfter=No
+27	.	_	PUNCT	X_PUN	_	21	punct	_	_
+
+# sent_id = 38_02P06:66
+# text = MR SPEAKER: Hawn talba għal quorum.
+1	MR	_	NOUN	X_ABV	_	4	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Hawn	_	VERB	HEMM	_	0	root	_	_
+5	talba	_	NOUN	NOUN	_	4	nsubj	_	_
+6	għal	_	ADP	PREP	_	7	case	_	_
+7	quorum	_	NOUN	NOUN	_	5	nmod	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 38_02P06:67
+# text = Is-Seduta hija sospiża għal-ħames minuti.
+1	Is-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Seduta	_	NOUN	NOUN	_	4	nsubj:pass	_	_
+3	hija	_	PRON	PRON_PERS	_	4	cop	_	_
+4	sospiża	_	VERB	PART_PASS	_	0	root	_	_
+5	għal-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+6	ħames	_	NUM	NUM_ORD	_	7	amod	_	_
+7	minuti	_	NOUN	NOUN	_	4	obl	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 38_02P06:68
+# text = Is-Seduta ġiet sospiża fis-6. 14 p. m. minħabba nuqqas ta' quorum u rriżumiet ħames minuti wara.
+1	Is-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Seduta	_	NOUN	NOUN	_	4	nsubj:pass	_	_
+3	ġiet	_	AUX	VERB	_	4	aux:pass	_	_
+4	sospiża	_	VERB	PART_PASS	_	0	root	_	_
+5	fis-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	6	_	NUM	X_DIG	_	4	obl	_	SpaceAfter=No
+7	.	_	PUNCT	X_PUN	_	6	punct	_	_
+8	14	_	NUM	X_DIG	_	6	nmod	_	_
+9	p	_	NOUN	X_ABV	_	6	nmod	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	9	punct	_	_
+11	m	_	NOUN	X_ABV	_	9	list	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	6	punct	_	_
+13	minħabba	_	ADP	PREP	_	14	case	_	_
+14	nuqqas	_	NOUN	NOUN	_	4	obl	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	quorum	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+18	rriżumiet	_	VERB	VERB	_	4	conj	_	_
+19	ħames	_	NUM	NUM_ORD	_	20	amod	_	_
+20	minuti	_	NOUN	NOUN	_	21	obl	_	_
+21	wara	_	ADV	ADV	_	18	advmod	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 38_02P06:69
+# text = MR SPEAKER: Is-Seduta tkompli.
+1	MR	_	NOUN	X_ABV	_	6	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Is-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Seduta	_	NOUN	NOUN	_	6	nsubj	_	_
+6	tkompli	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+7	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:70
+# text = L-Onor. Mizzi.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Onor	_	NOUN	X_ABV	_	0	root	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	2	punct	_	_
+4	Mizzi	_	PROPN	NOUN_PROP	_	2	flat:name	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 38_02P06:71
+# text = ONOR. JOE MIZZI: Ninsisti fuq it-talba tiegħi.
+1	ONOR	_	NOUN	X_ABV	_	6	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	JOE	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+4	MIZZI	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	1	punct	_	_
+6	Ninsisti	_	VERB	VERB	_	0	root	_	_
+7	fuq	_	ADP	PREP	_	9	case	_	_
+8	it-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	talba	_	NOUN	NOUN	_	6	obl:arg	_	_
+10	tiegħi	_	PRON	GEN_PRON	_	9	nmod:poss	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 38_02P06:72
+# text = MR SPEAKER: Nitlob lill-Iskrivan tal-Kamra jgħodd in-numru ta' l-Onor. Membri preżenti.
+1	MR	_	NOUN	X_ABV	_	4	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Nitlob	_	VERB	VERB	_	0	root	_	_
+5	lill-	_	ADP	LIL_DEF	_	6	case:det	_	SpaceAfter=No
+6	Iskrivan	_	NOUN	NOUN	_	4	obj	_	_
+7	tal-	_	ADP	GEN_DEF	_	8	case:det	_	SpaceAfter=No
+8	Kamra	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	jgħodd	_	VERB	VERB	_	4	xcomp	_	_
+10	in-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	numru	_	NOUN	NOUN	_	9	obj	_	_
+12	ta'	_	ADP	GEN	_	14	case	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	Onor	_	NOUN	X_ABV	_	16	compound	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	14	punct	_	_
+16	Membri	_	NOUN	NOUN	_	11	nmod:poss	_	_
+17	preżenti	_	ADJ	ADJ	_	16	amod	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 38_02P06:73
+# text = Preżenti kienu l-Onor: Francis Agius Frederick Azzopardi Michael Bonnici Joe Borg Tonio Borg John Dalli Louis Deguara Eddie Fenech Adami Censu Galea Mario Galea Lawrence Gonzi Joe Mizzi Michael Refalo Ninu Zammit
+1	Preżenti	_	ADJ	ADJ	_	0	root	_	_
+2	kienu	_	AUX	KIEN	_	1	cop	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	Onor	_	NOUN	X_ABV	_	1	nsubj	_	SpaceAfter=No
+5	:	_	PUNCT	X_PUN	_	4	punct	_	_
+6	Francis	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
+7	Agius	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
+8	Frederick	_	PROPN	NOUN_PROP	_	4	conj	_	_
+9	Azzopardi	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
+10	Michael	_	PROPN	NOUN_PROP	_	4	conj	_	_
+11	Bonnici	_	PROPN	NOUN_PROP	_	10	flat:name	_	_
+12	Joe	_	PROPN	NOUN_PROP	_	4	conj	_	_
+13	Borg	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
+14	Tonio	_	PROPN	NOUN_PROP	_	4	conj	_	_
+15	Borg	_	PROPN	NOUN_PROP	_	14	flat:name	_	_
+16	John	_	PROPN	NOUN_PROP	_	4	conj	_	_
+17	Dalli	_	PROPN	NOUN_PROP	_	16	flat:name	_	_
+18	Louis	_	PROPN	NOUN_PROP	_	4	conj	_	_
+19	Deguara	_	PROPN	NOUN_PROP	_	18	flat:name	_	_
+20	Eddie	_	PROPN	NOUN_PROP	_	4	conj	_	_
+21	Fenech	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
+22	Adami	_	PROPN	NOUN_PROP	_	20	flat:name	_	_
+23	Censu	_	PROPN	NOUN_PROP	_	4	conj	_	_
+24	Galea	_	PROPN	NOUN_PROP	_	23	flat:name	_	_
+25	Mario	_	PROPN	NOUN_PROP	_	4	conj	_	_
+26	Galea	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
+27	Lawrence	_	PROPN	NOUN_PROP	_	4	conj	_	_
+28	Gonzi	_	PROPN	NOUN_PROP	_	27	flat:name	_	_
+29	Joe	_	PROPN	NOUN_PROP	_	4	conj	_	_
+30	Mizzi	_	PROPN	NOUN_PROP	_	29	flat:name	_	_
+31	Michael	_	PROPN	NOUN_PROP	_	4	conj	_	_
+32	Refalo	_	PROPN	NOUN_PROP	_	31	flat:name	_	_
+33	Ninu	_	PROPN	NOUN_PROP	_	4	conj	_	_
+34	Zammit	_	PROPN	NOUN_PROP	_	33	flat:name	_	_
+
+# sent_id = 38_02P06:74
+# text = MR SPEAKER: Peress li m'hawnx preżenti n-numru ta' membri kif rikjest bir-regolamenti, qed naġġorna l-Kamra għal nhar it-Tnejn 1 ta' Lulju, 2002 fis-6: 00 p. m. bl-istess aġenda.
+1	MR	_	NOUN	X_ABV	_	19	list	_	_
+2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	1	punct	_	_
+4	Peress	_	ADP	PREP	_	7	mark	_	_
+5	li	_	SCONJ	COMP	_	4	fixed	_	_
+6	m'	_	PART	NEG	_	7	advmod:neg	_	SpaceAfter=No
+7	hawnx	_	VERB	HEMM	_	19	advcl	_	_
+8	preżenti	_	ADJ	ADJ	_	7	xcomp	_	_
+9	n-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	numru	_	NOUN	NOUN	_	7	nsubj	_	_
+11	ta'	_	ADP	GEN	_	12	case	_	_
+12	membri	_	NOUN	NOUN	_	10	nmod:poss	_	_
+13	kif	_	ADV	PRON_INT	_	14	advmod	_	_
+14	rikjest	_	VERB	PART_PASS	_	7	advcl	_	_
+15	bir-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	regolamenti	_	NOUN	NOUN	_	14	obl	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	7	punct	_	_
+18	qed	_	AUX	PROG	_	19	aux:part	_	_
+19	naġġorna	_	VERB	VERB	_	0	root	_	_
+20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	Kamra	_	NOUN	NOUN	_	19	obj	_	_
+22	għal	_	ADP	PREP	_	23	case	_	_
+23	nhar	_	NOUN	NOUN	_	19	obl	_	_
+24	it-	_	DET	DEF	_	25	det	_	SpaceAfter=No
+25	Tnejn	_	PROPN	NOUN_PROP	_	23	nmod:poss	_	_
+26	1	_	NUM	X_DIG	_	25	appos	_	_
+27	ta'	_	ADP	GEN	_	28	case	_	_
+28	Lulju	_	PROPN	NOUN_PROP	_	26	nmod:poss	_	SpaceAfter=No
+29	,	_	PUNCT	X_PUN	_	28	punct	_	_
+30	2002	_	NUM	X_DIG	_	28	nummod	_	_
+31	fis-	_	ADP	PREP_DEF	_	32	case:det	_	SpaceAfter=No
+32	6	_	NUM	X_DIG	_	25	nmod	_	SpaceAfter=No
+33	:	_	PUNCT	X_PUN	_	32	punct	_	_
+34	00	_	NUM	X_DIG	_	32	list	_	_
+35	p	_	NOUN	X_ABV	_	32	nmod	_	SpaceAfter=No
+36	.	_	PUNCT	X_PUN	_	35	punct	_	_
+37	m	_	NOUN	X_ABV	_	35	list	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	35	punct	_	_
+39	bl-	_	ADP	PREP_DEF	_	41	case:det	_	SpaceAfter=No
+40	istess	_	ADJ	ADJ	_	41	amod	_	_
+41	aġenda	_	NOUN	NOUN	_	19	obl	_	SpaceAfter=No
+42	.	_	PUNCT	X_PUN	_	19	punct	_	_
+
+# sent_id = 38_02P06:75
+# text = Fis-6: 20 p. m. il-Kamra aġġornat.
+1	Fis-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	6	_	NUM	X_DIG	_	11	obl	_	SpaceAfter=No
+3	:	_	PUNCT	X_PUN	_	2	punct	_	_
+4	20	_	NUM	X_DIG	_	2	nmod	_	_
+5	p	_	NOUN	X_ABV	_	2	nmod	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	5	punct	_	_
+7	m	_	NOUN	X_ABV	_	5	list	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	5	punct	_	_
+9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	Kamra	_	NOUN	NOUN	_	11	nsubj	_	_
+11	aġġornat	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	11	punct	_	_
+

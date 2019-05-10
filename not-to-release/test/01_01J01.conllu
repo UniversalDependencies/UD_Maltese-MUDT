@@ -1,0 +1,576 @@
+# sent_id = 01_01J01:1
+# text = Philip Schembri, iċ-Chairman tal-Bord ta' Inkjesta dwar l-allegat rimi illegali ta' kimika imsejħa mercaptan mill-Enemalta, qal li l-Bord ta' Inkjesta talab id-dokumenti li qal li kellu f'idejh id-Deputat Laburista Joe Mizzi wara li hu b'mod pubbliku qal li kellu dokumenti li kien lest jgħaddihom lil Bord ta' Inkjesta.
+1	Philip	_	PROPN	NOUN_PROP	_	22	nsubj	_	_
+2	Schembri	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	5	punct	_	_
+4	iċ-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Chairman	_	NOUN	NOUN	_	1	appos	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	Bord	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	ta'	_	ADP	GEN	_	9	case	_	_
+9	Inkjesta	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	dwar	_	ADP	PREP	_	13	case	_	_
+11	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+12	allegat	_	VERB	PART_PASS	_	13	amod	_	_
+13	rimi	_	NOUN	NOUN	_	9	nmod	_	_
+14	illegali	_	ADJ	ADJ	_	13	amod	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	kimika	_	NOUN	NOUN	_	13	nmod:poss	_	_
+17	imsejħa	_	VERB	PART_PASS	_	16	acl	_	_
+18	mercaptan	_	PROPN	NOUN_PROP	_	17	obl:arg	_	_
+19	mill-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	Enemalta	_	PROPN	NOUN_PROP	_	13	nmod	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	5	punct	_	_
+22	qal	_	VERB	VERB	_	0	root	_	_
+23	li	_	SCONJ	COMP	_	28	mark	_	_
+24	l-	_	DET	DEF	_	25	det	_	SpaceAfter=No
+25	Bord	_	NOUN	NOUN	_	28	nsubj	_	_
+26	ta'	_	ADP	GEN	_	27	case	_	_
+27	Inkjesta	_	NOUN	NOUN	_	25	nmod:poss	_	_
+28	talab	_	VERB	VERB	_	22	ccomp	_	_
+29	id-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	dokumenti	_	NOUN	NOUN	_	28	obj	_	_
+31	li	_	SCONJ	COMP	_	32	mark	_	_
+32	qal	_	VERB	VERB	_	30	acl	_	_
+33	li	_	SCONJ	COMP	_	34	mark	_	_
+34	kellu	_	VERB	VERB_PSEU	_	32	ccomp	_	_
+35	f'	_	ADP	PREP	_	36	case	_	SpaceAfter=No
+36	idejh	_	NOUN	NOUN	_	34	obl	_	_
+37	id-	_	DET	DEF	_	38	det	_	SpaceAfter=No
+38	Deputat	_	NOUN	NOUN	_	40	compound	_	_
+39	Laburista	_	ADJ	ADJ	_	38	amod	_	_
+40	Joe	_	PROPN	NOUN_PROP	_	34	nsubj	_	_
+41	Mizzi	_	PROPN	NOUN_PROP	_	40	flat:name	_	_
+42	wara	_	ADP	PREP	_	48	mark	_	_
+43	li	_	SCONJ	COMP	_	42	fixed	_	_
+44	hu	_	PRON	PRON_PERS	_	48	nsubj	_	_
+45	b'	_	ADP	PREP	_	46	case	_	SpaceAfter=No
+46	mod	_	NOUN	NOUN	_	48	obl	_	_
+47	pubbliku	_	ADJ	ADJ	_	46	amod	_	_
+48	qal	_	VERB	VERB	_	28	advcl	_	_
+49	li	_	SCONJ	COMP	_	50	mark	_	_
+50	kellu	_	VERB	VERB_PSEU	_	48	xcomp	_	_
+51	dokumenti	_	NOUN	NOUN	_	50	obj	_	_
+52	li	_	SCONJ	COMP	_	54	mark	_	_
+53	kien	_	AUX	KIEN	_	54	cop	_	_
+54	lest	_	ADJ	ADJ	_	51	acl	_	_
+55	jgħaddihom	_	VERB	VERB	_	54	xcomp	_	_
+56	lil	_	ADP	LIL	_	57	case	_	_
+57	Bord	_	NOUN	NOUN	_	55	iobj	_	_
+58	ta'	_	ADP	GEN	_	59	case	_	_
+59	Inkjesta	_	NOUN	NOUN	_	57	nmod:poss	_	SpaceAfter=No
+60	.	_	PUNCT	X_PUN	_	22	punct	_	_
+
+# sent_id = 01_01J01:2
+# text = Iċ-Chairman qal li l-Bord qal lil Joe Mizzi li huma kienu lesti jirrispettaw is-sors li kellu imma Joe Mizzi qal li hu kien għadda d-dokumenti lura lil min tagħhomlu.
+1	Iċ-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Chairman	_	NOUN	NOUN	_	3	nsubj	_	_
+3	qal	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	7	mark	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	Bord	_	NOUN	NOUN	_	7	nsubj	_	_
+7	qal	_	VERB	VERB	_	3	ccomp	_	_
+8	lil	_	ADP	LIL	_	9	case	_	_
+9	Joe	_	PROPN	NOUN_PROP	_	7	iobj	_	_
+10	Mizzi	_	PROPN	NOUN_PROP	_	9	flat:name	_	_
+11	li	_	SCONJ	COMP	_	14	mark	_	_
+12	huma	_	PRON	PRON_PERS	_	14	nsubj	_	_
+13	kienu	_	AUX	KIEN	_	14	cop	_	_
+14	lesti	_	ADJ	ADJ	_	7	ccomp	_	_
+15	jirrispettaw	_	VERB	VERB	_	14	xcomp	_	_
+16	is-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	sors	_	NOUN	NOUN	_	15	obj	_	_
+18	li	_	SCONJ	COMP	_	19	mark	_	_
+19	kellu	_	VERB	VERB_PSEU	_	17	acl	_	_
+20	imma	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+21	Joe	_	PROPN	NOUN_PROP	_	23	nsubj	_	_
+22	Mizzi	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
+23	qal	_	VERB	VERB	_	7	conj	_	_
+24	li	_	SCONJ	COMP	_	27	mark	_	_
+25	hu	_	PRON	PRON_PERS	_	27	nsubj	_	_
+26	kien	_	AUX	KIEN	_	27	aux	_	_
+27	għadda	_	VERB	VERB	_	23	ccomp	_	_
+28	d-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	dokumenti	_	NOUN	NOUN	_	27	obj	_	_
+30	lura	_	ADV	ADV	_	27	advmod	_	_
+31	lil	_	ADP	LIL	_	32	case	_	_
+32	min	_	PRON	PRON_INT	_	27	iobj	_	_
+33	tagħhomlu	_	VERB	VERB	_	32	acl	_	SpaceAfter=No
+34	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 01_01J01:3
+# text = Dan ħareġ meta l-Kumitat Parlamentari dwar il-Kontijiet Pubbliċi beda jiddiskuti r-Rapport tal-Korporazzjoni Enemalta ta' Diċembru 2011 dwar l-inkjesta fuq l-allegat rimi illegali ta' kimika imsejħa mercaptan.
+1	Dan	_	PRON	PRON_DEM	_	2	nsubj	_	_
+2	ħareġ	_	VERB	VERB	_	0	root	_	_
+3	meta	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Kumitat	_	NOUN	NOUN	_	11	nsubj	_	_
+6	Parlamentari	_	ADJ	ADJ	_	5	amod	_	_
+7	dwar	_	ADP	PREP	_	9	case	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	Kontijiet	_	NOUN	NOUN	_	5	nmod	_	_
+10	Pubbliċi	_	ADJ	ADJ	_	9	amod	_	_
+11	beda	_	VERB	VERB	_	2	advcl	_	_
+12	jiddiskuti	_	VERB	VERB	_	11	xcomp	_	_
+13	r-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	Rapport	_	NOUN	NOUN	_	12	obj	_	_
+15	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
+16	Korporazzjoni	_	NOUN	NOUN	_	17	compound	_	_
+17	Enemalta	_	PROPN	NOUN_PROP	_	14	nmod:poss	_	_
+18	ta'	_	ADP	GEN	_	19	case	_	_
+19	Diċembru	_	PROPN	NOUN_PROP	_	14	nmod:poss	_	_
+20	2011	_	NUM	X_DIG	_	19	nummod	_	_
+21	dwar	_	ADP	PREP	_	23	case	_	_
+22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	inkjesta	_	NOUN	NOUN	_	14	nmod	_	_
+24	fuq	_	ADP	PREP	_	27	case	_	_
+25	l-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+26	allegat	_	VERB	PART_PASS	_	27	amod	_	_
+27	rimi	_	NOUN	NOUN	_	23	nmod	_	_
+28	illegali	_	ADJ	ADJ	_	27	amod	_	_
+29	ta'	_	ADP	GEN	_	30	case	_	_
+30	kimika	_	NOUN	NOUN	_	27	nmod:poss	_	_
+31	imsejħa	_	VERB	PART_PASS	_	30	acl	_	_
+32	mercaptan	_	PROPN	NOUN_PROP	_	31	obl:arg	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 01_01J01:4
+# text = Ir-rapport kien tpoġġa fuq il-Mejda tal-Kamra tar-Rappreżentanti fit-30 ta' April li għadda.
+1	Ir-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	rapport	_	NOUN	NOUN	_	4	nsubj:pass	_	_
+3	kien	_	AUX	KIEN	_	4	aux	_	_
+4	tpoġġa	_	VERB	VERB	_	0	root	_	_
+5	fuq	_	ADP	PREP	_	7	case	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	Mejda	_	NOUN	NOUN	_	4	obl	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	Kamra	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	tar-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	Rappreżentanti	_	NOUN	NOUN	_	9	nmod:poss	_	_
+12	fit-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	30	_	NUM	X_DIG	_	4	obl	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	April	_	PROPN	NOUN_PROP	_	13	nmod:poss	_	_
+16	li	_	SCONJ	COMP	_	17	mark	_	_
+17	għadda	_	VERB	VERB	_	15	acl	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 01_01J01:5
+# text = Fil-bidu tal-laqgħa, li tmexxiet mid-Deputat Laburista Charles Mangion bħala ċ-Chairman, saret diskussjoni dwar il-lista tax-xhieda li għandha tissejjaħ quddiem il-Kumitat u l-proċedura li se tintuża.
+1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	bidu	_	NOUN	NOUN	_	17	obl	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	laqgħa	_	NOUN	NOUN	_	2	nmod:poss	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	7	punct	_	_
+6	li	_	SCONJ	COMP	_	7	mark	_	_
+7	tmexxiet	_	VERB	VERB	_	4	acl	_	_
+8	mid-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	Deputat	_	NOUN	NOUN	_	11	compound	_	_
+10	Laburista	_	ADJ	ADJ	_	9	amod	_	_
+11	Charles	_	PROPN	NOUN_PROP	_	7	obl:agent	_	_
+12	Mangion	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
+13	bħala	_	ADP	PREP	_	15	case	_	_
+14	ċ-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	Chairman	_	NOUN	NOUN	_	11	nmod	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	7	punct	_	_
+17	saret	_	VERB	VERB	_	0	root	_	_
+18	diskussjoni	_	NOUN	NOUN	_	17	nsubj	_	_
+19	dwar	_	ADP	PREP	_	21	case	_	_
+20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	lista	_	NOUN	NOUN	_	18	nmod	_	_
+22	tax-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No
+23	xhieda	_	NOUN	NOUN	_	21	nmod:poss	_	_
+24	li	_	SCONJ	COMP	_	25	mark	_	_
+25	għandha	_	VERB	VERB_PSEU	_	21	acl	_	_
+26	tissejjaħ	_	VERB	VERB	_	25	xcomp	_	_
+27	quddiem	_	ADP	PREP	_	29	case	_	_
+28	il-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	Kumitat	_	NOUN	NOUN	_	26	obl	_	_
+30	u	_	CCONJ	CONJ_CORD	_	32	cc	_	_
+31	l-	_	DET	DEF	_	32	det	_	SpaceAfter=No
+32	proċedura	_	NOUN	NOUN	_	21	conj	_	_
+33	li	_	SCONJ	COMP	_	35	mark	_	_
+34	se	_	AUX	FUT	_	35	aux:part	_	_
+35	tintuża	_	VERB	VERB	_	32	acl	_	SpaceAfter=No
+36	.	_	PUNCT	X_PUN	_	17	punct	_	_
+
+# sent_id = 01_01J01:6
+# text = Il-Membru tal-Kumitat Leo Brincat talab li bħala xhud ikun hemm rappreżentant tal-MEPA u kien hemm qbil filwaqt li d-Deputat Laburista Joe Mizzi ta lista ta' persuni oħrajn mill-Korporazzjoni Enemalta u minn WasteServ u ma kienx hemm oġġezzjoni.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Membru	_	NOUN	NOUN	_	5	compound	_	_
+3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
+4	Kumitat	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	Leo	_	PROPN	NOUN_PROP	_	7	nsubj	_	_
+6	Brincat	_	PROPN	NOUN_PROP	_	5	flat:name	_	_
+7	talab	_	VERB	VERB	_	0	root	_	_
+8	li	_	SCONJ	COMP	_	12	mark	_	_
+9	bħala	_	ADP	PREP	_	10	case	_	_
+10	xhud	_	NOUN	NOUN	_	12	obl	_	_
+11	ikun	_	AUX	KIEN	_	12	aux	_	_
+12	hemm	_	VERB	HEMM	_	7	ccomp	_	_
+13	rappreżentant	_	NOUN	NOUN	_	12	nsubj	_	_
+14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	MEPA	_	NOUN	X_ABV	_	13	nmod:poss	_	_
+16	u	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+17	kien	_	AUX	KIEN	_	18	aux	_	_
+18	hemm	_	VERB	HEMM	_	7	conj	_	_
+19	qbil	_	NOUN	NOUN	_	18	nsubj	_	_
+20	filwaqt	_	SCONJ	CONJ_SUB	_	27	mark	_	_
+21	li	_	SCONJ	COMP	_	20	fixed	_	_
+22	d-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	Deputat	_	NOUN	NOUN	_	25	compound	_	_
+24	Laburista	_	ADJ	ADJ	_	23	amod	_	_
+25	Joe	_	PROPN	NOUN_PROP	_	27	nsubj	_	_
+26	Mizzi	_	PROPN	NOUN_PROP	_	25	flat:name	_	_
+27	ta	_	VERB	VERB	_	18	advcl	_	_
+28	lista	_	NOUN	NOUN	_	27	obj	_	_
+29	ta'	_	ADP	GEN	_	30	case	_	_
+30	persuni	_	NOUN	NOUN	_	28	nmod:poss	_	_
+31	oħrajn	_	ADJ	ADJ	_	30	amod	_	_
+32	mill-	_	ADP	PREP_DEF	_	33	case:det	_	SpaceAfter=No
+33	Korporazzjoni	_	NOUN	NOUN	_	34	compound	_	_
+34	Enemalta	_	PROPN	NOUN_PROP	_	30	nmod	_	_
+35	u	_	CCONJ	CONJ_CORD	_	37	cc	_	_
+36	minn	_	ADP	PREP	_	37	case	_	_
+37	WasteServ	_	PROPN	NOUN_PROP	_	30	conj	_	_
+38	u	_	CCONJ	CONJ_CORD	_	41	cc	_	_
+39	ma	_	PART	NEG	_	41	advmod:neg	_	_
+40	kienx	_	AUX	KIEN	_	41	aux	_	_
+41	hemm	_	VERB	HEMM	_	27	conj	_	_
+42	oġġezzjoni	_	NOUN	NOUN	_	41	nsubj	_	SpaceAfter=No
+43	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 01_01J01:7
+# text = Il-Ministru Tonio Fenech talab li jittella' wkoll Karl Camilleri, Kap Eżekuttiv tal-Enemalta.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Ministru	_	NOUN	NOUN	_	3	compound	_	_
+3	Tonio	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
+4	Fenech	_	PROPN	NOUN_PROP	_	3	flat:name	_	_
+5	talab	_	VERB	VERB	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	7	mark	_	_
+7	jittella'	_	VERB	VERB	_	5	ccomp	_	_
+8	wkoll	_	ADV	FOC	_	7	discourse	_	_
+9	Karl	_	PROPN	NOUN_PROP	_	7	nsubj:pass	_	_
+10	Camilleri	_	PROPN	NOUN_PROP	_	9	flat:name	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	12	punct	_	_
+12	Kap	_	NOUN	NOUN	_	9	appos	_	_
+13	Eżekuttiv	_	ADJ	ADJ	_	12	amod	_	_
+14	tal-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	Enemalta	_	PROPN	NOUN_PROP	_	12	nmod:poss	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 01_01J01:8
+# text = B'kollox se jitressqu 16-il xhud u kull xhud hu intitolat li jekk irid iġib assistent personali tiegħu.
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	kollox	_	PRON	PRON_INDEF	_	4	obl	_	_
+3	se	_	AUX	FUT	_	4	aux:part	_	_
+4	jitressqu	_	VERB	VERB	_	0	root	_	_
+5	16-il	_	NUM	X_DIG	_	6	nummod	_	_
+6	xhud	_	NOUN	NOUN	_	4	nsubj:pass	_	_
+7	u	_	CCONJ	CONJ_CORD	_	11	cc	_	_
+8	kull	_	DET	QUAN	_	9	det	_	_
+9	xhud	_	NOUN	NOUN	_	11	nsubj	_	_
+10	hu	_	PRON	PRON_PERS	_	11	cop	_	_
+11	intitolat	_	VERB	PART_PASS	_	4	conj	_	_
+12	li	_	SCONJ	COMP	_	15	mark	_	_
+13	jekk	_	SCONJ	CONJ_SUB	_	14	mark	_	_
+14	irid	_	VERB	VERB	_	15	advcl	_	_
+15	iġib	_	VERB	VERB	_	11	xcomp	_	_
+16	assistent	_	NOUN	NOUN	_	15	obj	_	_
+17	personali	_	ADJ	ADJ	_	16	amod	_	_
+18	tiegħu	_	PRON	GEN_PRON	_	16	nmod:poss	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 01_01J01:9
+# text = Dwar id-dati tal-laqgħat li fihom se jidhru x-xhieda, kien deċiż li jsiru tliet seduti fis-16, 17 u 18 ta' Lulju fl-4 p. m.
+1	Dwar	_	ADP	PREP	_	3	case	_	_
+2	id-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	dati	_	NOUN	NOUN	_	14	obl	_	_
+4	tal-	_	ADP	GEN_DEF	_	5	case:det	_	SpaceAfter=No
+5	laqgħat	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	li	_	SCONJ	COMP	_	9	mark	_	_
+7	fihom	_	PRON	PREP_PRON	_	9	obl	_	_
+8	se	_	AUX	FUT	_	9	aux:part	_	_
+9	jidhru	_	VERB	VERB	_	5	acl	_	_
+10	x-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	xhieda	_	NOUN	NOUN	_	9	nsubj	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	3	punct	_	_
+13	kien	_	AUX	KIEN	_	14	cop	_	_
+14	deċiż	_	VERB	PART_PASS	_	0	root	_	_
+15	li	_	SCONJ	COMP	_	16	mark	_	_
+16	jsiru	_	VERB	VERB	_	14	ccomp	_	_
+17	tliet	_	NUM	NUM_CRD	_	18	nummod	_	_
+18	seduti	_	NOUN	NOUN	_	16	nsubj	_	_
+19	fis-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	16	_	NUM	X_DIG	_	16	obl	_	SpaceAfter=No
+21	,	_	PUNCT	X_PUN	_	20	punct	_	_
+22	17	_	NUM	X_DIG	_	20	conj	_	_
+23	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+24	18	_	NUM	X_DIG	_	20	conj	_	_
+25	ta'	_	ADP	GEN	_	26	case	_	_
+26	Lulju	_	PROPN	NOUN_PROP	_	20	nmod:poss	_	_
+27	fl-	_	ADP	PREP_DEF	_	28	case:det	_	SpaceAfter=No
+28	4	_	NUM	X_DIG	_	20	nmod	_	_
+29	p	_	NOUN	X_ABV	_	28	appos	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	29	punct	_	_
+31	m	_	NOUN	X_ABV	_	29	flat	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	31	punct	_	_
+
+# sent_id = 01_01J01:10
+# text = Joe Mizzi talab li jittellgħu dokumenti marbutin mat-tender.
+1	Joe	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Mizzi	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	talab	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	jittellgħu	_	VERB	VERB	_	3	ccomp	_	_
+6	dokumenti	_	NOUN	NOUN	_	5	nsubj:pass	_	_
+7	marbutin	_	VERB	PART_PASS	_	6	acl	_	_
+8	mat-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	tender	_	NOUN	NOUN	_	7	obl	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 01_01J01:11
+# text = Tonio Fenech qal li hu m'għandux oġġezzjoni għat-talbiet tal-Oppożizzjoni imma qal li wieħed m'għandux jorbot il-kwistjoni tal-mercaptan mal-proċeduri jekk ċertu xiri li sar mill-Enemalta hux korrett.
+1	Tonio	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Fenech	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	qal	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	7	mark	_	_
+5	hu	_	PRON	PRON_PERS	_	7	nsubj	_	_
+6	m'	_	PART	NEG	_	7	advmod:neg	_	SpaceAfter=No
+7	għandux	_	VERB	VERB_PSEU	_	3	ccomp	_	_
+8	oġġezzjoni	_	NOUN	NOUN	_	7	obj	_	_
+9	għat-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	talbiet	_	NOUN	NOUN	_	8	nmod	_	_
+11	tal-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
+12	Oppożizzjoni	_	NOUN	NOUN	_	10	nmod:poss	_	_
+13	imma	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+14	qal	_	VERB	VERB	_	7	conj	_	_
+15	li	_	SCONJ	COMP	_	19	mark	_	_
+16	wieħed	_	NUM	NUM_WHD	_	19	nsubj	_	_
+17	m'	_	PART	NEG	_	19	advmod:neg	_	SpaceAfter=No
+18	għandux	_	VERB	VERB_PSEU	_	19	ccomp	_	_
+19	jorbot	_	VERB	VERB	_	14	ccomp	_	_
+20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	kwistjoni	_	NOUN	NOUN	_	19	obj	_	_
+22	tal-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No
+23	mercaptan	_	PROPN	NOUN_PROP	_	21	nmod:poss	_	_
+24	mal-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
+25	proċeduri	_	NOUN	NOUN	_	19	obl	_	_
+26	jekk	_	SCONJ	CONJ_SUB	_	34	mark	_	_
+27	ċertu	_	ADJ	ADJ	_	28	amod	_	_
+28	xiri	_	NOUN	NOUN	_	34	nsubj	_	_
+29	li	_	SCONJ	COMP	_	30	mark	_	_
+30	sar	_	VERB	VERB	_	28	acl	_	_
+31	mill-	_	ADP	PREP_DEF	_	32	case:det	_	SpaceAfter=No
+32	Enemalta	_	PROPN	NOUN_PROP	_	30	obl	_	_
+33	hux	_	PRON	PRON_PERS	_	34	cop	_	_
+34	korrett	_	ADJ	ADJ	_	25	acl	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 01_01J01:12
+# text = Hu qal li x-xiri taċ-ċilindri tal-gass m'għandux x'jaqsam mar-rapport ta' inkjesta dwar il-mercaptan.
+1	Hu	_	PRON	PRON_PERS	_	2	nsubj	_	_
+2	qal	_	VERB	VERB	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	11	mark	_	_
+4	x-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	xiri	_	NOUN	NOUN	_	11	nsubj	_	_
+6	taċ-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	ċilindri	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	tal-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	gass	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	m'	_	PART	NEG	_	11	advmod:neg	_	SpaceAfter=No
+11	għandux	_	VERB	VERB_PSEU	_	2	ccomp	_	_
+12	x'	_	PRON	PRON_INT	_	11	obj	_	SpaceAfter=No
+13	jaqsam	_	VERB	VERB	_	12	acl	_	_
+14	mar-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	rapport	_	NOUN	NOUN	_	13	obl	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	inkjesta	_	NOUN	NOUN	_	15	nmod:poss	_	_
+18	dwar	_	ADP	PREP	_	20	case	_	_
+19	il-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	mercaptan	_	PROPN	NOUN_PROP	_	17	nmod	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 01_01J01:13
+# text = Tonio Fenech qal li l-aħjar li l-Kumitat jiffoka fuq il-kwistjoni ta' kif inħaraq il-mercaptan u qal li hemm nies kompetenti li jitrattaw jekk it-tenders sarux kif suppost.
+1	Tonio	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Fenech	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	qal	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	6	mark	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	aħjar	_	ADJ	ADJ	_	3	ccomp	_	_
+7	li	_	SCONJ	COMP	_	10	mark	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	Kumitat	_	NOUN	NOUN	_	10	nsubj	_	_
+10	jiffoka	_	VERB	VERB	_	6	ccomp	_	_
+11	fuq	_	ADP	PREP	_	13	case	_	_
+12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	kwistjoni	_	NOUN	NOUN	_	10	obl:arg	_	_
+14	ta'	_	ADP	GEN	_	16	mark	_	_
+15	kif	_	ADV	PRON_INT	_	16	advmod	_	_
+16	inħaraq	_	VERB	VERB	_	13	acl	_	_
+17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	mercaptan	_	PROPN	NOUN_PROP	_	16	nsubj:pass	_	_
+19	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+20	qal	_	VERB	VERB	_	3	conj	_	_
+21	li	_	SCONJ	COMP	_	22	mark	_	_
+22	hemm	_	VERB	HEMM	_	20	ccomp	_	_
+23	nies	_	NOUN	NOUN	_	22	nsubj	_	_
+24	kompetenti	_	ADJ	ADJ	_	23	amod	_	_
+25	li	_	SCONJ	COMP	_	26	mark	_	_
+26	jitrattaw	_	VERB	VERB	_	23	acl	_	_
+27	jekk	_	SCONJ	CONJ_SUB	_	30	mark	_	_
+28	it-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	tenders	_	NOUN	NOUN	_	30	nsubj	_	_
+30	sarux	_	VERB	VERB	_	26	ccomp	_	_
+31	kif	_	ADV	PRON_INT	_	30	advmod	_	_
+32	suppost	_	ADV	ADV	_	31	fixed	_	SpaceAfter=No
+33	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 01_01J01:14
+# text = Iċ-Chairman qal li jekk proċeduri finanzjarji tat-tender kienu abbużati u dan joħroġ mil-laqgħat tal-Kumitat, jaqbel li l-Awditur Ġenerali jinvestiga.
+1	Iċ-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Chairman	_	NOUN	NOUN	_	3	nsubj	_	_
+3	qal	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	20	mark	_	_
+5	jekk	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+6	proċeduri	_	NOUN	NOUN	_	11	nsubj:pass	_	_
+7	finanzjarji	_	ADJ	ADJ	_	6	amod	_	_
+8	tat-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	tender	_	NOUN	NOUN	_	6	nmod:poss	_	_
+10	kienu	_	AUX	KIEN	_	11	cop	_	_
+11	abbużati	_	VERB	PART_PASS	_	20	advcl	_	_
+12	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+13	dan	_	PRON	PRON_DEM	_	14	nsubj	_	_
+14	joħroġ	_	VERB	VERB	_	11	conj	_	_
+15	mil-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	laqgħat	_	NOUN	NOUN	_	14	obl	_	_
+17	tal-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	Kumitat	_	NOUN	NOUN	_	16	nmod:poss	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	11	punct	_	_
+20	jaqbel	_	VERB	VERB	_	3	xcomp	_	_
+21	li	_	SCONJ	COMP	_	25	mark	_	_
+22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	Awditur	_	NOUN	NOUN	_	25	nsubj	_	_
+24	Ġenerali	_	ADJ	ADJ	_	23	amod	_	_
+25	jinvestiga	_	VERB	VERB	_	20	ccomp	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 01_01J01:15
+# text = Skont Joe Mizzi mir-rapport ta' inkjesta ma toħroġx il-verità.
+1	Skont	_	ADP	PREP	_	2	case	_	_
+2	Joe	_	PROPN	NOUN_PROP	_	9	obl	_	_
+3	Mizzi	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
+4	mir-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	rapport	_	NOUN	NOUN	_	9	obl	_	_
+6	ta'	_	ADP	GEN	_	7	case	_	_
+7	inkjesta	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	ma	_	PART	NEG	_	9	advmod:neg	_	_
+9	toħroġx	_	VERB	VERB	_	0	root	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	verità	_	NOUN	NOUN	_	9	nsubj	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 01_01J01:16
+# text = Wara l-Awditur Ġenerali, Peter Grech, spjega fil-qosor f'hiex jikkonsisti r-rapport.
+1	Wara	_	ADV	ADV	_	9	advmod	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	Awditur	_	NOUN	NOUN	_	9	nsubj	_	_
+4	Ġenerali	_	ADJ	ADJ	_	3	amod	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	6	punct	_	_
+6	Peter	_	PROPN	NOUN_PROP	_	3	appos	_	_
+7	Grech	_	PROPN	NOUN_PROP	_	6	flat:name	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	6	punct	_	_
+9	spjega	_	VERB	VERB	_	0	root	_	_
+10	fil-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	qosor	_	NOUN	NOUN	_	9	obl	_	_
+12	f'	_	ADP	PREP	_	13	case	_	SpaceAfter=No
+13	hiex	_	PRON	PRON_INT	_	14	obl	_	_
+14	jikkonsisti	_	VERB	VERB	_	9	ccomp	_	_
+15	r-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	rapport	_	NOUN	NOUN	_	14	nsubj	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 01_01J01:17
+# text = Attendew ukoll il-membri tal-Bord ta' Inkjesta.
+1	Attendew	_	VERB	VERB	_	0	root	_	_
+2	ukoll	_	ADV	FOC	_	1	discourse	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	membri	_	NOUN	NOUN	_	1	nsubj	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	Bord	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	Inkjesta	_	NOUN	NOUN	_	6	nmod:poss	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 01_01J01:18
+# text = Antoine d' Ambrogio, f'isem l-Awditur Ġenerali, ta sommarju tar-rapport ta' inkjesta dwar ir-rimi tal-mercaptan u qal li saru diversi intervisti ma' persuni mill-Enemalta u entitajiet oħrajn.
+1	Antoine	_	PROPN	NOUN_PROP	_	11	nsubj	_	_
+2	d'	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	Ambrogio	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	6	punct	_	_
+5	f'	_	ADP	PREP	_	6	case	_	SpaceAfter=No
+6	isem	_	NOUN	NOUN	_	11	obl	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	Awditur	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	Ġenerali	_	ADJ	ADJ	_	8	amod	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	6	punct	_	_
+11	ta	_	VERB	VERB	_	0	root	_	_
+12	sommarju	_	NOUN	NOUN	_	11	obj	_	_
+13	tar-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	rapport	_	NOUN	NOUN	_	12	nmod:poss	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	inkjesta	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	dwar	_	ADP	PREP	_	19	case	_	_
+18	ir-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	rimi	_	NOUN	NOUN	_	16	nmod	_	_
+20	tal-	_	ADP	GEN_DEF	_	21	case:det	_	SpaceAfter=No
+21	mercaptan	_	PROPN	NOUN_PROP	_	19	nmod:poss	_	_
+22	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
+23	qal	_	VERB	VERB	_	11	conj	_	_
+24	li	_	SCONJ	COMP	_	25	mark	_	_
+25	saru	_	VERB	VERB	_	23	ccomp	_	_
+26	diversi	_	ADJ	ADJ	_	27	amod	_	_
+27	intervisti	_	NOUN	NOUN	_	25	nsubj	_	_
+28	ma'	_	ADP	PREP	_	29	case	_	_
+29	persuni	_	NOUN	NOUN	_	27	nmod	_	_
+30	mill-	_	ADP	PREP_DEF	_	31	case:det	_	SpaceAfter=No
+31	Enemalta	_	PROPN	NOUN_PROP	_	29	nmod	_	_
+32	u	_	CCONJ	CONJ_CORD	_	33	cc	_	_
+33	entitajiet	_	NOUN	NOUN	_	31	conj	_	_
+34	oħrajn	_	ADJ	ADJ	_	33	amod	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 01_01J01:19
+# text = L-Enemalta, allegatament, irmiet darbtejn il-mercaptan imma ma jirriżultax li f'dak il-perijodu kien hemm xi każi ta' persuni li belgħu xi gassijiet minħabba dan.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Enemalta	_	PROPN	NOUN_PROP	_	6	nsubj	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	4	punct	_	_
+4	allegatament	_	ADV	ADV	_	6	advmod	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	4	punct	_	_
+6	irmiet	_	VERB	VERB	_	0	root	_	_
+7	darbtejn	_	NOUN	NOUN	_	6	obl	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	mercaptan	_	PROPN	NOUN_PROP	_	6	obj	_	_
+10	imma	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+11	ma	_	PART	NEG	_	12	advmod:neg	_	_
+12	jirriżultax	_	VERB	VERB	_	6	conj	_	_
+13	li	_	SCONJ	COMP	_	19	mark	_	_
+14	f'	_	ADP	PREP	_	17	case	_	SpaceAfter=No
+15	dak	_	PRON	PRON_DEM	_	17	det	_	_
+16	il-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	perijodu	_	NOUN	NOUN	_	19	obl	_	_
+18	kien	_	AUX	KIEN	_	19	aux	_	_
+19	hemm	_	VERB	HEMM	_	12	ccomp	_	_
+20	xi	_	DET	QUAN	_	21	det	_	_
+21	każi	_	NOUN	NOUN	_	19	nsubj	_	_
+22	ta'	_	ADP	GEN	_	23	case	_	_
+23	persuni	_	NOUN	NOUN	_	21	nmod:poss	_	_
+24	li	_	SCONJ	COMP	_	25	mark	_	_
+25	belgħu	_	VERB	VERB	_	23	acl	_	_
+26	xi	_	DET	QUAN	_	27	det	_	_
+27	gassijiet	_	NOUN	NOUN	_	25	obj	_	_
+28	minħabba	_	ADP	PREP	_	29	case	_	_
+29	dan	_	PRON	PRON_DEM	_	25	obl	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	6	punct	_	_
+

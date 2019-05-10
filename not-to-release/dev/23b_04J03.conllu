@@ -1,0 +1,1668 @@
+# sent_id = 23b_04J03:1
+# text = AnnaBelle, Isabelle, Konrad Pulè, Daniela Delicata.
+1	AnnaBelle	_	PROPN	NOUN_PROP	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	Isabelle	_	PROPN	NOUN_PROP	_	1	conj	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	1	punct	_	_
+5	Konrad	_	PROPN	NOUN_PROP	_	1	conj	_	_
+6	Pulè	_	PROPN	NOUN_PROP	_	5	flat:name	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	1	punct	_	_
+8	Daniela	_	PROPN	NOUN_PROP	_	1	conj	_	_
+9	Delicata	_	PROPN	NOUN_PROP	_	8	flat:name	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 23b_04J03:2
+# text = Dawn huma wħud mill-ismijiet minn fost il-lista ta' 14-il kantant finalist li fi Frar li ġej se jikkompetu biex jaslu sa l-aħħar serata tal-Kanzunetta għall-Ewropa f'Dar il-Mediterran għall-Konferenzi fil-Belt.
+1	Dawn	_	PRON	PRON_DEM	_	3	nsubj	_	_
+2	huma	_	PRON	PRON_PERS	_	3	cop	_	_
+3	wħud	_	NUM	NUM_WHD	_	0	root	_	_
+4	mill-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	ismijiet	_	NOUN	NOUN	_	3	nmod	_	_
+6	minn	_	ADP	PREP	_	9	case	_	_
+7	fost	_	ADP	PREP	_	9	case	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	lista	_	NOUN	NOUN	_	5	nmod	_	_
+10	ta'	_	ADP	GEN	_	12	case	_	_
+11	14-il	_	NUM	X_DIG	_	12	nummod	_	_
+12	kantant	_	NOUN	NOUN	_	9	nmod:poss	_	_
+13	finalist	_	NOUN	NOUN	_	12	nmod	_	_
+14	li	_	SCONJ	COMP	_	20	mark	_	_
+15	fi	_	ADP	PREP	_	16	case	_	_
+16	Frar	_	PROPN	NOUN_PROP	_	20	obl	_	_
+17	li	_	SCONJ	COMP	_	18	mark	_	_
+18	ġej	_	VERB	PART_ACT	_	16	acl	_	_
+19	se	_	AUX	FUT	_	20	aux:part	_	_
+20	jikkompetu	_	VERB	VERB	_	12	acl	_	_
+21	biex	_	SCONJ	CONJ_SUB	_	22	mark	_	_
+22	jaslu	_	VERB	VERB	_	20	advcl	_	_
+23	sa	_	ADP	PREP	_	26	case	_	_
+24	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+25	aħħar	_	ADJ	ADJ	_	26	amod	_	_
+26	serata	_	NOUN	NOUN	_	22	obl	_	_
+27	tal-	_	ADP	GEN_DEF	_	28	case:det	_	SpaceAfter=No
+28	Kanzunetta	_	NOUN	NOUN	_	26	nmod:poss	_	_
+29	għall-	_	ADP	PREP_DEF	_	30	case:det	_	SpaceAfter=No
+30	Ewropa	_	PROPN	NOUN_PROP	_	28	nmod	_	_
+31	f'	_	ADP	PREP	_	32	case	_	SpaceAfter=No
+32	Dar	_	NOUN	NOUN	_	26	nmod	_	_
+33	il-	_	DET	DEF	_	34	det	_	SpaceAfter=No
+34	Mediterran	_	PROPN	NOUN_PROP	_	32	nmod:poss	_	_
+35	għall-	_	ADP	PREP_DEF	_	36	case:det	_	SpaceAfter=No
+36	Konferenzi	_	NOUN	NOUN	_	32	nmod	_	_
+37	fil-	_	ADP	PREP_DEF	_	38	case:det	_	SpaceAfter=No
+38	Belt	_	NOUN	NOUN	_	32	nmod	_	SpaceAfter=No
+39	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:3
+# text = L-ismijiet huma biss ftit mil-lista ta' finalisti - kif magħżula ġimgħa ilu - li hi dominata minn "ismijiet sorpriża" jew li huma pjuttost ġodda fix-xena mużikali.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ismijiet	_	NOUN	NOUN	_	5	nsubj	_	_
+3	huma	_	PRON	PRON_PERS	_	5	cop	_	_
+4	biss	_	ADV	FOC	_	5	discourse	_	_
+5	ftit	_	DET	QUAN	_	0	root	_	_
+6	mil-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	lista	_	NOUN	NOUN	_	5	nmod	_	_
+8	ta'	_	ADP	GEN	_	9	case	_	_
+9	finalisti	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	-	_	PUNCT	X_PUN	_	12	punct	_	_
+11	kif	_	ADV	PRON_INT	_	12	advmod	_	_
+12	magħżula	_	VERB	PART_PASS	_	7	acl	_	_
+13	ġimgħa	_	NOUN	NOUN	_	12	obl	_	_
+14	ilu	_	ADP	PREP	_	13	case	_	_
+15	-	_	PUNCT	X_PUN	_	12	punct	_	_
+16	li	_	SCONJ	COMP	_	18	mark	_	_
+17	hi	_	PRON	PRON_PERS	_	18	cop	_	_
+18	dominata	_	VERB	PART_PASS	_	7	acl	_	_
+19	minn	_	ADP	PREP	_	21	case	_	_
+20	"	_	PUNCT	X_PUN	_	21	punct	_	SpaceAfter=No
+21	ismijiet	_	NOUN	NOUN	_	18	obl:agent	_	_
+22	sorpriża	_	ADJ	ADJ	_	21	amod	_	SpaceAfter=No
+23	"	_	PUNCT	X_PUN	_	28	punct	_	_
+24	jew	_	CCONJ	CONJ_CORD	_	28	cc	_	_
+25	li	_	SCONJ	COMP	_	28	mark	_	_
+26	huma	_	PRON	PRON_PERS	_	28	cop	_	_
+27	pjuttost	_	ADV	ADV	_	28	advmod	_	_
+28	ġodda	_	ADJ	ADJ	_	22	conj	_	_
+29	fix-	_	ADP	PREP_DEF	_	30	case:det	_	SpaceAfter=No
+30	xena	_	NOUN	NOUN	_	28	obl	_	_
+31	mużikali	_	ADJ	ADJ	_	30	amod	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23b_04J03:4
+# text = L-uniċi ismijiet ta' kantanti stabbiliti li rnexxielhom jidħlu bħala finalisti huma Olivia Lewis u William Mangion.
+1	L-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+2	uniċi	_	ADJ	ADJ	_	3	amod	_	_
+3	ismijiet	_	NOUN	NOUN	_	13	nsubj	_	_
+4	ta'	_	ADP	GEN	_	5	case	_	_
+5	kantanti	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	stabbiliti	_	VERB	PART_PASS	_	5	amod	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	rnexxielhom	_	VERB	VERB	_	5	acl	_	_
+9	jidħlu	_	VERB	VERB	_	8	xcomp	_	_
+10	bħala	_	ADP	PREP	_	11	case	_	_
+11	finalisti	_	NOUN	NOUN	_	9	obl	_	_
+12	huma	_	PRON	PRON_PERS	_	13	cop	_	_
+13	Olivia	_	PROPN	NOUN_PROP	_	0	root	_	_
+14	Lewis	_	PROPN	NOUN_PROP	_	13	flat:name	_	_
+15	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+16	William	_	PROPN	NOUN_PROP	_	13	conj	_	_
+17	Mangion	_	PROPN	NOUN_PROP	_	16	flat:name	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 23b_04J03:5
+# text = X'ġara?
+1	X'	_	PRON	PRON_INT	_	2	nsubj	_	SpaceAfter=No
+2	ġara	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:6
+# text = Għaliex dan it-taqlib kollu?
+1	Għaliex	_	ADV	PRON_INT	_	4	advmod	_	_
+2	dan	_	PRON	PRON_DEM	_	4	det	_	_
+3	it-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	taqlib	_	NOUN	NOUN	_	0	root	_	_
+5	kollu	_	DET	QUAN	_	4	det	_	SpaceAfter=No
+6	?	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:7
+# text = Ir-risposta tinsab fil-metodu ġdid li beda jintuża biex jintgħażlu l-kantanti, u fuq kollox dik il-kanzunetta li tista' taqla' lil Malta mill-fażi ta' kwalifikazzjoni għall-Eurovision ta' Helsinki f'Mejju li ġej.
+1	Ir-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	risposta	_	NOUN	NOUN	_	3	nsubj:pass	_	_
+3	tinsab	_	VERB	VERB	_	0	root	_	_
+4	fil-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	metodu	_	NOUN	NOUN	_	3	obl	_	_
+6	ġdid	_	ADJ	ADJ	_	5	amod	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	beda	_	VERB	VERB	_	5	acl	_	_
+9	jintuża	_	VERB	VERB	_	8	xcomp	_	_
+10	biex	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+11	jintgħażlu	_	VERB	VERB	_	9	ccomp	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	kantanti	_	NOUN	NOUN	_	11	nsubj:pass	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	5	punct	_	_
+15	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+16	fuq	_	ADP	PREP	_	17	case	_	_
+17	kollox	_	PRON	PRON_INDEF	_	20	obl	_	_
+18	dik	_	PRON	PRON_DEM	_	20	det	_	_
+19	il-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	kanzunetta	_	NOUN	NOUN	_	5	conj	_	_
+21	li	_	SCONJ	COMP	_	22	mark	_	_
+22	tista'	_	VERB	VERB	_	20	acl	_	_
+23	taqla'	_	VERB	VERB	_	22	xcomp	_	_
+24	lil	_	ADP	LIL	_	25	case	_	_
+25	Malta	_	PROPN	NOUN_PROP	_	23	obj	_	_
+26	mill-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
+27	fażi	_	NOUN	NOUN	_	23	obl	_	_
+28	ta'	_	ADP	GEN	_	29	case	_	_
+29	kwalifikazzjoni	_	NOUN	NOUN	_	27	nmod:poss	_	_
+30	għall-	_	ADP	PREP_DEF	_	31	case:det	_	SpaceAfter=No
+31	Eurovision	_	PROPN	NOUN_PROP	_	29	nmod	_	_
+32	ta'	_	ADP	GEN	_	33	case	_	_
+33	Helsinki	_	PROPN	NOUN_PROP	_	31	nmod:poss	_	_
+34	f'	_	ADP	PREP	_	35	case	_	SpaceAfter=No
+35	Mejju	_	PROPN	NOUN_PROP	_	23	obl	_	_
+36	li	_	SCONJ	COMP	_	37	mark	_	_
+37	ġej	_	VERB	PART_ACT	_	35	acl	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:8
+# text = Ir-riżultat diżastruż miksub minn Malta aktar kmieni din is-sena f'Ateni bil-kanzunetta "I Do" ta' Fabrizio Faniello tikseb l-aħħar post fil-klassifika tal-voti finali, iġġiegħel lil Malta li tipparteċipa fi prekompetizzjoni li matulha issa teħtieġ li tintgħażel minn fost 10 li jridu jidħlu għall-finali ta' l-Eurovision f'Helsinki.
+1	Ir-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	riżultat	_	NOUN	NOUN	_	33	nsubj	_	_
+3	diżastruż	_	ADJ	ADJ	_	2	amod	_	_
+4	miksub	_	VERB	PART_PASS	_	2	acl	_	_
+5	minn	_	ADP	PREP	_	6	case	_	_
+6	Malta	_	PROPN	NOUN_PROP	_	4	obl:agent	_	_
+7	aktar	_	ADV	ADV	_	8	advmod	_	_
+8	kmieni	_	ADV	ADV	_	4	advmod	_	_
+9	din	_	PRON	PRON_DEM	_	11	det	_	_
+10	is-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	sena	_	NOUN	NOUN	_	4	obl	_	_
+12	f'	_	ADP	PREP	_	13	case	_	SpaceAfter=No
+13	Ateni	_	PROPN	NOUN_PROP	_	4	obl	_	_
+14	bil-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	kanzunetta	_	NOUN	NOUN	_	17	compound	_	_
+16	"	_	PUNCT	X_PUN	_	17	punct	_	SpaceAfter=No
+17	I	_	X	X_ENG	_	4	obl	_	_
+18	Do	_	X	X_ENG	_	17	flat	_	SpaceAfter=No
+19	"	_	PUNCT	X_PUN	_	17	punct	_	_
+20	ta'	_	ADP	GEN	_	21	case	_	_
+21	Fabrizio	_	PROPN	NOUN_PROP	_	17	nmod:poss	_	_
+22	Faniello	_	PROPN	NOUN_PROP	_	21	flat:name	_	_
+23	tikseb	_	VERB	VERB	_	17	acl	_	_
+24	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+25	aħħar	_	ADJ	ADJ	_	26	amod	_	_
+26	post	_	NOUN	NOUN	_	23	obj	_	_
+27	fil-	_	ADP	PREP_DEF	_	28	case:det	_	SpaceAfter=No
+28	klassifika	_	NOUN	NOUN	_	23	obl	_	_
+29	tal-	_	ADP	GEN_DEF	_	30	case:det	_	SpaceAfter=No
+30	voti	_	NOUN	NOUN	_	28	nmod:poss	_	_
+31	finali	_	ADJ	ADJ	_	30	amod	_	SpaceAfter=No
+32	,	_	PUNCT	X_PUN	_	2	punct	_	_
+33	iġġiegħel	_	VERB	VERB	_	0	root	_	_
+34	lil	_	ADP	LIL	_	35	case	_	_
+35	Malta	_	PROPN	NOUN_PROP	_	33	obj	_	_
+36	li	_	SCONJ	COMP	_	37	mark	_	_
+37	tipparteċipa	_	VERB	VERB	_	33	xcomp	_	_
+38	fi	_	ADP	PREP	_	39	case	_	_
+39	prekompetizzjoni	_	NOUN	NOUN	_	37	obl	_	_
+40	li	_	SCONJ	COMP	_	43	mark	_	_
+41	matulha	_	PRON	PREP_PRON	_	43	obl	_	_
+42	issa	_	ADV	ADV	_	43	advmod	_	_
+43	teħtieġ	_	VERB	VERB	_	39	acl	_	_
+44	li	_	SCONJ	COMP	_	45	mark	_	_
+45	tintgħażel	_	VERB	VERB	_	43	xcomp	_	_
+46	minn	_	ADP	PREP	_	48	case	_	_
+47	fost	_	ADP	PREP	_	48	case	_	_
+48	10	_	NUM	X_DIG	_	45	obl	_	_
+49	li	_	SCONJ	COMP	_	50	mark	_	_
+50	jridu	_	VERB	VERB	_	48	acl	_	_
+51	jidħlu	_	VERB	VERB	_	50	xcomp	_	_
+52	għall-	_	ADP	PREP_DEF	_	53	case:det	_	SpaceAfter=No
+53	finali	_	NOUN	NOUN	_	51	obl	_	_
+54	ta'	_	ADP	GEN	_	56	case	_	_
+55	l-	_	DET	DEF	_	56	det	_	SpaceAfter=No
+56	Eurovision	_	PROPN	NOUN_PROP	_	53	nmod:poss	_	_
+57	f'	_	ADP	PREP	_	58	case	_	SpaceAfter=No
+58	Helsinki	_	PROPN	NOUN_PROP	_	53	nmod	_	SpaceAfter=No
+59	.	_	PUNCT	X_PUN	_	33	punct	_	_
+
+# sent_id = 23b_04J03:9
+# text = B'hekk r-riżultat diżappuntanti miksub minn Malta wassal għal reviżjoni sħiħa fil-metodu ta' l-għażla tal-kanzunetta li se tirrappreżenta lil Malta.
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	hekk	_	ADV	ADV	_	9	advmod	_	_
+3	r-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	riżultat	_	NOUN	NOUN	_	9	nsubj	_	_
+5	diżappuntanti	_	ADJ	ADJ	_	4	amod	_	_
+6	miksub	_	VERB	PART_PASS	_	4	acl	_	_
+7	minn	_	ADP	PREP	_	8	case	_	_
+8	Malta	_	PROPN	NOUN_PROP	_	6	obl:agent	_	_
+9	wassal	_	VERB	VERB	_	0	root	_	_
+10	għal	_	ADP	PREP	_	11	case	_	_
+11	reviżjoni	_	NOUN	NOUN	_	9	obl	_	_
+12	sħiħa	_	ADJ	ADJ	_	11	amod	_	_
+13	fil-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	metodu	_	NOUN	NOUN	_	11	nmod	_	_
+15	ta'	_	ADP	GEN	_	17	case	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	għażla	_	NOUN	NOUN	_	14	nmod:poss	_	_
+18	tal-	_	ADP	GEN_DEF	_	19	case:det	_	SpaceAfter=No
+19	kanzunetta	_	NOUN	NOUN	_	17	nmod:poss	_	_
+20	li	_	SCONJ	COMP	_	22	mark	_	_
+21	se	_	AUX	FUT	_	22	aux:part	_	_
+22	tirrappreżenta	_	VERB	VERB	_	19	acl	_	_
+23	lil	_	ADP	LIL	_	24	case	_	_
+24	Malta	_	PROPN	NOUN_PROP	_	22	obj	_	SpaceAfter=No
+25	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 23b_04J03:10
+# text = " Irridu nifhmu li l-kanzunetta ta' Malta għall-Eurovision mhix se tibqa' Malta.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	_
+2	Irridu	_	VERB	VERB	_	0	root	_	_
+3	nifhmu	_	VERB	VERB	_	2	xcomp	_	_
+4	li	_	SCONJ	COMP	_	13	mark	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	kanzunetta	_	NOUN	NOUN	_	13	nsubj	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	Malta	_	PROPN	NOUN_PROP	_	6	nmod:poss	_	_
+9	għall-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	Eurovision	_	PROPN	NOUN_PROP	_	6	nmod	_	_
+11	mhix	_	AUX	PRON_PERS_NEG	_	13	aux:neg	_	_
+12	se	_	AUX	FUT	_	13	aux:part	_	_
+13	tibqa'	_	VERB	VERB	_	3	ccomp	_	_
+14	Malta	_	PROPN	NOUN_PROP	_	13	obl	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:11
+# text = Se tkun esportata u għalhekk teħtieġ tirrispondi għall-ħtiġiet tal-gosti u s-suq internazzjonali, " sostna ċ-Chairman tal-Maltasong Robert Abela f'intervista ma' Illum li matulha spjega l-mekkaniżmu li tħaddem biex intgħażlu l-kanżunetti finalisti għall-festival li ġej.
+1	Se	_	AUX	FUT	_	3	aux:part	_	_
+2	tkun	_	AUX	KIEN	_	3	cop	_	_
+3	esportata	_	VERB	PART_PASS	_	0	root	_	_
+4	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+5	għalhekk	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+6	teħtieġ	_	VERB	VERB	_	3	conj	_	_
+7	tirrispondi	_	VERB	VERB	_	6	xcomp	_	_
+8	għall-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	ħtiġiet	_	NOUN	NOUN	_	7	obl:arg	_	_
+10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	gosti	_	NOUN	NOUN	_	9	nmod:poss	_	_
+12	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+13	s-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	suq	_	NOUN	NOUN	_	11	conj	_	_
+15	internazzjonali	_	ADJ	ADJ	_	14	amod	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	3	punct	_	_
+17	"	_	PUNCT	X_PUN	_	3	punct	_	_
+18	sostna	_	VERB	VERB	_	3	parataxis	_	_
+19	ċ-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	Chairman	_	NOUN	NOUN	_	23	compound	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	Maltasong	_	PROPN	NOUN_PROP	_	20	nmod:poss	_	_
+23	Robert	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
+24	Abela	_	PROPN	NOUN_PROP	_	23	flat:name	_	_
+25	f'	_	ADP	PREP	_	26	case	_	SpaceAfter=No
+26	intervista	_	NOUN	NOUN	_	18	obl	_	_
+27	ma'	_	ADP	PREP	_	28	case	_	_
+28	Illum	_	NOUN	NOUN	_	26	nmod	_	_
+29	li	_	SCONJ	COMP	_	31	mark	_	_
+30	matulha	_	PRON	PREP_PRON	_	31	obl	_	_
+31	spjega	_	VERB	VERB	_	26	acl	_	_
+32	l-	_	DET	DEF	_	33	det	_	SpaceAfter=No
+33	mekkaniżmu	_	NOUN	NOUN	_	31	obj	_	_
+34	li	_	SCONJ	COMP	_	35	mark	_	_
+35	tħaddem	_	VERB	VERB	_	33	acl	_	_
+36	biex	_	SCONJ	CONJ_SUB	_	37	mark	_	_
+37	intgħażlu	_	VERB	VERB	_	35	advcl	_	_
+38	l-	_	DET	DEF	_	39	det	_	SpaceAfter=No
+39	kanżunetti	_	NOUN	NOUN	_	37	nsubj:pass	_	_
+40	finalisti	_	ADJ	ADJ	_	39	amod	_	_
+41	għall-	_	ADP	PREP_DEF	_	42	case:det	_	SpaceAfter=No
+42	festival	_	NOUN	NOUN	_	37	obl	_	_
+43	li	_	SCONJ	COMP	_	44	mark	_	_
+44	ġej	_	VERB	PART_ACT	_	42	acl	_	SpaceAfter=No
+45	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:12
+# text = "Din kienet l-ewwel darba li morna għal ġurija totalment barranija magħmula minn esperti fil-qasam mużikali," spjega Robert Abela li żied fuq kif il-ġurija ma ħarset lejn wiċċ u isem ħadd.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
+2	Din	_	PRON	PRON_DEM	_	6	nsubj	_	_
+3	kienet	_	AUX	KIEN	_	6	cop	_	_
+4	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+5	ewwel	_	NUM	NUM_ORD	_	6	amod	_	_
+6	darba	_	NOUN	NOUN	_	0	root	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	morna	_	VERB	VERB	_	6	acl	_	_
+9	għal	_	ADP	PREP	_	10	case	_	_
+10	ġurija	_	NOUN	NOUN	_	8	obl	_	_
+11	totalment	_	ADV	ADV	_	12	advmod	_	_
+12	barranija	_	ADJ	ADJ	_	10	amod	_	_
+13	magħmula	_	VERB	PART_PASS	_	10	acl	_	_
+14	minn	_	ADP	PREP	_	15	case	_	_
+15	esperti	_	NOUN	NOUN	_	13	obl:agent	_	_
+16	fil-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	qasam	_	NOUN	NOUN	_	15	nmod	_	_
+18	mużikali	_	ADJ	ADJ	_	17	amod	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
+20	"	_	PUNCT	X_PUN	_	6	punct	_	_
+21	spjega	_	VERB	VERB	_	6	parataxis	_	_
+22	Robert	_	PROPN	NOUN_PROP	_	21	nsubj	_	_
+23	Abela	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
+24	li	_	SCONJ	COMP	_	25	mark	_	_
+25	żied	_	VERB	VERB	_	22	acl	_	_
+26	fuq	_	ADP	PREP	_	31	mark	_	_
+27	kif	_	ADV	PRON_INT	_	31	advmod	_	_
+28	il-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	ġurija	_	NOUN	NOUN	_	31	nsubj	_	_
+30	ma	_	PART	NEG	_	31	advmod:neg	_	_
+31	ħarset	_	VERB	VERB	_	25	ccomp	_	_
+32	lejn	_	ADP	PREP	_	33	case	_	_
+33	wiċċ	_	NOUN	NOUN	_	31	obl:arg	_	_
+34	u	_	CCONJ	CONJ_CORD	_	35	cc	_	_
+35	isem	_	NOUN	NOUN	_	33	conj	_	_
+36	ħadd	_	PRON	PRON_INDEF	_	33	nmod:poss	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 23b_04J03:13
+# text = "Il-MaltaSong hi determinata li twassal sa Helsinki dik il-kanzunetta li tista' tinbiegħ barra u li ma tkunx popolari biss għall-widna Maltija," insista.
+1	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+2	Il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	MaltaSong	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
+4	hi	_	PRON	PRON_PERS	_	5	cop	_	_
+5	determinata	_	VERB	PART_PASS	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	7	mark	_	_
+7	twassal	_	VERB	VERB	_	5	xcomp	_	_
+8	sa	_	ADP	PREP	_	9	case	_	_
+9	Helsinki	_	PROPN	NOUN_PROP	_	7	obl	_	_
+10	dik	_	PRON	PRON_DEM	_	12	det	_	_
+11	il-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	kanzunetta	_	NOUN	NOUN	_	7	obj	_	_
+13	li	_	SCONJ	COMP	_	14	mark	_	_
+14	tista'	_	VERB	VERB	_	12	acl	_	_
+15	tinbiegħ	_	VERB	VERB	_	14	xcomp	_	_
+16	barra	_	ADV	ADV	_	15	advmod	_	_
+17	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+18	li	_	SCONJ	COMP	_	21	mark	_	_
+19	ma	_	PART	NEG	_	21	advmod:neg	_	_
+20	tkunx	_	AUX	KIEN	_	21	cop	_	_
+21	popolari	_	ADJ	ADJ	_	14	conj	_	_
+22	biss	_	ADV	FOC	_	24	discourse	_	_
+23	għall-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
+24	widna	_	NOUN	NOUN	_	21	obl	_	_
+25	Maltija	_	ADJ	ADJ	_	24	amod	_	SpaceAfter=No
+26	,	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+27	"	_	PUNCT	X_PUN	_	5	punct	_	_
+28	insista	_	VERB	VERB	_	5	parataxis	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23b_04J03:14
+# text = Viżibbilment konvint mill-istrateġija l-ġdida li nsista fuqha kemm ilu fil-kariga bħala Chairman tal-MaltaSong, Robert Abela qed jappella lill-pubbliku Malti biex jifhem l-importanza li tintgħażel kanzunetta li tkun "esportabbli".
+1	Viżibbilment	_	ADV	ADV	_	2	advmod	_	_
+2	konvint	_	VERB	PART_PASS	_	22	advcl	_	_
+3	mill-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	istrateġija	_	NOUN	NOUN	_	2	obl:agent	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	ġdida	_	ADJ	ADJ	_	4	amod	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	nsista	_	VERB	VERB	_	4	acl	_	_
+9	fuqha	_	PRON	PREP_PRON	_	8	obl:arg	_	_
+10	kemm	_	PRON	PRON_INT	_	8	obl	_	_
+11	ilu	_	ADP	PREP	_	10	case	_	_
+12	fil-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	kariga	_	NOUN	NOUN	_	8	obl	_	_
+14	bħala	_	ADP	PREP	_	15	case	_	_
+15	Chairman	_	NOUN	NOUN	_	13	nmod	_	_
+16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	MaltaSong	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	2	punct	_	_
+19	Robert	_	PROPN	NOUN_PROP	_	22	nsubj	_	_
+20	Abela	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
+21	qed	_	AUX	PROG	_	22	aux:part	_	_
+22	jappella	_	VERB	VERB	_	0	root	_	_
+23	lill-	_	ADP	LIL_DEF	_	24	case:det	_	SpaceAfter=No
+24	pubbliku	_	NOUN	NOUN	_	22	obj	_	_
+25	Malti	_	ADJ	ADJ	_	24	amod	_	_
+26	biex	_	SCONJ	CONJ_SUB	_	27	mark	_	_
+27	jifhem	_	VERB	VERB	_	22	xcomp	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	importanza	_	NOUN	NOUN	_	27	obj	_	_
+30	li	_	SCONJ	COMP	_	31	mark	_	_
+31	tintgħażel	_	VERB	VERB	_	29	acl	_	_
+32	kanzunetta	_	NOUN	NOUN	_	31	nsubj:pass	_	_
+33	li	_	SCONJ	COMP	_	36	mark	_	_
+34	tkun	_	AUX	KIEN	_	36	cop	_	_
+35	"	_	PUNCT	X_PUN	_	36	punct	_	SpaceAfter=No
+36	esportabbli	_	ADJ	ADJ	_	32	acl	_	SpaceAfter=No
+37	"	_	PUNCT	X_PUN	_	36	punct	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	22	punct	_	_
+
+# sent_id = 23b_04J03:15
+# text = B'kollox kien hemm 228- ilkanzunetta li kienu sottomessi għall-konsiderazzjoni.
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	kollox	_	PRON	PRON_INDEF	_	4	obl	_	_
+3	kien	_	AUX	KIEN	_	4	aux	_	_
+4	hemm	_	VERB	HEMM	_	0	root	_	_
+5	228-	_	NUM	X_DIG	_	7	nummod	_	_
+6	il	_	DET	DEF	_	5	det	_	SpaceAfter=No
+7	kanzunetta	_	NOUN	NOUN	_	4	nsubj	_	_
+8	li	_	SCONJ	COMP	_	10	mark	_	_
+9	kienu	_	AUX	KIEN	_	10	cop	_	_
+10	sottomessi	_	VERB	PART_PASS	_	7	acl	_	_
+11	għall-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	konsiderazzjoni	_	NOUN	NOUN	_	10	obl	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:16
+# text = Madankollu fit-tieni fażi ntgħażlu 35 li minnhom intgħażlu 14-il finalista għas-semifinali f'Dar il-Mediterran għall-Konferenzi.
+1	Madankollu	_	ADV	ADV	_	5	advmod	_	_
+2	fit-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+3	tieni	_	NUM	NUM_ORD	_	4	amod	_	_
+4	fażi	_	NOUN	NOUN	_	5	obl	_	_
+5	ntgħażlu	_	VERB	VERB	_	0	root	_	_
+6	35	_	NUM	X_DIG	_	5	nsubj:pass	_	_
+7	li	_	SCONJ	COMP	_	9	mark	_	_
+8	minnhom	_	PRON	PREP_PRON	_	9	obl	_	_
+9	intgħażlu	_	VERB	VERB	_	6	acl	_	_
+10	14-il	_	NUM	X_DIG	_	11	nummod	_	_
+11	finalista	_	NOUN	NOUN	_	9	nsubj:pass	_	_
+12	għas-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	semifinali	_	NOUN	NOUN	_	11	nmod	_	_
+14	f'	_	ADP	PREP	_	15	case	_	SpaceAfter=No
+15	Dar	_	NOUN	NOUN	_	13	nmod	_	_
+16	il-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	Mediterran	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	_
+18	għall-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
+19	Konferenzi	_	NOUN	NOUN	_	17	nmod	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23b_04J03:17
+# text = " Neħħejna l-ġurija ta' Maltin apposta.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	_
+2	Neħħejna	_	VERB	VERB	_	0	root	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	ġurija	_	NOUN	NOUN	_	2	obj	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	Maltin	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	apposta	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:18
+# text = U bl-akbar responsabbiltà ninsisti li għamilna sew għax hekk neħħejna l-piż li wieħed jiffavorixxi aktar lill-kantant milli l-kanzunetta ".
+1	U	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+2	bl-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+3	akbar	_	ADJ	ADJ	_	4	amod	_	_
+4	responsabbiltà	_	NOUN	NOUN	_	5	obl	_	_
+5	ninsisti	_	VERB	VERB	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	7	mark	_	_
+7	għamilna	_	VERB	VERB	_	5	ccomp	_	_
+8	sew	_	ADV	ADV	_	7	advmod	_	_
+9	għax	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+10	hekk	_	ADV	ADV	_	11	advmod	_	_
+11	neħħejna	_	VERB	VERB	_	7	advcl	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	piż	_	NOUN	NOUN	_	11	obj	_	_
+14	li	_	SCONJ	COMP	_	16	mark	_	_
+15	wieħed	_	NUM	NUM_WHD	_	16	nsubj	_	_
+16	jiffavorixxi	_	VERB	VERB	_	13	acl	_	_
+17	aktar	_	ADV	ADV	_	16	advmod	_	_
+18	lill-	_	ADP	LIL_DEF	_	19	case:det	_	SpaceAfter=No
+19	kantant	_	NOUN	NOUN	_	16	obj	_	_
+20	milli	_	SCONJ	CONJ_SUB	_	22	mark	_	_
+21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	kanzunetta	_	NOUN	NOUN	_	13	conj	_	orig_deprel=acl
+23	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23b_04J03:19
+# text = Għal Robbie Abela " ma jfisser xejn jekk int stabbilit jew le.
+1	Għal	_	ADP	PREP	_	2	case	_	_
+2	Robbie	_	PROPN	NOUN_PROP	_	6	obl	_	_
+3	Abela	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
+4	"	_	PUNCT	X_PUN	_	6	punct	_	_
+5	ma	_	PART	NEG	_	6	advmod:neg	_	_
+6	jfisser	_	VERB	VERB	_	0	root	_	_
+7	xejn	_	PRON	PRON_INDEF	_	6	obj	_	_
+8	jekk	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+9	int	_	PRON	PRON_PERS	_	10	nsubj	_	_
+10	stabbilit	_	VERB	PART_PASS	_	6	csubj	_	_
+11	jew	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+12	le	_	INTJ	INT	_	10	conj	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 23b_04J03:20
+# text = L-importanti li l-kanzunetta tkun tajba għall-barra u mhux staġnata għas-suq lokali biss. "
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	importanti	_	ADJ	ADJ	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	7	mark	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	kanzunetta	_	NOUN	NOUN	_	7	nsubj	_	_
+6	tkun	_	AUX	KIEN	_	7	cop	_	_
+7	tajba	_	ADJ	ADJ	_	2	ccomp	_	_
+8	għall-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	barra	_	ADV	ADV	_	7	advmod	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+11	mhux	_	AUX	PRON_PERS_NEG	_	12	aux:neg	_	_
+12	staġnata	_	VERB	PART_PASS	_	7	conj	_	_
+13	għas-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	suq	_	NOUN	NOUN	_	12	obl	_	_
+15	lokali	_	ADJ	ADJ	_	14	amod	_	_
+16	biss	_	ADV	FOC	_	14	discourse	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	2	punct	_	_
+18	"	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:21
+# text = B'hekk, fi ftit kliem, hu dan il-fattur prinċipali li "heżżeż" l-affarijiet għall-festival li ġej.
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	hekk	_	ADV	ADV	_	11	advmod	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	fi	_	ADP	PREP	_	6	case	_	_
+5	ftit	_	DET	QUAN	_	6	det	_	_
+6	kliem	_	NOUN	NOUN	_	11	obl	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	6	punct	_	_
+8	hu	_	PRON	PRON_PERS	_	11	nsubj	_	_
+9	dan	_	PRON	PRON_DEM	_	11	det	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	fattur	_	NOUN	NOUN	_	0	root	_	_
+12	prinċipali	_	ADJ	ADJ	_	11	amod	_	_
+13	li	_	SCONJ	COMP	_	15	mark	_	_
+14	"	_	PUNCT	X_PUN	_	15	punct	_	SpaceAfter=No
+15	heżżeż	_	VERB	VERB	_	11	acl	_	SpaceAfter=No
+16	"	_	PUNCT	X_PUN	_	15	punct	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	affarijiet	_	NOUN	NOUN	_	15	obj	_	_
+19	għall-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	festival	_	NOUN	NOUN	_	15	obl	_	_
+21	li	_	SCONJ	COMP	_	22	mark	_	_
+22	ġej	_	VERB	PART_ACT	_	20	acl	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 23b_04J03:22
+# text = Robert Abela hu ċar fi kliemu: " Nappella lill-awturi u lill-kompożituri biex jimirħu u ma jistaġnawx.
+1	Robert	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+2	Abela	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	hu	_	PRON	PRON_PERS	_	4	cop	_	_
+4	ċar	_	ADJ	ADJ	_	0	root	_	_
+5	fi	_	ADP	PREP	_	6	case	_	_
+6	kliemu	_	NOUN	NOUN	_	4	obl	_	SpaceAfter=No
+7	:	_	PUNCT	X_PUN	_	4	punct	_	_
+8	"	_	PUNCT	X_PUN	_	9	punct	_	_
+9	Nappella	_	VERB	VERB	_	4	ccomp	_	_
+10	lill-	_	ADP	LIL_DEF	_	11	case:det	_	SpaceAfter=No
+11	awturi	_	NOUN	NOUN	_	9	obj	_	_
+12	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+13	lill-	_	ADP	LIL_DEF	_	14	case:det	_	SpaceAfter=No
+14	kompożituri	_	NOUN	NOUN	_	11	conj	_	_
+15	biex	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+16	jimirħu	_	VERB	VERB	_	9	xcomp	_	_
+17	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+18	ma	_	PART	NEG	_	19	advmod:neg	_	_
+19	jistaġnawx	_	VERB	VERB	_	16	conj	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:23
+# text = Neħtieġu ħoss ġdid u mhux aktar dak li nassumu li hu tradizzjonali għall-Eurovision. "
+1	Neħtieġu	_	VERB	VERB	_	0	root	_	_
+2	ħoss	_	NOUN	NOUN	_	1	obj	_	_
+3	ġdid	_	ADJ	ADJ	_	2	amod	_	_
+4	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+5	mhux	_	AUX	PRON_PERS_NEG	_	7	aux:neg	_	_
+6	aktar	_	ADV	ADV	_	7	advmod	_	_
+7	dak	_	PRON	PRON_DEM	_	2	conj	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	nassumu	_	VERB	VERB	_	7	acl	_	_
+10	li	_	SCONJ	COMP	_	12	mark	_	_
+11	hu	_	PRON	PRON_PERS	_	12	nsubj	_	_
+12	tradizzjonali	_	ADJ	ADJ	_	9	ccomp	_	_
+13	għall-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	Eurovision	_	PROPN	NOUN_PROP	_	12	obl	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	1	punct	_	_
+16	"	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 23b_04J03:24
+# text = Il-ġurija barranija ma jimpurtahiex min hu jew min hi l-kantanta.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ġurija	_	NOUN	NOUN	_	5	nsubj	_	_
+3	barranija	_	ADJ	ADJ	_	2	amod	_	_
+4	ma	_	PART	NEG	_	5	advmod:neg	_	_
+5	jimpurtahiex	_	VERB	VERB	_	0	root	_	_
+6	min	_	PRON	PRON_INT	_	12	nsubj	_	_
+7	hu	_	PRON	PRON_PERS	_	12	cop	_	_
+8	jew	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+9	min	_	PRON	PRON_INT	_	6	conj	_	_
+10	hi	_	PRON	PRON_PERS	_	7	conj	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	kantanta	_	NOUN	NOUN	_	5	ccomp	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23b_04J03:25
+# text = Jimpurtaha biss mill-ħoss mużikali, jimpurtaha biss jekk il-kanzunetta hiex kompetittiva, tal-widna u li tappella għall-pubbliku kollu mifrux madwar il-kontinent u mhux f'Malta biss.
+1	Jimpurtaha	_	VERB	VERB	_	0	root	_	_
+2	biss	_	ADV	FOC	_	4	discourse	_	_
+3	mill-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+4	ħoss	_	NOUN	NOUN	_	1	obl:arg	_	_
+5	mużikali	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	1	punct	_	_
+7	jimpurtaha	_	VERB	VERB	_	1	conj	_	_
+8	biss	_	ADV	FOC	_	13	discourse	_	_
+9	jekk	_	SCONJ	CONJ_SUB	_	13	mark	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	kanzunetta	_	NOUN	NOUN	_	13	nsubj	_	_
+12	hiex	_	PRON	PRON_PERS	_	13	cop	_	_
+13	kompetittiva	_	ADJ	ADJ	_	7	ccomp	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	13	punct	_	_
+15	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
+16	widna	_	NOUN	NOUN	_	13	conj	_	_
+17	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+18	li	_	SCONJ	COMP	_	19	mark	_	_
+19	tappella	_	VERB	VERB	_	13	conj	_	_
+20	għall-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
+21	pubbliku	_	NOUN	NOUN	_	19	obl:arg	_	_
+22	kollu	_	DET	QUAN	_	21	det	_	_
+23	mifrux	_	VERB	PART_PASS	_	21	acl	_	_
+24	madwar	_	ADP	PREP	_	26	case	_	_
+25	il-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	kontinent	_	NOUN	NOUN	_	23	obl	_	_
+27	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
+28	mhux	_	AUX	PRON_PERS_NEG	_	30	aux:neg	_	_
+29	f'	_	ADP	PREP	_	30	case	_	SpaceAfter=No
+30	Malta	_	PROPN	NOUN_PROP	_	26	conj	_	_
+31	biss	_	ADV	FOC	_	30	discourse	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 23b_04J03:26
+# text = "Jien sorpriż ħafna bit-talent il-ġdid li ħiereġ u li jidher fil-lista ta' finalisti," spjega Abela li żied kif minn fost il-ġurija kien hemm min diġa' ħa nota ta' xi ismijiet ta' kantanti u dan għax hemm il-possibbiltà li wara l-festival ċerti kantanti jkunu avviċinati għal kuntratti.
+1	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+2	Jien	_	PRON	PRON_PERS	_	3	nsubj	_	_
+3	sorpriż	_	VERB	PART_PASS	_	0	root	_	_
+4	ħafna	_	ADV	ADV	_	3	advmod	_	_
+5	bit-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	talent	_	NOUN	NOUN	_	3	obl	_	_
+7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	ġdid	_	ADJ	ADJ	_	6	amod	_	_
+9	li	_	SCONJ	COMP	_	10	mark	_	_
+10	ħiereġ	_	VERB	PART_ACT	_	6	acl	_	_
+11	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+12	li	_	SCONJ	COMP	_	13	mark	_	_
+13	jidher	_	VERB	VERB	_	10	conj	_	_
+14	fil-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	lista	_	NOUN	NOUN	_	13	obl	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	finalisti	_	NOUN	NOUN	_	15	nmod:poss	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+19	"	_	PUNCT	X_PUN	_	3	punct	_	_
+20	spjega	_	VERB	VERB	_	3	parataxis	_	_
+21	Abela	_	PROPN	NOUN_PROP	_	20	nsubj	_	_
+22	li	_	SCONJ	COMP	_	23	mark	_	_
+23	żied	_	VERB	VERB	_	21	acl	_	_
+24	kif	_	ADV	PRON_INT	_	30	advmod	_	_
+25	minn	_	ADP	PREP	_	28	case	_	_
+26	fost	_	ADP	PREP	_	28	case	_	_
+27	il-	_	DET	DEF	_	28	det	_	SpaceAfter=No
+28	ġurija	_	NOUN	NOUN	_	30	obl	_	_
+29	kien	_	AUX	KIEN	_	30	aux	_	_
+30	hemm	_	VERB	HEMM	_	23	ccomp	_	_
+31	min	_	PRON	PRON_INT	_	30	nsubj	_	_
+32	diġa'	_	ADV	ADV	_	33	advmod	_	_
+33	ħa	_	VERB	VERB	_	31	acl	_	_
+34	nota	_	NOUN	NOUN	_	33	obj	_	_
+35	ta'	_	ADP	GEN	_	37	case	_	_
+36	xi	_	DET	QUAN	_	37	det	_	_
+37	ismijiet	_	NOUN	NOUN	_	34	nmod:poss	_	_
+38	ta'	_	ADP	GEN	_	39	case	_	_
+39	kantanti	_	NOUN	NOUN	_	37	nmod:poss	_	_
+40	u	_	CCONJ	CONJ_CORD	_	41	cc	_	_
+41	dan	_	PRON	PRON_DEM	_	30	conj	_	_
+42	għax	_	SCONJ	CONJ_SUB	_	43	mark	_	_
+43	hemm	_	VERB	HEMM	_	41	advcl	_	_
+44	il-	_	DET	DEF	_	45	det	_	SpaceAfter=No
+45	possibbiltà	_	NOUN	NOUN	_	43	nsubj	_	_
+46	li	_	SCONJ	COMP	_	53	mark	_	_
+47	wara	_	ADP	PREP	_	49	case	_	_
+48	l-	_	DET	DEF	_	49	det	_	SpaceAfter=No
+49	festival	_	NOUN	NOUN	_	53	obl	_	_
+50	ċerti	_	DET	QUAN	_	51	det	_	_
+51	kantanti	_	NOUN	NOUN	_	53	nsubj:pass	_	_
+52	jkunu	_	AUX	KIEN	_	53	cop	_	_
+53	avviċinati	_	VERB	PART_PASS	_	45	acl	_	_
+54	għal	_	ADP	PREP	_	55	case	_	_
+55	kuntratti	_	NOUN	NOUN	_	53	obl	_	SpaceAfter=No
+56	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:27
+# text = "Dan hu li rrid nisma' u nara li qed jiġri fix-xena mużikali Maltija," saħaq Robert Abela li żied jikkummenta fuq dak li fisser bħala "bir wiesa' ta' talent kbir".
+1	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+2	Dan	_	PRON	PRON_DEM	_	3	nsubj	_	_
+3	hu	_	PRON	PRON_PERS	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	rrid	_	VERB	VERB	_	3	acl	_	_
+6	nisma'	_	VERB	VERB	_	5	xcomp	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	nara	_	VERB	VERB	_	6	conj	_	_
+9	li	_	SCONJ	COMP	_	11	mark	_	_
+10	qed	_	AUX	PROG	_	11	aux:part	_	_
+11	jiġri	_	VERB	VERB	_	6	ccomp	_	_
+12	fix-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	xena	_	NOUN	NOUN	_	11	obl	_	_
+14	mużikali	_	ADJ	ADJ	_	13	amod	_	_
+15	Maltija	_	ADJ	ADJ	_	13	amod	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+17	"	_	PUNCT	X_PUN	_	3	punct	_	_
+18	saħaq	_	VERB	VERB	_	3	parataxis	_	_
+19	Robert	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
+20	Abela	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
+21	li	_	SCONJ	COMP	_	22	mark	_	_
+22	żied	_	VERB	VERB	_	19	acl	_	_
+23	jikkummenta	_	VERB	VERB	_	22	xcomp	_	_
+24	fuq	_	ADP	PREP	_	25	case	_	_
+25	dak	_	PRON	PRON_DEM	_	23	obl:arg	_	_
+26	li	_	SCONJ	COMP	_	27	mark	_	_
+27	fisser	_	VERB	VERB	_	25	acl	_	_
+28	bħala	_	ADP	PREP	_	30	case	_	_
+29	"	_	PUNCT	X_PUN	_	30	punct	_	SpaceAfter=No
+30	bir	_	NOUN	NOUN	_	27	obl	_	_
+31	wiesa'	_	VERB	PART_ACT	_	30	acl	_	_
+32	ta'	_	ADP	GEN	_	33	case	_	_
+33	talent	_	NOUN	NOUN	_	30	nmod:poss	_	_
+34	kbir	_	ADJ	ADJ	_	33	amod	_	SpaceAfter=No
+35	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+36	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:28
+# text = "B'dan it-talent kollu li għandna kapaċi niksbu s-suċċessi, kemm fuq livell ta' kantanti individwali kif ukoll bħala pajjiż u dan ovvjament fuq il-palk internazjonali."
+1	"	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+2	B'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
+3	dan	_	PRON	PRON_DEM	_	5	det	_	_
+4	it-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	talent	_	NOUN	NOUN	_	9	obl	_	_
+6	kollu	_	DET	QUAN	_	5	det	_	_
+7	li	_	SCONJ	COMP	_	8	mark	_	_
+8	għandna	_	VERB	VERB_PSEU	_	5	acl	_	_
+9	kapaċi	_	ADJ	ADJ	_	0	root	_	_
+10	niksbu	_	VERB	VERB	_	9	xcomp	_	_
+11	s-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	suċċessi	_	NOUN	NOUN	_	10	obj	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	16	punct	_	_
+14	kemm	_	CCONJ	PRON_INT	_	16	cc	_	_
+15	fuq	_	ADP	PREP	_	16	case	_	_
+16	livell	_	NOUN	NOUN	_	10	obl	_	_
+17	ta'	_	ADP	GEN	_	18	case	_	_
+18	kantanti	_	NOUN	NOUN	_	16	nmod:poss	_	_
+19	individwali	_	ADJ	ADJ	_	18	amod	_	_
+20	kif	_	CCONJ	PRON_INT	_	23	cc	_	_
+21	ukoll	_	ADV	FOC	_	20	fixed	_	_
+22	bħala	_	ADP	PREP	_	23	case	_	_
+23	pajjiż	_	NOUN	NOUN	_	16	conj	_	_
+24	u	_	CCONJ	CONJ_CORD	_	25	cc	_	_
+25	dan	_	PRON	PRON_DEM	_	9	det	_	_
+26	ovvjament	_	ADV	ADV	_	25	advmod	_	_
+27	fuq	_	ADP	PREP	_	29	case	_	_
+28	il-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	palk	_	NOUN	NOUN	_	25	obl	_	_
+30	internazjonali	_	ADJ	ADJ	_	29	amod	_	SpaceAfter=No
+31	.	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+32	"	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 23b_04J03:29
+# text = Waqt l-intervista fakkart lil Robert Abela fir-riżultat miksub minn Malta fil-Eurovision li għadda.
+1	Waqt	_	ADP	PREP	_	3	case	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	intervista	_	NOUN	NOUN	_	4	obl	_	_
+4	fakkart	_	VERB	VERB	_	0	root	_	_
+5	lil	_	ADP	LIL	_	6	case	_	_
+6	Robert	_	PROPN	NOUN_PROP	_	4	obj	_	_
+7	Abela	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
+8	fir-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	riżultat	_	NOUN	NOUN	_	4	obl:arg	_	_
+10	miksub	_	VERB	PART_PASS	_	9	acl	_	_
+11	minn	_	ADP	PREP	_	12	case	_	_
+12	Malta	_	PROPN	NOUN_PROP	_	10	obl:agent	_	_
+13	fil-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	Eurovision	_	PROPN	NOUN_PROP	_	10	obl	_	_
+15	li	_	SCONJ	COMP	_	16	mark	_	_
+16	għadda	_	VERB	VERB	_	14	acl	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:30
+# text = Hu reġa' tenna kif bħala chairperson, kif ukoll il-kumitat kollu tal-MaltaSong, m'għandhom iġorru l-ebda ħtija għar-riżultat.
+1	Hu	_	PRON	PRON_PERS	_	2	nsubj	_	_
+2	reġa'	_	VERB	VERB	_	0	root	_	_
+3	tenna	_	VERB	VERB	_	2	xcomp	_	_
+4	kif	_	CCONJ	PRON_INT	_	6	cc	_	_
+5	bħala	_	ADP	PREP	_	6	case	_	_
+6	chairperson	_	NOUN	NOUN	_	3	obl	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	6	punct	_	_
+8	kif	_	CCONJ	PRON_INT	_	11	cc	_	_
+9	ukoll	_	ADV	FOC	_	8	fixed	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	kumitat	_	NOUN	NOUN	_	6	conj	_	_
+12	kollu	_	DET	QUAN	_	11	det	_	_
+13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	MaltaSong	_	PROPN	NOUN_PROP	_	11	nmod:poss	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	11	punct	_	_
+16	m'	_	PART	NEG	_	17	advmod:neg	_	SpaceAfter=No
+17	għandhom	_	VERB	VERB_PSEU	_	3	ccomp	_	_
+18	iġorru	_	VERB	VERB	_	17	xcomp	_	_
+19	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+20	ebda	_	DET	QUAN	_	21	det	_	_
+21	ħtija	_	NOUN	NOUN	_	18	obj	_	_
+22	għar-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	riżultat	_	NOUN	NOUN	_	18	obl	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:31
+# text = " Għamilna dak kollu li kien meħtieġ li jsir u ma fallejna l-ebda obbligu tagħna.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	_
+2	Għamilna	_	VERB	VERB	_	0	root	_	_
+3	dak	_	PRON	PRON_DEM	_	2	obj	_	_
+4	kollu	_	DET	QUAN	_	3	det	_	_
+5	li	_	SCONJ	COMP	_	7	mark	_	_
+6	kien	_	AUX	KIEN	_	7	cop	_	_
+7	meħtieġ	_	VERB	PART_PASS	_	3	acl	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	jsir	_	VERB	VERB	_	7	xcomp	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+11	ma	_	PART	NEG	_	12	advmod:neg	_	_
+12	fallejna	_	VERB	VERB	_	2	conj	_	_
+13	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+14	ebda	_	DET	QUAN	_	15	det	_	_
+15	obbligu	_	NOUN	NOUN	_	12	obj	_	_
+16	tagħna	_	PRON	GEN_PRON	_	12	nmod:poss	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:32
+# text = Il-kanzunetta ta' Fabrizio Faniello ntgħażlet mill-pubbliku Malti u mhux minna l-kumitat, " sostna.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	kanzunetta	_	NOUN	NOUN	_	6	nsubj:pass	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	Fabrizio	_	PROPN	NOUN_PROP	_	2	nmod:poss	_	_
+5	Faniello	_	PROPN	NOUN_PROP	_	4	flat:name	_	_
+6	ntgħażlet	_	VERB	VERB	_	0	root	_	_
+7	mill-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	pubbliku	_	NOUN	NOUN	_	6	obl:agent	_	_
+9	Malti	_	ADJ	ADJ	_	8	amod	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+11	mhux	_	AUX	PRON_PERS_NEG	_	12	aux:neg	_	_
+12	minna	_	PRON	PREP_PRON	_	8	conj	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	kumitat	_	NOUN	NOUN	_	12	appos	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	6	punct	_	_
+16	"	_	PUNCT	X_PUN	_	6	punct	_	_
+17	sostna	_	VERB	VERB	_	6	parataxis	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 23b_04J03:33
+# text = Fi kliem iċ-Chairperson tal-MaltaSong, il-kanzunetta "I Do" ta' Fabrizio Faniello għamlet suċċess mal-Maltin.
+1	Fi	_	ADP	PREP	_	2	case	_	_
+2	kliem	_	NOUN	NOUN	_	17	obl	_	_
+3	iċ-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	Chairperson	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	MaltaSong	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	2	punct	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	kanzunetta	_	NOUN	NOUN	_	11	compound	_	_
+10	"	_	PUNCT	X_PUN	_	11	punct	_	SpaceAfter=No
+11	I	_	X	X_ENG	_	17	nsubj	_	_
+12	Do	_	X	X_ENG	_	11	flat	_	SpaceAfter=No
+13	"	_	PUNCT	X_PUN	_	11	punct	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	Fabrizio	_	PROPN	NOUN_PROP	_	11	nmod:poss	_	_
+16	Faniello	_	PROPN	NOUN_PROP	_	15	flat:name	_	_
+17	għamlet	_	VERB	VERB	_	0	root	_	_
+18	suċċess	_	NOUN	NOUN	_	17	obj	_	_
+19	mal-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	Maltin	_	NOUN	NOUN	_	17	obl	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	17	punct	_	_
+
+# sent_id = 23b_04J03:34
+# text = Madankollu ma niżlitx tajjeb ħafna mal-pubbliku Ewropew f'dawk it-tliet minuti ta' wirja fuq il-palk ta' Ateni.
+1	Madankollu	_	ADV	ADV	_	3	advmod	_	_
+2	ma	_	PART	NEG	_	3	advmod:neg	_	_
+3	niżlitx	_	VERB	VERB	_	0	root	_	_
+4	tajjeb	_	ADV	ADV	_	3	advmod	_	_
+5	ħafna	_	ADV	ADV	_	4	advmod	_	_
+6	mal-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	pubbliku	_	NOUN	NOUN	_	3	obl	_	_
+8	Ewropew	_	ADJ	ADJ	_	7	amod	_	_
+9	f'	_	ADP	PREP	_	13	case	_	SpaceAfter=No
+10	dawk	_	PRON	PRON_DEM	_	13	det	_	_
+11	it-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	tliet	_	NUM	NUM_CRD	_	13	nummod	_	_
+13	minuti	_	NOUN	NOUN	_	3	obl	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	wirja	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	fuq	_	ADP	PREP	_	18	case	_	_
+17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	palk	_	NOUN	NOUN	_	15	nmod	_	_
+19	ta'	_	ADP	GEN	_	20	case	_	_
+20	Ateni	_	PROPN	NOUN_PROP	_	18	nmod:poss	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:35
+# text = Fl-istess ħin kien hemm il-fattur tas-sorpriża tal-Finlandiżi "Lordi" li bil-kanzunetta "Rock Allelulia" u l-istil li ħarġu bih kaxkru l-voti mingħand kulħadd u din kompliet titfagħna lura.
+1	Fl-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+2	istess	_	ADJ	ADJ	_	3	amod	_	_
+3	ħin	_	NOUN	NOUN	_	5	obl	_	_
+4	kien	_	AUX	KIEN	_	5	aux	_	_
+5	hemm	_	VERB	HEMM	_	0	root	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	fattur	_	NOUN	NOUN	_	5	nsubj	_	_
+8	tas-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	sorpriża	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	Finlandiżi	_	NOUN	NOUN	_	9	nmod:poss	_	_
+12	"	_	PUNCT	X_PUN	_	13	punct	_	SpaceAfter=No
+13	Lordi	_	PROPN	NOUN_PROP	_	9	appos	_	SpaceAfter=No
+14	"	_	PUNCT	X_PUN	_	13	punct	_	_
+15	li	_	SCONJ	COMP	_	28	mark	_	_
+16	bil-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	kanzunetta	_	NOUN	NOUN	_	19	compound	_	_
+18	"	_	PUNCT	X_PUN	_	19	punct	_	SpaceAfter=No
+19	Rock	_	X	X_ENG	_	28	obl	_	_
+20	Allelulia	_	X	X_ENG	_	19	flat	_	SpaceAfter=No
+21	"	_	PUNCT	X_PUN	_	19	punct	_	_
+22	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+23	l-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+24	istil	_	NOUN	NOUN	_	19	conj	_	_
+25	li	_	SCONJ	COMP	_	26	mark	_	_
+26	ħarġu	_	VERB	VERB	_	24	acl	_	_
+27	bih	_	PRON	PREP_PRON	_	26	obl	_	_
+28	kaxkru	_	VERB	VERB	_	13	acl	_	_
+29	l-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	voti	_	NOUN	NOUN	_	28	obj	_	_
+31	mingħand	_	ADP	PREP	_	32	case	_	_
+32	kulħadd	_	PRON	PRON_INDEF	_	28	obl	_	_
+33	u	_	CCONJ	CONJ_CORD	_	35	cc	_	_
+34	din	_	PRON	PRON_DEM	_	35	nsubj	_	_
+35	kompliet	_	VERB	VERB	_	28	conj	_	_
+36	titfagħna	_	VERB	VERB	_	35	xcomp	_	_
+37	lura	_	ADV	ADV	_	36	advmod	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23b_04J03:36
+# text = Robert Abela jibqa' sod wara Fabrizio Faniello.
+1	Robert	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+2	Abela	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
+3	jibqa'	_	VERB	VERB	_	0	root	_	_
+4	sod	_	ADJ	ADJ	_	3	xcomp	_	_
+5	wara	_	ADP	PREP	_	6	case	_	_
+6	Fabrizio	_	PROPN	NOUN_PROP	_	3	obl	_	_
+7	Faniello	_	PROPN	NOUN_PROP	_	6	flat:name	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:37
+# text = "Hu kantant tajjeb, umli u kien raġel biżżejjed li jassumi pubblikament ir-responsabbiltà ta' dak li seta' għamel fiċ-ċirkostanżi."
+1	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+2	Hu	_	PRON	PRON_PERS	_	3	nsubj	_	_
+3	kantant	_	NOUN	NOUN	_	0	root	_	_
+4	tajjeb	_	ADJ	ADJ	_	3	amod	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	4	punct	_	_
+6	umli	_	ADJ	ADJ	_	4	conj	_	_
+7	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+8	kien	_	AUX	KIEN	_	9	cop	_	_
+9	raġel	_	NOUN	NOUN	_	3	conj	_	_
+10	biżżejjed	_	ADV	ADV	_	9	advmod	_	_
+11	li	_	SCONJ	COMP	_	12	mark	_	_
+12	jassumi	_	VERB	VERB	_	9	xcomp	_	_
+13	pubblikament	_	ADV	ADV	_	12	advmod	_	_
+14	ir-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	responsabbiltà	_	NOUN	NOUN	_	12	obj	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	dak	_	PRON	PRON_DEM	_	15	nmod:poss	_	_
+18	li	_	SCONJ	COMP	_	19	mark	_	_
+19	seta'	_	VERB	VERB	_	17	acl	_	_
+20	għamel	_	VERB	VERB	_	19	xcomp	_	_
+21	fiċ-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
+22	ċirkostanżi	_	NOUN	NOUN	_	20	obl	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+24	"	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:38
+# text = "Fabrizio ma beżax imur quddiem il-kameras tat-TV, jieħu l-kritika kollha li saritlu u jibqa' jitkellem mal-pubbliku Malti minkejja l-umiljazzjoni li ġarrab," sostna.
+1	"	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+2	Fabrizio	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+3	ma	_	PART	NEG	_	4	advmod:neg	_	_
+4	beżax	_	VERB	VERB	_	0	root	_	_
+5	imur	_	VERB	VERB	_	4	xcomp	_	_
+6	quddiem	_	ADP	PREP	_	8	case	_	_
+7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	kameras	_	NOUN	NOUN	_	5	obl	_	_
+9	tat-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
+10	TV	_	NOUN	X_ABV	_	8	nmod:poss	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	5	punct	_	_
+12	jieħu	_	VERB	VERB	_	5	conj	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	kritika	_	NOUN	NOUN	_	12	obj	_	_
+15	kollha	_	DET	QUAN	_	14	det	_	_
+16	li	_	SCONJ	COMP	_	17	mark	_	_
+17	saritlu	_	VERB	VERB	_	14	acl	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+19	jibqa'	_	VERB	VERB	_	5	conj	_	_
+20	jitkellem	_	VERB	VERB	_	19	xcomp	_	_
+21	mal-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
+22	pubbliku	_	NOUN	NOUN	_	20	obl:arg	_	_
+23	Malti	_	ADJ	ADJ	_	22	amod	_	_
+24	minkejja	_	ADP	PREP	_	26	case	_	_
+25	l-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	umiljazzjoni	_	NOUN	NOUN	_	20	obl	_	_
+27	li	_	SCONJ	COMP	_	28	mark	_	_
+28	ġarrab	_	VERB	VERB	_	26	acl	_	SpaceAfter=No
+29	,	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+30	"	_	PUNCT	X_PUN	_	4	punct	_	_
+31	sostna	_	VERB	VERB	_	4	parataxis	_	SpaceAfter=No
+32	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:39
+# text = Filwaqt li żied fuq il-konvinzjoni tiegħu li l-poplu Malti ma ħadhiex lanqas kontra Fabrizio Faniello, Robert Abela sellem l-irġulija tal-kantant li għaraf il-mument li jaffronta lill-pubbliku diżappuntat bir-riżultat.
+1	Filwaqt	_	SCONJ	CONJ_SUB	_	3	mark	_	_
+2	li	_	SCONJ	COMP	_	1	fixed	_	_
+3	żied	_	VERB	VERB	_	21	advcl	_	_
+4	fuq	_	ADP	PREP	_	6	case	_	_
+5	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	konvinzjoni	_	NOUN	NOUN	_	3	obl	_	_
+7	tiegħu	_	PRON	GEN_PRON	_	6	nmod:poss	_	_
+8	li	_	SCONJ	COMP	_	13	mark	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	poplu	_	NOUN	NOUN	_	13	nsubj	_	_
+11	Malti	_	ADJ	ADJ	_	10	amod	_	_
+12	ma	_	PART	NEG	_	13	advmod:neg	_	_
+13	ħadhiex	_	VERB	VERB	_	6	acl	_	_
+14	lanqas	_	ADV	FOC	_	16	discourse	_	_
+15	kontra	_	ADP	PREP	_	16	case	_	_
+16	Fabrizio	_	PROPN	NOUN_PROP	_	13	obl	_	_
+17	Faniello	_	PROPN	NOUN_PROP	_	16	flat:name	_	SpaceAfter=No
+18	,	_	PUNCT	X_PUN	_	3	punct	_	_
+19	Robert	_	PROPN	NOUN_PROP	_	21	nsubj	_	_
+20	Abela	_	PROPN	NOUN_PROP	_	19	flat:name	_	_
+21	sellem	_	VERB	VERB	_	0	root	_	_
+22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	irġulija	_	NOUN	NOUN	_	21	obj	_	_
+24	tal-	_	ADP	GEN_DEF	_	25	case:det	_	SpaceAfter=No
+25	kantant	_	NOUN	NOUN	_	23	nmod:poss	_	_
+26	li	_	SCONJ	COMP	_	27	mark	_	_
+27	għaraf	_	VERB	VERB	_	25	acl	_	_
+28	il-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	mument	_	NOUN	NOUN	_	27	obj	_	_
+30	li	_	SCONJ	COMP	_	31	mark	_	_
+31	jaffronta	_	VERB	VERB	_	27	xcomp	_	_
+32	lill-	_	ADP	LIL_DEF	_	33	case:det	_	SpaceAfter=No
+33	pubbliku	_	NOUN	NOUN	_	31	obj	_	_
+34	diżappuntat	_	VERB	PART_PASS	_	33	acl	_	_
+35	bir-	_	ADP	PREP_DEF	_	36	case:det	_	SpaceAfter=No
+36	riżultat	_	NOUN	NOUN	_	34	obl	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	21	punct	_	_
+
+# sent_id = 23b_04J03:40
+# text = "Fabrizio għandu karattru sod u hu professjonista u nemmen bis-sħiħ li l-esperjenza ta' Ateni saħħitu u mmaturatu."
+1	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+2	Fabrizio	_	PROPN	NOUN_PROP	_	3	nsubj	_	_
+3	għandu	_	VERB	VERB_PSEU	_	0	root	_	_
+4	karattru	_	NOUN	NOUN	_	3	obj	_	_
+5	sod	_	ADJ	ADJ	_	4	amod	_	_
+6	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+7	hu	_	PRON	PRON_PERS	_	8	nsubj	_	_
+8	professjonista	_	NOUN	NOUN	_	3	conj	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	nemmen	_	VERB	VERB	_	3	conj	_	_
+11	bis-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	sħiħ	_	ADJ	ADJ	_	10	obl	_	_
+13	li	_	SCONJ	COMP	_	18	mark	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	esperjenza	_	NOUN	NOUN	_	18	nsubj	_	_
+16	ta'	_	ADP	GEN	_	17	case	_	_
+17	Ateni	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	_
+18	saħħitu	_	VERB	VERB	_	10	ccomp	_	_
+19	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+20	mmaturatu	_	VERB	VERB	_	18	conj	_	SpaceAfter=No
+21	.	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+22	"	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:41
+# text = Imwarrba l-kwistjoni dwar ir-riżultat miksub fl-aħħar edizzjoni ta' l-Eurovision, jien u Robert Abela nibdew nitkellmu fuq l-agħa kbira li tinqala' f'Malta kull darba li jasal iż-żmien kemm għall-festival kif ukoll għall-Eurovision.
+1	Imwarrba	_	VERB	PART_PASS	_	19	advcl	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	kwistjoni	_	NOUN	NOUN	_	1	nsubj:pass	_	_
+4	dwar	_	ADP	PREP	_	6	case	_	_
+5	ir-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	riżultat	_	NOUN	NOUN	_	3	nmod	_	_
+7	miksub	_	VERB	PART_PASS	_	6	acl	_	_
+8	fl-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+9	aħħar	_	ADJ	ADJ	_	10	amod	_	_
+10	edizzjoni	_	NOUN	NOUN	_	7	obl	_	_
+11	ta'	_	ADP	GEN	_	13	case	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	Eurovision	_	PROPN	NOUN_PROP	_	10	nmod:poss	_	SpaceAfter=No
+14	,	_	PUNCT	X_PUN	_	1	punct	_	_
+15	jien	_	PRON	PRON_PERS	_	19	nsubj	_	_
+16	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
+17	Robert	_	PROPN	NOUN_PROP	_	15	conj	_	_
+18	Abela	_	PROPN	NOUN_PROP	_	17	flat:name	_	_
+19	nibdew	_	VERB	VERB	_	0	root	_	_
+20	nitkellmu	_	VERB	VERB	_	19	xcomp	_	_
+21	fuq	_	ADP	PREP	_	23	case	_	_
+22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	agħa	_	NOUN	NOUN	_	20	obl:arg	_	_
+24	kbira	_	ADJ	ADJ	_	23	amod	_	_
+25	li	_	SCONJ	COMP	_	26	mark	_	_
+26	tinqala'	_	VERB	VERB	_	23	acl	_	_
+27	f'	_	ADP	PREP	_	28	case	_	SpaceAfter=No
+28	Malta	_	PROPN	NOUN_PROP	_	26	obl	_	_
+29	kull	_	DET	QUAN	_	30	det	_	_
+30	darba	_	NOUN	NOUN	_	26	obl	_	_
+31	li	_	SCONJ	COMP	_	32	mark	_	_
+32	jasal	_	VERB	VERB	_	30	acl	_	_
+33	iż-	_	DET	DEF	_	34	det	_	SpaceAfter=No
+34	żmien	_	NOUN	NOUN	_	32	nsubj	_	_
+35	kemm	_	CCONJ	PRON_INT	_	37	cc	_	_
+36	għall-	_	ADP	PREP_DEF	_	37	case:det	_	SpaceAfter=No
+37	festival	_	NOUN	NOUN	_	34	nmod	_	_
+38	kif	_	CCONJ	PRON_INT	_	41	cc	_	_
+39	ukoll	_	ADV	FOC	_	38	fixed	_	_
+40	għall-	_	ADP	PREP_DEF	_	41	case:det	_	SpaceAfter=No
+41	Eurovision	_	PROPN	NOUN_PROP	_	37	conj	_	SpaceAfter=No
+42	.	_	PUNCT	X_PUN	_	19	punct	_	_
+
+# sent_id = 23b_04J03:42
+# text = " Tistenna din l-agħa għax hu l-uniku palk internazzjonali għall-kanzunetta Maltija.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	_
+2	Tistenna	_	VERB	VERB	_	0	root	_	_
+3	din	_	PRON	PRON_DEM	_	5	det	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	agħa	_	NOUN	NOUN	_	2	obj	_	_
+6	għax	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+7	hu	_	PRON	PRON_PERS	_	10	nsubj	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	uniku	_	ADJ	ADJ	_	10	amod	_	_
+10	palk	_	NOUN	NOUN	_	2	advcl	_	_
+11	internazzjonali	_	ADJ	ADJ	_	10	amod	_	_
+12	għall-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	kanzunetta	_	NOUN	NOUN	_	10	nmod	_	_
+14	Maltija	_	ADJ	ADJ	_	13	amod	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:43
+# text = It-Taljani għandhom il-vetrina ta' Sanremo, u għalina l-festival tagħna hi l-vetrina tagħna. "
+1	It-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Taljani	_	NOUN	NOUN	_	3	nsubj	_	_
+3	għandhom	_	VERB	VERB_PSEU	_	0	root	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	vetrina	_	NOUN	NOUN	_	3	obj	_	_
+6	ta'	_	ADP	GEN	_	7	case	_	_
+7	Sanremo	_	PROPN	NOUN_PROP	_	5	nmod:poss	_	SpaceAfter=No
+8	,	_	PUNCT	X_PUN	_	3	punct	_	_
+9	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+10	għalina	_	PRON	PREP_PRON	_	16	obl	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	festival	_	NOUN	NOUN	_	16	nsubj	_	_
+13	tagħna	_	PRON	GEN_PRON	_	12	nmod:poss	_	_
+14	hi	_	PRON	PRON_PERS	_	16	cop	_	_
+15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	vetrina	_	NOUN	NOUN	_	3	conj	_	_
+17	tagħna	_	PRON	GEN_PRON	_	16	nmod:poss	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	3	punct	_	_
+19	"	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:44
+# text = "Fil-Eurovision ksibna riżultati eċċellenti u sirna poplu li nagħtu l-appoġġ bis-saħħa lil kulmin irrappreżentah," sostna.
+1	"	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+2	Fil-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+3	Eurovision	_	PROPN	NOUN_PROP	_	4	obl	_	_
+4	ksibna	_	VERB	VERB	_	0	root	_	_
+5	riżultati	_	NOUN	NOUN	_	4	obj	_	_
+6	eċċellenti	_	ADJ	ADJ	_	5	amod	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	sirna	_	VERB	VERB	_	4	conj	_	_
+9	poplu	_	NOUN	NOUN	_	8	xcomp	_	_
+10	li	_	SCONJ	COMP	_	11	mark	_	_
+11	nagħtu	_	VERB	VERB	_	9	acl	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	appoġġ	_	NOUN	NOUN	_	11	obj	_	_
+14	bis-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
+15	saħħa	_	NOUN	NOUN	_	11	obl	_	_
+16	lil	_	ADP	LIL	_	17	case	_	_
+17	kulmin	_	PRON	PRON_INDEF	_	11	iobj	_	_
+18	irrappreżentah	_	VERB	VERB	_	17	acl	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
+20	"	_	PUNCT	X_PUN	_	4	punct	_	_
+21	sostna	_	VERB	VERB	_	4	parataxis	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:45
+# text = U l-festival li ġej?
+1	U	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	festival	_	NOUN	NOUN	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	ġej	_	VERB	PART_ACT	_	3	acl	_	SpaceAfter=No
+6	?	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:46
+# text = "Qed inbiddlu ħafna affarijiet u se nagħmluh isbaħ," weġibna Robert Abela li għażel li ma jiżvelax dettalji dwar x'inhu ġej fis-serati ta' l-1 u t-3 ta' Frar 2007.
+1	"	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+2	Qed	_	AUX	PROG	_	3	aux:part	_	_
+3	inbiddlu	_	VERB	VERB	_	0	root	_	_
+4	ħafna	_	DET	QUAN	_	5	det	_	_
+5	affarijiet	_	NOUN	NOUN	_	3	obj	_	_
+6	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+7	se	_	AUX	FUT	_	8	aux:part	_	_
+8	nagħmluh	_	VERB	VERB	_	3	conj	_	_
+9	isbaħ	_	ADJ	ADJ	_	8	xcomp	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
+11	"	_	PUNCT	X_PUN	_	3	punct	_	_
+12	weġibna	_	VERB	VERB	_	3	parataxis	_	_
+13	Robert	_	PROPN	NOUN_PROP	_	12	nsubj	_	_
+14	Abela	_	PROPN	NOUN_PROP	_	13	flat:name	_	_
+15	li	_	SCONJ	COMP	_	16	mark	_	_
+16	għażel	_	VERB	VERB	_	13	acl	_	_
+17	li	_	SCONJ	COMP	_	19	mark	_	_
+18	ma	_	PART	NEG	_	19	advmod:neg	_	_
+19	jiżvelax	_	VERB	VERB	_	16	xcomp	_	_
+20	dettalji	_	NOUN	NOUN	_	19	obj	_	_
+21	dwar	_	ADP	PREP	_	22	mark	_	_
+22	x'	_	PRON	PRON_INT	_	20	nmod	_	SpaceAfter=No
+23	inhu	_	PRON	PRON_INT	_	24	cop	_	_
+24	ġej	_	VERB	PART_ACT	_	22	acl	_	_
+25	fis-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
+26	serati	_	NOUN	NOUN	_	24	obl	_	_
+27	ta'	_	ADP	GEN	_	29	case	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	1	_	NUM	X_DIG	_	26	nmod:poss	_	_
+30	u	_	CCONJ	CONJ_CORD	_	32	cc	_	_
+31	t-	_	DET	DEF	_	32	det	_	SpaceAfter=No
+32	3	_	NUM	X_DIG	_	29	conj	_	_
+33	ta'	_	ADP	GEN	_	34	case	_	_
+34	Frar	_	PROPN	NOUN_PROP	_	32	nmod:poss	_	_
+35	2007	_	NUM	X_DIG	_	34	nummod	_	SpaceAfter=No
+36	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:47
+# text = "Li nista' ngħidlek hu li se jkun spettaklu sabiħ u ilna naħdmu għalih għal dawn l-aħħar ġimgħat speċifikament biex il-prodott ikun wieħed tajjeb ħafna u li jirrispondi għaż-żminijiet ta' llum."
+1	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+2	Li	_	SCONJ	COMP	_	3	mark	_	_
+3	nista'	_	VERB	VERB	_	5	csubj	_	_
+4	ngħidlek	_	VERB	VERB	_	3	xcomp	_	_
+5	hu	_	PRON	PRON_PERS	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	9	mark	_	_
+7	se	_	AUX	FUT	_	9	aux:part	_	_
+8	jkun	_	AUX	KIEN	_	9	cop	_	_
+9	spettaklu	_	NOUN	NOUN	_	5	ccomp	_	_
+10	sabiħ	_	ADJ	ADJ	_	9	amod	_	_
+11	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+12	ilna	_	VERB	VERB_PSEU	_	9	conj	_	_
+13	naħdmu	_	VERB	VERB	_	12	xcomp	_	_
+14	għalih	_	PRON	PREP_PRON	_	13	obl:arg	_	_
+15	għal	_	ADP	PREP	_	19	case	_	_
+16	dawn	_	PRON	PRON_DEM	_	19	det	_	_
+17	l-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+18	aħħar	_	ADJ	ADJ	_	19	amod	_	_
+19	ġimgħat	_	NOUN	NOUN	_	13	obl	_	_
+20	speċifikament	_	ADV	ADV	_	19	advmod	_	_
+21	biex	_	SCONJ	CONJ_SUB	_	25	mark	_	_
+22	il-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	prodott	_	NOUN	NOUN	_	25	nsubj	_	_
+24	ikun	_	AUX	KIEN	_	25	cop	_	_
+25	wieħed	_	NUM	NUM_WHD	_	13	ccomp	_	_
+26	tajjeb	_	ADJ	ADJ	_	25	amod	_	_
+27	ħafna	_	ADV	ADV	_	26	advmod	_	_
+28	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
+29	li	_	SCONJ	COMP	_	30	mark	_	_
+30	jirrispondi	_	VERB	VERB	_	25	conj	_	_
+31	għaż-	_	ADP	PREP_DEF	_	32	case:det	_	SpaceAfter=No
+32	żminijiet	_	NOUN	NOUN	_	30	obl:arg	_	_
+33	ta'	_	ADP	GEN	_	34	case	_	_
+34	llum	_	ADV	ADV	_	32	advmod	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+36	"	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23b_04J03:48
+# text = Allura l-ebda antiċipazzjoni?
+1	Allura	_	ADV	ADV	_	4	advmod	_	_
+2	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+3	ebda	_	DET	QUAN	_	4	det	_	_
+4	antiċipazzjoni	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+5	?	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:49
+# text = "Li nista' ngħidlek hu li għadni kif ġibt il-konferma li l-kantanta Ruslana ta' l-Ukrajna, li rebħet il-Eurovision tas-sena l-oħra, se tkun Malta għall-festival fis-serata finali".
+1	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+2	Li	_	SCONJ	COMP	_	3	mark	_	_
+3	nista'	_	VERB	VERB	_	5	csubj	_	_
+4	ngħidlek	_	VERB	VERB	_	3	xcomp	_	_
+5	hu	_	PRON	PRON_PERS	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	7	mark	_	_
+7	għadni	_	VERB	VERB_PSEU	_	5	ccomp	_	_
+8	kif	_	ADV	PRON_INT	_	9	advmod	_	_
+9	ġibt	_	VERB	VERB	_	7	xcomp	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	konferma	_	NOUN	NOUN	_	9	obj	_	_
+12	li	_	SCONJ	COMP	_	31	mark	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	kantanta	_	NOUN	NOUN	_	15	compound	_	_
+15	Ruslana	_	PROPN	NOUN_PROP	_	31	nsubj	_	_
+16	ta'	_	ADP	GEN	_	18	case	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	Ukrajna	_	PROPN	NOUN_PROP	_	15	nmod:poss	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	21	punct	_	_
+20	li	_	SCONJ	COMP	_	21	mark	_	_
+21	rebħet	_	VERB	VERB	_	15	acl	_	_
+22	il-	_	DET	DEF	_	23	det	_	SpaceAfter=No
+23	Eurovision	_	PROPN	NOUN_PROP	_	21	obj	_	_
+24	tas-	_	ADP	GEN_DEF	_	25	case:det	_	SpaceAfter=No
+25	sena	_	NOUN	NOUN	_	23	nmod:poss	_	_
+26	l-	_	DET	DEF	_	27	det	_	SpaceAfter=No
+27	oħra	_	ADJ	ADJ	_	25	amod	_	SpaceAfter=No
+28	,	_	PUNCT	X_PUN	_	21	punct	_	_
+29	se	_	AUX	FUT	_	31	aux:part	_	_
+30	tkun	_	AUX	KIEN	_	31	cop	_	_
+31	Malta	_	PROPN	NOUN_PROP	_	11	ccomp	_	_
+32	għall-	_	ADP	PREP_DEF	_	33	case:det	_	SpaceAfter=No
+33	festival	_	NOUN	NOUN	_	31	obl	_	_
+34	fis-	_	ADP	PREP_DEF	_	35	case:det	_	SpaceAfter=No
+35	serata	_	NOUN	NOUN	_	31	obl	_	_
+36	finali	_	ADJ	ADJ	_	35	amod	_	SpaceAfter=No
+37	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+38	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 23b_04J03:50
+# text = Din se tkun l-ewwel darba li l-festival se jkollu serata għal semifinali li matulha l-ġurija - li għal darb'oħra se tkun kollha barranija - se jkollha 50 fil-mija tal-vot, filwaqt li l-pubbliku se jkollu 50 fil-mija oħra tal-kelma permezz tat-televoting.
+1	Din	_	PRON	PRON_DEM	_	6	nsubj	_	_
+2	se	_	AUX	FUT	_	6	aux:part	_	_
+3	tkun	_	AUX	KIEN	_	6	cop	_	_
+4	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+5	ewwel	_	NUM	NUM_ORD	_	6	amod	_	_
+6	darba	_	NOUN	NOUN	_	0	root	_	_
+7	li	_	SCONJ	COMP	_	11	mark	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	festival	_	NOUN	NOUN	_	11	nsubj	_	_
+10	se	_	AUX	FUT	_	11	aux:part	_	_
+11	jkollu	_	VERB	VERB_PSEU	_	6	acl	_	_
+12	serata	_	NOUN	NOUN	_	11	obj	_	_
+13	għal	_	ADP	PREP	_	14	case	_	_
+14	semifinali	_	NOUN	NOUN	_	12	nmod	_	_
+15	li	_	SCONJ	COMP	_	30	mark	_	_
+16	matulha	_	PRON	PREP_PRON	_	30	obl	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	ġurija	_	NOUN	NOUN	_	30	nsubj	_	_
+19	-	_	PUNCT	X_PUN	_	27	punct	_	_
+20	li	_	SCONJ	COMP	_	27	mark	_	_
+21	għal	_	ADP	PREP	_	22	case	_	_
+22	darb'	_	NOUN	NOUN	_	27	obl	_	SpaceAfter=No
+23	oħra	_	ADJ	ADJ	_	22	amod	_	_
+24	se	_	AUX	FUT	_	27	aux:part	_	_
+25	tkun	_	AUX	KIEN	_	27	cop	_	_
+26	kollha	_	DET	QUAN	_	27	det	_	_
+27	barranija	_	ADJ	ADJ	_	18	amod	_	_
+28	-	_	PUNCT	X_PUN	_	27	punct	_	_
+29	se	_	AUX	FUT	_	30	aux:part	_	_
+30	jkollha	_	VERB	VERB_PSEU	_	12	acl	_	_
+31	50	_	NUM	X_DIG	_	33	nummod	_	_
+32	fil-	_	ADP	PREP_DEF	_	33	case:det	_	SpaceAfter=No
+33	mija	_	NUM	NUM_CRD	_	30	obj	_	_
+34	tal-	_	ADP	GEN_DEF	_	35	case:det	_	SpaceAfter=No
+35	vot	_	NOUN	NOUN	_	33	nmod:poss	_	SpaceAfter=No
+36	,	_	PUNCT	X_PUN	_	30	punct	_	_
+37	filwaqt	_	SCONJ	CONJ_SUB	_	42	mark	_	_
+38	li	_	SCONJ	COMP	_	37	fixed	_	_
+39	l-	_	DET	DEF	_	40	det	_	SpaceAfter=No
+40	pubbliku	_	NOUN	NOUN	_	42	nsubj	_	_
+41	se	_	AUX	FUT	_	42	aux:part	_	_
+42	jkollu	_	VERB	VERB_PSEU	_	30	advcl	_	_
+43	50	_	NUM	X_DIG	_	45	nummod	_	_
+44	fil-	_	ADP	PREP_DEF	_	45	case:det	_	SpaceAfter=No
+45	mija	_	NUM	NUM_CRD	_	42	obj	_	_
+46	oħra	_	ADJ	ADJ	_	45	amod	_	_
+47	tal-	_	ADP	GEN_DEF	_	48	case:det	_	SpaceAfter=No
+48	kelma	_	NOUN	NOUN	_	45	nmod:poss	_	_
+49	permezz	_	NOUN	NOUN	_	51	case:det	_	_
+50	tat-	_	ADP	GEN_DEF	_	49	fixed	_	SpaceAfter=No
+51	televoting	_	NOUN	NOUN	_	42	obl	_	SpaceAfter=No
+52	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 23b_04J03:51
+# text = Minn dik is-serata se jgħaddu sitt finalisti biss.
+1	Minn	_	ADP	PREP	_	4	case	_	_
+2	dik	_	PRON	PRON_DEM	_	4	det	_	_
+3	is-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	serata	_	NOUN	NOUN	_	6	obl	_	_
+5	se	_	AUX	FUT	_	6	aux:part	_	_
+6	jgħaddu	_	VERB	VERB	_	0	root	_	_
+7	sitt	_	NUM	NUM_CRD	_	8	nummod	_	_
+8	finalisti	_	NOUN	NOUN	_	6	nsubj	_	_
+9	biss	_	ADV	FOC	_	8	discourse	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 23b_04J03:52
+# text = Minn fosthom, fis-serata tat-3 ta' Frar, ikun il-pubbliku stess li jkollu r-responsabbiltà ta' l-għażla bit-televoting għall-kanzunetta għall-Ewropa.
+1	Minn	_	ADP	PREP	_	2	case	_	_
+2	fosthom	_	PRON	PREP_PRON	_	13	obl	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	fis-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	serata	_	NOUN	NOUN	_	13	obl	_	_
+6	tat-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	3	_	NUM	X_DIG	_	5	nmod:poss	_	_
+8	ta'	_	ADP	GEN	_	9	case	_	_
+9	Frar	_	PROPN	NOUN_PROP	_	7	nmod:poss	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	5	punct	_	_
+11	ikun	_	AUX	KIEN	_	13	cop:expl	_	_
+12	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	pubbliku	_	NOUN	NOUN	_	0	root	_	_
+14	stess	_	PRON	PRON_REF	_	13	nmod	_	_
+15	li	_	SCONJ	COMP	_	16	mark	_	_
+16	jkollu	_	VERB	VERB_PSEU	_	13	acl	_	_
+17	r-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	responsabbiltà	_	NOUN	NOUN	_	16	obj	_	_
+19	ta'	_	ADP	GEN	_	21	case	_	_
+20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	għażla	_	NOUN	NOUN	_	18	nmod:poss	_	_
+22	bit-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
+23	televoting	_	NOUN	NOUN	_	21	nmod	_	_
+24	għall-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
+25	kanzunetta	_	NOUN	NOUN	_	23	nmod	_	_
+26	għall-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
+27	Ewropa	_	PROPN	NOUN_PROP	_	25	nmod	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 23b_04J03:53
+# text = U l-preżentaturi?
+1	U	_	CCONJ	CONJ_CORD	_	3	cc	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	preżentaturi	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+4	?	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:54
+# text = " Tkellimna ma' diversi nies u wasalna biex identifikajna l-persuni li se jippreżentaw il-festival li ġej.
+1	"	_	PUNCT	X_PUN	_	2	punct	_	_
+2	Tkellimna	_	VERB	VERB	_	0	root	_	_
+3	ma'	_	ADP	PREP	_	5	case	_	_
+4	diversi	_	ADJ	ADJ	_	5	amod	_	_
+5	nies	_	NOUN	NOUN	_	2	obl:arg	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	wasalna	_	VERB	VERB	_	2	conj	_	_
+8	biex	_	SCONJ	CONJ_SUB	_	9	mark	_	_
+9	identifikajna	_	VERB	VERB	_	7	xcomp	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	persuni	_	NOUN	NOUN	_	9	obj	_	_
+12	li	_	SCONJ	COMP	_	14	mark	_	_
+13	se	_	AUX	FUT	_	14	aux:part	_	_
+14	jippreżentaw	_	VERB	VERB	_	11	acl	_	_
+15	il-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	festival	_	NOUN	NOUN	_	14	obl	_	_
+17	li	_	SCONJ	COMP	_	18	mark	_	_
+18	ġej	_	VERB	PART_ACT	_	16	acl	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:55
+# text = L-ismijiet huma mistennija li jitħabbru aktarx il-ġimgħa d-dieħla. "
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ismijiet	_	NOUN	NOUN	_	4	nsubj:pass	_	_
+3	huma	_	PRON	PRON_PERS	_	4	cop	_	_
+4	mistennija	_	VERB	PART_PASS	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	jitħabbru	_	VERB	VERB	_	4	xcomp	_	_
+7	aktarx	_	ADV	ADV	_	6	advmod	_	_
+8	il-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	ġimgħa	_	NOUN	NOUN	_	6	obl	_	_
+10	d-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	dieħla	_	VERB	PART_ACT	_	9	amod	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	4	punct	_	_
+13	"	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:56
+# text = Lejn tmiem l-intervista, waqt li Robert Abela kien qed jilgħab bl-ispaga tal-borża tat-tè li niżżel f'kikkra bil-misħun, staqsejtu: Temmen li kapaċi nirbħu l-Eurovision?
+1	Lejn	_	ADP	PREP	_	2	case	_	_
+2	tmiem	_	NOUN	NOUN	_	26	obl	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	intervista	_	NOUN	NOUN	_	2	nmod:poss	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	2	punct	_	_
+6	waqt	_	ADP	PREP	_	12	mark	_	_
+7	li	_	SCONJ	COMP	_	6	fixed	_	_
+8	Robert	_	PROPN	NOUN_PROP	_	12	nsubj	_	_
+9	Abela	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
+10	kien	_	AUX	KIEN	_	12	aux	_	_
+11	qed	_	AUX	PROG	_	12	aux:part	_	_
+12	jilgħab	_	VERB	VERB	_	26	advcl	_	_
+13	bl-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	ispaga	_	NOUN	NOUN	_	12	obl:arg	_	_
+15	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
+16	borża	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	tat-	_	ADP	GEN_DEF	_	18	case:det	_	SpaceAfter=No
+18	tè	_	NOUN	NOUN	_	16	nmod:poss	_	_
+19	li	_	SCONJ	COMP	_	20	mark	_	_
+20	niżżel	_	VERB	VERB	_	16	acl	_	_
+21	f'	_	ADP	PREP	_	22	case	_	SpaceAfter=No
+22	kikkra	_	NOUN	NOUN	_	20	obl	_	_
+23	bil-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
+24	misħun	_	VERB	PART_PASS	_	20	obl	_	SpaceAfter=No
+25	,	_	PUNCT	X_PUN	_	12	punct	_	_
+26	staqsejtu	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+27	:	_	PUNCT	X_PUN	_	26	punct	_	_
+28	Temmen	_	VERB	VERB	_	26	ccomp	_	_
+29	li	_	SCONJ	COMP	_	30	mark	_	_
+30	kapaċi	_	ADJ	ADJ	_	28	ccomp	_	_
+31	nirbħu	_	VERB	VERB	_	30	xcomp	_	_
+32	l-	_	DET	DEF	_	33	det	_	SpaceAfter=No
+33	Eurovision	_	PROPN	NOUN_PROP	_	31	obj	_	SpaceAfter=No
+34	?	_	PUNCT	X_PUN	_	26	punct	_	_
+
+# sent_id = 23b_04J03:57
+# text = " Mela le.
+1	"	_	PUNCT	X_PUN	_	3	punct	_	_
+2	Mela	_	INTJ	INT	_	3	discourse	_	_
+3	le	_	INTJ	INT	_	0	root	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 23b_04J03:58
+# text = Wasalna sat-tieni post ma' Chiara.
+1	Wasalna	_	VERB	VERB	_	0	root	_	_
+2	sat-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+3	tieni	_	NUM	NUM_ORD	_	4	amod	_	_
+4	post	_	NOUN	NOUN	_	1	obl	_	_
+5	ma'	_	ADP	PREP	_	6	case	_	_
+6	Chiara	_	PROPN	NOUN_PROP	_	1	obl	_	SpaceAfter=No
+7	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 23b_04J03:59
+# text = Ma naslux l-ewwel xi darba tgħid?
+1	Ma	_	PART	NEG	_	2	advmod:neg	_	_
+2	naslux	_	VERB	VERB	_	0	root	_	_
+3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	ewwel	_	NUM	NUM_ORD	_	2	obl	_	_
+5	xi	_	DET	QUAN	_	6	det	_	_
+6	darba	_	NOUN	NOUN	_	2	obl	_	_
+7	tgħid	_	VERB	VERB	_	2	parataxis	_	SpaceAfter=No
+8	?	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 23b_04J03:60
+# text = Irridu nżommu saqajna ma' l-art, u nibqgħu ngħarfu li l-kanzunetta li se nibagħtu għall-Eurovision tkun tappella għas-suq Ewropew, " jibqa' jinsisti.
+1	Irridu	_	VERB	VERB	_	0	root	_	_
+2	nżommu	_	VERB	VERB	_	1	xcomp	_	_
+3	saqajna	_	NOUN	NOUN	_	2	obj	_	_
+4	ma'	_	ADP	PREP	_	6	case	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	art	_	NOUN	NOUN	_	2	obl	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	1	punct	_	_
+8	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+9	nibqgħu	_	VERB	VERB	_	1	conj	_	_
+10	ngħarfu	_	VERB	VERB	_	9	xcomp	_	_
+11	li	_	SCONJ	COMP	_	20	mark	_	_
+12	l-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	kanzunetta	_	NOUN	NOUN	_	20	nsubj	_	_
+14	li	_	SCONJ	COMP	_	16	mark	_	_
+15	se	_	AUX	FUT	_	16	aux:part	_	_
+16	nibagħtu	_	VERB	VERB	_	13	acl	_	_
+17	għall-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	Eurovision	_	PROPN	NOUN_PROP	_	16	obl	_	_
+19	tkun	_	AUX	KIEN	_	20	aux	_	_
+20	tappella	_	VERB	VERB	_	10	ccomp	_	_
+21	għas-	_	ADP	PREP_DEF	_	22	case:det	_	SpaceAfter=No
+22	suq	_	NOUN	NOUN	_	20	obl	_	_
+23	Ewropew	_	ADJ	ADJ	_	22	amod	_	SpaceAfter=No
+24	,	_	PUNCT	X_PUN	_	1	punct	_	_
+25	"	_	PUNCT	X_PUN	_	1	punct	_	_
+26	jibqa'	_	VERB	VERB	_	1	parataxis	_	_
+27	jinsisti	_	VERB	VERB	_	26	xcomp	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 23b_04J03:61
+# text = Allura Robert Abela jixtieq li jkun għadu ċ-Chairperson tal-MaltaSong dakinhar li b'mod ipotetiku Malta tasal biex tirbaħ il-Eurovision?
+1	Allura	_	ADV	ADV	_	4	advmod	_	_
+2	Robert	_	PROPN	NOUN_PROP	_	4	nsubj	_	_
+3	Abela	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
+4	jixtieq	_	VERB	VERB	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	7	mark	_	_
+6	jkun	_	AUX	KIEN	_	7	aux	_	_
+7	għadu	_	VERB	VERB_PSEU	_	4	xcomp	_	_
+8	ċ-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	Chairperson	_	NOUN	NOUN	_	7	nsubj	_	_
+10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	MaltaSong	_	PROPN	NOUN_PROP	_	9	nmod:poss	_	_
+12	dakinhar	_	ADV	ADV	_	7	advmod	_	_
+13	li	_	SCONJ	COMP	_	18	mark	_	_
+14	b'	_	ADP	PREP	_	15	case	_	SpaceAfter=No
+15	mod	_	NOUN	NOUN	_	18	obl	_	_
+16	ipotetiku	_	ADJ	ADJ	_	15	amod	_	_
+17	Malta	_	PROPN	NOUN_PROP	_	18	nsubj	_	_
+18	tasal	_	VERB	VERB	_	12	acl	_	_
+19	biex	_	SCONJ	CONJ_SUB	_	20	mark	_	_
+20	tirbaħ	_	VERB	VERB	_	18	xcomp	_	_
+21	il-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	Eurovision	_	PROPN	NOUN_PROP	_	20	obj	_	SpaceAfter=No
+23	?	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 23b_04J03:62
+# text = Iweġibni b'daħka, iżda żamm serju: " Dan hu totalment irrilevanti.
+1	Iweġibni	_	VERB	VERB	_	0	root	_	_
+2	b'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
+3	daħka	_	NOUN	NOUN	_	1	obl	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	1	punct	_	_
+5	iżda	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+6	żamm	_	VERB	VERB	_	1	conj	_	_
+7	serju	_	ADJ	ADJ	_	6	xcomp	_	SpaceAfter=No
+8	:	_	PUNCT	X_PUN	_	1	punct	_	_
+9	"	_	PUNCT	X_PUN	_	13	punct	_	_
+10	Dan	_	PRON	PRON_DEM	_	13	nsubj	_	_
+11	hu	_	PRON	PRON_PERS	_	13	cop	_	_
+12	totalment	_	ADV	ADV	_	13	advmod	_	_
+13	irrilevanti	_	ADJ	ADJ	_	1	ccomp	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 23b_04J03:63
+# text = L-importanti li t-talent Malti jkun ħa l-premju li jkun jistħoqqlu fuq il-palk internazzjonali. "
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	importanti	_	ADJ	ADJ	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	8	mark	_	_
+4	t-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	talent	_	NOUN	NOUN	_	8	nsubj	_	_
+6	Malti	_	ADJ	ADJ	_	5	amod	_	_
+7	jkun	_	AUX	KIEN	_	8	aux	_	_
+8	ħa	_	VERB	VERB	_	2	ccomp	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	premju	_	NOUN	NOUN	_	8	obj	_	_
+11	li	_	SCONJ	COMP	_	13	mark	_	_
+12	jkun	_	AUX	KIEN	_	13	aux	_	_
+13	jistħoqqlu	_	VERB	VERB	_	10	acl	_	_
+14	fuq	_	ADP	PREP	_	16	case	_	_
+15	il-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	palk	_	NOUN	NOUN	_	8	obl	_	_
+17	internazzjonali	_	ADJ	ADJ	_	16	amod	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	2	punct	_	_
+19	"	_	PUNCT	X_PUN	_	2	punct	_	_
+

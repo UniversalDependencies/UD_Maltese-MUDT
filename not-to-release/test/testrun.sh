@@ -1,0 +1,1 @@
+cat *.conllu > ../_full/mt_mudt-ud-test.conllu

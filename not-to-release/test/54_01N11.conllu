@@ -1,0 +1,225 @@
+# sent_id = 54_01N11:1
+# text = INGREDJENTI
+1	INGREDJENTI	_	NOUN	NOUN	_	0	root	_	_
+
+# sent_id = 54_01N11:2
+# text = METODU
+1	METODU	_	NOUN	NOUN	_	0	root	_	_
+
+# sent_id = 54_01N11:3
+# text = 1. Naddaf il-qargħa ħamra u qattagħha f'biċċiet imdaqqsa.
+1	1	_	NUM	X_DIG	_	3	parataxis	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	Naddaf	_	VERB	VERB	_	0	root	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	qargħa	_	NOUN	NOUN	_	3	obj	_	_
+6	ħamra	_	ADJ	ADJ	_	5	amod	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	qattagħha	_	VERB	VERB	_	3	conj	_	_
+9	f'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
+10	biċċiet	_	NOUN	NOUN	_	8	obl:arg	_	_
+11	imdaqqsa	_	VERB	PART_PASS	_	10	amod	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 54_01N11:4
+# text = Poġġihom f'dixx tal-forn flimkien mat-tewm (it-tewm tqaxxrux).
+1	Poġġihom	_	VERB	VERB	_	0	root	_	_
+2	f'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
+3	dixx	_	NOUN	NOUN	_	1	obl	_	_
+4	tal-	_	ADP	GEN_DEF	_	5	case:det	_	SpaceAfter=No
+5	forn	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	flimkien	_	ADV	ADV	_	8	case:det	_	_
+7	mat-	_	ADP	PREP_DEF	_	6	fixed	_	SpaceAfter=No
+8	tewm	_	NOUN	NOUN	_	1	obl	_	_
+9	(	_	PUNCT	X_PUN	_	12	punct	_	SpaceAfter=No
+10	it-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	tewm	_	NOUN	NOUN	_	12	obj	_	_
+12	tqaxxrux	_	VERB	VERB	_	8	parataxis	_	SpaceAfter=No
+13	)	_	PUNCT	X_PUN	_	12	punct	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 54_01N11:5
+# text = Itfa' nofs iż-żejt u ixwi għal madwar 30 minuta (Gas no 6 / 400 ° F / 200 ° C ), sakemm jirtabu u jibdew jiħmaru.
+1	Itfa'	_	VERB	VERB	_	0	root	_	_
+2	nofs	_	NUM	NUM_FRC	_	1	obj	_	_
+3	iż-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	żejt	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+6	ixwi	_	VERB	VERB	_	1	conj	_	_
+7	għal	_	ADP	PREP	_	10	case	_	_
+8	madwar	_	ADP	PREP	_	10	case	_	_
+9	30	_	NUM	X_DIG	_	10	nummod	_	_
+10	minuta	_	NOUN	NOUN	_	6	obl	_	_
+11	(	_	PUNCT	X_PUN	_	12	punct	_	SpaceAfter=No
+12	Gas	_	X	X_ENG	_	10	parataxis	_	_
+13	no	_	X	X_ENG	_	12	nmod	_	_
+14	6	_	NUM	X_DIG	_	13	nummod	_	_
+15	/	_	PUNCT	X_PUN	_	12	punct	_	_
+16	400	_	NUM	X_DIG	_	17	nummod	_	_
+17	°	_	SYM	X_PUN	_	12	conj	_	_
+18	F	_	NOUN	X_ABV	_	17	nmod	_	_
+19	/	_	PUNCT	X_PUN	_	12	punct	_	_
+20	200	_	NUM	X_DIG	_	21	nummod	_	_
+21	°	_	SYM	X_PUN	_	12	conj	_	_
+22	C	_	NOUN	X_ABV	_	21	nmod	_	_
+23	),	_	PUNCT	X_PUN	_	12	punct	_	_
+24	sakemm	_	SCONJ	CONJ_SUB	_	25	mark	_	_
+25	jirtabu	_	VERB	VERB	_	6	advcl	_	_
+26	u	_	CCONJ	CONJ_CORD	_	25	conj	_	_
+27	jibdew	_	VERB	VERB	_	25	conj	_	_
+28	jiħmaru	_	VERB	VERB	_	27	xcomp	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 54_01N11:6
+# text = 2. Sadattant, saħħan il-kumplament taż-żejt f'kazzola, żid il-kurrat, il-karfus u l-patata.
+1	2	_	NUM	X_DIG	_	5	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	Sadattant	_	ADV	ADV	_	5	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	3	punct	_	_
+5	saħħan	_	VERB	VERB	_	0	root	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	kumplament	_	NOUN	NOUN	_	5	obj	_	_
+8	taż-	_	ADP	GEN_DEF	_	9	case:det	_	SpaceAfter=No
+9	żejt	_	NOUN	NOUN	_	7	nmod:poss	_	_
+10	f'	_	ADP	PREP	_	11	case	_	SpaceAfter=No
+11	kazzola	_	NOUN	NOUN	_	5	obl	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	5	punct	_	_
+13	żid	_	VERB	VERB	_	5	conj	_	_
+14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	kurrat	_	NOUN	NOUN	_	13	obj	_	SpaceAfter=No
+16	,	_	PUNCT	X_PUN	_	15	punct	_	_
+17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	karfus	_	NOUN	NOUN	_	15	conj	_	_
+19	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+20	l-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	patata	_	NOUN	NOUN	_	15	conj	_	SpaceAfter=No
+22	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 54_01N11:7
+# text = Sajjar fuq nar bati għal 10 minuti.
+1	Sajjar	_	VERB	VERB	_	0	root	_	_
+2	fuq	_	ADP	PREP	_	3	case	_	_
+3	nar	_	NOUN	NOUN	_	1	obl	_	_
+4	bati	_	ADJ	ADJ	_	3	amod	_	_
+5	għal	_	ADP	PREP	_	7	case	_	_
+6	10	_	NUM	X_DIG	_	7	nummod	_	_
+7	minuti	_	NOUN	NOUN	_	1	obl	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 54_01N11:8
+# text = Żid l-istokk tal-ħaxix sakemm jagħli.
+1	Żid	_	VERB	VERB	_	0	root	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	istokk	_	NOUN	NOUN	_	1	obj	_	_
+4	tal-	_	ADP	GEN_DEF	_	5	case:det	_	SpaceAfter=No
+5	ħaxix	_	NOUN	NOUN	_	3	nmod:poss	_	_
+6	sakemm	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+7	jagħli	_	VERB	VERB	_	1	advcl	_	SpaceAfter=No
+8	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 54_01N11:9
+# text = 3. Meta l-qargħa ħamra u t-tewm ikunu saru, neħħi t-tewm mill-qoxra u itfagħhom mat-taħlita tal-kurrat, il-karfus u l-patata.
+1	3	_	NUM	X_DIG	_	13	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	Meta	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	qargħa	_	NOUN	NOUN	_	11	nsubj	_	_
+6	ħamra	_	ADJ	ADJ	_	5	amod	_	_
+7	u	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+8	t-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	tewm	_	NOUN	NOUN	_	5	conj	_	_
+10	ikunu	_	AUX	KIEN	_	11	aux	_	_
+11	saru	_	VERB	VERB	_	13	advcl	_	SpaceAfter=No
+12	,	_	PUNCT	X_PUN	_	11	punct	_	_
+13	neħħi	_	VERB	VERB	_	0	root	_	_
+14	t-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	tewm	_	NOUN	NOUN	_	13	obj	_	_
+16	mill-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	qoxra	_	NOUN	NOUN	_	13	obl	_	_
+18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
+19	itfagħhom	_	VERB	VERB	_	13	conj	_	_
+20	mat-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
+21	taħlita	_	NOUN	NOUN	_	19	obl	_	_
+22	tal-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No
+23	kurrat	_	NOUN	NOUN	_	21	nmod:poss	_	SpaceAfter=No
+24	,	_	PUNCT	X_PUN	_	23	punct	_	_
+25	il-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	karfus	_	NOUN	NOUN	_	23	conj	_	_
+27	u	_	CCONJ	CONJ_CORD	_	29	cc	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	patata	_	NOUN	NOUN	_	23	conj	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 54_01N11:10
+# text = Ħalli sakemm jagħli u tektek għal 10 minuti.
+1	Ħalli	_	VERB	VERB	_	0	root	_	_
+2	sakemm	_	SCONJ	CONJ_SUB	_	3	mark	_	_
+3	jagħli	_	VERB	VERB	_	1	advcl	_	_
+4	u	_	CCONJ	CONJ_CORD	_	5	cc	_	_
+5	tektek	_	VERB	VERB	_	1	conj	_	_
+6	għal	_	ADP	PREP	_	8	case	_	_
+7	10	_	NUM	X_DIG	_	8	nummod	_	_
+8	minuti	_	NOUN	NOUN	_	5	obl	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 54_01N11:11
+# text = 4. Għaddi kollox minn liquidizer u erġa' itfa' fil-borma.
+1	4	_	NUM	X_DIG	_	3	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	Għaddi	_	VERB	VERB	_	0	root	_	_
+4	kollox	_	PRON	PRON_INDEF	_	3	obj	_	_
+5	minn	_	ADP	PREP	_	6	case	_	_
+6	liquidizer	_	NOUN	NOUN	_	3	obl	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	erġa'	_	VERB	VERB	_	3	conj	_	_
+9	itfa'	_	VERB	VERB	_	8	xcomp	_	_
+10	fil-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	borma	_	NOUN	NOUN	_	9	obl	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 54_01N11:12
+# text = Żid il-melħ u l-bżar kemm tiggosta.
+1	Żid	_	VERB	VERB	_	0	root	_	_
+2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	melħ	_	NOUN	NOUN	_	1	obj	_	_
+4	u	_	CCONJ	CONJ_CORD	_	6	cc	_	_
+5	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	bżar	_	NOUN	NOUN	_	3	conj	_	_
+7	kemm	_	ADV	PRON_INT	_	8	advmod	_	_
+8	tiggosta	_	VERB	VERB	_	1	advcl	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 54_01N11:13
+# text = Jekk tara li s-soppa ġiet magħquda ħafna, żid ftit ilma jew stokk ieħor tal-ħaxix.
+1	Jekk	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	tara	_	VERB	VERB	_	10	advcl	_	_
+3	li	_	SCONJ	COMP	_	7	mark	_	_
+4	s-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	soppa	_	NOUN	NOUN	_	7	nsubj:pass	_	_
+6	ġiet	_	AUX	VERB	_	7	aux:pass	_	_
+7	magħquda	_	VERB	PART_PASS	_	2	ccomp	_	_
+8	ħafna	_	ADV	ADV	_	7	advmod	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	2	punct	_	_
+10	żid	_	VERB	VERB	_	0	root	_	_
+11	ftit	_	DET	QUAN	_	12	det	_	_
+12	ilma	_	NOUN	NOUN	_	10	obj	_	_
+13	jew	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+14	stokk	_	NOUN	NOUN	_	12	conj	_	_
+15	ieħor	_	ADJ	ADJ	_	14	amod	_	_
+16	tal-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	ħaxix	_	NOUN	NOUN	_	14	nmod:poss	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	10	punct	_	_
+
+# sent_id = 54_01N11:14
+# text = 5. Qabel isserviha saħħanha u itfa' t-tursin.
+1	5	_	NUM	X_DIG	_	5	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	Qabel	_	SCONJ	CONJ_SUB	_	4	mark	_	_
+4	isserviha	_	VERB	VERB	_	5	advcl	_	_
+5	saħħanha	_	VERB	VERB	_	0	root	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	itfa'	_	VERB	VERB	_	5	conj	_	_
+8	t-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	tursin	_	NOUN	NOUN	_	7	obj	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	5	punct	_	_
+

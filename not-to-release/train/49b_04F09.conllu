@@ -1,0 +1,365 @@
+# sent_id = 49b_04F09:1
+# text = 31. Il-Mappa għall-Ħelsien
+1	31	_	NUM	X_DIG	_	4	list	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+3	Il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	Mappa	_	NOUN	NOUN	_	0	root	_	_
+5	għall-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	Ħelsien	_	NOUN	NOUN	_	4	nmod	_	_
+
+# sent_id = 49b_04F09:2
+# text = Il-Ġimgħa, 17 ta' April 2020
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	Ġimgħa	_	PROPN	NOUN_PROP	_	0	root	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	17	_	NUM	X_DIG	_	2	appos	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	April	_	PROPN	NOUN_PROP	_	4	nmod:poss	_	_
+7	2020	_	NUM	X_DIG	_	6	nummod	_	_
+
+# sent_id = 49b_04F09:3
+# text = Temperatura: 16 ° C
+1	Temperatura	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
+2	:	_	PUNCT	X_PUN	_	1	punct	_	_
+3	16	_	NUM	X_DIG	_	4	nummod	_	_
+4	°	_	SYM	X_PUN	_	1	list	_	_
+5	C	_	NOUN	X_ABV	_	4	nmod	_	_
+
+# sent_id = 49b_04F09:4
+# text = Sibt mappa biex noħorġu minn haw, kitbilha.
+1	Sibt	_	VERB	VERB	_	0	root	_	_
+2	mappa	_	NOUN	NOUN	_	1	obj	_	_
+3	biex	_	SCONJ	CONJ_SUB	_	4	mark	_	_
+4	noħorġu	_	VERB	VERB	_	1	xcomp	_	_
+5	minn	_	ADP	PREP	_	6	case	_	_
+6	haw	_	ADV	ADV	_	4	advmod	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	1	punct	_	_
+8	kitbilha	_	VERB	VERB	_	1	parataxis	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:5
+# text = Fej sibtha? staqsietu Elizabeth.
+1	Fej	_	ADV	PRON_INT	_	2	advmod	_	_
+2	sibtha	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	X_PUN	_	2	punct	_	_
+4	staqsietu	_	VERB	VERB	_	2	parataxis	_	_
+5	Elizabeth	_	PROPN	NOUN_PROP	_	4	nsubj	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 49b_04F09:6
+# text = Irbaħtha.
+1	Irbaħtha	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:7
+# text = Kelli noqtol għaliha.
+1	Kelli	_	VERB	VERB_PSEU	_	0	root	_	_
+2	noqtol	_	VERB	VERB	_	1	xcomp	_	_
+3	għaliha	_	PRON	PREP_PRON	_	2	obl	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:8
+# text = Lesta?
+1	Lesta	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+2	?	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:9
+# text = Jien iva.
+1	Jien	_	PRON	PRON_PERS	_	0	root	_	_
+2	iva	_	INTJ	INT	_	1	discourse	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:10
+# text = Se nkun nista' noħroġ?
+1	Se	_	AUX	FUT	_	3	aux:part	_	_
+2	nkun	_	AUX	KIEN	_	3	aux	_	_
+3	nista'	_	VERB	VERB	_	0	root	_	_
+4	noħroġ	_	VERB	VERB	_	3	xcomp	_	SpaceAfter=No
+5	?	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 49b_04F09:11
+# text = Se tħallini noħroġ?
+1	Se	_	AUX	FUT	_	2	aux:part	_	_
+2	tħallini	_	VERB	VERB	_	0	root	_	_
+3	noħroġ	_	VERB	VERB	_	2	xcomp	_	SpaceAfter=No
+4	?	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 49b_04F09:12
+# text = L-eċċitament li kienet qed tħoss Elizabeth waqt dan id-djalogu elettroniku kien qawwi, jekk mhux iktar, daqs dak li kienet tħoss meta kien għad kellha biss seba' jew tmien snin, meta dawn l-istejjer kienu jinħassu iktar reali mir-realtà ta' kuljum.
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	eċċitament	_	NOUN	NOUN	_	14	nsubj	_	_
+3	li	_	SCONJ	COMP	_	6	mark	_	_
+4	kienet	_	AUX	KIEN	_	6	aux	_	_
+5	qed	_	AUX	PROG	_	6	aux:part	_	_
+6	tħoss	_	VERB	VERB	_	2	acl	_	_
+7	Elizabeth	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
+8	waqt	_	ADP	PREP	_	11	case	_	_
+9	dan	_	PRON	PRON_DEM	_	11	det	_	_
+10	id-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	djalogu	_	NOUN	NOUN	_	6	obl	_	_
+12	elettroniku	_	ADJ	ADJ	_	11	amod	_	_
+13	kien	_	AUX	KIEN	_	14	cop	_	_
+14	qawwi	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+15	,	_	PUNCT	X_PUN	_	18	punct	_	_
+16	jekk	_	SCONJ	CONJ_SUB	_	18	mark	_	_
+17	mhux	_	AUX	PRON_PERS_NEG	_	18	aux:neg	_	_
+18	iktar	_	ADV	ADV	_	14	conj	_	SpaceAfter=No
+19	,	_	PUNCT	X_PUN	_	18	punct	_	_
+20	daqs	_	ADP	PREP	_	21	case	_	_
+21	dak	_	PRON	PRON_DEM	_	14	obl	_	_
+22	li	_	SCONJ	COMP	_	24	mark	_	_
+23	kienet	_	AUX	KIEN	_	24	aux	_	_
+24	tħoss	_	VERB	VERB	_	21	acl	_	_
+25	meta	_	SCONJ	CONJ_SUB	_	28	mark	_	_
+26	kien	_	AUX	KIEN	_	28	aux	_	_
+27	għad	_	AUX	VERB_PSEU	_	28	aux	_	_
+28	kellha	_	VERB	VERB_PSEU	_	24	advcl	_	_
+29	biss	_	ADV	FOC	_	30	discourse	_	_
+30	seba'	_	NUM	NUM_CRD	_	33	nummod	_	_
+31	jew	_	CCONJ	CONJ_CORD	_	32	cc	_	_
+32	tmien	_	NUM	NUM_CRD	_	30	conj	_	_
+33	snin	_	NOUN	NOUN	_	28	obj	_	SpaceAfter=No
+34	,	_	PUNCT	X_PUN	_	28	punct	_	_
+35	meta	_	SCONJ	CONJ_SUB	_	40	mark	_	_
+36	dawn	_	PRON	PRON_DEM	_	38	det	_	_
+37	l-	_	DET	DEF	_	38	det	_	SpaceAfter=No
+38	istejjer	_	NOUN	NOUN	_	40	nsubj:pass	_	_
+39	kienu	_	AUX	KIEN	_	40	aux	_	_
+40	jinħassu	_	VERB	VERB	_	28	conj	_	_
+41	iktar	_	ADV	ADV	_	42	advmod	_	_
+42	reali	_	ADJ	ADJ	_	40	xcomp	_	_
+43	mir-	_	ADP	PREP_DEF	_	44	case:det	_	SpaceAfter=No
+44	realtà	_	NOUN	NOUN	_	42	nmod	_	_
+45	ta'	_	ADP	GEN	_	46	case	_	_
+46	kuljum	_	ADV	ADV	_	44	nmod:poss	_	SpaceAfter=No
+47	.	_	PUNCT	X_PUN	_	14	punct	_	_
+
+# sent_id = 49b_04F09:13
+# text = Skont din il-mappa nistgħu nevitaw il-kanċell u ngħaddu minn taħt l-art.
+1	Skont	_	ADP	PREP	_	4	case	_	_
+2	din	_	PRON	PRON_DEM	_	4	det	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	mappa	_	NOUN	NOUN	_	5	obl	_	_
+5	nistgħu	_	VERB	VERB	_	0	root	_	_
+6	nevitaw	_	VERB	VERB	_	5	xcomp	_	_
+7	il-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	kanċell	_	NOUN	NOUN	_	6	obj	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	ngħaddu	_	VERB	VERB	_	6	conj	_	_
+11	minn	_	ADP	PREP	_	14	case	_	_
+12	taħt	_	ADP	PREP	_	14	case	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	art	_	NOUN	NOUN	_	10	obl	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 49b_04F09:14
+# text = Hemm passaġġ.
+1	Hemm	_	VERB	HEMM	_	0	root	_	_
+2	passaġġ	_	NOUN	NOUN	_	1	nsubj	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:15
+# text = Haw labirint sħiħ ta' passaġġi taħtna.
+1	Haw	_	VERB	HEMM	_	0	root	_	_
+2	labirint	_	NOUN	NOUN	_	1	nsubj	_	_
+3	sħiħ	_	ADJ	ADJ	_	2	amod	_	_
+4	ta'	_	ADP	GEN	_	5	case	_	_
+5	passaġġi	_	NOUN	NOUN	_	2	nmod:poss	_	_
+6	taħtna	_	PRON	PREP_PRON	_	1	obl	_	SpaceAfter=No
+7	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:16
+# text = Ilhom imħaffra sekli sħaħ.
+1	Ilhom	_	VERB	VERB_PSEU	_	0	root	_	_
+2	imħaffra	_	VERB	PART_PASS	_	1	xcomp	_	_
+3	sekli	_	NOUN	NOUN	_	2	obl	_	_
+4	sħaħ	_	ADJ	ADJ	_	3	amod	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:17
+# text = Jekk tieħu triq b'oħra ma ssibx irkaptu.
+1	Jekk	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	tieħu	_	VERB	VERB	_	7	advcl	_	_
+3	triq	_	NOUN	NOUN	_	2	obj	_	_
+4	b'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
+5	oħra	_	ADJ	ADJ	_	2	conj	_	orig_deprel=obj
+6	ma	_	PART	NEG	_	7	advmod:neg	_	_
+7	ssibx	_	VERB	VERB	_	0	root	_	_
+8	irkaptu	_	NOUN	NOUN	_	7	obj	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 49b_04F09:18
+# text = Irridu torċ, issuġġeriet.
+1	Irridu	_	VERB	VERB	_	0	root	_	_
+2	torċ	_	NOUN	NOUN	_	1	obj	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	1	punct	_	_
+4	issuġġeriet	_	VERB	VERB	_	1	parataxis	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:19
+# text = Għandi waħda.
+1	Għandi	_	VERB	VERB_PSEU	_	0	root	_	_
+2	waħda	_	NUM	NUM_WHD	_	1	obj	_	SpaceAfter=No
+3	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:20
+# text = Lesta?
+1	Lesta	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+2	?	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:21
+# text = Iva.
+1	Iva	_	INTJ	INT	_	0	root	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:22
+# text = Ma nistgħux immorru flimkien.
+1	Ma	_	PART	NEG	_	2	advmod:neg	_	_
+2	nistgħux	_	VERB	VERB	_	0	root	_	_
+3	immorru	_	VERB	VERB	_	2	xcomp	_	_
+4	flimkien	_	ADV	ADV	_	3	advmod	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 49b_04F09:23
+# text = Se nkun waħdi? staqsietu, kważi ttegħem is-sens ta' biża' marbut ma' din l-avventura.
+1	Se	_	AUX	FUT	_	3	aux:part	_	_
+2	nkun	_	AUX	KIEN	_	3	cop	_	_
+3	waħdi	_	ADV	ADV	_	0	root	_	SpaceAfter=No
+4	?	_	PUNCT	X_PUN	_	3	punct	_	_
+5	staqsietu	_	VERB	VERB	_	3	parataxis	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	5	punct	_	_
+7	kważi	_	ADV	ADV	_	8	advmod	_	_
+8	ttegħem	_	VERB	VERB	_	5	advcl	_	_
+9	is-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	sens	_	NOUN	NOUN	_	8	obj	_	_
+11	ta'	_	ADP	GEN	_	12	case	_	_
+12	biża'	_	NOUN	NOUN	_	10	nmod:poss	_	_
+13	marbut	_	VERB	PART_PASS	_	10	acl	_	_
+14	ma'	_	ADP	PREP	_	17	case	_	_
+15	din	_	PRON	PRON_DEM	_	17	det	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	avventura	_	NOUN	NOUN	_	13	obl	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 49b_04F09:24
+# text = Se nibda jien.
+1	Se	_	AUX	FUT	_	2	aux:part	_	_
+2	nibda	_	VERB	VERB	_	0	root	_	_
+3	jien	_	PRON	PRON_PERS	_	2	nsubj	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 49b_04F09:25
+# text = Int inżel warajja.
+1	Int	_	PRON	PRON_PERS	_	2	nsubj	_	_
+2	inżel	_	VERB	VERB	_	0	root	_	_
+3	warajja	_	PRON	PREP_PRON	_	2	obl	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 49b_04F09:26
+# text = Niltaqgħu n-naħa l-oħra.
+1	Niltaqgħu	_	VERB	VERB	_	0	root	_	_
+2	n-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	naħa	_	NOUN	NOUN	_	1	obl	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	oħra	_	ADJ	ADJ	_	3	amod	_	SpaceAfter=No
+6	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:27
+# text = Tajjeb?
+1	Tajjeb	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+2	?	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:28
+# text = Owkej.
+1	Owkej	_	INTJ	INT	_	0	root	_	SpaceAfter=No
+2	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:29
+# text = Niltaqgħu n-naħa l-oħra tal-Kanċell bħal-lum ġimgħa.
+1	Niltaqgħu	_	VERB	VERB	_	0	root	_	_
+2	n-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	naħa	_	NOUN	NOUN	_	1	obl	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	oħra	_	ADJ	ADJ	_	3	amod	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	Kanċell	_	NOUN	NOUN	_	3	nmod:poss	_	_
+8	bħal-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	lum	_	NOUN	NOUN	_	1	obl	_	_
+10	ġimgħa	_	NOUN	NOUN	_	9	nmod	_	SpaceAfter=No
+11	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:30
+# text = Tiftakar fejn qiegħed?
+1	Tiftakar	_	VERB	VERB	_	0	root	_	_
+2	fejn	_	ADV	PRON_INT	_	3	advmod	_	_
+3	qiegħed	_	VERB	PART_ACT	_	1	ccomp	_	SpaceAfter=No
+4	?	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:31
+# text = Elizabeth f'daqqa waħda ntebħet li André kien qed jirreferi għall-kanċell tal-iskola nnifsu.
+1	Elizabeth	_	PROPN	NOUN_PROP	_	5	nsubj	_	_
+2	f'	_	ADP	PREP	_	3	case	_	SpaceAfter=No
+3	daqqa	_	NOUN	NOUN	_	5	obl	_	_
+4	waħda	_	NUM	NUM_WHD	_	3	nummod	_	_
+5	ntebħet	_	VERB	VERB	_	0	root	_	_
+6	li	_	SCONJ	COMP	_	10	mark	_	_
+7	André	_	PROPN	NOUN_PROP	_	10	nsubj	_	_
+8	kien	_	AUX	KIEN	_	10	aux	_	_
+9	qed	_	AUX	PROG	_	10	aux:part	_	_
+10	jirreferi	_	VERB	VERB	_	5	ccomp	_	_
+11	għall-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	kanċell	_	NOUN	NOUN	_	10	obl:arg	_	_
+13	tal-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	iskola	_	NOUN	NOUN	_	12	nmod:poss	_	_
+15	nnifsu	_	NOUN	NOUN	_	12	nmod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	5	punct	_	_
+
+# sent_id = 49b_04F09:32
+# text = Ma kienx qed jistidinha li jerġgħu jiltaqgħu fuq il-Magna, iżda li jiltaqgħu fil-verità.
+1	Ma	_	PART	NEG	_	4	advmod:neg	_	_
+2	kienx	_	AUX	KIEN	_	4	aux	_	_
+3	qed	_	AUX	PROG	_	4	aux:part	_	_
+4	jistidinha	_	VERB	VERB	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	jerġgħu	_	VERB	VERB	_	4	ccomp	_	_
+7	jiltaqgħu	_	VERB	VERB	_	6	xcomp	_	_
+8	fuq	_	ADP	PREP	_	10	case	_	_
+9	il-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	Magna	_	NOUN	NOUN	_	7	obl	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	6	punct	_	_
+12	iżda	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+13	li	_	SCONJ	COMP	_	14	mark	_	_
+14	jiltaqgħu	_	VERB	VERB	_	6	conj	_	_
+15	fil-	_	ADP	PREP_DEF	_	16	case:det	_	SpaceAfter=No
+16	verità	_	NOUN	NOUN	_	14	obl	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 49b_04F09:33
+# text = Iva, wieġbet.
+1	Iva	_	INTJ	INT	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	wieġbet	_	VERB	VERB	_	1	parataxis	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:34
+# text = Kif nista' ninsa?
+1	Kif	_	ADV	PRON_INT	_	2	advmod	_	_
+2	nista'	_	VERB	VERB	_	0	root	_	_
+3	ninsa	_	VERB	VERB	_	2	xcomp	_	SpaceAfter=No
+4	?	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 49b_04F09:35
+# text = Narak bħal-lum ġimgħa.
+1	Narak	_	VERB	VERB	_	0	root	_	_
+2	bħal-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+3	lum	_	NOUN	NOUN	_	1	obl	_	_
+4	ġimgħa	_	NOUN	NOUN	_	3	nmod	_	SpaceAfter=No
+5	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 49b_04F09:36
+# text = Hemmhekk se nkun.
+1	Hemmhekk	_	ADV	ADV	_	0	root	_	_
+2	se	_	AUX	FUT	_	1	aux:part	_	_
+3	nkun	_	AUX	KIEN	_	1	cop	_	SpaceAfter=No
+4	.	_	PUNCT	X_PUN	_	1	punct	_	_
+

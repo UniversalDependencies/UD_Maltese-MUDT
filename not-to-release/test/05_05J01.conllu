@@ -1,0 +1,739 @@
+# sent_id = 05_05J01:1
+# text = TFAJLA TMUT BI TRASKURAĠNI?
+1	TFAJLA	_	NOUN	NOUN	_	2	nsubj	_	_
+2	TMUT	_	VERB	VERB	_	0	root	_	_
+3	BI	_	ADP	PREP	_	4	case	_	_
+4	TRASKURAĠNI	_	NOUN	NOUN	_	2	obl	_	SpaceAfter=No
+5	?	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 05_05J01:2
+# text = Koppja titlob inkjesta dwar il-mewt ta' bintha •
+1	Koppja	_	NOUN	NOUN	_	2	nsubj	_	_
+2	titlob	_	VERB	VERB	_	0	root	_	_
+3	inkjesta	_	NOUN	NOUN	_	2	obj	_	_
+4	dwar	_	ADP	PREP	_	6	case	_	_
+5	il-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	mewt	_	NOUN	NOUN	_	3	nmod	_	_
+7	ta'	_	ADP	GEN	_	8	case	_	_
+8	bintha	_	NOUN	NOUN	_	6	nmod:poss	_	_
+9	•	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 05_05J01:3
+# text = Eżattament bħal-lum seba' xhur ilu, koppja mis-Swieqi ħadet l-ikbar xokk ta' ħajjitha hekk kif tilfu lil binthom ta' 17-il sena.
+1	Eżattament	_	ADV	ADV	_	3	advmod	_	_
+2	bħal-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
+3	lum	_	NOUN	NOUN	_	11	obl	_	_
+4	seba'	_	NUM	NUM_CRD	_	5	nummod	_	_
+5	xhur	_	NOUN	NOUN	_	11	obl	_	_
+6	ilu	_	ADP	PREP	_	5	case	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	5	punct	_	_
+8	koppja	_	NOUN	NOUN	_	11	nsubj	_	_
+9	mis-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
+10	Swieqi	_	PROPN	NOUN_PROP	_	8	nmod	_	_
+11	ħadet	_	VERB	VERB	_	0	root	_	_
+12	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+13	ikbar	_	ADJ	ADJ	_	14	amod	_	_
+14	xokk	_	NOUN	NOUN	_	11	obj	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	ħajjitha	_	NOUN	NOUN	_	14	nmod:poss	_	_
+17	hekk	_	ADV	ADV	_	19	mark	_	_
+18	kif	_	PRON	PRON_INT	_	17	fixed	_	_
+19	tilfu	_	VERB	VERB	_	11	advcl	_	_
+20	lil	_	ADP	LIL	_	21	case	_	_
+21	binthom	_	NOUN	NOUN	_	19	obj	_	_
+22	ta'	_	ADP	GEN	_	24	case	_	_
+23	17-il	_	NUM	X_DIG	_	24	nummod	_	_
+24	sena	_	NOUN	NOUN	_	21	nmod:poss	_	SpaceAfter=No
+25	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 05_05J01:4
+# text = Illum, id-dwejjaq tal-koppja nbidlet f'rabja għall-fatt li għalkemm xahrejn ilu talbu li ssir inkjesta dwar il-mewt tagħha s'issa għadhom lanqas biss irċevew acknowledgment tat-talba tagħha.
+1	Illum	_	ADV	ADV	_	7	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	X_PUN	_	1	punct	_	_
+3	id-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	dwejjaq	_	NOUN	NOUN	_	7	nsubj:pass	_	_
+5	tal-	_	ADP	GEN_DEF	_	6	case:det	_	SpaceAfter=No
+6	koppja	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	nbidlet	_	VERB	VERB	_	0	root	_	_
+8	f'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+9	rabja	_	NOUN	NOUN	_	7	obl:arg	_	_
+10	għall-	_	ADP	PREP_DEF	_	11	case	_	SpaceAfter=No
+11	fatt	_	NOUN	NOUN	_	9	nmod	_	_
+12	li	_	SCONJ	COMP	_	26	mark	_	_
+13	għalkemm	_	SCONJ	CONJ_SUB	_	16	mark	_	_
+14	xahrejn	_	NOUN	NOUN	_	16	obl	_	_
+15	ilu	_	ADP	PREP	_	14	case	_	_
+16	talbu	_	VERB	VERB	_	26	advcl	_	_
+17	li	_	SCONJ	COMP	_	18	mark	_	_
+18	ssir	_	VERB	VERB	_	16	ccomp	_	_
+19	inkjesta	_	NOUN	NOUN	_	18	nsubj	_	_
+20	dwar	_	ADP	PREP	_	22	case	_	_
+21	il-	_	DET	DEF	_	22	det	_	SpaceAfter=No
+22	mewt	_	NOUN	NOUN	_	19	nmod	_	_
+23	tagħha	_	PRON	GEN_PRON	_	22	nmod:poss	_	_
+24	s'	_	ADP	PREP	_	25	case	_	SpaceAfter=No
+25	issa	_	ADV	ADV	_	29	advmod	_	_
+26	għadhom	_	VERB	VERB_PSEU	_	11	acl	_	_
+27	lanqas	_	ADV	FOC	_	29	advmod:neg	_	_
+28	biss	_	ADV	FOC	_	27	fixed	_	_
+29	irċevew	_	VERB	VERB	_	26	xcomp	_	_
+30	acknowledgment	_	NOUN	NOUN	_	29	obj	_	_
+31	tat-	_	ADP	GEN_DEF	_	32	case:det	_	SpaceAfter=No
+32	talba	_	NOUN	NOUN	_	30	nmod:poss	_	_
+33	tagħha	_	PRON	GEN_PRON	_	32	nmod:poss	_	SpaceAfter=No
+34	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 05_05J01:5
+# text = Il-koppja qed titlob inkjesta għax temmen li kienet it-traskuraġni ta' żewġ tobba li wasslu għall-mewt ta' binthom meta naqsu li jagħmlulha t-testijiet meħtieġa li suppost isiru meta jidhru s-sintomi li kellha.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	koppja	_	NOUN	NOUN	_	4	nsubj	_	_
+3	qed	_	AUX	PROG	_	4	aux:part	_	_
+4	titlob	_	VERB	VERB	_	0	root	_	_
+5	inkjesta	_	NOUN	NOUN	_	4	obj	_	_
+6	għax	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+7	temmen	_	VERB	VERB	_	4	advcl	_	_
+8	li	_	SCONJ	COMP	_	11	mark	_	_
+9	kienet	_	AUX	KIEN	_	11	cop	_	_
+10	it-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	traskuraġni	_	NOUN	NOUN	_	7	ccomp	_	_
+12	ta'	_	ADP	GEN	_	14	case	_	_
+13	żewġ	_	NUM	NUM_CRD	_	14	nummod	_	_
+14	tobba	_	NOUN	NOUN	_	11	nmod:poss	_	_
+15	li	_	SCONJ	COMP	_	16	mark	_	_
+16	wasslu	_	VERB	VERB	_	14	acl	_	_
+17	għall-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	mewt	_	NOUN	NOUN	_	16	obl	_	_
+19	ta'	_	ADP	GEN	_	20	case	_	_
+20	binthom	_	NOUN	NOUN	_	18	nmod:poss	_	_
+21	meta	_	SCONJ	CONJ_SUB	_	22	mark	_	_
+22	naqsu	_	VERB	VERB	_	16	advcl	_	_
+23	li	_	SCONJ	COMP	_	24	mark	_	_
+24	jagħmlulha	_	VERB	VERB	_	22	xcomp	_	_
+25	t-	_	DET	DEF	_	26	det	_	SpaceAfter=No
+26	testijiet	_	NOUN	NOUN	_	24	obj	_	_
+27	meħtieġa	_	VERB	PART_PASS	_	26	amod	_	_
+28	li	_	SCONJ	COMP	_	30	mark	_	_
+29	suppost	_	ADV	ADV	_	30	advmod	_	_
+30	isiru	_	VERB	VERB	_	26	acl	_	_
+31	meta	_	SCONJ	CONJ_SUB	_	32	mark	_	_
+32	jidhru	_	VERB	VERB	_	30	advcl	_	_
+33	s-	_	DET	DEF	_	34	det	_	SpaceAfter=No
+34	sintomi	_	NOUN	NOUN	_	32	nsubj	_	_
+35	li	_	SCONJ	COMP	_	36	mark	_	_
+36	kellha	_	VERB	VERB_PSEU	_	34	acl	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 05_05J01:6
+# text = Il-każ jikkonċerna lil Sharon Rodenas, l-unika wild tal-koppja Robert u Esmeralda mis-Swieqi.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	każ	_	NOUN	NOUN	_	3	nsubj	_	_
+3	jikkonċerna	_	VERB	VERB	_	0	root	_	_
+4	lil	_	ADP	LIL	_	5	case	_	_
+5	Sharon	_	PROPN	NOUN_PROP	_	3	obj	_	_
+6	Rodenas	_	PROPN	NOUN_PROP	_	5	flat:name	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	5	punct	_	_
+8	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+9	unika	_	ADJ	ADJ	_	10	amod	_	_
+10	wild	_	NOUN	NOUN	_	5	appos	_	_
+11	tal-	_	ADP	GEN_DEF	_	12	case:det	_	SpaceAfter=No
+12	koppja	_	NOUN	NOUN	_	13	compound	_	_
+13	Robert	_	PROPN	NOUN_PROP	_	10	nmod:poss	_	_
+14	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+15	Esmeralda	_	PROPN	NOUN_PROP	_	13	conj	_	_
+16	mis-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	Swieqi	_	PROPN	NOUN_PROP	_	13	nmod	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 05_05J01:7
+# text = Sa Mejju 2012, it-tfajla kienet xempju tas-saħħa u s-sbuħija.
+1	Sa	_	ADP	PREP	_	2	case	_	_
+2	Mejju	_	PROPN	NOUN_PROP	_	8	obl	_	_
+3	2012	_	NUM	X_DIG	_	2	nummod	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	2	punct	_	_
+5	it-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+6	tfajla	_	NOUN	NOUN	_	8	nsubj	_	_
+7	kienet	_	AUX	KIEN	_	8	cop	_	_
+8	xempju	_	NOUN	NOUN	_	0	root	_	_
+9	tas-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
+10	saħħa	_	NOUN	NOUN	_	8	nmod:poss	_	_
+11	u	_	CCONJ	CONJ_CORD	_	13	cc	_	_
+12	s-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	sbuħija	_	NOUN	NOUN	_	10	conj	_	SpaceAfter=No
+14	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 05_05J01:8
+# text = Tfajla ferriħija, maħbuba minn sħabha u intelliġenti tant li kienet qed iġġib marki għoljin fl-eżamijiet.
+1	Tfajla	_	NOUN	NOUN	_	0	root	_	_
+2	ferriħija	_	ADJ	ADJ	_	1	amod	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	maħbuba	_	VERB	PART_PASS	_	2	conj	_	_
+5	minn	_	ADP	PREP	_	6	case	_	_
+6	sħabha	_	NOUN	NOUN	_	4	obl:agent	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	intelliġenti	_	ADJ	ADJ	_	2	conj	_	_
+9	tant	_	ADV	ADV	_	8	advmod	_	_
+10	li	_	SCONJ	COMP	_	13	mark	_	_
+11	kienet	_	AUX	KIEN	_	13	aux	_	_
+12	qed	_	AUX	PROG	_	13	aux:part	_	_
+13	iġġib	_	VERB	VERB	_	9	advcl	_	_
+14	marki	_	NOUN	NOUN	_	13	obj	_	_
+15	għoljin	_	ADJ	ADJ	_	14	amod	_	_
+16	fl-	_	ADP	PREP_DEF	_	17	case:det	_	SpaceAfter=No
+17	eżamijiet	_	NOUN	NOUN	_	14	nmod	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	1	punct	_	_
+
+# sent_id = 05_05J01:9
+# text = Kien fl-imsemmi xahar li darba minnhom qabadha 'synus' u l-ġenituri iddeċidew li jeħduha għand it-tabib li taha l-antibijotiċi.
+1	Kien	_	AUX	KIEN	_	4	cop:expl	_	_
+2	fl-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
+3	imsemmi	_	VERB	PART_PASS	_	4	amod	_	_
+4	xahar	_	NOUN	NOUN	_	0	root	_	_
+5	li	_	SCONJ	COMP	_	8	mark	_	_
+6	darba	_	NOUN	NOUN	_	8	obl	_	_
+7	minnhom	_	PRON	PREP_PRON	_	6	nmod	_	_
+8	qabadha	_	VERB	VERB	_	4	ccomp	_	_
+9	'	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
+10	synus	_	NOUN	NOUN	_	8	nsubj	_	SpaceAfter=No
+11	'	_	PUNCT	X_PUN	_	8	punct	_	_
+12	u	_	CCONJ	CONJ_CORD	_	15	cc	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	ġenituri	_	NOUN	NOUN	_	15	nsubj	_	_
+15	iddeċidew	_	VERB	VERB	_	8	conj	_	_
+16	li	_	SCONJ	COMP	_	17	mark	_	_
+17	jeħduha	_	VERB	VERB	_	15	xcomp	_	_
+18	għand	_	ADP	PREP	_	20	case	_	_
+19	it-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	tabib	_	NOUN	NOUN	_	17	obl	_	_
+21	li	_	SCONJ	COMP	_	22	mark	_	_
+22	taha	_	VERB	VERB	_	20	acl	_	_
+23	l-	_	DET	DEF	_	24	det	_	SpaceAfter=No
+24	antibijotiċi	_	NOUN	NOUN	_	22	obj	_	SpaceAfter=No
+25	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 05_05J01:10
+# text = Għalkemm ħadet il-kors kollu, rasha baqgħet tuġagħha b'mod persistenti u bdiet tara doppju.
+1	Għalkemm	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	ħadet	_	VERB	VERB	_	8	advcl	_	_
+3	il-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	kors	_	NOUN	NOUN	_	2	obj	_	_
+5	kollu	_	DET	QUAN	_	4	det	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	rasha	_	NOUN	NOUN	_	8	nsubj	_	_
+8	baqgħet	_	VERB	VERB	_	0	root	_	_
+9	tuġagħha	_	VERB	VERB	_	8	xcomp	_	_
+10	b'	_	ADP	PREP	_	11	case	_	SpaceAfter=No
+11	mod	_	NOUN	NOUN	_	9	obl	_	_
+12	persistenti	_	ADJ	ADJ	_	11	amod	_	_
+13	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+14	bdiet	_	VERB	VERB	_	8	conj	_	_
+15	tara	_	VERB	VERB	_	14	xcomp	_	_
+16	doppju	_	ADV	ADV	_	15	advmod	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 05_05J01:11
+# text = Filgħaxija huma ħaduha l-Isptar Mater Dei fejn wara sitt siegħat jistennew daħħluha għand it-tabib li iktar tard il-ġenituri saru jafu li kien Junior Doctor.
+1	Filgħaxija	_	ADV	ADV	_	3	advmod	_	_
+2	huma	_	PRON	PRON_PERS	_	3	nsubj	_	_
+3	ħaduha	_	VERB	VERB	_	0	root	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Isptar	_	NOUN	NOUN	_	6	compound	_	_
+6	Mater	_	PROPN	NOUN_PROP	_	3	obl	_	_
+7	Dei	_	PROPN	NOUN_PROP	_	6	flat:name	_	_
+8	fejn	_	ADV	PRON_INT	_	13	advmod	_	_
+9	wara	_	ADP	PREP	_	11	case	_	_
+10	sitt	_	NUM	NUM_CRD	_	11	nummod	_	_
+11	siegħat	_	NOUN	NOUN	_	13	obl	_	_
+12	jistennew	_	VERB	VERB	_	11	acl	_	_
+13	daħħluha	_	VERB	VERB	_	6	acl	_	_
+14	għand	_	ADP	PREP	_	16	case	_	_
+15	it-	_	DET	DEF	_	16	det	_	SpaceAfter=No
+16	tabib	_	NOUN	NOUN	_	13	obl	_	_
+17	li	_	SCONJ	COMP	_	22	mark	_	_
+18	iktar	_	ADV	ADV	_	19	advmod	_	_
+19	tard	_	ADV	ADV	_	22	advmod	_	_
+20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	ġenituri	_	NOUN	NOUN	_	22	nsubj	_	_
+22	saru	_	VERB	VERB	_	16	acl	_	_
+23	jafu	_	VERB	VERB	_	22	xcomp	_	_
+24	li	_	SCONJ	COMP	_	27	mark	_	_
+25	kien	_	AUX	KIEN	_	27	cop	_	_
+26	Junior	_	ADJ	ADJ	_	27	amod	_	_
+27	Doctor	_	NOUN	NOUN	_	16	acl	_	SpaceAfter=No
+28	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 05_05J01:12
+# text = Wara li qalilhom li fl-opinjoni kienet ' migraine ', it-tabib daħal ġewwa u wara nofs siegħa ħareġ fejn wara qalilhom li ikkonsulta ma' ta' fuqu u ma kienx hemm bżonn ta' iktar testijiet.
+1	Wara	_	ADP	PREP	_	3	mark	_	_
+2	li	_	SCONJ	COMP	_	1	fixed	_	_
+3	qalilhom	_	VERB	VERB	_	14	advcl	_	_
+4	li	_	SCONJ	COMP	_	9	mark	_	_
+5	fl-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	opinjoni	_	NOUN	NOUN	_	9	obl	_	_
+7	kienet	_	AUX	KIEN	_	9	cop	_	_
+8	'	_	PUNCT	X_PUN	_	9	punct	_	_
+9	migraine	_	NOUN	NOUN	_	3	ccomp	_	_
+10	'	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
+11	,	_	PUNCT	X_PUN	_	9	punct	_	_
+12	it-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+13	tabib	_	NOUN	NOUN	_	14	nsubj	_	_
+14	daħal	_	VERB	VERB	_	0	root	_	_
+15	ġewwa	_	ADV	ADV	_	14	advmod	_	_
+16	u	_	CCONJ	CONJ_CORD	_	20	cc	_	_
+17	wara	_	ADP	PREP	_	18	case	_	_
+18	nofs	_	NUM	NUM_FRC	_	20	obl	_	_
+19	siegħa	_	NOUN	NOUN	_	18	nmod:poss	_	_
+20	ħareġ	_	VERB	VERB	_	14	conj	_	_
+21	fejn	_	ADV	PRON_INT	_	23	advmod	_	_
+22	wara	_	ADV	ADV	_	23	advmod	_	_
+23	qalilhom	_	VERB	VERB	_	20	advcl	_	_
+24	li	_	SCONJ	COMP	_	25	mark	_	_
+25	ikkonsulta	_	VERB	VERB	_	23	xcomp	_	_
+26	ma'	_	ADP	PREP	_	28	case	_	_
+27	ta'	_	ADP	GEN	_	28	case	_	_
+28	fuqu	_	PRON	PREP_PRON	_	25	obl:arg	_	_
+29	u	_	CCONJ	CONJ_CORD	_	32	cc	_	_
+30	ma	_	PART	NEG	_	32	advmod:neg	_	_
+31	kienx	_	AUX	KIEN	_	32	aux	_	_
+32	hemm	_	VERB	HEMM	_	25	conj	_	_
+33	bżonn	_	NOUN	NOUN	_	32	nsubj	_	_
+34	ta'	_	ADP	GEN	_	36	case	_	_
+35	iktar	_	ADJ	ADJ	_	36	amod	_	_
+36	testijiet	_	NOUN	NOUN	_	33	nmod:poss	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	14	punct	_	_
+
+# sent_id = 05_05J01:13
+# text = Li għamel it-tabib kien taha ' drip ' biex il-' paracetamol ' jaħdmu iktar malajr mill-pilloli ħalli ma tibqax muġugħa kif ukoll kitbilhom l-' paracetamol ' u l-Voltaren.
+1	Li	_	SCONJ	COMP	_	2	mark	_	_
+2	għamel	_	VERB	VERB	_	6	csubj	_	_
+3	it-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	tabib	_	NOUN	NOUN	_	2	nsubj	_	_
+5	kien	_	AUX	KIEN	_	6	cop	_	_
+6	taha	_	VERB	VERB	_	0	root	_	_
+7	'	_	PUNCT	X_PUN	_	8	punct	_	_
+8	drip	_	NOUN	NOUN	_	6	obj	_	_
+9	'	_	PUNCT	X_PUN	_	8	punct	_	_
+10	biex	_	SCONJ	CONJ_SUB	_	15	mark	_	_
+11	il-	_	DET	DEF	_	13	det	_	SpaceAfter=No
+12	'	_	PUNCT	X_PUN	_	13	punct	_	_
+13	paracetamol	_	NOUN	NOUN	_	15	nsubj	_	_
+14	'	_	PUNCT	X_PUN	_	13	punct	_	_
+15	jaħdmu	_	VERB	VERB	_	6	advcl	_	_
+16	iktar	_	ADV	ADV	_	17	advmod	_	_
+17	malajr	_	ADV	ADV	_	15	advmod	_	_
+18	mill-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
+19	pilloli	_	NOUN	NOUN	_	17	obl	_	_
+20	ħalli	_	SCONJ	CONJ_SUB	_	22	mark	_	_
+21	ma	_	PART	NEG	_	22	advmod:neg	_	_
+22	tibqax	_	VERB	VERB	_	15	advcl	_	_
+23	muġugħa	_	VERB	PART_PASS	_	22	xcomp	_	_
+24	kif	_	PRON	PRON_INT	_	26	cc	_	_
+25	ukoll	_	ADV	FOC	_	24	fixed	_	_
+26	kitbilhom	_	VERB	VERB	_	6	conj	_	_
+27	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+28	'	_	PUNCT	X_PUN	_	29	punct	_	_
+29	paracetamol	_	NOUN	NOUN	_	26	obj	_	_
+30	'	_	PUNCT	X_PUN	_	29	punct	_	_
+31	u	_	CCONJ	CONJ_CORD	_	33	cc	_	_
+32	l-	_	DET	DEF	_	33	det	_	SpaceAfter=No
+33	Voltaren	_	PROPN	NOUN_PROP	_	29	conj	_	SpaceAfter=No
+34	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 05_05J01:14
+# text = Wara jumejn, il-ġenituri reġgħu ħadu lil Sharon fl-emerġenza wara li bdiet tirrametti u l-kpiepel t'għajnejha bdew jingħalqu.
+1	Wara	_	ADP	PREP	_	2	case	_	_
+2	jumejn	_	NOUN	NOUN	_	6	obl	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	ġenituri	_	NOUN	NOUN	_	6	nsubj	_	_
+6	reġgħu	_	VERB	VERB	_	0	root	_	_
+7	ħadu	_	VERB	VERB	_	6	xcomp	_	_
+8	lil	_	ADP	LIL	_	9	case	_	_
+9	Sharon	_	PROPN	NOUN_PROP	_	7	obj	_	_
+10	fl-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
+11	emerġenza	_	NOUN	NOUN	_	7	obl	_	_
+12	wara	_	ADP	PREP	_	14	mark	_	_
+13	li	_	SCONJ	COMP	_	12	fixed	_	_
+14	bdiet	_	VERB	VERB	_	7	advcl	_	_
+15	tirrametti	_	VERB	VERB	_	14	xcomp	_	_
+16	u	_	CCONJ	CONJ_CORD	_	21	cc	_	_
+17	l-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	kpiepel	_	NOUN	NOUN	_	21	nsubj	_	_
+19	t'	_	ADP	GEN	_	20	case	_	SpaceAfter=No
+20	għajnejha	_	NOUN	NOUN	_	18	nmod:poss	_	_
+21	bdew	_	VERB	VERB	_	14	conj	_	_
+22	jingħalqu	_	VERB	VERB	_	21	xcomp	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	6	punct	_	_
+
+# sent_id = 05_05J01:15
+# text = Hemmhekk għamlu t-testijiet, fosthom l-MRI, fejn it-tobba tawhom l-aħbar ħażin li t-tifla kienet f'qagħda kritika.
+1	Hemmhekk	_	ADV	ADV	_	2	advmod	_	_
+2	għamlu	_	VERB	VERB	_	0	root	_	_
+3	t-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	testijiet	_	NOUN	NOUN	_	2	obj	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	8	punct	_	_
+6	fosthom	_	PRON	PREP_PRON	_	8	obl	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	MRI	_	NOUN	X_ABV	_	4	appos	_	SpaceAfter=No
+9	,	_	PUNCT	X_PUN	_	8	punct	_	_
+10	fejn	_	ADV	PRON_INT	_	13	advmod	_	_
+11	it-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	tobba	_	NOUN	NOUN	_	13	nsubj	_	_
+13	tawhom	_	VERB	VERB	_	2	advcl	_	_
+14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	aħbar	_	NOUN	NOUN	_	13	obj	_	_
+16	ħażin	_	ADJ	ADJ	_	15	amod	_	_
+17	li	_	SCONJ	COMP	_	22	mark	_	_
+18	t-	_	DET	DEF	_	19	det	_	SpaceAfter=No
+19	tifla	_	NOUN	NOUN	_	22	nsubj	_	_
+20	kienet	_	AUX	KIEN	_	22	cop	_	_
+21	f'	_	ADP	PREP	_	22	case	_	SpaceAfter=No
+22	qagħda	_	NOUN	NOUN	_	15	acl	_	_
+23	kritika	_	ADJ	ADJ	_	22	amod	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 05_05J01:16
+# text = Sharon ġiet ' sedated ' u ttellgħet l-ITU fejn bdew jippruvaw iraqqgħulha d-demm peress li kellha ' blood clot ' f'moħħha.
+1	Sharon	_	PROPN	NOUN_PROP	_	4	nsubj:pass	_	_
+2	ġiet	_	AUX	VERB	_	4	aux:pass	_	_
+3	'	_	PUNCT	X_PUN	_	4	punct	_	_
+4	sedated	_	VERB	PART_PASS	_	0	root	_	_
+5	'	_	PUNCT	X_PUN	_	4	punct	_	_
+6	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
+7	ttellgħet	_	VERB	VERB	_	4	conj	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	ITU	_	NOUN	X_ABV	_	7	obl	_	_
+10	fejn	_	ADV	PRON_INT	_	11	advmod	_	_
+11	bdew	_	VERB	VERB	_	9	acl	_	_
+12	jippruvaw	_	VERB	VERB	_	11	xcomp	_	_
+13	iraqqgħulha	_	VERB	VERB	_	12	xcomp	_	_
+14	d-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	demm	_	NOUN	NOUN	_	13	obj	_	_
+16	peress	_	ADP	PREP	_	18	mark	_	_
+17	li	_	SCONJ	COMP	_	16	fixed	_	_
+18	kellha	_	VERB	VERB_PSEU	_	13	advcl	_	_
+19	'	_	PUNCT	X_PUN	_	21	punct	_	_
+20	blood	_	ADJ	ADJ	_	21	amod	_	_
+21	clot	_	NOUN	NOUN	_	18	obj	_	_
+22	'	_	PUNCT	X_PUN	_	21	punct	_	_
+23	f'	_	ADP	PREP	_	24	case	_	SpaceAfter=No
+24	moħħha	_	NOUN	NOUN	_	18	obl	_	SpaceAfter=No
+25	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 05_05J01:17
+# text = Wara tliet ijiem fl-ITU, Sharon taha attakk tal-qalb.
+1	Wara	_	ADP	PREP	_	3	case	_	_
+2	tliet	_	NUM	NUM_CRD	_	3	nummod	_	_
+3	ijiem	_	NOUN	NOUN	_	8	obl	_	_
+4	fl-	_	ADP	PREP_DEF	_	5	case:det	_	SpaceAfter=No
+5	ITU	_	NOUN	X_ABV	_	3	nmod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	3	punct	_	_
+7	Sharon	_	PROPN	NOUN_PROP	_	8	obj	_	_
+8	taha	_	VERB	VERB	_	0	root	_	_
+9	attakk	_	NOUN	NOUN	_	8	nsubj	_	_
+10	tal-	_	ADP	GEN_DEF	_	11	case:det	_	SpaceAfter=No
+11	qalb	_	NOUN	NOUN	_	9	nmod:poss	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	8	punct	_	_
+
+# sent_id = 05_05J01:18
+# text = Għalkemm saru tentattivi biex jippruvaw isalvawha, saħħitha iggravat sakemm spiċċat tgħix bil-magna.
+1	Għalkemm	_	SCONJ	CONJ_SUB	_	2	mark	_	_
+2	saru	_	VERB	VERB	_	9	advcl	_	_
+3	tentattivi	_	NOUN	NOUN	_	2	nsubj	_	_
+4	biex	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	jippruvaw	_	VERB	VERB	_	3	acl	_	_
+6	isalvawha	_	VERB	VERB	_	5	xcomp	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	2	punct	_	_
+8	saħħitha	_	NOUN	NOUN	_	9	nsubj:pass	_	_
+9	iggravat	_	VERB	VERB	_	0	root	_	_
+10	sakemm	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+11	spiċċat	_	VERB	VERB	_	9	advcl	_	_
+12	tgħix	_	VERB	VERB	_	11	xcomp	_	_
+13	bil-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	magna	_	NOUN	NOUN	_	12	obl	_	SpaceAfter=No
+15	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+# sent_id = 05_05J01:19
+# text = Għalkemm il-ġenituri offrew li jagħtu l-organi tagħha, mill-isptar kienu nfurmati li peress li kellha infezzjoni ma riedux jieħdu riskju fuq ħaddieħor.
+1	Għalkemm	_	SCONJ	CONJ_SUB	_	4	mark	_	_
+2	il-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	ġenituri	_	NOUN	NOUN	_	4	nsubj	_	_
+4	offrew	_	VERB	VERB	_	14	advcl	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	jagħtu	_	VERB	VERB	_	4	xcomp	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	organi	_	NOUN	NOUN	_	6	obj	_	_
+9	tagħha	_	PRON	GEN_PRON	_	8	nmod:poss	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	4	punct	_	_
+11	mill-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	isptar	_	NOUN	NOUN	_	14	obl:agent	_	_
+13	kienu	_	AUX	KIEN	_	14	nsubj:pass	_	_
+14	nfurmati	_	VERB	PART_PASS	_	0	root	_	_
+15	li	_	SCONJ	COMP	_	21	mark	_	_
+16	peress	_	ADP	PREP	_	18	mark	_	_
+17	li	_	SCONJ	COMP	_	16	fixed	_	_
+18	kellha	_	VERB	VERB_PSEU	_	21	advcl	_	_
+19	infezzjoni	_	NOUN	NOUN	_	18	obj	_	_
+20	ma	_	PART	NEG	_	21	advmod:neg	_	_
+21	riedux	_	VERB	VERB	_	14	ccomp	_	_
+22	jieħdu	_	VERB	VERB	_	21	xcomp	_	_
+23	riskju	_	NOUN	NOUN	_	22	obj	_	_
+24	fuq	_	ADP	PREP	_	25	case	_	_
+25	ħaddieħor	_	PRON	PRON_INDEF	_	22	obl	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	14	punct	_	_
+
+# sent_id = 05_05J01:20
+# text = Kien għalhekk li xi jumejn wara, fis-7 ta' Ġunju 2012, il-magna li kienet qed iżżomm lil Sharon ħajja ntfiet.
+1	Kien	_	AUX	KIEN	_	2	cop:expl	_	_
+2	għalhekk	_	ADV	ADV	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	23	mark	_	_
+4	xi	_	DET	QUAN	_	5	det	_	_
+5	jumejn	_	NOUN	NOUN	_	23	obl	_	_
+6	wara	_	ADP	PREP	_	5	case	_	SpaceAfter=No
+7	,	_	PUNCT	X_PUN	_	9	punct	_	_
+8	fis-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	7	_	NUM	X_DIG	_	5	appos	_	_
+10	ta'	_	ADP	GEN	_	11	case	_	_
+11	Ġunju	_	PROPN	NOUN_PROP	_	9	nmod:poss	_	_
+12	2012	_	NUM	X_DIG	_	11	nummod	_	SpaceAfter=No
+13	,	_	PUNCT	X_PUN	_	9	punct	_	_
+14	il-	_	DET	DEF	_	15	det	_	SpaceAfter=No
+15	magna	_	NOUN	NOUN	_	23	nsubj:pass	_	_
+16	li	_	SCONJ	COMP	_	19	mark	_	_
+17	kienet	_	AUX	KIEN	_	19	aux	_	_
+18	qed	_	AUX	PROG	_	19	aux:part	_	_
+19	iżżomm	_	VERB	VERB	_	15	acl	_	_
+20	lil	_	ADP	LIL	_	21	case:det	_	_
+21	Sharon	_	PROPN	NOUN_PROP	_	19	obj	_	_
+22	ħajja	_	ADJ	ADJ	_	19	xcomp	_	_
+23	ntfiet	_	VERB	VERB	_	2	ccomp	_	SpaceAfter=No
+24	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 05_05J01:21
+# text = Robert qalilna li huma sabu għajnuna kbira mill-familjari u l-ħbieb u wara xahar tkellmu ma' avukatessa għax fil-fond ta' qalbhom kienu konvinti li binthom mietet minħabba t-traskuraġni ta' żewġ tobba.
+1	Robert	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+2	qalilna	_	VERB	VERB	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	5	mark	_	_
+4	huma	_	PRON	PRON_PERS	_	5	nsubj	_	_
+5	sabu	_	VERB	VERB	_	2	ccomp	_	_
+6	għajnuna	_	NOUN	NOUN	_	5	obj	_	_
+7	kbira	_	ADJ	ADJ	_	6	amod	_	_
+8	mill-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	familjari	_	NOUN	NOUN	_	5	obl	_	_
+10	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	ħbieb	_	NOUN	NOUN	_	9	conj	_	_
+13	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
+14	wara	_	ADP	PREP	_	15	case	_	_
+15	xahar	_	NOUN	NOUN	_	16	obl	_	_
+16	tkellmu	_	VERB	VERB	_	5	conj	_	_
+17	ma'	_	ADP	PREP	_	18	case	_	_
+18	avukatessa	_	NOUN	NOUN	_	16	obl:arg	_	_
+19	għax	_	SCONJ	CONJ_SUB	_	25	mark	_	_
+20	fil-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
+21	fond	_	NOUN	NOUN	_	25	obl	_	_
+22	ta'	_	ADP	GEN	_	23	case	_	_
+23	qalbhom	_	NOUN	NOUN	_	21	nmod:poss	_	_
+24	kienu	_	AUX	KIEN	_	25	cop	_	_
+25	konvinti	_	ADJ	ADJ	_	16	advcl	_	_
+26	li	_	SCONJ	COMP	_	28	mark	_	_
+27	binthom	_	NOUN	NOUN	_	28	nsubj	_	_
+28	mietet	_	VERB	VERB	_	25	ccomp	_	_
+29	minħabba	_	ADP	PREP	_	31	case	_	_
+30	t-	_	DET	DEF	_	31	det	_	SpaceAfter=No
+31	traskuraġni	_	NOUN	NOUN	_	28	obl	_	_
+32	ta'	_	ADP	GEN	_	34	case	_	_
+33	żewġ	_	NUM	NUM_CRD	_	34	nummod	_	_
+34	tobba	_	NOUN	NOUN	_	31	nmod:poss	_	SpaceAfter=No
+35	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 05_05J01:22
+# text = Huma tkellmu ma' konsulent mediku li wara li ra l-fajl dwar dak li għaddiet minnhom bintu qalilhom li mhux biss meta persuna jkollha 'double vision' u uġiegħ ta' ras persistenti jrid isir CET scan jew MRI, li fil-fatt ma sarx l-ewwel darba li Sharon ittieħdet l-isptar, imma li t-tfajla ma kellix meninġite kif issemma li kellha fiċ-ċertifikat tal-mewt.
+1	Huma	_	PRON	PRON_PERS	_	2	nsubj	_	_
+2	tkellmu	_	VERB	VERB	_	0	root	_	_
+3	ma'	_	ADP	PREP	_	4	case	_	_
+4	konsulent	_	NOUN	NOUN	_	2	obl:arg	_	_
+5	mediku	_	ADJ	ADJ	_	4	amod	_	_
+6	li	_	SCONJ	COMP	_	18	mark	_	_
+7	wara	_	ADP	PREP	_	9	mark	_	_
+8	li	_	SCONJ	COMP	_	7	fixed	_	_
+9	ra	_	VERB	VERB	_	18	advcl	_	_
+10	l-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	fajl	_	NOUN	NOUN	_	9	obj	_	_
+12	dwar	_	ADP	PREP	_	13	case	_	_
+13	dak	_	PRON	PRON_DEM	_	11	nmod	_	_
+14	li	_	SCONJ	COMP	_	15	mark	_	_
+15	għaddiet	_	VERB	VERB	_	13	acl	_	_
+16	minnhom	_	PRON	PREP_PRON	_	15	obl	_	_
+17	bintu	_	NOUN	NOUN	_	15	nsubj	_	_
+18	qalilhom	_	VERB	VERB	_	4	acl	_	_
+19	li	_	SCONJ	COMP	_	34	mark	_	_
+20	mhux	_	AUX	PRON_PERS_NEG	_	34	aux:neg	_	_
+21	biss	_	ADV	FOC	_	24	discourse	_	_
+22	meta	_	SCONJ	CONJ_SUB	_	24	mark	_	_
+23	persuna	_	NOUN	NOUN	_	24	nsubj	_	_
+24	jkollha	_	VERB	VERB_PSEU	_	35	advcl	_	_
+25	'	_	PUNCT	X_PUN	_	27	punct	_	SpaceAfter=No
+26	double	_	ADJ	ADJ	_	27	amod	_	_
+27	vision	_	NOUN	NOUN	_	24	obj	_	SpaceAfter=No
+28	'	_	PUNCT	X_PUN	_	27	punct	_	_
+29	u	_	CCONJ	CONJ_CORD	_	30	cc	_	_
+30	uġiegħ	_	NOUN	NOUN	_	27	conj	_	_
+31	ta'	_	ADP	GEN	_	32	case	_	_
+32	ras	_	NOUN	NOUN	_	30	nmod:poss	_	_
+33	persistenti	_	ADJ	ADJ	_	30	amod	_	_
+34	jrid	_	VERB	VERB	_	18	ccomp	_	_
+35	isir	_	VERB	VERB	_	34	xcomp	_	_
+36	CET	_	NOUN	X_ABV	_	37	amod	_	_
+37	scan	_	NOUN	NOUN	_	35	nsubj	_	_
+38	jew	_	CCONJ	CONJ_CORD	_	39	cc	_	_
+39	MRI	_	NOUN	X_ABV	_	37	conj	_	SpaceAfter=No
+40	,	_	PUNCT	X_PUN	_	37	punct	_	_
+41	li	_	SCONJ	COMP	_	45	mark	_	_
+42	fil-	_	ADP	PREP_DEF	_	43	case:det	_	SpaceAfter=No
+43	fatt	_	NOUN	NOUN	_	45	obl	_	_
+44	ma	_	PART	NEG	_	45	advmod:neg	_	_
+45	sarx	_	VERB	VERB	_	37	acl	_	_
+46	l-	_	DET	DEF	_	48	det	_	SpaceAfter=No
+47	ewwel	_	NUM	NUM_ORD	_	48	amod	_	_
+48	darba	_	NOUN	NOUN	_	45	obl	_	_
+49	li	_	SCONJ	COMP	_	51	mark	_	_
+50	Sharon	_	PROPN	NOUN_PROP	_	51	nsubj:pass	_	_
+51	ittieħdet	_	VERB	VERB	_	48	acl	_	_
+52	l-	_	DET	DEF	_	53	det	_	SpaceAfter=No
+53	isptar	_	NOUN	NOUN	_	51	obl	_	SpaceAfter=No
+54	,	_	PUNCT	X_PUN	_	35	punct	_	_
+55	imma	_	CCONJ	CONJ_CORD	_	60	cc	_	_
+56	li	_	SCONJ	COMP	_	60	mark	_	_
+57	t-	_	DET	DEF	_	58	det	_	SpaceAfter=No
+58	tfajla	_	NOUN	NOUN	_	60	nsubj	_	_
+59	ma	_	PART	NEG	_	60	advmod:neg	_	_
+60	kellix	_	VERB	VERB_PSEU	_	35	conj	_	_
+61	meninġite	_	NOUN	NOUN	_	60	obj	_	_
+62	kif	_	ADV	PRON_INT	_	63	advmod	_	_
+63	issemma	_	VERB	VERB	_	60	advcl	_	_
+64	li	_	SCONJ	COMP	_	65	mark	_	_
+65	kellha	_	VERB	VERB_PSEU	_	63	xcomp	_	_
+66	fiċ-	_	ADP	PREP_DEF	_	67	case:det	_	SpaceAfter=No
+67	ċertifikat	_	NOUN	NOUN	_	63	obl	_	_
+68	tal-	_	ADP	GEN_DEF	_	69	case:det	_	SpaceAfter=No
+69	mewt	_	NOUN	NOUN	_	67	nmod:poss	_	SpaceAfter=No
+70	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 05_05J01:23
+# text = Il-koppja iddeċidiet li tkellem avukat u fis-6 ta' Novembru li għadda talbet uffiċjalment liċ-Chief Medical Officer tal-Isptar Mater Dei biex tinfetaħ inkjesta kemm dwar il-mewt ta' binthom kif ukoll dwar id-deċiżjonijiet li ħadu t-tobba li rawha l-ewwel darba fl-isptar.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	koppja	_	NOUN	NOUN	_	3	nsubj	_	_
+3	iddeċidiet	_	VERB	VERB	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	tkellem	_	VERB	VERB	_	3	xcomp	_	_
+6	avukat	_	NOUN	NOUN	_	5	obj	_	_
+7	u	_	CCONJ	CONJ_CORD	_	14	cc	_	_
+8	fis-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
+9	6	_	NUM	X_DIG	_	14	obl	_	_
+10	ta'	_	ADP	GEN	_	11	case	_	_
+11	Novembru	_	PROPN	NOUN_PROP	_	9	nmod:poss	_	_
+12	li	_	SCONJ	COMP	_	13	mark	_	_
+13	għadda	_	VERB	VERB	_	11	acl	_	_
+14	talbet	_	VERB	VERB	_	5	conj	_	_
+15	uffiċjalment	_	ADV	ADV	_	14	advmod	_	_
+16	liċ-	_	ADP	LIL_DEF	_	19	case:det	_	SpaceAfter=No
+17	Chief	_	ADJ	ADJ	_	19	amod	_	_
+18	Medical	_	ADJ	ADJ	_	19	amod	_	_
+19	Officer	_	NOUN	NOUN	_	14	obj	_	_
+20	tal-	_	ADP	GEN_DEF	_	21	case:det	_	SpaceAfter=No
+21	Isptar	_	NOUN	NOUN	_	19	nmod:poss	_	_
+22	Mater	_	PROPN	NOUN_PROP	_	21	compound	_	_
+23	Dei	_	PROPN	NOUN_PROP	_	22	flat:name	_	_
+24	biex	_	SCONJ	CONJ_SUB	_	25	mark	_	_
+25	tinfetaħ	_	VERB	VERB	_	14	ccomp	_	_
+26	inkjesta	_	NOUN	NOUN	_	25	nsubj:pass	_	_
+27	kemm	_	CCONJ	PRON_INT	_	30	cc	_	_
+28	dwar	_	ADP	PREP	_	30	case	_	_
+29	il-	_	DET	DEF	_	30	det	_	SpaceAfter=No
+30	mewt	_	NOUN	NOUN	_	26	nmod	_	_
+31	ta'	_	ADP	GEN	_	32	case	_	_
+32	binthom	_	NOUN	NOUN	_	30	nmod:poss	_	_
+33	kif	_	CCONJ	PRON_INT	_	37	cc	_	_
+34	ukoll	_	ADV	FOC	_	33	fixed	_	_
+35	dwar	_	ADP	PREP	_	37	case	_	_
+36	id-	_	DET	DEF	_	37	det	_	SpaceAfter=No
+37	deċiżjonijiet	_	NOUN	NOUN	_	30	conj	_	_
+38	li	_	SCONJ	COMP	_	39	mark	_	_
+39	ħadu	_	VERB	VERB	_	37	acl	_	_
+40	t-	_	DET	DEF	_	41	det	_	SpaceAfter=No
+41	tobba	_	NOUN	NOUN	_	39	nsubj	_	_
+42	li	_	SCONJ	COMP	_	43	mark	_	_
+43	rawha	_	VERB	VERB	_	41	acl	_	_
+44	l-	_	DET	DEF	_	46	det	_	SpaceAfter=No
+45	ewwel	_	NUM	NUM_ORD	_	46	amod	_	_
+46	darba	_	NOUN	NOUN	_	43	obl	_	_
+47	fl-	_	ADP	PREP_DEF	_	48	case:det	_	SpaceAfter=No
+48	isptar	_	NOUN	NOUN	_	43	obl	_	SpaceAfter=No
+49	.	_	PUNCT	X_PUN	_	3	punct	_	_
+
+# sent_id = 05_05J01:24
+# text = Minkejja li għaddew xahrejn, sal-lum l-avukat tagħhom għadha ma rċeviet lanqas konferma tat-talba.
+1	Minkejja	_	ADP	PREP	_	3	mark	_	_
+2	li	_	SCONJ	COMP	_	1	fixed	_	_
+3	għaddew	_	VERB	VERB	_	11	advcl	_	_
+4	xahrejn	_	NOUN	NOUN	_	3	nsubj	_	SpaceAfter=No
+5	,	_	PUNCT	X_PUN	_	3	punct	_	_
+6	sal-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
+7	lum	_	NOUN	NOUN	_	11	obl	_	_
+8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
+9	avukat	_	NOUN	NOUN	_	11	nsubj	_	_
+10	tagħhom	_	PRON	GEN_PRON	_	9	nmod:poss	_	_
+11	għadha	_	VERB	VERB_PSEU	_	0	root	_	_
+12	ma	_	PART	NEG	_	13	advmod:neg	_	_
+13	rċeviet	_	VERB	VERB	_	11	xcomp	_	_
+14	lanqas	_	ADV	FOC	_	15	discourse	_	_
+15	konferma	_	NOUN	NOUN	_	13	obj	_	_
+16	tat-	_	ADP	GEN_DEF	_	17	case:det	_	SpaceAfter=No
+17	talba	_	NOUN	NOUN	_	15	nmod:poss	_	SpaceAfter=No
+18	.	_	PUNCT	X_PUN	_	11	punct	_	_
+
+# sent_id = 05_05J01:25
+# text = Missier it-tfajla insista magħna li huwa mhux biss irid li jrid issir ġustizzja ma' bintu imma li każ bħal dan ma jiġix ripetut ħalli b'hekk ma jkunx hemm ġenituri li jgħaddu mill-istess trawma li għaddew huwa u martu.
+1	Missier	_	NOUN	NOUN	_	4	nsubj	_	_
+2	it-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	tfajla	_	NOUN	NOUN	_	1	nmod:poss	_	_
+4	insista	_	VERB	VERB	_	0	root	_	_
+5	magħna	_	PRON	PREP_PRON	_	4	obl	_	_
+6	li	_	SCONJ	COMP	_	10	mark	_	_
+7	huwa	_	PRON	PRON_PERS	_	10	nsubj	_	_
+8	mhux	_	AUX	PRON_PERS_NEG	_	10	aux:neg	_	_
+9	biss	_	ADV	FOC	_	10	discourse	_	_
+10	irid	_	VERB	VERB	_	4	ccomp	_	_
+11	li	_	SCONJ	COMP	_	12	mark	_	_
+12	jrid	_	VERB	VERB	_	10	xcomp	_	_
+13	issir	_	VERB	VERB	_	12	ccomp	_	_
+14	ġustizzja	_	NOUN	NOUN	_	13	nsubj	_	_
+15	ma'	_	ADP	PREP	_	16	case	_	_
+16	bintu	_	NOUN	NOUN	_	13	obl	_	_
+17	imma	_	CCONJ	CONJ_CORD	_	24	cc	_	_
+18	li	_	SCONJ	COMP	_	24	mark	_	_
+19	każ	_	NOUN	NOUN	_	24	nsubj:pass	_	_
+20	bħal	_	ADP	PREP	_	21	case	_	_
+21	dan	_	PRON	PRON_DEM	_	19	nmod	_	_
+22	ma	_	PART	NEG	_	24	advmod:neg	_	_
+23	jiġix	_	AUX	VERB	_	24	aux:pass	_	_
+24	ripetut	_	VERB	PART_PASS	_	13	conj	_	_
+25	ħalli	_	SCONJ	CONJ_SUB	_	30	mark	_	_
+26	b'	_	ADP	PREP	_	27	case	_	SpaceAfter=No
+27	hekk	_	ADV	ADV	_	30	advmod	_	_
+28	ma	_	PART	NEG	_	30	advmod:neg	_	_
+29	jkunx	_	AUX	KIEN	_	30	aux	_	_
+30	hemm	_	VERB	HEMM	_	24	advcl	_	_
+31	ġenituri	_	NOUN	NOUN	_	30	nsubj	_	_
+32	li	_	SCONJ	COMP	_	33	mark	_	_
+33	jgħaddu	_	VERB	VERB	_	31	acl	_	_
+34	mill-	_	ADP	PREP_DEF	_	36	case:det	_	SpaceAfter=No
+35	istess	_	ADJ	ADJ	_	36	amod	_	_
+36	trawma	_	NOUN	NOUN	_	33	obl	_	_
+37	li	_	SCONJ	COMP	_	38	mark	_	_
+38	għaddew	_	VERB	VERB	_	36	acl	_	_
+39	huwa	_	PRON	PRON_PERS	_	38	nsubj	_	_
+40	u	_	CCONJ	CONJ_CORD	_	41	cc	_	_
+41	martu	_	NOUN	NOUN	_	39	conj	_	SpaceAfter=No
+42	.	_	PUNCT	X_PUN	_	4	punct	_	_
+

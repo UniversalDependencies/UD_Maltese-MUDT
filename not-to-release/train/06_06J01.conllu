@@ -1,0 +1,247 @@
+# sent_id = 06_06J01:1
+# text = Fid-daħla tiegħu l-Belt, ir-Re tal-Karnival ilbieraħ kellu warajh folla ta' protesta.
+1	Fid-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	daħla	_	NOUN	NOUN	_	12	obl	_	_
+3	tiegħu	_	PRON	GEN_PRON	_	2	nmod:poss	_	_
+4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Belt	_	NOUN	NOUN	_	2	nmod	_	SpaceAfter=No
+6	,	_	PUNCT	X_PUN	_	2	punct	_	_
+7	ir-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	Re	_	NOUN	NOUN	_	12	nsubj	_	_
+9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
+10	Karnival	_	NOUN	NOUN	_	8	nmod:poss	_	_
+11	ilbieraħ	_	ADV	ADV	_	12	advmod	_	_
+12	kellu	_	VERB	VERB_PSEU	_	0	root	_	_
+13	warajh	_	PRON	PREP_PRON	_	12	obl	_	_
+14	folla	_	NOUN	NOUN	_	12	obj	_	_
+15	ta'	_	ADP	GEN	_	16	case	_	_
+16	protesta	_	NOUN	NOUN	_	14	nmod:poss	_	SpaceAfter=No
+17	.	_	PUNCT	X_PUN	_	12	punct	_	_
+
+# sent_id = 06_06J01:2
+# text = B'kartelluni b'messaġġi ta' għadab ħaddiema li jarmaw il-karrijiet tal-Karnival ipprotestaw kontra l-fatt li l-Gvern baqa' ma provdilhomx post alternattiv fejn jibnu l-karrijiet.
+1	B'	_	ADP	PREP	_	2	case	_	SpaceAfter=No
+2	kartelluni	_	NOUN	NOUN	_	14	obl	_	_
+3	b'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
+4	messaġġi	_	NOUN	NOUN	_	2	nmod	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	għadab	_	NOUN	NOUN	_	4	nmod:poss	_	_
+7	ħaddiema	_	NOUN	NOUN	_	14	nsubj	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	jarmaw	_	VERB	VERB	_	7	acl	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	karrijiet	_	NOUN	NOUN	_	9	obj	_	_
+12	tal-	_	ADP	GEN_DEF	_	13	case:det	_	SpaceAfter=No
+13	Karnival	_	NOUN	NOUN	_	11	nmod:poss	_	_
+14	ipprotestaw	_	VERB	VERB	_	0	root	_	_
+15	kontra	_	ADP	PREP	_	17	case	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	fatt	_	NOUN	NOUN	_	14	obl:arg	_	_
+18	li	_	SCONJ	COMP	_	21	mark	_	_
+19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	Gvern	_	NOUN	NOUN	_	21	nsubj	_	_
+21	baqa'	_	VERB	VERB	_	17	acl	_	_
+22	ma	_	PART	NEG	_	23	advmod:neg	_	_
+23	provdilhomx	_	VERB	VERB	_	21	xcomp	_	_
+24	post	_	NOUN	NOUN	_	23	obj	_	_
+25	alternattiv	_	ADJ	ADJ	_	24	amod	_	_
+26	fejn	_	ADV	PRON_INT	_	27	advmod	_	_
+27	jibnu	_	VERB	VERB	_	24	acl	_	_
+28	l-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	karrijiet	_	NOUN	NOUN	_	27	obj	_	SpaceAfter=No
+30	.	_	PUNCT	X_PUN	_	14	punct	_	_
+
+# sent_id = 06_06J01:3
+# text = Il-mijiet ta' nies li telgħu l-Belt biex igawdu l-Karnival laqgħu b'applaws din il-protesta mill-ħaddiema tal-karrijiet.
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	mijiet	_	NOUN	NOUN	_	13	nsubj	_	_
+3	ta'	_	ADP	GEN	_	4	case	_	_
+4	nies	_	NOUN	NOUN	_	2	nmod:poss	_	_
+5	li	_	SCONJ	COMP	_	6	mark	_	_
+6	telgħu	_	VERB	VERB	_	2	acl	_	_
+7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
+8	Belt	_	NOUN	NOUN	_	6	obl	_	_
+9	biex	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+10	igawdu	_	VERB	VERB	_	6	advcl	_	_
+11	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+12	Karnival	_	NOUN	NOUN	_	10	obj	_	_
+13	laqgħu	_	VERB	VERB	_	0	root	_	_
+14	b'	_	ADP	PREP	_	15	case	_	SpaceAfter=No
+15	applaws	_	NOUN	NOUN	_	13	obl	_	_
+16	din	_	PRON	PRON_DEM	_	18	det	_	_
+17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
+18	protesta	_	NOUN	NOUN	_	13	obj	_	_
+19	mill-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
+20	ħaddiema	_	NOUN	NOUN	_	18	nmod	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	karrijiet	_	NOUN	NOUN	_	20	nmod:poss	_	SpaceAfter=No
+23	.	_	PUNCT	X_PUN	_	13	punct	_	_
+
+# sent_id = 06_06J01:4
+# text = Kartelluni minnhom saħansitra staqsew jekk dan hux se jkun l-aħħar Karnival.
+1	Kartelluni	_	NOUN	NOUN	_	4	nsubj	_	_
+2	minnhom	_	PRON	PREP_PRON	_	1	nmod	_	_
+3	saħansitra	_	ADV	FOC	_	4	discourse	_	_
+4	staqsew	_	VERB	VERB	_	0	root	_	_
+5	jekk	_	SCONJ	CONJ_SUB	_	12	mark	_	_
+6	dan	_	PRON	PRON_DEM	_	12	nsubj	_	_
+7	hux	_	AUX	PRON_PERS	_	12	aux:part	_	_
+8	se	_	AUX	FUT	_	12	aux:part	_	_
+9	jkun	_	AUX	KIEN	_	12	cop	_	_
+10	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+11	aħħar	_	ADJ	ADJ	_	12	amod	_	_
+12	Karnival	_	NOUN	NOUN	_	4	ccomp	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 06_06J01:5
+# text = Oħrajn staqsew kif il-Gvern irid jeqred attrazzjoni turistika bħal Karnival.
+1	Oħrajn	_	NOUN	NOUN	_	2	nsubj	_	_
+2	staqsew	_	VERB	VERB	_	0	root	_	_
+3	kif	_	ADV	PRON_INT	_	6	advmod	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Gvern	_	NOUN	NOUN	_	6	nsubj	_	_
+6	irid	_	VERB	VERB	_	2	ccomp	_	_
+7	jeqred	_	VERB	VERB	_	6	xcomp	_	_
+8	attrazzjoni	_	NOUN	NOUN	_	7	obj	_	_
+9	turistika	_	ADJ	ADJ	_	8	amod	_	_
+10	bħal	_	ADP	PREP	_	11	case	_	_
+11	Karnival	_	NOUN	NOUN	_	8	nmod	_	SpaceAfter=No
+12	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+# sent_id = 06_06J01:6
+# text = Din is-saga ilha għaddejja s-snin imma laħqet il-qofol tagħha f'dawn l-aħħar ġimgħat hekk kif il-Gvern ħareġ ordni ta' evakwazzjoni ta' dawn il-bennejja minn Sant Iermu u minn Ħal Luqa.
+1	Din	_	PRON	PRON_DEM	_	3	det	_	_
+2	is-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	saga	_	NOUN	NOUN	_	4	nsubj	_	_
+4	ilha	_	VERB	VERB_PSEU	_	0	root	_	_
+5	għaddejja	_	VERB	PART_ACT	_	4	xcomp	_	_
+6	s-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	snin	_	NOUN	NOUN	_	5	obl	_	_
+8	imma	_	CCONJ	CONJ_CORD	_	9	cc	_	_
+9	laħqet	_	VERB	VERB	_	5	conj	_	_
+10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
+11	qofol	_	NOUN	NOUN	_	9	obj	_	_
+12	tagħha	_	PRON	GEN_PRON	_	11	nmod:poss	_	_
+13	f'	_	ADP	PREP	_	17	case	_	SpaceAfter=No
+14	dawn	_	PRON	PRON_DEM	_	17	det	_	_
+15	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+16	aħħar	_	ADJ	ADJ	_	17	amod	_	_
+17	ġimgħat	_	NOUN	NOUN	_	11	obl	_	_
+18	hekk	_	ADV	ADV	_	22	mark	_	_
+19	kif	_	PRON	PRON_INT	_	18	fixed	_	_
+20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
+21	Gvern	_	NOUN	NOUN	_	22	nsubj	_	_
+22	ħareġ	_	VERB	VERB	_	9	advcl	_	_
+23	ordni	_	NOUN	NOUN	_	22	obj	_	_
+24	ta'	_	ADP	GEN	_	25	case	_	_
+25	evakwazzjoni	_	NOUN	NOUN	_	23	nmod:poss	_	_
+26	ta'	_	ADP	GEN	_	29	case	_	_
+27	dawn	_	PRON	PRON_DEM	_	29	det	_	_
+28	il-	_	DET	DEF	_	29	det	_	SpaceAfter=No
+29	bennejja	_	NOUN	NOUN	_	25	nmod:poss	_	_
+30	minn	_	ADP	PREP	_	32	case	_	_
+31	Sant	_	PROPN	NOUN_PROP	_	32	amod	_	_
+32	Iermu	_	PROPN	NOUN_PROP	_	25	nmod	_	_
+33	u	_	CCONJ	CONJ_CORD	_	35	cc	_	_
+34	minn	_	ADP	PREP	_	35	case	_	_
+35	Ħal	_	PROPN	NOUN_PROP	_	32	conj	_	_
+36	Luqa	_	PROPN	NOUN_PROP	_	35	flat:name	_	SpaceAfter=No
+37	.	_	PUNCT	X_PUN	_	4	punct	_	_
+
+# sent_id = 06_06J01:7
+# text = Fl-elezzjoni ġenerali li għaddiet il-Partit Nazzjonalista b'wegħda elettorali numru 296 qal li "se jinbena l-Villaġġ tal-Karnival, inkluż mużew permanenti li jservi biex jimplimentaw programm ġenerali għat-tisħiħ tal-arti u s-snajja etniċi."
+1	Fl-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
+2	elezzjoni	_	NOUN	NOUN	_	14	obl	_	_
+3	ġenerali	_	ADJ	ADJ	_	2	amod	_	_
+4	li	_	SCONJ	COMP	_	5	mark	_	_
+5	għaddiet	_	VERB	VERB	_	2	acl	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	Partit	_	NOUN	NOUN	_	14	nsubj	_	_
+8	Nazzjonalista	_	ADJ	ADJ	_	7	amod	_	_
+9	b'	_	ADP	PREP	_	10	case	_	SpaceAfter=No
+10	wegħda	_	NOUN	NOUN	_	14	obl	_	_
+11	elettorali	_	ADJ	ADJ	_	10	amod	_	_
+12	numru	_	NOUN	NOUN	_	10	compound	_	_
+13	296	_	NUM	X_DIG	_	12	nummod	_	_
+14	qal	_	VERB	VERB	_	0	root	_	_
+15	li	_	SCONJ	COMP	_	18	mark	_	_
+16	"	_	PUNCT	X_PUN	_	18	punct	_	SpaceAfter=No
+17	se	_	AUX	FUT	_	18	aux:part	_	_
+18	jinbena	_	VERB	VERB	_	14	ccomp	_	_
+19	l-	_	DET	DEF	_	20	det	_	SpaceAfter=No
+20	Villaġġ	_	NOUN	NOUN	_	18	nsubj:pass	_	_
+21	tal-	_	ADP	GEN_DEF	_	22	case:det	_	SpaceAfter=No
+22	Karnival	_	NOUN	NOUN	_	20	nmod:poss	_	SpaceAfter=No
+23	,	_	PUNCT	X_PUN	_	22	punct	_	_
+24	inkluż	_	VERB	PART_PASS	_	25	case	_	_
+25	mużew	_	NOUN	NOUN	_	20	nmod	_	_
+26	permanenti	_	ADJ	ADJ	_	25	amod	_	_
+27	li	_	SCONJ	COMP	_	28	mark	_	_
+28	jservi	_	VERB	VERB	_	25	acl	_	_
+29	biex	_	SCONJ	CONJ_SUB	_	30	mark	_	_
+30	jimplimentaw	_	VERB	VERB	_	28	ccomp	_	_
+31	programm	_	NOUN	NOUN	_	30	obj	_	_
+32	ġenerali	_	ADJ	ADJ	_	31	amod	_	_
+33	għat-	_	ADP	PREP_DEF	_	34	case:det	_	SpaceAfter=No
+34	tisħiħ	_	NOUN	NOUN	_	31	nmod	_	_
+35	tal-	_	ADP	GEN_DEF	_	36	case:det	_	SpaceAfter=No
+36	arti	_	NOUN	NOUN	_	34	nmod:poss	_	_
+37	u	_	CCONJ	CONJ_CORD	_	39	cc	_	_
+38	s-	_	DET	DEF	_	39	det	_	SpaceAfter=No
+39	snajja	_	NOUN	NOUN	_	36	conj	_	_
+40	etniċi	_	ADJ	ADJ	_	39	amod	_	SpaceAfter=No
+41	.	_	PUNCT	X_PUN	_	14	punct	_	SpaceAfter=No
+42	"	_	PUNCT	X_PUN	_	41	punct	_	_
+
+# sent_id = 06_06J01:8
+# text = Dan l-aħħar il-Gvern kien ippropona li l-organizzaturi jiċċaqalqu għal Ta' Qali imma l-ħaddiema sostnew li dan hu wisq 'l bogħod għalihom.
+1	Dan	_	PRON	PRON_DEM	_	3	det	_	_
+2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
+3	aħħar	_	NOUN	NOUN	_	7	obl	_	_
+4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	Gvern	_	NOUN	NOUN	_	7	nsubj	_	_
+6	kien	_	AUX	KIEN	_	7	aux	_	_
+7	ippropona	_	VERB	VERB	_	0	root	_	_
+8	li	_	SCONJ	COMP	_	11	mark	_	_
+9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
+10	organizzaturi	_	NOUN	NOUN	_	11	nsubj	_	_
+11	jiċċaqalqu	_	VERB	VERB	_	7	ccomp	_	_
+12	għal	_	ADP	PREP	_	14	case	_	_
+13	Ta'	_	ADP	GEN	_	14	case	_	_
+14	Qali	_	PROPN	NOUN_PROP	_	11	obl	_	_
+15	imma	_	CCONJ	CONJ_CORD	_	18	cc	_	_
+16	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
+17	ħaddiema	_	NOUN	NOUN	_	18	nsubj	_	_
+18	sostnew	_	VERB	VERB	_	7	conj	_	_
+19	li	_	SCONJ	COMP	_	24	mark	_	_
+20	dan	_	PRON	PRON_DEM	_	24	nsubj	_	_
+21	hu	_	PRON	PRON_PERS	_	24	cop	_	_
+22	wisq	_	ADV	ADV	_	24	advmod	_	_
+23	'l	_	ADP	PREP	_	24	case	_	_
+24	bogħod	_	NOUN	NOUN	_	18	ccomp	_	_
+25	għalihom	_	PRON	PREP_PRON	_	24	nmod	_	SpaceAfter=No
+26	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+# sent_id = 06_06J01:9
+# text = Talba li għamlu s-sidien tal-karrijiet biex jibdew jużaw fabbrika mitluq fil-Marsa ma ntlaqgħetx mill-Malta Enterprise.
+1	Talba	_	NOUN	NOUN	_	16	nsubj:pass	_	_
+2	li	_	SCONJ	COMP	_	3	mark	_	_
+3	għamlu	_	VERB	VERB	_	1	acl	_	_
+4	s-	_	DET	DEF	_	5	det	_	SpaceAfter=No
+5	sidien	_	NOUN	NOUN	_	3	nsubj	_	_
+6	tal-	_	ADP	GEN_DEF	_	7	case:det	_	SpaceAfter=No
+7	karrijiet	_	NOUN	NOUN	_	5	nmod:poss	_	_
+8	biex	_	SCONJ	CONJ_SUB	_	9	mark	_	_
+9	jibdew	_	VERB	VERB	_	1	acl	_	_
+10	jużaw	_	VERB	VERB	_	9	xcomp	_	_
+11	fabbrika	_	NOUN	NOUN	_	10	obj	_	_
+12	mitluq	_	VERB	PART_PASS	_	11	acl	_	_
+13	fil-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
+14	Marsa	_	PROPN	NOUN_PROP	_	12	obl	_	_
+15	ma	_	PART	NEG	_	16	advmod:neg	_	_
+16	ntlaqgħetx	_	VERB	VERB	_	0	root	_	_
+17	mill-	_	ADP	PREP_DEF	_	18	case:det	_	SpaceAfter=No
+18	Malta	_	PROPN	NOUN_PROP	_	16	obl:agent	_	_
+19	Enterprise	_	PROPN	NOUN_PROP	_	18	flat:name	_	SpaceAfter=No
+20	.	_	PUNCT	X_PUN	_	16	punct	_	_
+
