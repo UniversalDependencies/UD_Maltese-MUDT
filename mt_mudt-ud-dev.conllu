@@ -8004,7 +8004,7 @@
 22	minn	_	ADP	PREP	_	23	case	_	_
 23	kompetizzjoni	_	NOUN	NOUN	_	18	obl	_	_
 24	għal	_	ADP	PREP	_	25	case	_	_
-25	oħra	_	ADJ	ADJ	_	18	conj	_	orig_deprel=obl|SpaceAfter=No
+25	oħra	_	ADJ	ADJ	_	23	nmod	_	SpaceAfter=No
 26	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 23_03J03:17
@@ -8542,9 +8542,9 @@
 17	aktar	_	ADV	ADV	_	16	advmod	_	_
 18	lill-	_	ADP	LIL_DEF	_	19	case:det	_	SpaceAfter=No
 19	kantant	_	NOUN	NOUN	_	16	obj	_	_
-20	milli	_	SCONJ	CONJ_SUB	_	22	mark	_	_
+20	milli	_	SCONJ	CONJ_SUB	_	22	case	_	_
 21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
-22	kanzunetta	_	NOUN	NOUN	_	13	conj	_	orig_deprel=acl
+22	kanzunetta	_	NOUN	NOUN	_	17	obl	_	_
 23	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
 24	.	_	PUNCT	X_PUN	_	5	punct	_	_
 

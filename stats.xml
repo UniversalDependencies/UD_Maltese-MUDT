@@ -48,12 +48,12 @@
     <dep name="aux:neg">165</dep>
     <dep name="aux:part">354</dep>
     <dep name="aux:pass">86</dep>
-    <dep name="case">2875</dep>
+    <dep name="case">2876</dep>
     <dep name="case:det">2378</dep>
     <dep name="cc">1527</dep>
-    <dep name="ccomp">684</dep>
+    <dep name="ccomp">683</dep>
     <dep name="compound">215</dep>
-    <dep name="conj">1746</dep>
+    <dep name="conj">1743</dep>
     <dep name="cop">649</dep>
     <dep name="cop:expl">9</dep>
     <dep name="csubj">23</dep>
@@ -68,14 +68,14 @@
     <dep name="goeswith">5</dep>
     <dep name="iobj">77</dep>
     <dep name="list">238</dep>
-    <dep name="mark">2663</dep>
-    <dep name="nmod">962</dep>
+    <dep name="mark">2662</dep>
+    <dep name="nmod">963</dep>
     <dep name="nmod:poss">1872</dep>
     <dep name="nsubj">2223</dep>
     <dep name="nsubj:pass">215</dep>
     <dep name="nummod">252</dep>
     <dep name="obj">1623</dep>
-    <dep name="obl">2414</dep>
+    <dep name="obl">2416</dep>
     <dep name="obl:agent">100</dep>
     <dep name="obl:arg">301</dep>
     <dep name="orphan">2</dep>
@@ -84,6 +84,6 @@
     <dep name="reparandum">1</dep>
     <dep name="root">2074</dep>
     <dep name="vocative">35</dep>
-    <dep name="xcomp">1370</dep>
+    <dep name="xcomp">1371</dep>
   </deps>
 </treebank>

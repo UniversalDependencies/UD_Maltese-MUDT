@@ -373,7 +373,7 @@
 22	minn	_	ADP	PREP	_	23	case	_	_
 23	kompetizzjoni	_	NOUN	NOUN	_	18	obl	_	_
 24	għal	_	ADP	PREP	_	25	case	_	_
-25	oħra	_	ADJ	ADJ	_	18	conj	_	orig_deprel=obl|SpaceAfter=No
+25	oħra	_	ADJ	ADJ	_	23	nmod	_	SpaceAfter=No
 26	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 23_03J03:17
