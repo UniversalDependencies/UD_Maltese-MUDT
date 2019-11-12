@@ -349,7 +349,7 @@
 16	wieħed	_	NUM	NUM_WHD	_	19	nsubj	_	_
 17	m'	_	PART	NEG	_	19	advmod:neg	_	SpaceAfter=No
 18	għandux	_	VERB	VERB_PSEU	_	19	ccomp	_	_
-19	jorbot	_	VERB	VERB	_	14	ccomp	_	_
+19	jorbot	_	VERB	VERB	_	14	xcomp	_	_
 20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
 21	kwistjoni	_	NOUN	NOUN	_	19	obj	_	_
 22	tal-	_	ADP	GEN_DEF	_	23	case:det	_	SpaceAfter=No

@@ -797,8 +797,8 @@
 22	f'	_	ADP	PREP	_	23	case	_	SpaceAfter=No
 23	Malta	_	PROPN	NOUN_PROP	_	21	obl	_	_
 24	u	_	CCONJ	CONJ_CORD	_	25	cc	_	_
-25	oħrajn	_	ADJ	ADJ	_	21	conj	_	orig_deprel=nsubj
-26	barra	_	ADV	ADV	_	25	orphan	_	orig_deprel=obl|SpaceAfter=No
+25	oħrajn	_	ADJ	ADJ	_	21	conj	_	_
+26	barra	_	ADV	ADV	_	25	orphan	_	SpaceAfter=No
 27	.	_	PUNCT	X_PUN	_	5	punct	_	_
 
 # sent_id = 02_02J01:26

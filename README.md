@@ -5,7 +5,7 @@ MUDT was designed as a balanced corpus with four major genres (see Splitting bel
 # Introduction
 ## Origin
 This treebank is the product of the PhD thesis *Constituent order in Maltese: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
-The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.4 standard.
+The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.5 standard.
 
 ## Splitting
 MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) in the following text types:
@@ -44,8 +44,11 @@ The original treebank was annotated according to UDv1, this version was automati
 - all ToDo items were checked manually and fixed wherever necessary
 - all validation errors were fixed manually
 
+# Updates
+## Update to UDv2.5
+- fixed errors related to ellipsis
 
-# Update to UDv2.4
+## Update to UDv2.4
 With the introduction of stricter checks, the following updates to UPOS, XPOS and relations were implemented:
 - NEW RELATION: XPOS NEG (*ma*) is now `advmod:neg` with UPOS ADV; same goes for XPOS FOC *lanqas* when negating a verbal clause
 - NEW RELATION: in non-copular verbless clauses (Čéplö 2018: 104-108), XPOS KIEN that takes the place of the expletive pronoun is now attached as `cop:expl`
@@ -60,11 +63,12 @@ With the introduction of stricter checks, the following updates to UPOS, XPOS an
 - numerals like "miljun" attached as `nummod` now have UPOS NUM (previously NOUN)
 - *kemm-il* is now attached as `det` (previously `nummod`)
 - currency symbols and mathematical symbols now have UPOS SYM (previously PUNCT)
+
 General updates:
 - XPOS PRON_PERG_NEG previously attached as `cop` are now attached as `aux:neg` as per the MUDT guidelines
 
 
-# To do (status as of 2019-05-01)
+## To do (status as of 2019-10-28)
 - doublecheck SpaceAfter=No in general, for \' and \" and in particular
 - doublecheck the attachment of ADPs to compounds
 - doublecheck nmods attached to a non-verbal predicate
@@ -72,8 +76,10 @@ General updates:
 - doublecheck "ċertu/-a/i" and "iktar" and other candidates for determiners
 
 
-# Changelog
-* 2018-10-04 v1
+## Changelog
+* 2019-10-28
+	* Updated to UDv2.5, fixed a number of errors related to ellipsis, updated README
+* 2018-10-04
 	* Removed the old version of the Maltese UD treebank, prepared the repository and updated README
 * 2018-10-07 
 	* Added the files, updated README
@@ -82,9 +88,9 @@ General updates:
 * 2018-11-08
 	* Changed the train-test-dev split per official guidelines, updated README accordingly; fixed tokenization errors
 * 2019-05-01
-	* Updated to UDv2.4, updated readme
+	* Updated to UDv2.4, updated README
 
-## References
+# References
 **(Čéplö 2018)** Slavomír Čéplö. (2018) [Constituent order in Maltese: A quantitative analysis](http://www.bulbul.sk/phd/Text/Slavomir_Ceplo-text.pdf). Prague: Charles University.
 
 
