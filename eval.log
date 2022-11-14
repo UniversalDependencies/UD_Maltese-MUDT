@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Maltese-MUDT:
-commit 0c49f7260bd579d85646b487a7e7daade96941de
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 3 16:44:57 2021 +0100
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Maltese-MUDT:
+commit ea1f41ef5b30b8031e512379d8ec9727697a79b7
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat May 14 14:58:06 2022 +0200
 Size: counted 44162 of 44162 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.57572938159672.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -31,9 +31,17 @@ Morpho errors: 2
 *** FAILED *** with 2 errors
 Exit code: 1
 validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-test.conllu
-*** PASSED ***
+[Line 6813 Sent 42_04F09:23 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7043 Sent 44_06F09:13 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 9]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 2
+*** FAILED *** with 2 errors
+Exit code: 1
 validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-train.conllu
-*** PASSED ***
+[Line 21169 Sent 55_02N11:41 Node 36]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [22, 35]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 21879 Sent 55_02N11:72 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 2
+*** FAILED *** with 2 errors
+Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.294117647058824) = 0.0226244343891403
