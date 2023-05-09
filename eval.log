@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Maltese-MUDT:
-commit ea1f41ef5b30b8031e512379d8ec9727697a79b7
+commit de60152d702a01134a71963eb20a97468c1648a4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat May 14 14:58:06 2022 +0200
+Date:   Mon Nov 14 11:53:15 2022 +0100
 Size: counted 44162 of 44162 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.57572938159672.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -24,21 +24,21 @@ Udapi:
 Udapi: found 13637 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 44162 words.
 Genres: found 5 out of 17 known.
-validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-dev.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-dev.conllu
 [Line 811 Sent 09_09J01:11 Node 21]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 7625 Sent 20_07J02:34 Node 24]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 Morpho errors: 2
 *** FAILED *** with 2 errors
 Exit code: 1
-validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-test.conllu
-[Line 6813 Sent 42_04F09:23 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 7043 Sent 44_06F09:13 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 9]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-test.conllu
+[Line 6813 Sent 42_04F09:23 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7043 Sent 44_06F09:13 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 9] not subtyped as ':outer'.
 Syntax errors: 2
 *** FAILED *** with 2 errors
 Exit code: 1
-validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-train.conllu
-[Line 21169 Sent 55_02N11:41 Node 36]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [22, 35]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 21879 Sent 55_02N11:72 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-train.conllu
+[Line 21169 Sent 55_02N11:41 Node 36]: [L3 Syntax too-many-subjects] Multiple subjects [22, 35] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 21879 Sent 55_02N11:72 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [2, 13] not subtyped as ':outer'.
 Syntax errors: 2
 *** FAILED *** with 2 errors
 Exit code: 1
