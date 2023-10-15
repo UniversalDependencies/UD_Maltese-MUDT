@@ -45,6 +45,11 @@ The original treebank was annotated according to UDv1, this version was automati
 - all validation errors were fixed manually
 
 # Updates
+# Update to UDv2.13
+Fixed legacy errors:
+- goeswith-upos
+- too-many-subjects
+
 ## Update to UDv2.6
 - fixed a projective punctuation error
 
