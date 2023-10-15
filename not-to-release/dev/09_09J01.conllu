@@ -299,7 +299,7 @@
 18	meta	_	SCONJ	CONJ_SUB	_	29	mark	_	_
 19	fuq	_	ADP	PREP	_	20	case	_	_
 20	quddiem	_	ADV	ADV	_	29	advmod	_	_
-21	nett	_	ADV	ADV	_	20	goeswith	_	_
+21	nett	_	X	X_BOR	_	20	goeswith	_	_
 22	fit-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
 23	twaqqif	_	NOUN	NOUN	_	29	obl	_	_
 24	mill-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
