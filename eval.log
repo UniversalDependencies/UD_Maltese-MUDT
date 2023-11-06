@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Maltese-MUDT:
-commit de60152d702a01134a71963eb20a97468c1648a4
+commit 135c1e93af67ecafcc2d8c34115b85a77c4e8a5a
+Merge: cf93990 05f33d2
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 11:53:15 2022 +0100
 Size: counted 44162 of 44162 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.57572938159672.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,29 +20,17 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 36 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL      13637
-Udapi: found 13637 bugs.
+               TOTAL      13633
+Udapi: found 13633 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 44162 words.
 Genres: found 5 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-dev.conllu
-[Line 811 Sent 09_09J01:11 Node 21]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
-[Line 7625 Sent 20_07J02:34 Node 24]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
-Morpho errors: 2
-*** FAILED *** with 2 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-test.conllu
-[Line 6813 Sent 42_04F09:23 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 7043 Sent 44_06F09:13 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 9] not subtyped as ':outer'.
-Syntax errors: 2
-*** FAILED *** with 2 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-train.conllu
-[Line 21169 Sent 55_02N11:41 Node 36]: [L3 Syntax too-many-subjects] Multiple subjects [22, 35] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 21879 Sent 55_02N11:72 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [2, 13] not subtyped as ':outer'.
-Syntax errors: 2
-*** FAILED *** with 2 errors
-Exit code: 1
-Validity: 0.01
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.294117647058824) = 0.0226244343891403
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
@@ -51,6 +39,6 @@ Validity: 0.01
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.972972972972973) = 0.0748440748440748
-(TOTAL score=0.355506862516112) * (availability=1) * (validity=0.01) = 0.00355506862516112
-STARS = 0
-UD_Maltese-MUDT	0.00355506862516112	0
+(TOTAL score=0.355506862516112) * (availability=1) * (validity=1) = 0.355506862516112
+STARS = 2
+UD_Maltese-MUDT	0.355506862516112	2
