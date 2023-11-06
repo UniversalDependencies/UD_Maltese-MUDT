@@ -1,1 +1,1 @@
-cat *.conllu > ../_full/mt_mudt-ud-train.conllu
+cat *.conllu > ../../mt_mudt-ud-train.conllu

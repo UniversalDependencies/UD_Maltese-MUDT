@@ -930,7 +930,7 @@
 21	fuqhom	_	PRON	PREP_PRON	_	20	obl:arg	_	_
 22	ta'	_	ADP	GEN	_	23	case	_	_
 23	gonzi-	_	PROPN	NOUN_PROP	_	20	nsubj	_	_
-24	pn	_	NOUN	X_ABV	_	23	goeswith	_	_
+24	pn	_	X	X_BOR	_	23	goeswith	_	_
 25	biex	_	SCONJ	CONJ_SUB	_	26	mark	_	_
 26	jagħmlulhom	_	VERB	VERB	_	20	advcl	_	_
 27	xogħol	_	NOUN	NOUN	_	26	obj	_	_

@@ -17,12 +17,12 @@
   <tags unique="17">
     <tag name="ADJ">2313</tag><!-- _ -->
     <tag name="ADP">5372</tag><!-- _ -->
-    <tag name="ADV">1788</tag><!-- _ -->
+    <tag name="ADV">1787</tag><!-- _ -->
     <tag name="AUX">1690</tag><!-- _ -->
     <tag name="CCONJ">1525</tag><!-- _ -->
     <tag name="DET">3602</tag><!-- _ -->
     <tag name="INTJ">65</tag><!-- _ -->
-    <tag name="NOUN">8526</tag><!-- _ -->
+    <tag name="NOUN">8525</tag><!-- _ -->
     <tag name="NUM">600</tag><!-- _ -->
     <tag name="PART">473</tag><!-- _ -->
     <tag name="PRON">2321</tag><!-- _ -->
@@ -31,7 +31,7 @@
     <tag name="SCONJ">2647</tag><!-- _ -->
     <tag name="SYM">241</tag><!-- _ -->
     <tag name="VERB">6386</tag><!-- _ -->
-    <tag name="X">339</tag><!-- _ -->
+    <tag name="X">341</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="0">
@@ -44,7 +44,7 @@
     <dep name="advmod:neg">475</dep>
     <dep name="amod">2069</dep>
     <dep name="appos">169</dep>
-    <dep name="aux">642</dep>
+    <dep name="aux">643</dep>
     <dep name="aux:neg">165</dep>
     <dep name="aux:part">354</dep>
     <dep name="aux:pass">86</dep>
@@ -60,7 +60,7 @@
     <dep name="dep">4</dep>
     <dep name="det">3949</dep>
     <dep name="discourse">312</dep>
-    <dep name="dislocated">10</dep>
+    <dep name="dislocated">13</dep>
     <dep name="expl">12</dep>
     <dep name="fixed">188</dep>
     <dep name="flat">200</dep>
@@ -71,8 +71,8 @@
     <dep name="mark">2662</dep>
     <dep name="nmod">963</dep>
     <dep name="nmod:poss">1872</dep>
-    <dep name="nsubj">2223</dep>
-    <dep name="nsubj:pass">215</dep>
+    <dep name="nsubj">2220</dep>
+    <dep name="nsubj:pass">214</dep>
     <dep name="nummod">252</dep>
     <dep name="obj">1623</dep>
     <dep name="obl">2416</dep>

@@ -21152,7 +21152,7 @@
 19	-	_	PUNCT	X_PUN	_	18	punct	_	_
 20	1	_	NUM	X_DIG	_	18	list	_	_
 21	sabiex	_	SCONJ	CONJ_SUB	_	36	mark	_	_
-22	a	_	SYM	X_BOR	_	36	nsubj	_	_
+22	a	_	SYM	X_BOR	_	36	dislocated	_	_
 23	*	_	SYM	X_PUN	_	22	list	_	_
 24	a	_	SYM	X_BOR	_	22	list	_	_
 25	-	_	PUNCT	X_PUN	_	22	punct	_	_
@@ -21864,7 +21864,7 @@
 # sent_id = 55_02N11:72
 # text = In-numri razzjonali, in-numri reali u n-numri komplessi huma kollha eżempji ta' kampi.
 1	In-	_	DET	DEF	_	2	det	_	SpaceAfter=No
-2	numri	_	NOUN	NOUN	_	14	nsubj	_	_
+2	numri	_	NOUN	NOUN	_	14	dislocated	_	_
 3	razzjonali	_	ADJ	ADJ	_	2	amod	_	SpaceAfter=No
 4	,	_	PUNCT	X_PUN	_	2	punct	_	_
 5	in-	_	DET	DEF	_	6	det	_	SpaceAfter=No

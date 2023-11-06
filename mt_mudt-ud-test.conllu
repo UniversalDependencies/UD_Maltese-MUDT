@@ -6808,12 +6808,12 @@
 2	safra	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	X_PUN	_	2	punct	_	_
 4	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
-5	sħabi	_	NOUN	NOUN	_	7	nsubj	_	_
+5	sħabi	_	NOUN	NOUN	_	7	dislocated	_	_
 6	uħud	_	NUM	NUM_WHD	_	7	nsubj	_	_
 7	bojod	_	ADJ	ADJ	_	2	conj	_	SpaceAfter=No
-8	,	_	PUNCT	X_PUN	_	2	punct	_	_
+8	,	_	PUNCT	X_PUN	_	7	punct	_	_
 9	oħrajn	_	NOUN	NOUN	_	10	nsubj	_	_
-10	ħomor	_	ADJ	ADJ	_	2	conj	_	SpaceAfter=No
+10	ħomor	_	ADJ	ADJ	_	7	conj	_	SpaceAfter=No
 11	,	_	PUNCT	X_PUN	_	10	punct	_	_
 12	vjola	_	ADJ	ADJ	_	10	conj	_	SpaceAfter=No
 13	,	_	PUNCT	X_PUN	_	10	punct	_	_
@@ -7039,7 +7039,7 @@
 6	kien	_	AUX	KIEN	_	7	aux	_	_
 7	hemm	_	VERB	HEMM	_	2	acl	_	_
 8	fuqu	_	PRON	PREP_PRON	_	7	obl	_	_
-9	kienet	_	AUX	KIEN	_	10	nsubj:pass	_	_
+9	kienet	_	AUX	KIEN	_	10	aux	_	_
 10	maqsuma	_	VERB	PART_PASS	_	0	root	_	_
 11	b'	_	ADP	PREP	_	12	case	_	SpaceAfter=No
 12	daqqa	_	NOUN	NOUN	_	10	obl	_	_

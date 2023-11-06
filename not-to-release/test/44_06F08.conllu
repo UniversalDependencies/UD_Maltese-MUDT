@@ -186,7 +186,7 @@
 6	kien	_	AUX	KIEN	_	7	aux	_	_
 7	hemm	_	VERB	HEMM	_	2	acl	_	_
 8	fuqu	_	PRON	PREP_PRON	_	7	obl	_	_
-9	kienet	_	AUX	KIEN	_	10	nsubj:pass	_	_
+9	kienet	_	AUX	KIEN	_	10	aux	_	_
 10	maqsuma	_	VERB	PART_PASS	_	0	root	_	_
 11	b'	_	ADP	PREP	_	12	case	_	SpaceAfter=No
 12	daqqa	_	NOUN	NOUN	_	10	obl	_	_

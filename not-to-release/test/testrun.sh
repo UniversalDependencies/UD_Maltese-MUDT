@@ -1,1 +1,1 @@
-cat *.conllu > ../_full/mt_mudt-ud-test.conllu
+cat *.conllu > ../../mt_mudt-ud-test.conllu
