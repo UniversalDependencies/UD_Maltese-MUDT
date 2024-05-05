@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Maltese-MUDT:
-commit 135c1e93af67ecafcc2d8c34115b85a77c4e8a5a
-Merge: cf93990 05f33d2
+commit 77d12c8ea7c47612526423575c554edc5bd1668a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 12:39:21 2023 +0100
 Size: counted 44162 of 44162 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.57572938159672.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 36 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL      13633
-Udapi: found 13633 bugs.
+               TOTAL      13627
+Udapi: found 13627 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 44162 words.
 Genres: found 5 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-dev.conllu
