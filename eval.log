@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Maltese-MUDT:
-commit 77d12c8ea7c47612526423575c554edc5bd1668a
+commit 62bdfb3f620cc99e04bbfbc5384aeaf995df1d9c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:39:21 2023 +0100
+Date:   Sun May 5 13:04:48 2024 +0200
 Size: counted 44162 of 44162 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.57572938159672.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -29,6 +29,11 @@ Genres: found 5 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-train.conllu
+[Line 3449 Sent 17_04J02:33 Node 13]: [L3 Warning leaf-det] 'det' not expected to have children (13:dak:det --> 16:jiġri:acl)
+[Line 5076 Sent 30_01P05:41 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:ħafna:det --> 12:prinċipji:nmod)
+[Line 15411 Sent 49_03F09:31 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Ħafna:det --> 3:tfal:nmod)
+[Line 25276 Sent 58_05N11:51 Node 32]: [L3 Warning leaf-det] 'det' not expected to have children (32:dik:det --> 33:barjonika:amod)
+Warnings: 4
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
