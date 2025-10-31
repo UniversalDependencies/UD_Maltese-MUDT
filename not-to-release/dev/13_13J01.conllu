@@ -364,9 +364,9 @@
 7	militari	_	ADJ	ADJ	_	6	amod	_	_
 8	ftit	_	ADV	QUAN	_	10	advmod	_	_
 9	'il	_	ADP	PREP	_	10	case	_	_
-10	bogħod	_	NOUN	NOUN	_	4	nmod	_	_
+10	bogħod	_	NOUN	NOUN	_	4	obl	_	_
 11	minn	_	ADP	PREP	_	12	case:det	_	_
-12	Malta	_	PROPN	NOUN_PROP	_	10	obl	_	_
+12	Malta	_	PROPN	NOUN_PROP	_	10	nmod	_	_
 13	li	_	SCONJ	COMP	_	15	mark	_	_
 14	qed	_	AUX	PROG	_	15	aux:part	_	_
 15	jaqdu	_	VERB	VERB	_	6	acl	_	_

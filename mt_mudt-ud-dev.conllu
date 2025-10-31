@@ -1180,7 +1180,7 @@
 16	f'	_	ADP	PREP	_	17	case:det	_	SpaceAfter=No
 17	Għawdex	_	PROPN	NOUN_PROP	_	13	obl	_	SpaceAfter=No
 18	,	_	PUNCT	X_PUN	_	13	punct	_	_
-19	kif	_	ADV	FOC	ExtPost=CCONJ	25	cc	_	_
+19	kif	_	ADV	FOC	ExtPos=CCONJ	25	cc	_	_
 20	ukoll	_	ADV	FOC	_	19	fixed	_	_
 21	biex	_	SCONJ	CONJ_SUB	_	25	mark	_	_
 22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
@@ -2646,9 +2646,9 @@
 7	militari	_	ADJ	ADJ	_	6	amod	_	_
 8	ftit	_	ADV	QUAN	_	10	advmod	_	_
 9	'il	_	ADP	PREP	_	10	case	_	_
-10	bogħod	_	NOUN	NOUN	_	4	nmod	_	_
+10	bogħod	_	NOUN	NOUN	_	4	obl	_	_
 11	minn	_	ADP	PREP	_	12	case:det	_	_
-12	Malta	_	PROPN	NOUN_PROP	_	10	obl	_	_
+12	Malta	_	PROPN	NOUN_PROP	_	10	nmod	_	_
 13	li	_	SCONJ	COMP	_	15	mark	_	_
 14	qed	_	AUX	PROG	_	15	aux:part	_	_
 15	jaqdu	_	VERB	VERB	_	6	acl	_	_
@@ -6790,7 +6790,7 @@
 19	kampanja	_	NOUN	NOUN	_	17	obl	_	_
 20	ta'	_	ADP	GEN	_	21	case	_	_
 21	spjunaġġ	_	NOUN	NOUN	_	19	nmod:poss	_	_
-22	triq	_	NOUN	NOUN	_	26	obl	_	_
+22	triq	_	NOUN	NOUN	_	26	nmod	_	_
 23	triq	_	NOUN	NOUN	_	22	nmod	_	_
 24	lura	_	ADV	ADV	_	22	advmod	_	_
 25	fis-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
@@ -8866,7 +8866,7 @@
 5	bħala	_	ADP	PREP	_	6	case	_	_
 6	chairperson	_	NOUN	NOUN	_	3	obl	_	SpaceAfter=No
 7	,	_	PUNCT	X_PUN	_	6	punct	_	_
-8	kif	_	CCONJ	PRON_INT	_	11	cc	_	_
+8	kif	_	CCONJ	PRON_INT	ExtPos=CCONJ	11	cc	_	_
 9	ukoll	_	ADV	FOC	_	8	fixed	_	_
 10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
 11	kumitat	_	NOUN	NOUN	_	6	conj	_	_

@@ -147,7 +147,7 @@
 16	f'	_	ADP	PREP	_	17	case:det	_	SpaceAfter=No
 17	Għawdex	_	PROPN	NOUN_PROP	_	13	obl	_	SpaceAfter=No
 18	,	_	PUNCT	X_PUN	_	13	punct	_	_
-19	kif	_	ADV	FOC	ExtPost=CCONJ	25	cc	_	_
+19	kif	_	ADV	FOC	ExtPos=CCONJ	25	cc	_	_
 20	ukoll	_	ADV	FOC	_	19	fixed	_	_
 21	biex	_	SCONJ	CONJ_SUB	_	25	mark	_	_
 22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No

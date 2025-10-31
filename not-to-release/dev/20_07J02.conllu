@@ -98,7 +98,7 @@
 19	kampanja	_	NOUN	NOUN	_	17	obl	_	_
 20	ta'	_	ADP	GEN	_	21	case	_	_
 21	spjunaġġ	_	NOUN	NOUN	_	19	nmod:poss	_	_
-22	triq	_	NOUN	NOUN	_	26	obl	_	_
+22	triq	_	NOUN	NOUN	_	26	nmod	_	_
 23	triq	_	NOUN	NOUN	_	22	nmod	_	_
 24	lura	_	ADV	ADV	_	22	advmod	_	_
 25	fis-	_	ADP	PREP_DEF	_	26	case:det	_	SpaceAfter=No
