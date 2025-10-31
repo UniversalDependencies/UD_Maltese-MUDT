@@ -457,7 +457,7 @@
 50	ċertament	_	ADV	ADV	_	51	advmod	_	_
 51	isalva	_	VERB	VERB	_	31	xcomp	_	_
 52	u	_	CCONJ	CONJ_CORD	_	67	cc	_	_
-53	wara	_	ADP	PREP	_	56	mark	_	_
+53	wara	_	ADP	PREP	ExtPos=SCONJ	56	mark	_	_
 54	li	_	SCONJ	COMP	_	53	fixed	_	_
 55	jkun	_	AUX	KIEN	_	56	aux	_	_
 56	gawda	_	VERB	VERB	_	67	advcl	_	_
@@ -751,7 +751,7 @@
 17	lili	_	PRON	LIL_PRON	_	14	iobj	_	_
 18	u	_	CCONJ	CONJ_CORD	_	19	cc	_	_
 19	lilek	_	PRON	LIL_PRON	_	17	conj	_	_
-20	filwaqt	_	SCONJ	CONJ_SUB	_	23	mark	_	_
+20	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	23	mark	_	_
 21	li	_	SCONJ	COMP	_	20	fixed	_	_
 22	hu	_	PRON	PRON_PERS	_	23	nsubj	_	_
 23	żied	_	VERB	VERB	_	14	advcl	_	_
@@ -847,7 +847,7 @@
 9	fuq	_	ADP	PREP	_	10	case	_	_
 10	parlament	_	NOUN	NOUN	_	5	obl	_	_
 11	ġdid	_	ADJ	ADJ	_	10	amod	_	_
-12	minflok	_	ADP	PREP	_	14	mark	_	_
+12	minflok	_	ADP	PREP	ExtPos=SCONJ	14	mark	_	_
 13	li	_	SCONJ	COMP	_	12	fixed	_	_
 14	jagħti	_	VERB	VERB	_	5	advcl	_	_
 15	prijorità	_	NOUN	NOUN	_	14	obj	_	_

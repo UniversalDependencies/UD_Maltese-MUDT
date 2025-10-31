@@ -514,7 +514,7 @@
 9	lill-	_	ADP	LIL_DEF	_	10	case:det	_	SpaceAfter=No
 10	Assoċjazzjoni	_	NOUN	NOUN	_	8	obj	_	_
 11	'l	_	ADP	PREP	_	12	case	_	_
-12	bogħod	_	NOUN	NOUN	_	10	obl	_	_
+12	bogħod	_	NOUN	NOUN	_	10	nmod	_	_
 13	mill-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
 14	qafas	_	NOUN	NOUN	_	12	nmod	_	_
 15	tad-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No

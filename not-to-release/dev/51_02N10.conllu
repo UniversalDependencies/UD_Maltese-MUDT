@@ -238,7 +238,7 @@
 5	Eritrea	_	PROPN	NOUN_PROP	_	3	obl	_	_
 6	fl-	_	ADP	PREP_DEF	_	7	case:det	_	SpaceAfter=No
 7	1941	_	NUM	X_DIG	_	3	obl	_	_
-8	waqt	_	ADP	PREP	_	13	case	_	_
+8	waqt	_	ADP	PREP	ExtPos=SCONJ	13	case	_	_
 9	li	_	SCONJ	COMP	_	8	fixed	_	_
 10	xi	_	DET	QUAN	_	11	det	_	_
 11	wħud	_	NUM	NUM_WHD	_	13	nsubj	_	_

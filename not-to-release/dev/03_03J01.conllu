@@ -8,7 +8,7 @@
 6	tfaċċat	_	VERB	VERB	_	0	root	_	_
 7	kontroversja	_	NOUN	NOUN	_	6	nsubj	_	_
 8	ġdida	_	ADJ	ADJ	_	7	amod	_	_
-9	wara	_	ADP	PREP	_	27	mark	_	_
+9	wara	_	ADP	PREP	ExtPos=SCONJ	27	mark	_	_
 10	li	_	SCONJ	COMP	_	9	fixed	_	_
 11	fil-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
 12	laqgħa	_	NOUN	NOUN	_	27	obl	_	_
@@ -456,7 +456,7 @@
 9	PL	_	NOUN	X_ABV	_	7	nmod:poss	_	_
 10	qalu	_	VERB	VERB	_	0	root	_	_
 11	li	_	SCONJ	COMP	_	16	mark	_	_
-12	favur	_	ADP	PREP	_	16	obl	_	_
+12	favur	_	ADP	PREP	ExtPos=ADP	16	obl	_	_
 13	tiegħu	_	PRON	GEN_PRON	_	12	fixed	_	_
 14	Jason	_	PROPN	NOUN_PROP	_	16	nsubj	_	_
 15	Micallef	_	PROPN	NOUN_PROP	_	14	flat:name	_	_

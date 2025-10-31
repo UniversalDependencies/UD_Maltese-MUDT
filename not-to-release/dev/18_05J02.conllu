@@ -27,7 +27,7 @@
 14	tal-	_	ADP	GEN_DEF	_	16	case:det	_	SpaceAfter=No
 15	akbar	_	ADJ	ADJ	_	16	amod	_	_
 16	importanza	_	NOUN	NOUN	_	13	nmod:poss	_	_
-17	mingħajr	_	ADP	PREP	_	19	case	_	_
+17	mingħajr	_	ADP	PREP	ExtPos=SCONJ	19	case	_	_
 18	ma	_	SCONJ	COMP	_	17	fixed	_	_
 19	ċċappas	_	VERB	VERB	_	10	advcl	_	_
 20	bl-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
@@ -279,7 +279,7 @@
 
 # sent_id = 18_05J02:14
 # text = Wara li kienet ħarġet l-aħbar sirna nafu minn stqarrija li għamel Fenech li kien ħa ħsieb li javża lill-Prim Ministru bil-vjaġġ u kien ħa l-barka tiegħu.
-1	Wara	_	ADP	PREP	_	4	mark	_	_
+1	Wara	_	ADP	PREP	ExtPos=SCONJ	4	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	kienet	_	AUX	KIEN	_	4	aux	_	_
 4	ħarġet	_	VERB	VERB	_	7	advcl	_	_
@@ -473,7 +473,7 @@
 2	aħħar	_	NOUN	NOUN	_	12	obl	_	_
 3	mill-	_	ADP	PREP_DEF	_	4	case:det	_	SpaceAfter=No
 4	aħħar	_	NOUN	NOUN	_	2	nmod	_	_
-5	qabel	_	ADP	PREP	_	7	mark	_	_
+5	qabel	_	ADP	PREP	ExtPos=SCONJ	7	mark	_	_
 6	ma	_	SCONJ	COMP	_	5	fixed	_	_
 7	nkitbu	_	VERB	VERB	_	12	advcl	_	_
 8	dawn	_	PRON	PRON_DEM	_	10	det	_	_
@@ -575,7 +575,7 @@
 14	jagħti	_	VERB	VERB	_	10	conj	_	_
 15	l-	_	DET	DEF	_	16	det	_	SpaceAfter=No
 16	assoluzzjoni	_	NOUN	NOUN	_	14	obj	_	_
-17	qabel	_	ADP	PREP	_	19	mark	_	_
+17	qabel	_	ADP	PREP	ExtPos=SCONJ	19	mark	_	_
 18	ma	_	SCONJ	COMP	_	17	fixed	_	_
 19	jsir	_	VERB	VERB	_	10	advcl	_	_
 20	id-	_	DET	DEF	_	21	det	_	SpaceAfter=No
