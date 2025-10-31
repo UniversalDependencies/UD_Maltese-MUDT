@@ -263,12 +263,12 @@
 21	ta'	_	ADP	GEN	_	22	case	_	_
 22	ħarta	_	NOUN	NOUN	_	20	nmod:poss	_	_
 23	fuq	_	ADP	PREP	_	24	case	_	_
-24	ħaddejh	_	NOUN	NOUN	_	20	obl	_	_
+24	ħaddejh	_	NOUN	NOUN	_	20	nmod	_	_
 25	li	_	SCONJ	COMP	_	26	mark	_	_
 26	dawru	_	VERB	VERB	_	20	acl	_	_
 27	dawra	_	NOUN	NOUN	_	26	obj	_	_
 28	tond	_	ADJ	ADJ	_	27	amod	_	_
-29	waqt	_	ADP	PREP	_	36	mark	_	_
+29	waqt	_	ADP	PREP	ExtPos=SCONJ	36	mark	_	_
 30	li	_	SCONJ	COMP	_	29	fixed	_	_
 31	minn	_	ADP	PREP	_	32	case	_	_
 32	ħalq	_	NOUN	NOUN	_	36	obl	_	_

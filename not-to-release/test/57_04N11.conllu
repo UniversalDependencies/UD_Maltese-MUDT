@@ -41,7 +41,7 @@
 
 # sent_id = 57_04N11:4
 # text = Peress li l-programmi ta' dawn il-kompjuters qed jiġu żviluppati minn kelliema tal-Ingliż fl-Istati Uniti, dawn il-programmaturi jagħżlu dik il-kodifikazzjoni bħala default.
-1	Peress	_	ADP	PREP	_	11	mark	_	_
+1	Peress	_	ADP	PREP	ExtPos=SCONJ	11	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	programmi	_	NOUN	NOUN	_	11	nsubj:pass	_	_
@@ -118,7 +118,7 @@
 4	tajba	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
 5	,	_	PUNCT	X_PUN	_	4	punct	_	_
 6	imma	_	CCONJ	CONJ_CORD	_	22	cc	_	_
-7	peress	_	ADP	PREP	_	12	mark	_	_
+7	peress	_	ADP	PREP	ExtPos=SCONJ	12	mark	_	_
 8	li	_	SCONJ	COMP	_	7	fixed	_	_
 9	dawn	_	PRON	PRON_DEM	_	11	det	_	_
 10	in-	_	DET	DEF	_	11	det	_	SpaceAfter=No

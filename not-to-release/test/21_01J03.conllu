@@ -41,7 +41,7 @@
 7	fuq	_	ADP	PREP	_	9	case	_	_
 8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	iskrin	_	NOUN	NOUN	_	6	obl	_	_
-10	permezz	_	NOUN	NOUN	_	12	case:det	_	_
+10	permezz	_	NOUN	NOUN	ExtPos=ADP	12	case:det	_	_
 11	tal-	_	ADP	GEN_DEF	_	10	fixed	_	SpaceAfter=No
 12	kwiżż	_	NOUN	NOUN	_	16	compound	_	_
 13	'	_	PUNCT	X_PUN	_	16	punct	_	_
@@ -247,7 +247,7 @@
 
 # sent_id = 21_01J03:8
 # text = Filwaqt li jispjega l-biża' tiegħu li jikkonfronta r-realtà tal-Isptar Boffa, Borg Bonaci jgħid li l-aktar ħaġa li serrħitu kienet l-attitudni pożittiva u dedikata tal-istaff, in-nurses u t-tobba.
-1	Filwaqt	_	SCONJ	CONJ_SUB	_	3	mark	_	_
+1	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	3	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	jispjega	_	VERB	VERB	_	17	advcl	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
@@ -357,7 +357,7 @@
 22	tolqot	_	VERB	VERB	_	20	acl	_	_
 23	fil-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
 24	vanità	_	NOUN	NOUN	_	22	obl	_	_
-25	hekk	_	ADV	ADV	_	27	mark	_	_
+25	hekk	_	ADV	ADV	ExtPos=SCONJ	27	mark	_	_
 26	kif	_	PRON	PRON_INT	_	25	fixed	_	_
 27	jaqa'	_	VERB	VERB	_	22	advcl	_	_
 28	x-	_	DET	DEF	_	29	det	_	SpaceAfter=No
@@ -448,7 +448,7 @@
 # sent_id = 21_01J03:14
 # text = "Permezz tal-Facebook bdejt nirċievi messaġġi ta' kuraġġ, kif ukoll żjarat id-dar mingħand nies li kont ili ma nara jew nisma' bihom."
 1	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
-2	Permezz	_	NOUN	NOUN	_	4	case:det	_	_
+2	Permezz	_	NOUN	NOUN	ExtPos=ADP	4	case:det	_	_
 3	tal-	_	ADP	GEN_DEF	_	2	fixed	_	SpaceAfter=No
 4	Facebook	_	PROPN	NOUN_PROP	_	5	obl	_	_
 5	bdejt	_	VERB	VERB	_	0	root	_	_
@@ -457,7 +457,7 @@
 8	ta'	_	ADP	GEN	_	9	case	_	_
 9	kuraġġ	_	NOUN	NOUN	_	7	nmod:poss	_	SpaceAfter=No
 10	,	_	PUNCT	X_PUN	_	7	punct	_	_
-11	kif	_	PRON	PRON_INT	_	13	cc	_	_
+11	kif	_	PRON	PRON_INT	ExtPos=CCONJ	13	cc	_	_
 12	ukoll	_	ADV	FOC	_	11	fixed	_	_
 13	żjarat	_	NOUN	NOUN	_	7	conj	_	_
 14	id-	_	DET	DEF	_	15	det	_	SpaceAfter=No
@@ -602,7 +602,7 @@
 14	"	_	PUNCT	X_PUN	_	2	punct	_	_
 15	isostni	_	VERB	VERB	_	2	parataxis	_	SpaceAfter=No
 16	,	_	PUNCT	X_PUN	_	15	punct	_	_
-17	filwaqt	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+17	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	19	mark	_	_
 18	li	_	SCONJ	COMP	_	17	fixed	_	_
 19	żied	_	VERB	VERB	_	15	advcl	_	_
 20	kif	_	ADV	PRON_INT	_	23	advmod	_	_
@@ -727,7 +727,7 @@
 26	ġiet	_	VERB	VERB	_	14	conj	_	_
 27	mix-	_	ADP	PREP_DEF	_	28	case:det	_	SpaceAfter=No
 28	xejn	_	PRON	PRON_INDEF	_	26	obl	_	_
-29	hekk	_	ADV	ADV	_	44	mark	_	_
+29	hekk	_	ADV	ADV	ExtPos=SCONJ	44	mark	_	_
 30	kif	_	PRON	PRON_INT	_	29	fixed	_	_
 31	Charles	_	PROPN	NOUN_PROP	_	44	nsubj	_	_
 32	Flores	_	PROPN	NOUN_PROP	_	31	flat:name	_	SpaceAfter=No
@@ -914,7 +914,7 @@
 22	Malta	_	PROPN	NOUN_PROP	_	21	nmod	_	_
 23	u	_	CCONJ	CONJ_CORD	_	28	cc	_	_
 24	li	_	SCONJ	COMP	_	28	mark	_	_
-25	permezz	_	NOUN	NOUN	_	28	obl	_	_
+25	permezz	_	NOUN	NOUN	ExtPos=ADP	28	obl	_	_
 26	tiegħu	_	PRON	GEN_PRON	_	25	fixed	_	_
 27	kien	_	AUX	KIEN	_	28	aux	_	_
 28	għaqqad	_	VERB	VERB	_	10	conj	_	_
@@ -956,7 +956,7 @@
 17	Martin	_	PROPN	NOUN_PROP	_	9	conj	_	_
 18	Sapiano	_	PROPN	NOUN_PROP	_	17	flat:name	_	SpaceAfter=No
 19	,	_	PUNCT	X_PUN	_	6	punct	_	_
-20	filwaqt	_	SCONJ	CONJ_SUB	_	23	mark	_	_
+20	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	23	mark	_	_
 21	li	_	SCONJ	COMP	_	20	fixed	_	_
 22	kien	_	AUX	KIEN	_	23	aux	_	_
 23	hemm	_	VERB	HEMM	_	6	advcl	_	_
@@ -1557,7 +1557,7 @@
 
 # sent_id = 21_01J03:49
 # text = Qabel ma nsellmu lil xulxin Borg Bonaci jerġa' juri l-ħeġġa kbira li għandu li jirritorna għall-programm tiegħu u jkompli minn fejn ħalla.
-1	Qabel	_	ADP	PREP	_	3	mark	_	_
+1	Qabel	_	ADP	PREP	ExtPos=SCONJ	3	mark	_	_
 2	ma	_	SCONJ	COMP	_	1	fixed	_	_
 3	nsellmu	_	VERB	VERB	_	8	advcl	_	_
 4	lil	_	ADP	LIL	_	5	case	_	_

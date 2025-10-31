@@ -143,7 +143,7 @@
 4	1987	_	NUM	X_DIG	_	13	obl	_	SpaceAfter=No
 5	,	_	PUNCT	X_PUN	_	9	punct	_	_
 6	ftit	_	ADV	ADV	_	9	advmod	_	_
-7	wara	_	ADP	PREP	_	9	case	_	_
+7	wara	_	ADP	PREP	ExtPos=SCONJ	9	case	_	_
 8	li	_	SCONJ	COMP	_	7	fixed	_	_
 9	ġejt	_	VERB	VERB	_	13	advcl	_	_
 10	mill-	_	ADP	PREP_DEF	_	11	case:det	_	SpaceAfter=No
@@ -180,7 +180,7 @@
 4	,	_	PUNCT	X_PUN	_	2	punct	_	_
 5	"	_	PUNCT	X_PUN	_	2	punct	_	_
 6	iwieġeb	_	VERB	VERB	_	2	parataxis	_	_
-7	filwaqt	_	SCONJ	CONJ_SUB	_	11	mark	_	_
+7	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	11	mark	_	_
 8	li	_	SCONJ	COMP	_	7	fixed	_	_
 9	bil-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
 10	mod	_	NOUN	NOUN	_	11	obl	_	_
@@ -437,7 +437,7 @@
 17	xahrejn	_	NOUN	NOUN	_	15	nmod:poss	_	_
 18	ismu	_	NOUN	NOUN	_	19	nsubj	_	_
 19	sploda	_	VERB	VERB	_	7	conj	_	_
-20	hekk	_	ADV	ADV	_	26	mark	_	_
+20	hekk	_	ADV	ADV	ExtPos=SCONJ	26	mark	_	_
 21	kif	_	PRON	PRON_INT	_	20	fixed	_	_
 22	ftit	_	ADV	QUAN	_	25	advmod	_	_
 23	wara	_	ADP	PREP	_	25	case	_	_
@@ -576,7 +576,7 @@
 # sent_id = 22_02J03:35
 # text = Għax minkejja li tkun għamilt ċerti testijiet qabel xorta ma tkunx taf x'se ssib.
 1	Għax	_	SCONJ	CONJ_SUB	_	12	mark	_	_
-2	minkejja	_	ADP	PREP	_	5	case	_	_
+2	minkejja	_	ADP	PREP	ExtPos=SCONJ	5	case	_	_
 3	li	_	SCONJ	COMP	_	2	fixed	_	_
 4	tkun	_	AUX	KIEN	_	5	aux	_	_
 5	għamilt	_	VERB	VERB	_	12	advcl	_	_
@@ -1255,7 +1255,7 @@
 1	Iħares	_	VERB	VERB	_	0	root	_	_
 2	lejja	_	PRON	PREP_PRON	_	1	obl	_	_
 3	u	_	CCONJ	CONJ_CORD	_	7	cc	_	_
-4	waqt	_	ADP	PREP	_	6	mark	_	_
+4	waqt	_	ADP	PREP	ExtPos=SCONJ	6	mark	_	_
 5	li	_	SCONJ	COMP	_	4	fixed	_	_
 6	jweġibni	_	VERB	VERB	_	7	advcl	_	_
 7	jibqa'	_	VERB	VERB	_	1	conj	_	_
@@ -1802,7 +1802,7 @@
 5	kontra	_	ADP	PREP	_	7	case	_	_
 6	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
 7	koabitazzjoni	_	NOUN	NOUN	_	4	nmod	_	_
-8	dment	_	ADP	PREP	_	11	mark	_	_
+8	dment	_	ADP	PREP	ExtPos=SCONJ	11	mark	_	_
 9	li	_	SCONJ	COMP	_	8	fixed	_	_
 10	jkun	_	AUX	KIEN	_	11	aux	_	_
 11	hemm	_	VERB	HEMM	_	3	advcl	_	_
@@ -1811,7 +1811,7 @@
 14	,	_	PUNCT	X_PUN	_	3	punct	_	SpaceAfter=No
 15	"	_	PUNCT	X_PUN	_	3	punct	_	_
 16	jispjega	_	VERB	VERB	_	3	parataxis	_	_
-17	filwaqt	_	SCONJ	CONJ_SUB	_	19	mark	_	_
+17	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	19	mark	_	_
 18	li	_	SCONJ	COMP	_	17	fixed	_	_
 19	jaqbel	_	VERB	VERB	_	16	advcl	_	_
 20	li	_	SCONJ	COMP	_	23	mark	_	_
@@ -1961,7 +1961,7 @@
 8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
 9	ipokrezija	_	NOUN	NOUN	_	7	obl:arg	_	_
 10	għax	_	SCONJ	CONJ_SUB	_	18	mark	_	_
-11	filwaqt	_	SCONJ	CONJ_SUB	_	13	mark	_	_
+11	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	13	mark	_	_
 12	li	_	SCONJ	COMP	_	11	fixed	_	_
 13	jimplikaw	_	VERB	VERB	_	18	advcl	_	_
 14	li	_	SCONJ	COMP	_	16	mark	_	_
@@ -2035,7 +2035,7 @@
 22	,	_	PUNCT	X_PUN	_	4	punct	_	_
 23	"	_	PUNCT	X_PUN	_	4	punct	_	_
 24	iwieġeb	_	VERB	VERB	_	4	parataxis	_	_
-25	waqt	_	ADP	PREP	_	30	mark	_	_
+25	waqt	_	ADP	PREP	ExtPos=SCONJ	30	mark	_	_
 26	li	_	SCONJ	COMP	_	25	fixed	_	_
 27	wiċċu	_	NOUN	NOUN	_	30	nsubj	_	_
 28	issa	_	ADV	ADV	_	30	advmod	_	_
@@ -2376,7 +2376,7 @@
 # sent_id = 22_02J03:142
 # text = Imbagħad bla ma nistaqsieh "iqerr" fuq xi ħaġa personali.
 1	Imbagħad	_	ADV	ADV	_	6	advmod	_	_
-2	bla	_	ADP	PREP	_	4	mark	_	_
+2	bla	_	ADP	PREP	ExtPos=SCONJ	4	mark	_	_
 3	ma	_	SCONJ	COMP	_	2	fixed	_	_
 4	nistaqsieh	_	VERB	VERB	_	6	advcl	_	_
 5	"	_	PUNCT	X_PUN	_	6	punct	_	SpaceAfter=No
@@ -2392,7 +2392,7 @@
 # text = " Jien waqt li nkun qed nikkonċentra nagħlaq għajnejja.
 1	"	_	PUNCT	X_PUN	_	8	punct	_	_
 2	Jien	_	PRON	PRON_PERS	_	8	nsubj	_	_
-3	waqt	_	ADP	PREP	_	7	mark	_	_
+3	waqt	_	ADP	PREP	ExtPos=SCONJ	7	mark	_	_
 4	li	_	SCONJ	COMP	_	3	fixed	_	_
 5	nkun	_	AUX	KIEN	_	7	aux	_	_
 6	qed	_	AUX	PROG	_	7	aux:part	_	_
@@ -2460,7 +2460,7 @@
 2	u	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 3	bejn	_	ADP	PREP	_	4	case	_	_
 4	ruħi	_	NOUN	NOUN	_	1	conj	_	_
-5	jien	_	PRON	PRON_PERS	_	7	mark	_	_
+5	jien	_	PRON	PRON_PERS	ExtPos=SCONJ	7	mark	_	_
 6	u	_	CCONJ	CONJ_CORD	_	5	fixed	_	_
 7	mmekkek	_	VERB	VERB	_	15	advcl	_	_
 8	fil-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
