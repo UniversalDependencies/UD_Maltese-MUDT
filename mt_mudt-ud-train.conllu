@@ -4578,7 +4578,7 @@
 15	feedback	_	NOUN	NOUN	_	13	obj	_	_
 16	dwar	_	ADP	PREP	_	18	case	_	_
 17	il-	_	DET	DEF	_	18	det	_	SpaceAfter=No
-18	follow	_	NOUN	NOUN	_	15	nmod	_	_
+18	follow	_	NOUN	NOUN	_	15	nmod	_	Typo=Yes
 19	up	_	X	X_ENG	_	18	goeswith	_	_
 20	li	_	SCONJ	COMP	_	22	mark	_	_
 21	kien	_	AUX	KIEN	_	22	aux	_	_
@@ -4624,7 +4624,7 @@
 12	Awditur	_	NOUN	NOUN	_	10	nsubj	_	_
 13	Ġenerali	_	ADJ	ADJ	_	12	amod	_	_
 14	fil-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
-15	follow	_	NOUN	NOUN	_	10	obl	_	_
+15	follow	_	NOUN	NOUN	_	10	obl	_	Typo=Yes
 16	up	_	X	X_ENG	_	15	goeswith	_	_
 17	li	_	SCONJ	COMP	_	19	mark	_	_
 18	kien	_	AUX	KIEN	_	19	aux	_	_
@@ -5699,7 +5699,7 @@
 20	u	_	CCONJ	CONJ_CORD	_	23	cc	_	_
 21	kif	_	ADV	PRON_INT	_	23	advmod	_	_
 22	jiġu	_	AUX	VERB	_	23	aux:pass	_	_
-23	followed	_	VERB	PART_PASS	_	9	conj	_	_
+23	followed	_	VERB	PART_PASS	_	9	conj	_	Typo=Yes
 24	up	_	X	X_ENG	_	23	goeswith	_	SpaceAfter=No
 25	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
@@ -8588,7 +8588,7 @@
 37	jkunu	_	AUX	KIEN	_	38	cop	_	_
 38	sensittivi	_	ADJ	ADJ	_	32	ccomp	_	_
 39	għall-	_	ADP	PREP_DEF	_	40	case:det	_	SpaceAfter=No
-40	kompetittività	_	NOUN	NOUN	_	38	obl	_	_
+40	kompetittività	_	NOUN	NOUN	_	38	nmod:poss	_	_
 41	tal-	_	ADP	GEN_DEF	_	42	case:det	_	SpaceAfter=No
 42	kuntratt	_	NOUN	NOUN	_	40	obl	_	SpaceAfter=No
 43	,	_	PUNCT	X_PUN	_	32	punct	_	_
