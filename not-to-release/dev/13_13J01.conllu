@@ -169,7 +169,7 @@
 21	ta'	_	ADP	GEN	_	25	case	_	_
 22	ftit	_	ADV	QUAN	_	23	advmod	_	_
 23	inqas	_	ADV	ADV	_	25	advmod	_	_
-24	minn	_	ADP	PREP	_	23	case	_	_
+24	minn	_	ADP	PREP	_	25	case	_	_
 25	350	_	NUM	X_DIG	_	19	nmod:poss	_	SpaceAfter=No
 26	,	_	PUNCT	X_PUN	_	19	punct	_	_
 27	dan	_	PRON	PRON_DEM	_	31	nsubj	_	_

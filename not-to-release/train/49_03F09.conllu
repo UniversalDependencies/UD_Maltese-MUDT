@@ -65,7 +65,7 @@
 
 # sent_id = 49_03F09:6
 # text = Li kieku kien hekk, kieku t-tfal mhumiex daqshekk kattivi magħna l-annimali, storbjużi, arditi u giddibin.
-1	Li	_	SCONJ	COMP	_	4	mark	_	_
+1	Li	_	SCONJ	COMP	ExtPos=SCONJ	4	mark	_	_
 2	kieku	_	SCONJ	CONJ_SUB	_	1	fixed	_	_
 3	kien	_	AUX	KIEN	_	4	cop	_	_
 4	hekk	_	ADV	ADV	_	0	root	_	SpaceAfter=No
@@ -338,7 +338,7 @@
 
 # sent_id = 49_03F09:19
 # text = Sa ma wasal il-purtinar, ippruvajt inkellimhom ftit, bilwieqfa b'daharhom mal-ħajt tal-klassi.
-1	Sa	_	ADP	PREP	_	3	mark	_	_
+1	Sa	_	ADP	PREP	ExtPos=SCONJ	3	mark	_	_
 2	ma	_	SCONJ	COMP	_	1	fixed	_	_
 3	wasal	_	VERB	VERB	_	7	advcl	_	_
 4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
@@ -613,7 +613,7 @@
 
 # sent_id = 49_03F09:31
 # text = Ħafna mit-tfal li kelli dik is-sena kienu fuq ruħhom ġmielhom.
-1	Ħafna	_	DET	QUAN	_	11	det	_	_
+1	Ħafna	_	DET	QUAN	_	11	nsubj	_	_
 2	mit-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
 3	tfal	_	NOUN	NOUN	_	1	nmod	_	_
 4	li	_	SCONJ	COMP	_	5	mark	_	_
@@ -704,7 +704,7 @@
 3	minuta	_	NOUN	NOUN	_	2	obl	_	_
 4	waħidhom	_	ADV	ADV	_	2	advmod	_	_
 5	imqar	_	ADV	ADV	_	8	advmod	_	_
-6	sa	_	ADP	PREP	_	8	mark	_	_
+6	sa	_	ADP	PREP	ExtPos=SCONJ	8	mark	_	_
 7	ma	_	SCONJ	COMP	_	6	fixed	_	_
 8	tmur	_	VERB	VERB	_	11	advcl	_	_
 9	sat-	_	ADP	PREP_DEF	_	10	case:det	_	SpaceAfter=No
@@ -1423,7 +1423,7 @@
 # sent_id = 49_03F09:61
 # text = Ftit wara li żżewwiġt kont bdejt nitgħallem l-Esperanto.
 1	Ftit	_	ADV	QUAN	_	4	advmod	_	_
-2	wara	_	ADP	PREP	_	4	case	_	_
+2	wara	_	ADP	PREP	ExtPos=SCONJ	4	case	_	_
 3	li	_	SCONJ	COMP	_	2	fixed	_	_
 4	żżewwiġt	_	VERB	VERB	_	6	advcl	_	_
 5	kont	_	AUX	KIEN	_	6	aux	_	_
@@ -1595,7 +1595,7 @@
 
 # sent_id = 49_03F09:69
 # text = Wara li nviżtani kien qalli: " Forsi dan l-aħħar għaddejt minn xi żmien diffiċli.
-1	Wara	_	ADP	PREP	_	3	mark	_	_
+1	Wara	_	ADP	PREP	ExtPos=SCONJ	3	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	nviżtani	_	VERB	VERB	_	5	advcl	_	_
 4	kien	_	AUX	KIEN	_	5	aux	_	_

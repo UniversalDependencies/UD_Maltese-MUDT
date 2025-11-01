@@ -202,7 +202,7 @@
 13	hi	_	PRON	PRON_PERS	_	14	nsubj	_	_
 14	aċċettat	_	VERB	VERB	_	6	conj	_	_
 15	għax	_	SCONJ	CONJ_SUB	_	25	mark	_	_
-16	minbarra	_	ADP	PREP	_	19	mark	_	_
+16	minbarra	_	ADP	PREP	ExtPos=SCONJ	19	mark	_	_
 17	li	_	SCONJ	COMP	_	16	fixed	_	_
 18	kien	_	AUX	KIEN	_	19	aux	_	_
 19	jogħġobha	_	VERB	VERB	_	25	advcl	_	_

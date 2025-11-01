@@ -126,8 +126,8 @@
 14	dawn	_	PRON	PRON_DEM	_	17	det	_	_
 15	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 16	aħħar	_	ADJ	ADJ	_	17	amod	_	_
-17	ġimgħat	_	NOUN	NOUN	_	11	obl	_	_
-18	hekk	_	ADV	ADV	_	22	mark	_	_
+17	ġimgħat	_	NOUN	NOUN	_	11	nmod	_	_
+18	hekk	_	ADV	ADV	ExtPos=SCONJ	22	mark	_	_
 19	kif	_	PRON	PRON_INT	_	18	fixed	_	_
 20	il-	_	DET	DEF	_	21	det	_	SpaceAfter=No
 21	Gvern	_	NOUN	NOUN	_	22	nsubj	_	_

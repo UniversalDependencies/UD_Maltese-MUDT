@@ -1232,7 +1232,7 @@
 19	eżatt	_	ADV	ADV	_	22	advmod	_	_
 20	wara	_	ADP	PREP	_	22	case	_	_
 21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
-22	elezzjoni	_	NOUN	NOUN	_	18	obl	_	SpaceAfter=No
+22	elezzjoni	_	NOUN	NOUN	_	14	obl	_	SpaceAfter=No
 23	,	_	PUNCT	X_PUN	_	18	punct	_	_
 24	kien	_	AUX	KIEN	_	25	aux	_	_
 25	qal	_	VERB	VERB	_	1	ccomp	_	_

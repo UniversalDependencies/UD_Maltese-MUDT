@@ -161,7 +161,7 @@
 
 # sent_id = 47_01F09:9
 # text = Kull ma huma iżgħar minni ftit snin, u xorta jsejħuli mgħallem.
-1	Kull	_	DET	QUAN	_	4	mark	_	_
+1	Kull	_	DET	QUAN	ExtPos=SCONJ	4	mark	_	_
 2	ma	_	SCONJ	COMP	_	1	fixed	_	_
 3	huma	_	PRON	PRON_PERS	_	4	cop	_	_
 4	iżgħar	_	ADJ	ADJ	_	11	advcl	_	_
@@ -675,7 +675,7 @@
 2	nħallihom	_	VERB	VERB	_	0	root	_	_
 3	jaqbduni	_	VERB	VERB	_	2	xcomp	_	SpaceAfter=No
 4	,	_	PUNCT	X_PUN	_	2	punct	_	_
-5	x'	_	ADV	PRON_INT	_	7	advmod	_	SpaceAfter=No
+5	x'	_	ADV	PRON_INT	ExtPos=ADV	7	advmod	_	SpaceAfter=No
 6	aktarx	_	ADV	ADV	_	5	fixed	_	_
 7	jagħmluli	_	VERB	VERB	_	2	parataxis	_	_
 8	xi	_	DET	QUAN	_	9	det	_	_
@@ -1005,7 +1005,7 @@
 
 # sent_id = 47_01F09:65
 # text = Mingħajr ma ntqalet kelma oħra, il-ħamsa u għoxrin għassies daru dawra mejt magħhom u bla kliem u bla sliem ġagħluhom jimxu 'l isfel lejn il-wied, minn fejn bdew telgħin bil-mod il-mod lejn Wied is-Santi.
-1	Mingħajr	_	ADP	PREP	_	3	mark	_	_
+1	Mingħajr	_	ADP	PREP	ExtPos=SCONJ	3	mark	_	_
 2	ma	_	SCONJ	COMP	_	1	fixed	_	_
 3	ntqalet	_	VERB	VERB	_	12	advcl	_	_
 4	kelma	_	NOUN	NOUN	_	3	nsubj:pass	_	_
@@ -1019,7 +1019,7 @@
 12	daru	_	VERB	VERB	_	0	root	_	_
 13	dawra	_	NOUN	NOUN	_	12	obj	_	_
 14	mejt	_	NOUN	NOUN	_	13	nmod	_	_
-15	magħhom	_	PRON	PREP_PRON	_	13	obl	_	_
+15	magħhom	_	PRON	PREP_PRON	_	12	obl	_	_
 16	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
 17	bla	_	ADP	PREP	_	18	case	_	_
 18	kliem	_	NOUN	NOUN	_	22	obl	_	_

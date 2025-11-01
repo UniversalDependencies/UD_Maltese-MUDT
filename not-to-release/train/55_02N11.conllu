@@ -269,7 +269,7 @@
 31	settijiet	_	NOUN	NOUN	_	29	obl	_	_
 32	addattati	_	VERB	PART_PASS	_	31	amod	_	SpaceAfter=No
 33	,	_	PUNCT	X_PUN	_	26	punct	_	_
-34	kif	_	PRON	PRON_INT	_	37	cc	_	_
+34	kif	_	PRON	PRON_INT	ExtPos=CCONJ	37	cc	_	_
 35	ukoll	_	ADV	FOC	_	34	fixed	_	_
 36	l-	_	DET	DEF	_	37	det	_	SpaceAfter=No
 37	għadd	_	NOUN	NOUN	_	2	conj	_	_

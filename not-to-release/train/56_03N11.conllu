@@ -177,7 +177,7 @@
 27	xitel	_	NOUN	NOUN	_	25	obj	_	_
 28	tal-	_	ADP	GEN_DEF	_	29	case:det	_	SpaceAfter=No
 29	capsicum	_	X	X_FOR	_	27	nmod:poss	_	_
-30	minħabba	_	ADP	PREP	_	33	mark	_	_
+30	minħabba	_	ADP	PREP	ExtPos=SCONJ	33	mark	_	_
 31	li	_	SCONJ	COMP	_	30	fixed	_	_
 32	hi	_	PRON	PRON_PERS	_	33	cop	_	_
 33	biċċa	_	NOUN	NOUN	_	23	advcl	_	_
@@ -374,7 +374,7 @@
 16	li	_	SCONJ	COMP	_	17	mark	_	_
 17	jkollna	_	VERB	VERB_PSEU	_	13	conj	_	_
 18	għaliex	_	SCONJ	CONJ_SUB	_	32	mark	_	_
-19	waqt	_	ADP	PREP	_	25	mark	_	_
+19	waqt	_	ADP	PREP	ExtPos=SCONJ	25	mark	_	_
 20	li	_	SCONJ	COMP	_	19	fixed	_	_
 21	l-	_	DET	DEF	_	22	det	_	SpaceAfter=No
 22	frott	_	NOUN	NOUN	_	25	nsubj:pass	_	_
@@ -500,7 +500,7 @@
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
 4	bżar	_	NOUN	NOUN	_	2	nmod:poss	_	_
 5	jikbru	_	VERB	VERB	_	0	root	_	_
-6	huma	_	PRON	PRON_PERS	_	8	mark	_	_
+6	huma	_	PRON	PRON_PERS	ExtPos=SCONJ	8	mark	_	_
 7	u	_	CCONJ	CONJ_CORD	_	6	fixed	_	_
 8	jagħmlu	_	VERB	VERB	_	5	advcl	_	_
 9	l-	_	DET	DEF	_	10	det	_	SpaceAfter=No
@@ -962,7 +962,7 @@
 21	nadif	_	ADJ	ADJ	_	20	amod	_	_
 22	darba	_	NOUN	NOUN	_	18	obl	_	_
 23	fil-	_	ADP	PREP_DEF	_	24	case:det	_	SpaceAfter=No
-24	ġimgħa	_	NOUN	NOUN	_	22	obl	_	SpaceAfter=No
+24	ġimgħa	_	NOUN	NOUN	_	22	nmod	_	SpaceAfter=No
 25	.	_	PUNCT	X_PUN	_	1	punct	_	_
 
 # sent_id = 56_03N11:42
@@ -1635,7 +1635,7 @@
 6	iżda	_	CCONJ	CONJ_CORD	_	8	cc	_	_
 7	dawn	_	PRON	PRON_DEM	_	8	nsubj	_	_
 8	jibqgħu	_	VERB	VERB	_	1	conj	_	_
-9	bla	_	ADP	PREP	_	11	mark	_	_
+9	bla	_	ADP	PREP	ExtPos=SCONJ	11	mark	_	_
 10	ma	_	SCONJ	COMP	_	9	fixed	_	_
 11	jikbru	_	VERB	VERB	_	8	xcomp	_	SpaceAfter=No
 12	.	_	PUNCT	X_PUN	_	1	punct	_	_

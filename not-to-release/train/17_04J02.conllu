@@ -685,7 +685,7 @@
 10	ta'	_	ADP	GEN	_	11	case	_	_
 11	garanzija	_	NOUN	NOUN	_	9	xcomp	_	_
 12	għal	_	ADP	PREP	_	13	case	_	_
-13	dak	_	PRON	PRON_DEM	_	11	det	_	_
+13	dak	_	PRON	PRON_DEM	_	11	nmod	_	_
 14	li	_	SCONJ	COMP	_	16	mark	_	_
 15	se	_	AUX	FUT	_	16	aux:part	_	_
 16	jiġri	_	VERB	VERB	_	13	acl	_	_

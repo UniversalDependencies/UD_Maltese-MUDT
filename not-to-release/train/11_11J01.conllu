@@ -82,7 +82,7 @@
 8	Diċembru	_	PROPN	NOUN_PROP	_	3	obl	_	_
 9	li	_	SCONJ	COMP	_	10	mark	_	_
 10	għadda	_	VERB	VERB	_	8	acl	_	_
-11	wara	_	ADP	PREP	_	13	mark	_	_
+11	wara	_	ADP	PREP	ExtPos=SCONJ	13	mark	_	_
 12	li	_	SCONJ	COMP	_	11	fixed	_	_
 13	stqarret	_	VERB	VERB	_	3	advcl	_	_
 14	li	_	SCONJ	COMP	_	16	mark	_	_
@@ -98,7 +98,7 @@
 24	interessi	_	NOUN	NOUN	_	22	obj	_	_
 25	tat-	_	ADP	GEN_DEF	_	26	case:det	_	SpaceAfter=No
 26	tfal	_	NOUN	NOUN	_	24	nmod:poss	_	_
-27	peress	_	ADP	PREP	_	29	mark	_	_
+27	peress	_	ADP	PREP	ExtPos=SCONJ	29	mark	_	_
 28	li	_	SCONJ	COMP	_	27	fixed	_	_
 29	swew	_	VERB	VERB	_	18	advcl	_	_
 30	għalxejn	_	ADV	ADV	_	29	advmod	_	_
@@ -232,8 +232,8 @@
 5	fix-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
 6	xogħol	_	NOUN	NOUN	_	3	nmod	_	_
 7	mat-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
-8	tfal	_	NOUN	NOUN	_	6	obl	_	_
-9	kif	_	PRON	PRON_INT	_	12	cc	_	_
+8	tfal	_	NOUN	NOUN	_	6	nmod	_	_
+9	kif	_	PRON	PRON_INT	ExtPos=CCONJ	12	cc	_	_
 10	ukoll	_	ADV	FOC	_	9	fixed	_	_
 11	fil-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
 12	qasam	_	NOUN	NOUN	_	6	conj	_	_
@@ -258,7 +258,7 @@
 12	Università	_	NOUN	NOUN	_	3	nmod	_	_
 13	ta'	_	ADP	GEN	_	14	case	_	_
 14	Malta	_	PROPN	NOUN_PROP	_	12	nmod:poss	_	_
-15	kif	_	PRON	PRON_INT	_	17	cc	_	_
+15	kif	_	PRON	PRON_INT	ExtPos=CCONJ	17	cc	_	_
 16	ukoll	_	ADV	FOC	_	15	fixed	_	_
 17	diploma	_	NOUN	NOUN	_	3	conj	_	_
 18	fl-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
@@ -324,7 +324,7 @@
 23	u	_	CCONJ	CONJ_CORD	_	24	cc	_	_
 24	personali	_	ADJ	ADJ	_	22	conj	_	SpaceAfter=No
 25	,	_	PUNCT	X_PUN	_	15	punct	_	_
-26	kif	_	PRON	PRON_INT	_	29	cc	_	_
+26	kif	_	PRON	PRON_INT	ExtPos=CCONJ	29	cc	_	_
 27	ukoll	_	ADV	FOC	_	26	fixed	_	_
 28	it-	_	DET	DEF	_	29	det	_	SpaceAfter=No
 29	tmexxija	_	NOUN	NOUN	_	5	conj	_	_
@@ -382,7 +382,7 @@
 13	għall-	_	ADP	PREP_DEF	_	15	case:det	_	SpaceAfter=No
 14	Family	_	ADJ	ADJ	_	15	amod	_	_
 15	Welfare	_	NOUN	NOUN	_	12	nmod	_	_
-16	kif	_	PRON	PRON_INT	_	18	cc	_	_
+16	kif	_	PRON	PRON_INT	ExtPos=CCONJ	18	cc	_	_
 17	ukoll	_	ADV	FOC	_	16	fixed	_	_
 18	lecturer	_	NOUN	NOUN	_	10	conj	_	_
 19	fl-	_	ADP	PREP_DEF	_	20	case:det	_	SpaceAfter=No
@@ -403,7 +403,7 @@
 8	adoloxxenti	_	NOUN	NOUN	_	6	obl:arg	_	_
 9	bi	_	ADP	PREP	_	10	case	_	_
 10	problemi	_	NOUN	NOUN	_	8	nmod	_	_
-11	kif	_	PRON	PRON_INT	_	14	cc	_	_
+11	kif	_	PRON	PRON_INT	ExtPos=CCONJ	14	cc	_	_
 12	ukoll	_	ADV	FOC	_	11	fixed	_	_
 13	għall-	_	ADP	PREP_DEF	_	14	case:det	_	SpaceAfter=No
 14	vittmi	_	NOUN	NOUN	_	8	conj	_	_
