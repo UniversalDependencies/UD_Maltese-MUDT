@@ -808,7 +808,7 @@
 30	insaqqu	_	VERB	VERB	_	29	xcomp	_	_
 31	darbtejn	_	NOUN	NOUN	_	30	obl	_	_
 32	fil-	_	ADP	PREP_DEF	_	33	case:det	_	SpaceAfter=No
-33	ġimgħa	_	NOUN	NOUN	_	31	obl	_	SpaceAfter=No
+33	ġimgħa	_	NOUN	NOUN	_	31	nmod	_	SpaceAfter=No
 34	,	_	PUNCT	X_PUN	_	30	punct	_	_
 35	dejjem	_	ADV	ADV	_	38	advmod	_	_
 36	bi	_	ADP	PREP	_	38	case	_	_

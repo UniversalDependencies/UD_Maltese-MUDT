@@ -4440,9 +4440,9 @@
 37	jkunu	_	AUX	KIEN	_	38	cop	_	_
 38	sensittivi	_	ADJ	ADJ	_	32	ccomp	_	_
 39	għall-	_	ADP	PREP_DEF	_	40	case:det	_	SpaceAfter=No
-40	kompetittività	_	NOUN	NOUN	_	38	nmod:poss	_	_
+40	kompetittività	_	NOUN	NOUN	_	38	nmod	_	_
 41	tal-	_	ADP	GEN_DEF	_	42	case:det	_	SpaceAfter=No
-42	kuntratt	_	NOUN	NOUN	_	40	obl	_	SpaceAfter=No
+42	kuntratt	_	NOUN	NOUN	_	40	nmod:poss	_	SpaceAfter=No
 43	,	_	PUNCT	X_PUN	_	32	punct	_	_
 44	dan	_	PRON	PRON_DEM	_	45	nsubj	_	_
 45	jista'	_	VERB	VERB	_	16	conj	_	_
