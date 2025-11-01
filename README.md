@@ -50,6 +50,7 @@ Fixed:
 - `obl` should be `nmod` errors
 - a handful incorrect attachments
 - added `ExtPos` for `fixed`
+- fixed `goeswith`
 
 # Update to UDv2.13
 Fixed legacy errors:

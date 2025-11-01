@@ -23,3 +23,4 @@ Refine the analysis of multiple subjects.
 
 - 48_02F09:5 fix xi drabi, this might actually be a case of ellipsis
 - differenti minn
+- check kull ma, provisional solution in 47_01F09:9 is to tag it as SCONJ
