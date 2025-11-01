@@ -45,6 +45,12 @@ The original treebank was annotated according to UDv1, this version was automati
 - all validation errors were fixed manually
 
 # Updates
+# Update to UDv2.17
+Fixed:
+- `obl` should be `nmod` errors
+- a handful incorrect attachments
+- added `ExtPos` for `fixed`
+
 # Update to UDv2.13
 Fixed legacy errors:
 - goeswith-upos
