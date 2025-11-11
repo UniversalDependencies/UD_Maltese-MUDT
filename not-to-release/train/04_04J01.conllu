@@ -182,7 +182,7 @@
 31	,	_	PUNCT	X_PUN	_	14	punct	_	_
 32	u	_	CCONJ	CONJ_CORD	_	41	cc	_	_
 33	mhux	_	AUX	PRON_PERS_NEG	_	41	aux:neg	_	_
-34	wara	_	ADP	PREP	_	41	mark	_	_
+34	wara	_	ADP	PREP	ExtPos=SCONJ	41	mark	_	_
 35	li	_	SCONJ	COMP	_	34	fixed	_	_
 36	l-	_	DET	DEF	_	37	det	_	SpaceAfter=No
 37	professur	_	NOUN	NOUN	_	38	compound	_	_
@@ -212,7 +212,7 @@
 12	viċi	_	ADJ	ADJ	_	15	amod	_	_
 13	-	_	PUNCT	X_PUN	_	12	punct	_	_
 14	prim	_	ADJ	ADJ	_	15	amod	_	_
-15	ministru	_	NOUN	NOUN	_	7	obl	_	_
+15	ministru	_	NOUN	NOUN	_	7	nmod	_	_
 16	u	_	CCONJ	CONJ_CORD	_	17	cc	_	_
 17	Ministru	_	NOUN	NOUN	_	15	conj	_	_
 18	ta'	_	ADP	GEN	_	20	case	_	_

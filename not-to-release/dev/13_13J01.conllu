@@ -1,6 +1,6 @@
 # sent_id = 13_13J01:1
 # text = Filwaqt li Malta qatt ma setgħet tinjora r-relazzjonijiet mal-Libja, pajjiż ġar tagħha, meta ġie l-mument tal-verita' ma qagħditx lura milli tgħid li hu abjad, abjad u iswed, iswed.
-1	Filwaqt	_	SCONJ	CONJ_SUB	_	6	mark	_	_
+1	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	6	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	Malta	_	PROPN	NOUN_PROP	_	6	nsubj	_	_
 4	qatt	_	ADV	ADV	_	6	advmod	_	_
@@ -51,7 +51,7 @@
 9	fi	_	ADP	PREP	_	10	case	_	_
 10	protesti	_	NOUN	NOUN	_	21	obl	_	_
 11	paċifiċi	_	ADJ	ADJ	_	10	amod	_	_
-12	qabel	_	ADP	PREP	_	16	mark	_	_
+12	qabel	_	ADP	PREP	ExtPos=SCONJ	16	mark	_	_
 13	ma	_	SCONJ	COMP	_	12	fixed	_	_
 14	l-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 15	kunflitt	_	NOUN	NOUN	_	16	nsubj	_	_
@@ -169,7 +169,7 @@
 21	ta'	_	ADP	GEN	_	25	case	_	_
 22	ftit	_	ADV	QUAN	_	23	advmod	_	_
 23	inqas	_	ADV	ADV	_	25	advmod	_	_
-24	minn	_	ADP	PREP	_	23	fixed	_	_
+24	minn	_	ADP	PREP	_	25	case	_	_
 25	350	_	NUM	X_DIG	_	19	nmod:poss	_	SpaceAfter=No
 26	,	_	PUNCT	X_PUN	_	19	punct	_	_
 27	dan	_	PRON	PRON_DEM	_	31	nsubj	_	_
@@ -356,7 +356,7 @@
 # sent_id = 13_13J01:13
 # text = Dan minbarra li hemm diversi ajruporti militari ftit 'il bogħod minn Malta li qed jaqdu l-funzjoni biex jinfurzaw in-No Fly Zone.
 1	Dan	_	PRON	PRON_DEM	_	0	root	_	_
-2	minbarra	_	ADP	PREP	_	4	mark	_	_
+2	minbarra	_	ADP	PREP	ExtPos=SCONJ	4	mark	_	_
 3	li	_	SCONJ	COMP	_	2	fixed	_	_
 4	hemm	_	VERB	HEMM	_	1	advcl	_	_
 5	diversi	_	ADJ	ADJ	_	6	amod	_	_
@@ -366,7 +366,7 @@
 9	'il	_	ADP	PREP	_	10	case	_	_
 10	bogħod	_	NOUN	NOUN	_	4	obl	_	_
 11	minn	_	ADP	PREP	_	12	case:det	_	_
-12	Malta	_	PROPN	NOUN_PROP	_	10	obl	_	_
+12	Malta	_	PROPN	NOUN_PROP	_	10	nmod	_	_
 13	li	_	SCONJ	COMP	_	15	mark	_	_
 14	qed	_	AUX	PROG	_	15	aux:part	_	_
 15	jaqdu	_	VERB	VERB	_	6	acl	_	_

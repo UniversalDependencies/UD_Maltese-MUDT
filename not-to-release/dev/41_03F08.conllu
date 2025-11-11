@@ -96,7 +96,7 @@
 5	tagħmel	_	VERB	VERB	_	4	xcomp	_	_
 6	kienet	_	AUX	KIEN	_	7	aux	_	_
 7	tagħmlu	_	VERB	VERB	_	0	root	_	_
-8	bla	_	ADP	PREP	_	10	mark	_	_
+8	bla	_	ADP	PREP	ExtPos=SCONJ	10	mark	_	_
 9	ma	_	SCONJ	COMP	_	8	fixed	_	_
 10	tagħti	_	VERB	VERB	_	7	advcl	_	_
 11	kas	_	NOUN	NOUN	_	10	compound	_	_
@@ -170,7 +170,7 @@
 22	,	_	PUNCT	X_PUN	_	18	punct	_	_
 23	u	_	CCONJ	CONJ_CORD	_	32	cc	_	_
 24	li	_	SCONJ	COMP	_	32	mark	_	_
-25	aktar	_	ADV	ADV	_	27	mark	_	_
+25	aktar	_	ADV	ADV	ExtPos=SCONJ	27	mark	_	_
 26	ma	_	SCONJ	COMP	_	25	fixed	_	_
 27	jagħddi	_	VERB	VERB	_	32	advcl	_	_
 28	ż-	_	DET	DEF	_	29	det	_	SpaceAfter=No
@@ -299,7 +299,7 @@
 # sent_id = 41_03F08:20
 # text = Telqet bla ma sellmitilhom.
 1	Telqet	_	VERB	VERB	_	0	root	_	_
-2	bla	_	ADP	PREP	_	4	mark	_	_
+2	bla	_	ADP	PREP	ExtPos=SCONJ	4	mark	_	_
 3	ma	_	SCONJ	COMP	_	2	fixed	_	_
 4	sellmitilhom	_	VERB	VERB	_	1	advcl	_	SpaceAfter=No
 5	.	_	PUNCT	X_PUN	_	1	punct	_	_

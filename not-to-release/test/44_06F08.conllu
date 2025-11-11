@@ -94,7 +94,7 @@
 9	la	_	PART	NEG	_	12	advmod:neg	_	_
 10	fuq	_	ADP	PREP	_	12	case	_	_
 11	id-	_	DET	DEF	_	12	det	_	SpaceAfter=No
-12	dar	_	NOUN	NOUN	_	6	obl	_	_
+12	dar	_	NOUN	NOUN	_	3	obl	_	_
 13	u	_	CCONJ	CONJ_CORD	_	16	cc	_	_
 14	wisq	_	ADV	ADV	_	16	advmod	_	_
 15	anqas	_	ADV	FOC	_	16	advmod:neg	_	_

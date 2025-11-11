@@ -70,7 +70,7 @@
 14	baqgħet	_	VERB	VERB	_	0	root	_	_
 15	għaddejja	_	VERB	PART_ACT	_	14	xcomp	_	_
 16	anki	_	ADV	FOC	_	19	discourse	_	_
-17	wara	_	ADP	PREP	_	19	mark	_	_
+17	wara	_	ADP	PREP	ExtPos=SCONJ	19	mark	_	_
 18	li	_	SCONJ	COMP	_	17	fixed	_	_
 19	dalam	_	VERB	VERB	_	14	advcl	_	SpaceAfter=No
 20	.	_	PUNCT	X_PUN	_	14	punct	_	_
@@ -165,7 +165,7 @@
 14	d-	_	DET	DEF	_	15	det	_	SpaceAfter=No
 15	donazzjonijiet	_	NOUN	NOUN	_	13	obj	_	_
 16	tiegħu	_	PRON	GEN_PRON	_	15	nmod:poss	_	_
-17	permezz	_	NOUN	NOUN	_	19	case	_	_
+17	permezz	_	NOUN	NOUN	ExtPos=ADP	19	case	_	_
 18	ta'	_	ADP	GEN	_	17	fixed	_	_
 19	kontijiet	_	NOUN	NOUN	_	13	obl	_	_
 20	bankarji	_	ADJ	ADJ	_	19	amod	_	_

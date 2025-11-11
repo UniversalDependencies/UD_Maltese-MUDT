@@ -10,7 +10,7 @@
 
 # sent_id = 15_02J02:2
 # text = Minkejja li għad fadal madwar erba' snin u nofs, il-Partit Laburista bħalissa jinsab għaddej bi tħejjijiet intensivi għal elezzjoni ġenerali.
-1	Minkejja	_	ADP	PREP	_	4	mark	_	_
+1	Minkejja	_	ADP	PREP	ExtPos=SCONJ	4	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	għad	_	AUX	VERB_PSEU	_	4	aux	_	_
 4	fadal	_	VERB	VERB	_	15	advcl	_	_
@@ -670,7 +670,7 @@
 # sent_id = 15_02J02:21
 # text = Dan minħabba li bħalissa fil-MLP hemm ħafna li qed jopponu l-istil ta' din it-tmexxija iżda qed ikomplu jippreferu jistennew.
 1	Dan	_	PRON	PRON_DEM	_	0	root	_	_
-2	minħabba	_	ADP	PREP	_	7	mark	_	_
+2	minħabba	_	ADP	PREP	ExtPos=SCONJ	7	mark	_	_
 3	li	_	SCONJ	COMP	_	2	fixed	_	_
 4	bħalissa	_	ADV	ADV	_	7	advmod	_	_
 5	fil-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No

@@ -41,7 +41,7 @@
 39	Laburista	_	ADJ	ADJ	_	38	amod	_	_
 40	Joe	_	PROPN	NOUN_PROP	_	34	nsubj	_	_
 41	Mizzi	_	PROPN	NOUN_PROP	_	40	flat:name	_	_
-42	wara	_	ADP	PREP	_	48	mark	_	_
+42	wara	_	ADP	PREP	ExtPos=SCONJ	48	mark	_	_
 43	li	_	SCONJ	COMP	_	42	fixed	_	_
 44	hu	_	PRON	PRON_PERS	_	48	nsubj	_	_
 45	b'	_	ADP	PREP	_	46	case	_	SpaceAfter=No
@@ -215,7 +215,7 @@
 17	kien	_	AUX	KIEN	_	18	aux	_	_
 18	hemm	_	VERB	HEMM	_	7	conj	_	_
 19	qbil	_	NOUN	NOUN	_	18	nsubj	_	_
-20	filwaqt	_	SCONJ	CONJ_SUB	_	27	mark	_	_
+20	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	27	mark	_	_
 21	li	_	SCONJ	COMP	_	20	fixed	_	_
 22	d-	_	DET	DEF	_	23	det	_	SpaceAfter=No
 23	Deputat	_	NOUN	NOUN	_	25	compound	_	_
@@ -423,7 +423,7 @@
 28	it-	_	DET	DEF	_	29	det	_	SpaceAfter=No
 29	tenders	_	NOUN	NOUN	_	30	nsubj	_	_
 30	sarux	_	VERB	VERB	_	26	ccomp	_	_
-31	kif	_	ADV	PRON_INT	_	30	advmod	_	_
+31	kif	_	ADV	PRON_INT	ExtPos=ADV	30	advmod	_	_
 32	suppost	_	ADV	ADV	_	31	fixed	_	SpaceAfter=No
 33	.	_	PUNCT	X_PUN	_	3	punct	_	_
 

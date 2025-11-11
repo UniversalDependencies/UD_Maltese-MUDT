@@ -5,7 +5,7 @@ MUDT was designed as a balanced corpus with four major genres (see Splitting bel
 # Introduction
 ## Origin
 This treebank is the product of the PhD thesis *Constituent order in Maltese: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
-The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.5 standard.
+The treebank was originally produced in accordance with UDv1, then brought up to the UDv2.5 standard.
 
 ## Splitting
 MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) in the following text types:
@@ -45,6 +45,13 @@ The original treebank was annotated according to UDv1, this version was automati
 - all validation errors were fixed manually
 
 # Updates
+# Update to UDv2.17
+Fixed:
+- `obl` should be `nmod` errors
+- a handful incorrect attachments
+- added `ExtPos` for `fixed`
+- fixed `goeswith`
+
 # Update to UDv2.13
 Fixed legacy errors:
 - goeswith-upos
@@ -107,6 +114,7 @@ General updates:
 Data available since: UD v2.3
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: news legal nonfiction fiction wiki
 Lemmas: not available
 UPOS: converted from manual

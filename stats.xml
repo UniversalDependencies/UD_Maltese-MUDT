@@ -20,7 +20,7 @@
     <tag name="ADV">1787</tag><!-- _ -->
     <tag name="AUX">1690</tag><!-- _ -->
     <tag name="CCONJ">1525</tag><!-- _ -->
-    <tag name="DET">3602</tag><!-- _ -->
+    <tag name="DET">3601</tag><!-- _ -->
     <tag name="INTJ">65</tag><!-- _ -->
     <tag name="NOUN">8525</tag><!-- _ -->
     <tag name="NUM">600</tag><!-- _ -->
@@ -28,13 +28,19 @@
     <tag name="PRON">2321</tag><!-- _ -->
     <tag name="PROPN">1545</tag><!-- _ -->
     <tag name="PUNCT">4729</tag><!-- _ -->
-    <tag name="SCONJ">2647</tag><!-- _ -->
+    <tag name="SCONJ">2648</tag><!-- _ -->
     <tag name="SYM">241</tag><!-- _ -->
     <tag name="VERB">6386</tag><!-- _ -->
     <tag name="X">341</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="0">
+  <feats unique="6">
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN">23</feat><!-- permezz, flimkien, qrib, favur -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,PRON">12</feat><!-- x', in, kif -->
+    <feat name="ExtPos" value="CCONJ" upos="ADV,CCONJ,PRON">18</feat><!-- kif -->
+    <feat name="ExtPos" value="PART" upos="ADV">1</feat><!-- lanqas -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,PRON,SCONJ">132</feat><!-- filwaqt, wara, waqt, hekk, minkejja, peress, qabel, mingħajr, bla, minħabba -->
+    <feat name="Typo" value="Yes" upos="ADV,NOUN,PROPN,VERB">5</feat><!-- follow, followed, gonzi-, quddiem -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="47">
@@ -48,7 +54,7 @@
     <dep name="aux:neg">165</dep>
     <dep name="aux:part">354</dep>
     <dep name="aux:pass">86</dep>
-    <dep name="case">2876</dep>
+    <dep name="case">2878</dep>
     <dep name="case:det">2378</dep>
     <dep name="cc">1527</dep>
     <dep name="ccomp">683</dep>
@@ -58,24 +64,24 @@
     <dep name="cop:expl">9</dep>
     <dep name="csubj">23</dep>
     <dep name="dep">4</dep>
-    <dep name="det">3949</dep>
+    <dep name="det">3945</dep>
     <dep name="discourse">312</dep>
     <dep name="dislocated">13</dep>
     <dep name="expl">12</dep>
-    <dep name="fixed">188</dep>
+    <dep name="fixed">186</dep>
     <dep name="flat">200</dep>
     <dep name="flat:name">529</dep>
     <dep name="goeswith">5</dep>
     <dep name="iobj">77</dep>
     <dep name="list">238</dep>
     <dep name="mark">2662</dep>
-    <dep name="nmod">963</dep>
-    <dep name="nmod:poss">1872</dep>
-    <dep name="nsubj">2220</dep>
+    <dep name="nmod">980</dep>
+    <dep name="nmod:poss">1873</dep>
+    <dep name="nsubj">2222</dep>
     <dep name="nsubj:pass">214</dep>
     <dep name="nummod">252</dep>
     <dep name="obj">1623</dep>
-    <dep name="obl">2416</dep>
+    <dep name="obl">2400</dep>
     <dep name="obl:agent">100</dep>
     <dep name="obl:arg">301</dep>
     <dep name="orphan">2</dep>

@@ -786,7 +786,7 @@
 17	ta'	_	ADP	GEN	_	18	case	_	_
 18	kantanti	_	NOUN	NOUN	_	16	nmod:poss	_	_
 19	individwali	_	ADJ	ADJ	_	18	amod	_	_
-20	kif	_	CCONJ	PRON_INT	_	23	cc	_	_
+20	kif	_	CCONJ	PRON_INT	ExtPos=CCONJ	23	cc	_	_
 21	ukoll	_	ADV	FOC	_	20	fixed	_	_
 22	bħala	_	ADP	PREP	_	23	case	_	_
 23	pajjiż	_	NOUN	NOUN	_	16	conj	_	_
@@ -829,7 +829,7 @@
 5	bħala	_	ADP	PREP	_	6	case	_	_
 6	chairperson	_	NOUN	NOUN	_	3	obl	_	SpaceAfter=No
 7	,	_	PUNCT	X_PUN	_	6	punct	_	_
-8	kif	_	CCONJ	PRON_INT	_	11	cc	_	_
+8	kif	_	CCONJ	PRON_INT	ExtPos=CCONJ	11	cc	_	_
 9	ukoll	_	ADV	FOC	_	8	fixed	_	_
 10	il-	_	DET	DEF	_	11	det	_	SpaceAfter=No
 11	kumitat	_	NOUN	NOUN	_	6	conj	_	_
@@ -1052,7 +1052,7 @@
 
 # sent_id = 23b_04J03:39
 # text = Filwaqt li żied fuq il-konvinzjoni tiegħu li l-poplu Malti ma ħadhiex lanqas kontra Fabrizio Faniello, Robert Abela sellem l-irġulija tal-kantant li għaraf il-mument li jaffronta lill-pubbliku diżappuntat bir-riżultat.
-1	Filwaqt	_	SCONJ	CONJ_SUB	_	3	mark	_	_
+1	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	3	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	żied	_	VERB	VERB	_	21	advcl	_	_
 4	fuq	_	ADP	PREP	_	6	case	_	_
@@ -1154,7 +1154,7 @@
 35	kemm	_	CCONJ	PRON_INT	_	37	cc	_	_
 36	għall-	_	ADP	PREP_DEF	_	37	case:det	_	SpaceAfter=No
 37	festival	_	NOUN	NOUN	_	34	nmod	_	_
-38	kif	_	CCONJ	PRON_INT	_	41	cc	_	_
+38	kif	_	CCONJ	PRON_INT	ExtPos=CCONJ	41	cc	_	_
 39	ukoll	_	ADV	FOC	_	38	fixed	_	_
 40	għall-	_	ADP	PREP_DEF	_	41	case:det	_	SpaceAfter=No
 41	Eurovision	_	PROPN	NOUN_PROP	_	37	conj	_	SpaceAfter=No
@@ -1399,7 +1399,7 @@
 34	tal-	_	ADP	GEN_DEF	_	35	case:det	_	SpaceAfter=No
 35	vot	_	NOUN	NOUN	_	33	nmod:poss	_	SpaceAfter=No
 36	,	_	PUNCT	X_PUN	_	30	punct	_	_
-37	filwaqt	_	SCONJ	CONJ_SUB	_	42	mark	_	_
+37	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	42	mark	_	_
 38	li	_	SCONJ	COMP	_	37	fixed	_	_
 39	l-	_	DET	DEF	_	40	det	_	SpaceAfter=No
 40	pubbliku	_	NOUN	NOUN	_	42	nsubj	_	_
@@ -1411,7 +1411,7 @@
 46	oħra	_	ADJ	ADJ	_	45	amod	_	_
 47	tal-	_	ADP	GEN_DEF	_	48	case:det	_	SpaceAfter=No
 48	kelma	_	NOUN	NOUN	_	45	nmod:poss	_	_
-49	permezz	_	NOUN	NOUN	_	51	case:det	_	_
+49	permezz	_	NOUN	NOUN	ExtPos=ADP	51	case:det	_	_
 50	tat-	_	ADP	GEN_DEF	_	49	fixed	_	SpaceAfter=No
 51	televoting	_	NOUN	NOUN	_	42	obl	_	SpaceAfter=No
 52	.	_	PUNCT	X_PUN	_	6	punct	_	_
@@ -1512,7 +1512,7 @@
 3	l-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	intervista	_	NOUN	NOUN	_	2	nmod:poss	_	SpaceAfter=No
 5	,	_	PUNCT	X_PUN	_	2	punct	_	_
-6	waqt	_	ADP	PREP	_	12	mark	_	_
+6	waqt	_	ADP	PREP	ExtPos=SCONJ	12	mark	_	_
 7	li	_	SCONJ	COMP	_	6	fixed	_	_
 8	Robert	_	PROPN	NOUN_PROP	_	12	nsubj	_	_
 9	Abela	_	PROPN	NOUN_PROP	_	8	flat:name	_	_

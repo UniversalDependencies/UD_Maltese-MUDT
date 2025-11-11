@@ -180,7 +180,7 @@
 
 # sent_id = 53_04N10:7
 # text = Filwaqt li d-drawwiet tat-tieġ mimlijin ċerimonji, twemmin, u qwiel, huma biss manifestazzjonijiet estemi ta' okkażjoni, it-tqala u t-twelid mhux biss fihom drawwiet, ċerimonji, u l-kumplament, imma jittieħdu b'serjetà kbira għax din id-darba jinvolvu l-ħajja tal-mara u tat-tarbija, għalhekk ma jibqgħux biss drawwiet.
-1	Filwaqt	_	SCONJ	CONJ_SUB	_	7	mark	_	_
+1	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	7	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	d-	_	DET	DEF	_	4	det	_	SpaceAfter=No
 4	drawwiet	_	NOUN	NOUN	_	7	nsubj	_	_
@@ -683,7 +683,7 @@
 
 # sent_id = 53_04N10:20
 # text = Minħabba li b'kumbinazzjoni d-dawra tal-qamar madwar id-dinja tieħu preċiż tmienja u għoxrin jum, malajr il-bniedem tal-imgħoddi, tista' tgħid mad-dinja kollha, minħabba l-injoranza u doża qawwija ta' superstizzjoni beda jqabbel iż-żmien tal-qamar maż-żmien taċ-ċiklu tal-mara.
-1	Minħabba	_	ADP	PREP	_	12	mark	_	_
+1	Minħabba	_	ADP	PREP	ExtPos=SCONJ	12	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	b'	_	ADP	PREP	_	4	case	_	SpaceAfter=No
 4	kumbinazzjoni	_	NOUN	NOUN	_	12	obl	_	_
@@ -1246,7 +1246,7 @@
 23	li	_	SCONJ	COMP	_	24	mark	_	_
 24	jibilgħuhom	_	VERB	VERB	_	22	acl	_	SpaceAfter=No
 25	,	_	PUNCT	X_PUN	_	22	punct	_	_
-26	kif	_	CCONJ	PRON_INT	_	28	cc	_	_
+26	kif	_	CCONJ	PRON_INT	ExtPos=CCONJ	28	cc	_	_
 27	ukoll	_	ADV	FOC	_	26	fixed	_	_
 28	dawk	_	PRON	PRON_DEM	_	22	conj	_	_
 29	li	_	SCONJ	COMP	_	30	mark	_	_

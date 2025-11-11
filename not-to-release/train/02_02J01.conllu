@@ -161,7 +161,7 @@
 11	u	_	CCONJ	CONJ_CORD	_	12	cc	_	_
 12	Tancred	_	PROPN	NOUN_PROP	_	9	conj	_	_
 13	Tabone	_	PROPN	NOUN_PROP	_	12	flat:name	_	_
-14	kif	_	PRON	PRON_INT	_	17	cc	_	_
+14	kif	_	PRON	PRON_INT	ExtPos=CCONJ	17	cc	_	_
 15	ukoll	_	ADV	FOC	_	14	fixed	_	_
 16	40,000	_	NUM	X_DIG	_	17	nummod	_	_
 17	liri	_	NOUN	NOUN	_	7	conj	_	_
@@ -243,7 +243,7 @@
 11	wieħed	_	NUM	NUM_WHD	_	2	ccomp	_	_
 12	mill-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
 13	firmatarji	_	NOUN	NOUN	_	11	nmod	_	_
-14	flimkien	_	ADV	ADV	_	16	case	_	_
+14	flimkien	_	ADV	ADV	ExtPos=ADP	16	case	_	_
 15	ma'	_	ADP	PREP	_	14	fixed	_	_
 16	ħutu	_	NOUN	NOUN	_	11	obl	_	_
 17	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
@@ -502,7 +502,7 @@
 8	Frank	_	PROPN	NOUN_PROP	_	5	obl:arg	_	_
 9	Sammut	_	PROPN	NOUN_PROP	_	8	flat:name	_	_
 10	fejn	_	ADV	PRON_INT	_	19	advmod	_	_
-11	wara	_	ADP	PREP	_	13	mark	_	_
+11	wara	_	ADP	PREP	ExtPos=SCONJ	13	mark	_	_
 12	li	_	SCONJ	COMP	_	11	fixed	_	_
 13	mar	_	VERB	VERB	_	19	advcl	_	_
 14	għandu	_	PRON	PREP_PRON	_	13	obl	_	_
@@ -803,7 +803,7 @@
 
 # sent_id = 02_02J01:26
 # text = Waqt li ammetta li ma kienx trasparenti ma' ħutu, Farrugia semma kif darba tela Ġinebra biex jagħti $ 20,000 lil Tancred Tabone, eks- Ċermen tal-Enemalta li qabel din il-kariga kien involut fl-MOBC.
-1	Waqt	_	ADP	PREP	_	3	mark	_	_
+1	Waqt	_	ADP	PREP	ExtPos=SCONJ	3	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	ammetta	_	VERB	VERB	_	12	advcl	_	_
 4	li	_	SCONJ	COMP	_	7	mark	_	_
@@ -1110,7 +1110,7 @@
 11	fejn	_	ADV	PRON_INT	_	12	advmod	_	_
 12	qal	_	VERB	VERB	_	6	advcl	_	_
 13	li	_	SCONJ	COMP	_	23	mark	_	_
-14	wara	_	ADP	PREP	_	17	mark	_	_
+14	wara	_	ADP	PREP	ExtPos=SCONJ	17	mark	_	_
 15	li	_	SCONJ	COMP	_	14	fixed	_	_
 16	dan	_	PRON	PRON_DEM	_	17	nsubj	_	_
 17	sar	_	VERB	VERB	_	23	advcl	_	_
@@ -1217,7 +1217,7 @@
 
 # sent_id = 02_02J01:40
 # text = Waqt li semma kif jum minnhom fuq it-telefon dan Debono spiċċa anke jhedded lill-avukat tiegħu Sigfried Borg Cole, Farrugia semma kif fi żmien it-Tazza tad-Dinja 2019 Debono daħal fil-kompjuter tiegħu bl-għajnuna ta' Chris Farrugia, li jiġi neputih, u ċertu informazzjoni spiċċat għan il-mezzi tax-xandir.
-1	Waqt	_	ADP	PREP	_	3	mark	_	_
+1	Waqt	_	ADP	PREP	ExtPos=SCONJ	3	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	semma	_	VERB	VERB	_	23	advcl	_	_
 4	kif	_	ADV	PRON_INT	_	12	advmod	_	_
@@ -1301,7 +1301,7 @@
 23	ħadu	_	VERB	VERB	_	15	ccomp	_	_
 24	$	_	SYM	X_PUN	_	23	obj	_	_
 25	500,000	_	NUM	X_DIG	_	24	nummod	_	_
-26	waqt	_	ADP	PREP	_	33	mark	_	_
+26	waqt	_	ADP	PREP	ExtPos=SCONJ	33	mark	_	_
 27	li	_	SCONJ	COMP	_	26	fixed	_	_
 28	Alfred	_	PROPN	NOUN_PROP	_	33	nsubj	_	_
 29	Mallia	_	PROPN	NOUN_PROP	_	28	flat:name	_	_
@@ -1316,7 +1316,7 @@
 
 # sent_id = 02_02J01:42
 # text = Waqt li semma kif ħutu ma kienux jafu bil-kumpanija Aikon, li huwa waqqafha biex isservi bħala "bypass" għall-ħlasijiet li dwarhom kien ilment l-awditur, Farrugia sostna li ħutu ma qalulu xejn għala ma kienux għadhom jinħarġu flus minn Malta kif kien isir qabel.
-1	Waqt	_	ADP	PREP	_	3	mark	_	_
+1	Waqt	_	ADP	PREP	ExtPos=SCONJ	3	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	semma	_	VERB	VERB	_	32	advcl	_	_
 4	kif	_	ADV	PRON_INT	_	8	advmod	_	_
@@ -1381,7 +1381,7 @@
 10	Ispettur	_	NOUN	NOUN	_	11	compound	_	_
 11	Jonathan	_	PROPN	NOUN_PROP	_	8	obl:agent	_	_
 12	Ferris	_	PROPN	NOUN_PROP	_	11	flat:name	_	_
-13	waqt	_	ADP	PREP	_	19	mark	_	_
+13	waqt	_	ADP	PREP	ExtPos=SCONJ	19	mark	_	_
 14	li	_	SCONJ	COMP	_	13	fixed	_	_
 15	l-	_	DET	DEF	_	17	det	_	SpaceAfter=No
 16	ħamest	_	NUM	NUM_CRD	_	17	nummod	_	_

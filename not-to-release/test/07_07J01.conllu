@@ -1,7 +1,7 @@
 # sent_id = 07_07J01:1
 # text = Xahar wara li l-gazzetta Illum żvelat li l-Awtorità Maltija dwar il-Komunikazzjoni (MCA) nediet investigazzjoni dwar il-ħlas ta' ewro li Melita, il-kumpannija tat-telekomunikazzjonijiet, bdiet tiċċarġja għal kull pagament li jsir b'ċekk, jidher li issa l-kumpanija reġa' bdielha u waqqfet dan il-ħlas.
 1	Xahar	_	NOUN	NOUN	_	7	obl	_	_
-2	wara	_	ADP	PREP	_	7	mark	_	_
+2	wara	_	ADP	PREP	ExtPos=SCONJ	7	mark	_	_
 3	li	_	SCONJ	COMP	_	2	fixed	_	_
 4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
 5	gazzetta	_	NOUN	NOUN	_	6	compound	_	_
@@ -178,7 +178,7 @@
 33	ipproċessar	_	NOUN	NOUN	_	31	obl	_	_
 34	taċ-	_	ADP	GEN_DEF	_	35	case:det	_	SpaceAfter=No
 35	ċekkijiet	_	NOUN	NOUN	_	33	nmod:poss	_	_
-36	kif	_	PRON	PRON_INT	_	39	cc	_	_
+36	kif	_	PRON	PRON_INT	ExtPos=CCONJ	39	cc	_	_
 37	ukoll	_	ADV	FOC	_	36	fixed	_	_
 38	biex	_	SCONJ	CONJ_SUB	_	39	mark	_	_
 39	jitnaqqas	_	VERB	VERB	_	27	conj	_	_
@@ -381,7 +381,7 @@
 15	tinvestiga	_	VERB	VERB	_	14	xcomp	_	_
 16	lill-	_	ADP	LIL_DEF	_	17	case:det	_	SpaceAfter=No
 17	Melita	_	PROPN	NOUN_PROP	_	15	obj	_	_
-18	wara	_	ADP	PREP	_	27	mark	_	_
+18	wara	_	ADP	PREP	ExtPos=SCONJ	27	mark	_	_
 19	li	_	SCONJ	COMP	_	18	fixed	_	_
 20	din	_	PRON	PRON_DEM	_	22	det	_	_
 21	il-	_	DET	DEF	_	22	det	_	SpaceAfter=No
@@ -560,7 +560,7 @@
 8	mill-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
 9	Awtorità	_	NOUN	NOUN	_	6	obl:agent	_	_
 10	li	_	SCONJ	COMP	_	25	mark	_	_
-11	waqt	_	ADP	PREP	_	13	mark	_	_
+11	waqt	_	ADP	PREP	ExtPos=SCONJ	13	mark	_	_
 12	li	_	SCONJ	COMP	_	11	fixed	_	_
 13	sostniet	_	VERB	VERB	_	25	advcl	_	_
 14	li	_	SCONJ	COMP	_	19	mark	_	_

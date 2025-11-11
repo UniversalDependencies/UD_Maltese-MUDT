@@ -221,7 +221,7 @@
 17	inserrħu	_	VERB	VERB	_	16	acl	_	_
 18	rasna	_	NOUN	NOUN	_	17	obj	_	SpaceAfter=No
 19	,	_	PUNCT	X_PUN	_	13	punct	_	_
-20	filwaqt	_	SCONJ	CONJ_SUB	_	32	mark	_	_
+20	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	32	mark	_	_
 21	li	_	SCONJ	COMP	_	20	fixed	_	_
 22	l-	_	DET	DEF	_	23	det	_	SpaceAfter=No
 23	mod	_	NOUN	NOUN	_	32	nsubj	_	_
@@ -390,7 +390,7 @@
 49	li	_	SCONJ	COMP	_	50	mark	_	_
 50	jwassal	_	VERB	VERB	_	47	acl	_	_
 51	fehmtu	_	NOUN	NOUN	_	50	obj	_	_
-52	permezz	_	NOUN	NOUN	_	54	case	_	_
+52	permezz	_	NOUN	NOUN	ExtPos=ADP	54	case	_	_
 53	ta'	_	ADP	GEN	_	52	fixed	_	_
 54	elezzjoni	_	NOUN	NOUN	_	50	obl	_	SpaceAfter=No
 55	.	_	PUNCT	X_PUN	_	2	punct	_	_
@@ -600,7 +600,7 @@
 30	qed	_	AUX	PROG	_	31	aux:part	_	_
 31	isir	_	VERB	VERB	_	20	acl	_	SpaceAfter=No
 32	,	_	PUNCT	X_PUN	_	31	punct	_	_
-33	filwaqt	_	SCONJ	CONJ_SUB	_	35	mark	_	_
+33	filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	35	mark	_	_
 34	li	_	SCONJ	COMP	_	33	fixed	_	_
 35	hemm	_	VERB	HEMM	_	1	advcl	_	_
 36	kobba	_	NOUN	NOUN	_	35	nsubj	_	_

@@ -145,7 +145,7 @@
 37	tliet	_	NUM	NUM_CRD	_	38	nummod	_	_
 38	aġenziji	_	NOUN	NOUN	_	29	appos	_	_
 39	li	_	SCONJ	COMP	_	45	mark	_	_
-40	skond	_	ADP	PREP	_	42	mark	_	_
+40	skond	_	ADP	PREP	ExtPos=SCONJ	42	mark	_	_
 41	ma	_	SCONJ	COMP	_	40	fixed	_	_
 42	tħabbar	_	VERB	VERB	_	45	advcl	_	_
 43	se	_	AUX	FUT	_	45	aux:part	_	_
@@ -338,7 +338,7 @@
 25	sar	_	VERB	VERB	_	23	acl	_	_
 26	fil-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
 27	pubbliku	_	NOUN	NOUN	_	25	obl	_	_
-28	ftit	_	DET	QUAN	_	27	obl	_	_
+28	ftit	_	DET	QUAN	_	25	obl	_	_
 29	tal-	_	ADP	GEN_DEF	_	30	case:det	_	SpaceAfter=No
 30	ġimgħat	_	NOUN	NOUN	_	28	nmod:poss	_	_
 31	ilu	_	ADP	PREP	_	28	case	_	_
@@ -740,7 +740,7 @@
 6	oriġinali	_	ADJ	ADJ	_	5	amod	_	_
 7	dwar	_	ADP	PREP	_	8	case	_	_
 8	vultaġġ	_	NOUN	NOUN	_	5	nmod	_	_
-9	peress	_	ADP	PREP	_	12	mark	_	_
+9	peress	_	ADP	PREP	ExtPos=SCONJ	12	mark	_	_
 10	li	_	SCONJ	COMP	_	9	fixed	_	_
 11	sieħbi	_	NOUN	NOUN	_	12	nsubj	_	_
 12	jinsab	_	VERB	VERB	_	1	advcl	_	_
@@ -1113,7 +1113,7 @@
 22	huwiex	_	AUX	PRON_PERS_NEG	_	24	aux:neg	_	_
 23	hawn	_	ADV	ADV	_	24	advmod	_	_
 24	preżenti	_	ADJ	ADJ	_	7	ccomp	_	_
-25	minħabba	_	ADP	PREP	_	27	mark	_	_
+25	minħabba	_	ADP	PREP	ExtPos=SCONJ	27	mark	_	_
 26	li	_	SCONJ	COMP	_	25	fixed	_	_
 27	għandu	_	VERB	VERB_PSEU	_	24	advcl	_	_
 28	xogħol	_	NOUN	NOUN	_	27	obj	_	_
@@ -1369,7 +1369,7 @@
 12	jafx	_	VERB	VERB	_	9	xcomp	_	SpaceAfter=No
 13	,	_	PUNCT	X_PUN	_	9	punct	_	_
 14	imma	_	CCONJ	CONJ_CORD	_	27	cc	_	_
-15	peress	_	ADP	PREP	_	19	mark	_	_
+15	peress	_	ADP	PREP	ExtPos=SCONJ	19	mark	_	_
 16	li	_	SCONJ	COMP	_	15	fixed	_	_
 17	hawn	_	ADV	ADV	_	19	advmod	_	_
 18	qed	_	AUX	PROG	_	19	aux:part	_	_
@@ -1533,7 +1533,7 @@
 3	JOE	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 4	MIZZI	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
 5	:	_	PUNCT	X_PUN	_	1	punct	_	_
-6	Filwaqt	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+6	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	10	mark	_	_
 7	li	_	SCONJ	COMP	_	6	fixed	_	_
 8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	mistoqsijiet	_	NOUN	NOUN	_	10	nsubj	_	_
@@ -1754,7 +1754,7 @@
 1	MR	_	NOUN	X_ABV	_	19	list	_	_
 2	SPEAKER	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
 3	:	_	PUNCT	X_PUN	_	1	punct	_	_
-4	Peress	_	ADP	PREP	_	7	mark	_	_
+4	Peress	_	ADP	PREP	ExtPos=SCONJ	7	mark	_	_
 5	li	_	SCONJ	COMP	_	4	fixed	_	_
 6	m'	_	PART	NEG	_	7	advmod:neg	_	SpaceAfter=No
 7	hawnx	_	VERB	HEMM	_	19	advcl	_	_

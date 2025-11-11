@@ -120,7 +120,7 @@
 
 # sent_id = 16_03J02:5
 # text = Filwaqt li ma nikkunsidrax lili nnifsi nisrani, niftakar li dak Alla, li din il-persuna għandha tant għal qalbha, qal ħafna dwar nies ipokriti, regħba, ostili, giddieba u ħallelin - iżda qatt ma semma xejn fuq persuni li jħobbu lil xi ħadd tal-istess ġeneru tagħhom.
-1	Filwaqt	_	SCONJ	CONJ_SUB	_	4	mark	_	_
+1	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	4	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	ma	_	PART	NEG	_	4	advmod:neg	_	_
 4	nikkunsidrax	_	VERB	VERB	_	9	advcl	_	_
@@ -229,7 +229,7 @@
 
 # sent_id = 16_03J02:8
 # text = Filwaqt li persuni eterosesswali jsibu l-milja tagħhom f'relazzjoni ta' mħabba ma' persuna tas-sess oppost, persuni omosesswali jagħmlu dan f'relazzjoni ma' persuna tal-istess sess.
-1	Filwaqt	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+1	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	5	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	persuni	_	NOUN	NOUN	_	5	nsubj	_	_
 4	eterosesswali	_	ADJ	ADJ	_	3	amod	_	_
@@ -365,7 +365,7 @@
 25	istess	_	ADJ	ADJ	_	26	amod	_	_
 26	sess	_	NOUN	NOUN	_	20	nmod:poss	_	SpaceAfter=No
 27	,	_	PUNCT	X_PUN	_	14	punct	_	_
-28	mingħajr	_	ADP	PREP	_	30	mark	_	_
+28	mingħajr	_	ADP	PREP	ExtPos=SCONJ	30	mark	_	_
 29	ma	_	SCONJ	COMP	_	28	fixed	_	_
 30	jagħtu	_	VERB	VERB	_	14	advcl	_	_
 31	l-	_	DET	DEF	_	33	det	_	SpaceAfter=No
@@ -400,7 +400,7 @@
 
 # sent_id = 16_03J02:13
 # text = Filwaqt li nfaħħar il-mod li bih Fr Colin tratta s-sitwazzjoni, sfortunatament l-atteġġament pożittiv tiegħu mhux daqstant komuni fil-knisja.
-1	Filwaqt	_	SCONJ	CONJ_SUB	_	3	mark	_	_
+1	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	3	mark	_	_
 2	li	_	SCONJ	COMP	_	1	fixed	_	_
 3	nfaħħar	_	VERB	VERB	_	21	advcl	_	_
 4	il-	_	DET	DEF	_	5	det	_	SpaceAfter=No
@@ -512,11 +512,11 @@
 22	dwaru	_	PRON	PREP_PRON	_	24	obl	_	_
 23	qed	_	AUX	PROG	_	24	aux:part	_	_
 24	jintqal	_	VERB	VERB	_	20	acl	_	_
-25	kif	_	PRON	PRON_INT	_	28	cc	_	_
+25	kif	_	PRON	PRON_INT	ExtPos=CCONJ	28	cc	_	_
 26	ukoll	_	ADV	FOC	_	25	fixed	_	_
 27	lis-	_	ADP	LIL_DEF	_	28	case:det	_	SpaceAfter=No
 28	soċjetà	_	NOUN	NOUN	_	20	conj	_	_
-29	in	_	ADP	PREP	_	28	nmod	_	_
+29	in	_	ADP	PREP	ExtPos=ADV	28	nmod	_	_
 30	ġenerali	_	ADJ	ADJ	_	29	fixed	_	SpaceAfter=No
 31	?	_	PUNCT	X_PUN	_	2	punct	_	_
 
