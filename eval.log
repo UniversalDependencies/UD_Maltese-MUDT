@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Maltese-MUDT:
-commit 6ad53ebc0f2da12051cb787e6d55edce363b0396
-Merge: 8330fc6 fd70f39
+commit a63f549efff14cdf9d66c2d62789635f2abc018a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:16:52 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'mt_mudt'
 Language code (from CoNLL-U file name) = 'mt'
@@ -25,45 +25,45 @@ Universal relations: 36 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 5 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-dev.conllu
-[Line 33 Sent 03_03J01:1]: [L3 Warning pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 37 Sent 03_03J01:1]: [L3 Warning pron-det-without-prontype] The word 'id-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 104 Sent 03_03J01:3]: [L3 Warning pron-det-without-prontype] The word 'dik' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 105 Sent 03_03J01:3]: [L3 Warning pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 108 Sent 03_03J01:3]: [L3 Warning pron-det-without-prontype] The word 'is-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 117 Sent 03_03J01:3]: [L3 Warning pron-det-without-prontype] The word 'din' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 118 Sent 03_03J01:3]: [L3 Warning pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 136 Sent 03_03J01:4]: [L3 Warning pron-det-without-prontype] The word 'din' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 137 Sent 03_03J01:4]: [L3 Warning pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 141 Sent 03_03J01:4]: [L3 Warning pron-det-without-prontype] The word 'Il-' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
+[Line 33 Sent 03_03J01:1]: [L3 WARNING pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 37 Sent 03_03J01:1]: [L3 WARNING pron-det-without-prontype] The word 'id-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 104 Sent 03_03J01:3]: [L3 WARNING pron-det-without-prontype] The word 'dik' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 105 Sent 03_03J01:3]: [L3 WARNING pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 108 Sent 03_03J01:3]: [L3 WARNING pron-det-without-prontype] The word 'is-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 117 Sent 03_03J01:3]: [L3 WARNING pron-det-without-prontype] The word 'din' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 118 Sent 03_03J01:3]: [L3 WARNING pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 136 Sent 03_03J01:4]: [L3 WARNING pron-det-without-prontype] The word 'din' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 137 Sent 03_03J01:4]: [L3 WARNING pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 141 Sent 03_03J01:4]: [L3 WARNING pron-det-without-prontype] The word 'Il-' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
 Warnings: 1336
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-test.conllu
-[Line 6 Sent 01_01J01:1]: [L3 Warning pron-det-without-prontype] The word 'iċ-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 13 Sent 01_01J01:1]: [L3 Warning pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 26 Sent 01_01J01:1]: [L3 Warning pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 31 Sent 01_01J01:1]: [L3 Warning pron-det-without-prontype] The word 'id-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 39 Sent 01_01J01:1]: [L3 Warning pron-det-without-prontype] The word 'id-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 46 Sent 01_01J01:1]: [L3 Warning pron-det-without-prontype] The word 'hu' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 66 Sent 01_01J01:2]: [L3 Warning pron-det-without-prontype] The word 'Iċ-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 70 Sent 01_01J01:2]: [L3 Warning pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 77 Sent 01_01J01:2]: [L3 Warning pron-det-without-prontype] The word 'huma' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 81 Sent 01_01J01:2]: [L3 Warning pron-det-without-prontype] The word 'is-' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
+[Line 6 Sent 01_01J01:1]: [L3 WARNING pron-det-without-prontype] The word 'iċ-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 13 Sent 01_01J01:1]: [L3 WARNING pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 26 Sent 01_01J01:1]: [L3 WARNING pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent 01_01J01:1]: [L3 WARNING pron-det-without-prontype] The word 'id-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 39 Sent 01_01J01:1]: [L3 WARNING pron-det-without-prontype] The word 'id-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 46 Sent 01_01J01:1]: [L3 WARNING pron-det-without-prontype] The word 'hu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 66 Sent 01_01J01:2]: [L3 WARNING pron-det-without-prontype] The word 'Iċ-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 70 Sent 01_01J01:2]: [L3 WARNING pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 77 Sent 01_01J01:2]: [L3 WARNING pron-det-without-prontype] The word 'huma' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 81 Sent 01_01J01:2]: [L3 WARNING pron-det-without-prontype] The word 'is-' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
 Warnings: 1521
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang mt --max-err=10 UD_Maltese-MUDT/mt_mudt-ud-train.conllu
-[Line 5 Sent 02_02J01:1]: [L3 Warning pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 12 Sent 02_02J01:1]: [L3 Warning pron-det-without-prontype] The word 'biżżejjed' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 15 Sent 02_02J01:1]: [L3 Warning pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 31 Sent 02_02J01:2]: [L3 Warning pron-det-without-prontype] The word 'L-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 34 Sent 02_02J01:2]: [L3 Warning pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 52 Sent 02_02J01:2]: [L3 Warning pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 57 Sent 02_02J01:2]: [L3 Warning pron-det-without-prontype] The word 'liema' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 62 Sent 02_02J01:2]: [L3 Warning pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 68 Sent 02_02J01:3]: [L3 Warning pron-det-without-prontype] The word 'L-' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 70 Sent 02_02J01:3]: [L3 Warning pron-det-without-prontype] The word 'huma' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
+[Line 5 Sent 02_02J01:1]: [L3 WARNING pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 12 Sent 02_02J01:1]: [L3 WARNING pron-det-without-prontype] The word 'biżżejjed' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 15 Sent 02_02J01:1]: [L3 WARNING pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent 02_02J01:2]: [L3 WARNING pron-det-without-prontype] The word 'L-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 34 Sent 02_02J01:2]: [L3 WARNING pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 52 Sent 02_02J01:2]: [L3 WARNING pron-det-without-prontype] The word 'il-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 57 Sent 02_02J01:2]: [L3 WARNING pron-det-without-prontype] The word 'liema' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 62 Sent 02_02J01:2]: [L3 WARNING pron-det-without-prontype] The word 'l-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 68 Sent 02_02J01:3]: [L3 WARNING pron-det-without-prontype] The word 'L-' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 70 Sent 02_02J01:3]: [L3 WARNING pron-det-without-prontype] The word 'huma' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
 Warnings: 3065
 *** PASSED ***
 Validity: 1
